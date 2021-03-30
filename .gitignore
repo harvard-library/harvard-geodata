@@ -1,0 +1,6 @@
+# various editor/config files
+\#*
+.#*
+*.swp
+.DS_Store
+.bash_history
