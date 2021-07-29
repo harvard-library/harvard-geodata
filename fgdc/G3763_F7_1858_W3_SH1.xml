@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Walling, Henry Francis, 1825-1888.</origin>
+        <origin>Hitchcock, Edward, 1793-1864.</origin>
+        <origin>Smith &amp; Ingraham.</origin>
+        <pubdate>200908</pubdate>
+        <title>Franklin County, Massachusetts, 1858 (Image 1 of 3) (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g3763-f7-1858-w3-sh1</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the historic paper map entitled: Map of Franklin County, Massachusetts : based upon the trigonometrical survey of the state, the details from actual surveys under the direction of H.F. Walling, supt. of the state map. It was published by Smith &amp; Ingraham in 1858. Scale [ca. 1:47,520]. This layer is image 1 of 3 total images, representing the northwest portion of the four sheet source map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, public buildings, schools, churches, cemeteries, industry locations (e.g. mills, factories, mines, etc.), private buildings with names of property owners, town and school district boundaries, and more. Relief shown by hachures. It includes many cadastral insets of individual county towns and villages. It also includes illustrations, business directories, and tables of statistics and distances.This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.</abstract>
+      <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+      <supplinf>Please note: Due to a lack of cartographic data sheet 3 of the 4 sheet source map was not georeferenced.  Please see 'cross references' for more information about the other sheets in this source map. Individual sheet images for this set not found in the Harvard Geospatial Library may be requested from the Harvard Map Collection (e-mail: maps@harvard.edu)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1858</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.105577</westbc>
+        <eastbc>-72.597397</eastbc>
+        <northbc>42.846868</northbc>
+        <southbc>42.361031</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Landowners</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Villages</themekey>
+        <themekey>Landforms</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure (Economics)</themekey>
+        <themekey>Transportation</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Franklin County</placekey>
+        <placekey>Ashfield</placekey>
+        <placekey>Buckland</placekey>
+        <placekey>Charlemont</placekey>
+        <placekey>Colrain</placekey>
+        <placekey>Conway</placekey>
+        <placekey>Deerfield</placekey>
+        <placekey>Greenfield</placekey>
+        <placekey>Hawley</placekey>
+        <placekey>Heath</placekey>
+        <placekey>Leyden</placekey>
+        <placekey>Monroe</placekey>
+        <placekey>Rowe</placekey>
+        <placekey>Shelburne</placekey>
+        <placekey>Whately</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard College Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcGIS 9.3</native>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Walling, Henry Francis, 1825-1888.</origin>
+        <origin>Hitchcock, Edward, 1793-1864.</origin>
+        <origin>Smith &amp; Ingraham.</origin>
+        <pubdate>200908</pubdate>
+        <title>Franklin County, Massachusetts, 1858 (Image [x] of 3) (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <othercit>3 images</othercit>
+        <onlink>http://hgl.harvard.edu/</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Walling, Henry Francis, 1825-1888.</origin>
+        <origin>Hitchcock, Edward, 1793-1864.</origin>
+        <origin>Smith &amp; Ingraham.</origin>
+        <pubdate>1858</pubdate>
+        <title>Map of Franklin County, Massachusetts : based upon the trigonometrical survey of the state, the details from actual surveys under the direction of H.F. Walling, supt. of the state map.</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Boston</pubplace>
+          <publish>Smith &amp; Ingraham</publish>
+        </pubinfo>
+        <othercit>1 map on 4 sheets : dissected &amp; mounted on linen, col ; 119 x 146 cm.</othercit>
+        <onlink>http://nrs.harvard.edu/urn-3:FHCL:2809344?buttons=y</onlink>
+        <onlink>http://nrs.harvard.edu/urn-3:FHCL:2809342?buttons=y </onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing and georeferencing process.  In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic.  The RMS error for this map is 835.96346 feet.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Walling, Henry Francis, 1825-1888.</origin>
+            <origin>Hitchcock, Edward, 1793-1864.</origin>
+            <origin>Smith &amp; Ingraham.</origin>
+            <pubdate>1858</pubdate>
+            <title>Map of Franklin County, Massachusetts : based upon the trigonometrical survey of the state, the details from actual surveys under the direction of H.F. Walling, supt. of the state map.</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Boston</pubplace>
+              <publish>Smith &amp; Ingraham</publish>
+            </pubinfo>
+            <othercit>1 map on 4 sheets: dissected &amp; mounted on linen, col ; 119 x 146 cm.Sheet 1 of 4</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>47520</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1858</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map for raster image</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper map on a high-resolution scanner: (Better Light Super8K2 scanning back camera and Better Light ViewFinder capture software).  Maps were photographed at a copy stand. A vacuum easel was used to keep the maps flat during photography. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, and that allow for highly detailed screen reproduction and print reproduction at up 1:1. Images were processed Adobe Photoshop. Color and tonal corrections were made using Adobe Photoshop. Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment. Master Image files were corrected and archived as TIFF files in the sRGB IEC611966-2.1 color-space.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2009</procdate>
+        <srcprod>TIFF Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+            </cntorgp>
+            <cntpos>Digital Imaging and Photography Group</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Using ArcMap 9.3 software, the digital TIFF image was georeferenced to common points located on digital vector shapefiles.  For this image, the following vector shapefile was used as a base map for reference:  MassGIS 1:5,000 Road and Rail Centerlines 2002 (1:5,000) and MassGIS Community Boundaries (Towns) from Survey Points 2004 (1:25,000).  The vector data was projected to the NAD 1983 Massachusetts Mainland State Plane (feet) coordinate system, and the image was subsequently georeferenced to the same projection. A world file (.tfw) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image.  Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
+        <srcused>TIFF Map Image</srcused>
+        <procdate>2009</procdate>
+        <srcprod>Georeferenced Raster Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>13676</rowcount>
+      <colcount>10284</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>41.716667</stdparll>
+            <stdparll>42.683333</stdparll>
+            <longcm>-71.500000</longcm>
+            <latprjo>41.000000</latprjo>
+            <feast>656166.666667</feast>
+            <fnorth>2460625.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>13.036006</absres>
+            <ordres>12.793403</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map. The colors on that sheet can represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and boundaries. The colors are sometimes explained in a legend that is incorporated into the map inset or collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090828</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

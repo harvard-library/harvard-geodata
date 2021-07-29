@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4014-n5-1956-u6",
+  "dc_title_s": "New Orleans, Louisiana and vicinity, 1956 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: New Orleans and vicinity, Louisiana. It was published by the Geological Survey in 1956. Scale 1:24,000. Covers also adjacent portions of Jefferson, St. Bernard, and Plaquemines Parishes. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Louisiana State Plane Coordinate System, South NAD27 (in Feet) (Fipszone 1702). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This is a topographic map showing features such as roads, railroads, canals, levees, drainage, selected public and industrial buildings, cemeteries, Parish boundaries, ferry routes, and more. Relief shown by contours and spot heights. Depths shown by soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4014_N5_1956_U6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4014_N5_1956_U6",
+  "layer_slug_s": "harvard-g4014-n5-1956-u6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-10-16T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Topographic",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Louisiana",
+    "New Orleans",
+    "Metairie"
+  ],
+  "dct_issued_s": "2007-10",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "solr_geom": "ENVELOPE(-90.23738, -89.927073, 30.115811, 29.841087)",
+  "solr_year_i": 1956,
+  "harvard_collectionID_sm": [
+    "990099843300203941"
+  ]
+}

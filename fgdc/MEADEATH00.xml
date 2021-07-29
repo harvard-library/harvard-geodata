@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Deaths by Town, 2000</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meadeath00</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage which represents the number of deaths per town in Massachusetts in 2000 and a breakdown of the major causes of death. 
+
+These statistics were originally compiled and published by the Massachusetts Department of Public Health: Division of Research and Epidemiology.
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The Massachusetts Department of Public Health: Division of Research and Epidemiology provides health related information to the Department, other agencies, community groups, researchers, and the public. The focus of the Division is on providing health status, demographic, and disease risk factor information for program planning and policy development through publications, information dissemination, and access to computer databases.
+
+The Center for Health Information, Statistics, Research and Evaluation monitors the health status of  Massachusetts residents through collecting information on births, deaths, newly diagnosed cases of cancer, occupational conditions and illnesses, and health behaviors. Health Statistics and Research provides information that is essential for identifying local and statewide problems, while targeting and evaluating public health programs.
+Information is made available to the through publications, Community Health Network reports, the Massachusetts Community Health Information Profile (MassCHIP) electronic information service, and consulting and technical assistance. 
+
+For mor einfomration on this or other DPH data please consult their website at
+http://www.state.ma.us/dph/bhsre/resep/resep.htm#death</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2000</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Demography</themekey>
+        <themekey>Population statistics</themekey>
+        <themekey>Vital statistics</themekey>
+        <themekey>Mortality</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. Accuracy statements on the MEA database are based on deductive estimates; no specific field tests for attribute accuracy have been conducted on the files.
+
+Age Adjusted Attribute Explanation:
+Age-Adjusted Rate
+A summary rate designed to minimize the distortions created by differences in age distribution when comparing rates for populations with different age compositions. Age-adjusted rates are useful when comparing death rates from different populations or in the same population over time. 
+For example, if one wished to compare the 1998 death rates between Barnstable County (Cape Cod) and Hampshire County, the age-adjusted formula would account for the fact that 24% of the Barnstable County residents were 65 years of age or older, whereas only 11% of the Hampshire County residents were in this age group.
+Age-adjusted rates are calculated by weighting the age-specific rates for a given year by the age distribution of a standard population. The weighted age-specific rates are then added to produce the adjusted rate for all ages combined. 
+The 2000 US projected population is used as the standard population in this document for consistency with data published by the National Center for Health Statistics (NCHS).  ONLY RATES USING THE SAME STANDARD POPULATION CAN BE COMPARED. 
+All age adjusted rates published in the Department's year 2000 report have been re-calculated using the 2000 US standard population. These rates should NOT be compared to age-adjusted rates previously published which used the 1940 US standard population.
+
+New Standard Population for Age-adjusted Rates:
+Age adjustment is a statistical procedure used to make meaningful comparisons of mortality over time and among populations. Age adjustment (also called age standardization) reduces the effect of having many older individuals in one group (where the risk of mortality is naturally higher) compared to another group which has younger persons. Age-adjusted death rates should be used only for comparative purposes, and should not be interpreted as an actual or absolute risk of death.
+
+Standard Population:
+A standard population is a set of arbitrary population weights representing the age distribution of a defined population. The standard population weights are used to adjust the age-specific rate for each of the comparison populations of interest (for example, the same population over time, or different geographies or race/ethnicity populations). The resulting weighted age-specific rates are then summed to produce the total age-adjusted rate for the populations of interest.
+
+Beginning with 1999, a new standard population is being used. The 2000 US projected population is the new standard population for age-adjustment of mortality rates. Previously, the 1940 US projected population was used by NHCS as the standard population for mortality statistics. However, other Federal agencies used different standard populations such as the 1970 or 1980 US standard population. The new standard has been adopted by Federal agencies to promote uniformity and comparability of data from many organizations. While there is no strong technical argument to be made for the use of the 2000 US population, there are some practical reasons for the adoption of the new standard. For example, the year 2000 standard population more closely resembles the current agedistribution of the total population, and the year 2000 is a date that data users can relate to.
+
+Changing the standard population from 1940 to the year 2000 has affected the magnitude of age-adjusted death rates. This is because the age structures of the 1940 and 2000 US population are different. In the 2000 standard, older age groups are weighted more heavily than in the 1940 standard. It is important to remember that age-adjusted death rates are not an actual measure of risk of death, rather, age-adjusted death rates are a summary measure used to compare mortality trends over time or between different populations whose age
+structure differs. Age-adjusted rates can only be compared to other age-adjusted rates that use the same standard population. Therefore, age-adjusted rates published in this report cannot be compared to previously published age-adjusted rates which use the 1940 US standard population.
+
+Applying the 2000 standard population will show relative increases in older population groups and chronic diseases compared to younger population groups and causes of death that affect younger populations. For example, the 1998 age-adjusted heart disease death rate changed from 106.2 per 100,000 using the 1940 US standard population to 231.0 per 100,000 using the 2000 US standard population. In contrast, the 1998 age-adjusted homicide rate changed from 2.1 per 100,000 using the 1940 US standard population to 1.9 per 100,000 using the 2000 US standard population.
+
+Similarly, the 1998 age-adjusted death rate for white, non-Hispanics (an older population) will change from 413.0 using the 1940 US standard population to 808.5 using the 2000 US standard population. The 1998 age-adjusted death rate for black, non-Hispanics (a younger population) will change from 653.3 using the 1940 US standard population to 1,076.6 using the 2000 US standard population. Using the 1940 US standard population, the age-adjusted death rate for black, non-Hispanics was 58% higher than the white, non-Hispanic age adjusted death rate.  However, using the 2000 US standard population, the age-adjusted death rate for black, non-Hispanics is 33% higher than the white, non-Hispanic death rate. This change does not represent a narrowing of the gap, but merely a statistical artifact of using a different standard population.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created.
+Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require very high levels of positional accuracy in its geographic products. Its files and maps are designed to show only the relative positions of elements. Coordinates in these files are in decimal degrees and have six implied decimal places.  
+The Harvard Geospatial Library cannot specify the accuracy of feature updates or of features derived from the MEA files or other map or digital sources. Thus, the level of positional accuracy in these MEA layers is NOT suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface. The six-decimal place precision is useful when producing maps. This precision allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>Massachusetts Deaths 2000</title>
+            <origin>Massachusetts Department of Public Health: Division of Research and Epidemiology</origin>
+          </citeinfo>
+        </srccite>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Mass Deaths</srccitea>
+        <srccontr>Deaths  by town data are compiled by this agency, and tabular data used to populate this datalayer</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS datasets</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from Massachusetts Department of Public Health; Boundary data derived from MassGIS</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+        <srcused>Mass Deaths; MassGIS</srcused>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+        <srcused>MEA Database</srcused>
+      </procstep>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <title>Massachusetts Electronic Atlas</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundary data and Attribute tabular data</srccontr>
+      </srcinfo>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.MEADEATH00">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>611</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040506</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <eainfo>
+    <detailed Name="TIM.MEADEATH00">
+      <enttyp>
+        <enttypl>Deaths by Town and Cause in 2000</enttypl>
+        <enttypd>Polygons represent town boundaries with associated tabular data</enttypd>
+        <enttypds>DPH; MEA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>MEA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTL_DTHS</attrlabl>
+        <attrdef>Total Deaths in Town</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE_ADJ_RT</attrlabl>
+        <attrdef>Age Adjusted Death Rate</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HRT_DS</attrlabl>
+        <attrdef>Heart Disease Deaths</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTL_CNCR</attrlabl>
+        <attrdef>Total Cancer Deaths</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LNG_CNCR</attrlabl>
+        <attrdef>Deaths from Lung Cancer</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRST_CNCR</attrlabl>
+        <attrdef>Deaths from Breast Cancer</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STROKE</attrlabl>
+        <attrdef>Deaths from Strokes</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CHR_RSP_DS</attrlabl>
+        <attrdef>Deaths from Chronic Respiratory Disease</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DIABTS</attrlabl>
+        <attrdef>Deaths from Diabetes</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FLU_PNEU</attrlabl>
+        <attrdef>Deaths from Influenza/Pneumonia</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MV</attrlabl>
+        <attrdef>Deaths from Motor Vehicle accidents</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOM</attrlabl>
+        <attrdef>Deaths by Homicide</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUICD</attrlabl>
+        <attrdef>Deaths by Suicide</attrdef>
+        <attrdefs>DPH</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+</metadata>

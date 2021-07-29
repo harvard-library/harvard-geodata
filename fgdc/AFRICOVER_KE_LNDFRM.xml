@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Food and Agriculture Organization of the United Nations</origin>
+        <origin>Di Gregorio, Antonio</origin>
+        <origin>Kenya. Ministry of Environment and Natural Resources.</origin>
+        <origin>Muchoki, Charles</origin>
+        <pubdate>20030401</pubdate>
+        <title>Kenya Geomorphology : Landform and Lithology</title>
+        <edition>1st</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-africover-ke-lndfrm</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Kenya geomorphology : landform and lithology from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:350,000.
+
+The landform and lithology has been produced from visual interpretation of digitally enhanced LANDSAT TM images acquired mainly in the year 1995. the landform classes have been developed using the ITC (International Institute for Geo-Information Science and Earth Observation) and SOTER (Soil and Terrain Database) methods.</abstract>
+      <purpose>The purpose of the Africover landform database is to provide the information required for natural resource assessment and management, environmental modeling and decision-making.
+
+The purpose of the Africover Project is to establish a digital georeferenced database on land cover and a geographic referential for the whole of Africa including:
+
+    - geodetical homogeneous referential
+    - toponomy
+    - roads
+    - hydrography
+
+The Multipurpose Africover Database for the Environmental Resources (MADE) is produced at a 1:200,000 scale (1:100,000 for small countries and specific areas).
+
+Reinforcing national and sub-regional capacities for the establishment, update and use of the geographic referential and land cover maps and spatial data bases is the core strategy of Africover: this has been the methodology adopted to ensure an operational approach and the sustainability of the initiative.</purpose>
+      <supplinf>The structure of the derived legend follows a specific criteria that allows and easy correlation between these classes and the standardised one listed in LCCS (SOTER classification first and second level). SOTER is a pure Parametric or Morphometric classification. The main origin or process of terrain units is an important descriptive element because it realtes to the dominant exogenous or endogenous processes. this aspect in a general classification gives a meaningful grouping and has analytical value. The proposed legend is structured in such a way that it can be read, not only from the Morphometric point of view as in SOTER, but also taking into account the main origin and the age of landforms (mainly derived from the lithology legend). Lithology is linked with the mapping units, but is listed seperately. See the full landform/lithology legend in the resource section [see Cross references].</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>33.908859</westbc>
+        <eastbc>41.911373</eastbc>
+        <northbc>5.428018</northbc>
+        <southbc>-4.680452</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Landforms</themekey>
+        <themekey>Geomorphology</themekey>
+        <themekey>Petrology</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Kenya</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>The data remains full property of the owners. It can be accessed, reproduced and distributed given that the owner information is explicitly acknowledged and displayed in the copyright information (I.E. Produced by FAO - Africover). The Authors do not assume any responsibilities for improper use of the data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Mr. Antonio Di Gregorio</cntper>
+          <cntorg>FAO Africover</cntorg>
+        </cntperp>
+        <cntpos>Senior Remote Sensing and Land Cover Mapping Expert</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>c/o FAO Representative in Kenya</address>
+          <address>PO Box 30470</address>
+          <address>00200</address>
+          <city>Nairobi</city>
+          <state>Nairobi</state>
+          <country>Kenya</country>
+        </cntaddr>
+        <cntvoice>+254-(0)2-4440985/4443331/4443715/4441106</cntvoice>
+        <cntfax>+254-(0)2-4441993</cntfax>
+        <cntemail>antonio.digregorio@africover.org</cntemail>
+        <cntinst>http://www.africover.org/</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Food and Agriculture Organization of the United Nations (FAO) and Kenya.</datacred>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+    <crossref>
+      <citeinfo>
+        <origin>United Nations Environment Programme.</origin>
+        <origin>Food and Agriculture Organization of the United Nations. Land and Water Development Division.</origin>
+        <pubdate>1995</pubdate>
+        <title>Global and national soils and terrain digital databases (SOTER) : procedures manual</title>
+        <edition>[Rev.].</edition>
+        <geoform>document</geoform>
+        <serinfo>
+          <sername>World soil resources reports</sername>
+          <issue>74</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>[Rome]</pubplace>
+          <publish>Land and Water Development Division, Food and Agriculture Organization of the United Nations</publish>
+        </pubinfo>
+        <othercit>ix, 125 p. : ill. ; 30 cm.</othercit>
+        <onlink>ftp://ftp.fao.org/agl/agll/docs/sotereng.pdf</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Food and Agriculture Organization of the United Nations</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Landform and lithology legend</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Nairobi, Kenya</pubplace>
+          <publish>Africover</publish>
+        </pubinfo>
+        <othercit>3 [p.] Microsoft Word document</othercit>
+        <onlink>http://www.africover.org/system/NFPI/resources/310303172339_Landform_and_Lithology_Legend.doc</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Food and Agriculture Organization of the United Nations</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Landform glossary</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Nairobi, Kenya</pubplace>
+          <publish>Africover</publish>
+        </pubinfo>
+        <othercit>3 [p.] PDF document</othercit>
+        <onlink>http://www.africover.org/system/NFPI/resources/050403104742_landform-glossary.pdf</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Food and Agriculture Organization of the United Nations</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Landform description (ke)</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Nairobi, Kenya</pubplace>
+          <publish>Africover</publish>
+        </pubinfo>
+        <othercit>9 [p.] PDF document</othercit>
+        <onlink>http://www.africover.org/system/NFPI/resources/050403105642_landform-desc-ke.pdf</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown.</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Food and Agriculture Organization of the United Nations</origin>
+            <pubdate>2002</pubdate>
+            <title>Multipurpose Africover Database for the Environmental Resources</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Nairobi, Kenya</pubplace>
+              <publish>Food and Agricultural Organization of the United Nations</publish>
+            </pubinfo>
+            <onlink>http://www.africover.org/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>350000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2002</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>africover</srccitea>
+        <srccontr>Source dataset</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The landform was interpreted from LANDSAT imagery acquired mainly in the year 1995, verified by field work, digitised, checked for topological and attribute errors and mosaiced.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1485</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>africover_ke_lndfrm</enttypl>
+        <enttypd>Kenya geomorphology : landform and lithology</enttypd>
+        <enttypds>FAO</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LABEL</attrlabl>
+        <attrdef>Landform and lithology codes</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Landform and Lithology Legend</codesetn>
+            <codesets>FAO</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LFCODE</attrlabl>
+        <attrdef>Landform Code/Sub-code</attrdef>
+        <attrdefs>FAO</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>L11</edomv>
+            <edomvd>Plain</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11af</edomv>
+            <edomvd>Alluvial fan</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11ap</edomv>
+            <edomvd>Alluvial plain</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11cp</edomv>
+            <edomvd>Coastal plain</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11d</edomv>
+            <edomvd>Delta plain</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11h</edomv>
+            <edomvd>Hills, 8-15% slope gradient</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11sw</edomv>
+            <edomvd>Swampy area</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11w</edomv>
+            <edomvd>Flood plains</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11wa</edomv>
+            <edomvd>Flood plains, frequently</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L11we</edomv>
+            <edomvd>Flood plains, episodically</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L12</edomv>
+            <edomvd>Plateau, structural controlled</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L12d</edomv>
+            <edomvd>Plateau, structural controlled dissected</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L12f</edomv>
+            <edomvd>Plateau, lava field</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L12i</edomv>
+            <edomvd>Plateau, isolated remnant of structural controlled</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L12sf</edomv>
+            <edomvd>Plateau, step fault platform</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L13</edomv>
+            <edomvd>Structural depression</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L13ho</edomv>
+            <edomvd>Depressions, shore</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L13l</edomv>
+            <edomvd>Depressions, Lacustrine</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L13y</edomv>
+            <edomvd>Depressions, playa</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L14</edomv>
+            <edomvd>Low-gradient footslope</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L15</edomv>
+            <edomvd>Valley floor / river bed</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L21</edomv>
+            <edomvd>Mountains</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L22</edomv>
+            <edomvd>Hills, 15-30% slope gradient</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L22cr</edomv>
+            <edomvd>Volcanic cones and crater area</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L22i</edomv>
+            <edomvd>Inselberg</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L22sh</edomv>
+            <edomvd>Volcanic shield</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L23</edomv>
+            <edomvd>Fault controlled, escarpment, slope gradient 15-30%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L24</edomv>
+            <edomvd>Ridge</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L26</edomv>
+            <edomvd>Dissected plain</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L31</edomv>
+            <edomvd>Mountains, slope gradient &gt;30%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L31c</edomv>
+            <edomvd>Mountains, crest, slope gradient &gt;30%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L31mf</edomv>
+            <edomvd>Mountains, crest, mountain footridg, slope gradient &gt;30%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L32</edomv>
+            <edomvd>Hills, slope gradient &gt;30%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L32bl</edomv>
+            <edomvd>Bad land</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L33</edomv>
+            <edomvd>Fault controlled escarpments, &gt;30%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L4</edomv>
+            <edomvd>Complex landform</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>L41</edomv>
+            <edomvd>Valleys, slope gradient &gt;8%</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>Waterbody</edomv>
+            <edomvd>Body of water</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LTCODE</attrlabl>
+        <attrdef>Lithology codes</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Landform and Lithology Legend</codesetn>
+            <codesets>FAO</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LITH_FIRST</attrlabl>
+        <attrdef>Primary lithology code</attrdef>
+        <attrdefs>FAO</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>M010</edomv>
+            <edomvd>Quartz sand</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M011</edomv>
+            <edomvd>Trachytic-phonolite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M012</edomv>
+            <edomvd>Olivine basalt</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M013</edomv>
+            <edomvd>Nephelinite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M017</edomv>
+            <edomvd>Recent lava flow (holocene)</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M018</edomv>
+            <edomvd>Basanite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M0200</edomv>
+            <edomvd>Limestone</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M021</edomv>
+            <edomvd>Undifferentiated alluvial deposits</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M0216</edomv>
+            <edomvd>Shelly sand</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M0218</edomv>
+            <edomvd>Tillite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M022</edomv>
+            <edomvd>River alluvium</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M023</edomv>
+            <edomvd>Lacustro/fluvial deposits</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M024</edomv>
+            <edomvd>Estuarine/marine/lagoon deposits</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M039</edomv>
+            <edomvd>Serpentine</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M111</edomv>
+            <edomvd>Granite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M112</edomv>
+            <edomvd>Granodiorite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M114</edomv>
+            <edomvd>Syenite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M131</edomv>
+            <edomvd>Rhyolite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M133</edomv>
+            <edomvd>Trachyte</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M135</edomv>
+            <edomvd>Andesite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M136</edomv>
+            <edomvd>Ignimbrite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M137</edomv>
+            <edomvd>Phonolite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M138</edomv>
+            <edomvd>Tephrite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M140</edomv>
+            <edomvd>Pyroclastic rocks</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M141</edomv>
+            <edomvd>Volcanic ashes</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M144</edomv>
+            <edomvd>Tuff</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M211</edomv>
+            <edomvd>Clay</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M213</edomv>
+            <edomvd>Sand (coastal, aeolian)</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M217</edomv>
+            <edomvd>Colluvium / eluvium / debris / superficial deposits</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M220</edomv>
+            <edomvd>Sandstone</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M223</edomv>
+            <edomvd>Shale</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M241</edomv>
+            <edomvd>Gypsum</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M333</edomv>
+            <edomvd>Gneiss</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M334</edomv>
+            <edomvd>Migmatite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M335</edomv>
+            <edomvd>Granulite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M337</edomv>
+            <edomvd>Quarzite</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>M338</edomv>
+            <edomvd>Marble/crystalline limestone</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+          <edom>
+            <edomv>Water Body</edomv>
+            <edomvd>Bodies of water</edomvd>
+            <edomvds>FAO Landform and Lithology Legend</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L_FORM_ID</attrlabl>
+        <attrdef>Land form identification number</attrdef>
+        <attrdefs>FAO</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L_FORM_DES</attrlabl>
+        <attrdef>Land form description</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LITH_ID</attrlabl>
+        <attrdef>Lithology identification number</attrdef>
+        <attrdefs>FAO</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LITH_DESC</attrlabl>
+        <attrdef>Lithology description</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080502</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

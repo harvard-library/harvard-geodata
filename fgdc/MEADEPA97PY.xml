@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Environmental Protection Regions</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meadepa97py</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage for Massachusetts which displays the boundaries of the 4 DEP regions within the Commonwealth of Massachusetts.
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001.
+The datalayer was originally developed by the Massachusetts Office of Geographic and Environmental Information (MassGIS) based on the designation of the 4 DEP regions and then implemented in the MEA. The Massachusetts Electronic Atlas was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The following information pertains to the data shown here and has been partially transcribed from the MassGIS website. (http://www.state.ma.us/mgis) or from the DEP website (http://www.state.ma.us/dep)
+
+The Massachusetts Department of Environmental Protection (DEP) is a state agency responsible for protecting human health and the environment by ensuring clean air and water, the safe management and disposal of solid and hazardous wastes, the timely cleanup of hazardous waste sites and spills, and the preservation of wetlands and coastal resources. DEP is one of five agencies under the Executive Office of Environmental Affairs. DEP's role under Article 97 of the Massachusetts Constitution is the guarantor of the people's right to "clean air and water", as well as "the natural scenic, historic and aesthetic qualities of the environment. The DEP Regions layer represents boundaries used by the Massachusetts Department of Environmental Protection for planning and administrative purposes.
+The DEP administers state laws and regulations aimed at preventing pollution, protecting natural resources, promoting safe disposal and recycling of wastes, and ensuring timely cleanup of contamination. They have divided the Commonwealth into 4 administrative regions broadly described as follows: 
+
+Western Region:
+The Western Region of the Department of Environmental Protection (DEP) covers the largest geographic area of the agency's four regions having jurisdiction over 101 communities. It also has the second largest concentration of industry (centered around Springfield, Chicopee and Holyoke) in the state after the greater Boston area, but is the smallest of the DEP regions in terms of population, with a majority of its 800,000 residents concentrated in the lower Pioneer Valley. A feature unique to the Western Region is its lack of transition zones between older industrial cities and rural farming communities, of which there are many.
+The region's major natural features include the Connecticut River, a major source of hydroelectric power, the Quabbin Reservoir, supplying drinking water to 2.1 million people in 46 communities, and the Berkshire mountains.
+Major river basins in the watershed include the Connecticut Mainstem, the Deerfield, Millers, Chicopee, Westfield, Farmington, Quinebaug, Hoosic and Housatonic.
+
+Central Region:
+This region, which spans from the Connecticut border to the New Hampshire line, encompasses all of Worcester county and includes some municipalities in western Middlesex and Norfolk counties. In all, there are 80 towns and cities with a total population of nearly 900,000. 
+Most communities in the Central Region grew up around mills, many of which have since given way to high tech companies and various support industries. The region still hosts a number of metal fabricating and plating firms, plastics manufacturers and remnants of the paper, shoe and furniture industries. A few large farms dot the landscape, but agriculture has slowly been replaced by residential and commercial development. 
+The major river basins (Blackstone, Nashua, Concord, Merrimack, Chicopee, French and Quinebaug, and Millers) as well as the Wachusett Reservoir and it's watershed are among the chief natural features of the Central region. 
+
+Northeast Region:
+This region is the most industrialized and populated of the four regions (with more than three million residents) and is comprised of 95 cities and town situated in the northeastern Massachusetts. The region spans from the New Hampshire border south through metropolitan Boston to Cohasset and is bounded on the west by a line that extends roughly from Ashland to Dracut.
+The Northeast Region's industrial base is mixed, ranging from high tech companies along Route 128 to durable goods manufacturing and petrochemical firms in the greater Boston area. The region also is home to a number of large power plants, major airports and seaports, and the transportation network that supports those facilities and links them with economic centers up and down the Eastern Seaboard. Although chiefly urban and suburban, the region includes rural areas to the northwest and southwest of Boston. Its coastline including Boston's inner harbor and Cape Ann, as well as, nine river basins - Charles, Ipswich, Merrimack, Mystic, Neponset, Parker, Shawsheen, SuAsCo, Weir &amp; Weymouth. These are the region's predominant natural features. 
+
+Southeast Region:
+The region is home to 70 towns, 4 cities and 2 islands and stretches from the suburbs south of Boston to the Cape. The region boasts over 2/3 of the Commonwealth's coastlines, the largest natural water body in the state and the North River, the only Scenic River Designation in Massachusetts. The region permits over 9,000 facilities. These facilities range from the largest fossil fuel plant in New England, to over 200 landfills, to 50 waste water treatment plants. The Department also regulates cleanup of approximately 1,500 hazardous waste disposal sites.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.533350</westbc>
+        <eastbc>-69.898477</eastbc>
+        <northbc>42.888350</northbc>
+        <southbc>41.230341</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Environmental protection</themekey>
+        <themekey>Pollution prevention</themekey>
+        <themekey>Environmental quality</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Executive Office of Environmental Affairs</origin>
+            <title>MassGIS DEP Regions</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Boundaries and attribute data derived from MassGIS DEP Regions datalayer</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundary data and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from MassGIS DEP Regions datalayer which contained both boundary and attribute data.</procdesc>
+        <srcused>MassGIS</srcused>
+        <procdate>2001</procdate>
+        <srcprod>MEA Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>251</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System 1983</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000145</absres>
+            <ordres>0.000145</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Massachusetts DEP Regions</enttypl>
+        <enttypd>Polygons display region boundaries</enttypd>
+        <enttypds>MEA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TIM.MEADEPA97PY.AREA</attrlabl>
+        <attrdef>Feature area measured in square map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature perimeter measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_DEP_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_DEP_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv/>
+      </attr>
+      <attr>
+        <attrlabl>REGION</attrlabl>
+        <attrdef>Region Name</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NE</edomv>
+            <edomvd>Northeast region</edomvd>
+          </edom>
+          <edom>
+            <edomv>CEN</edomv>
+            <edomvd>Central Region</edomvd>
+          </edom>
+          <edom>
+            <edomv>WEST</edomv>
+            <edomvd>Western Region</edomvd>
+          </edom>
+          <edom>
+            <edomv>SE</edomv>
+            <edomvd>Southeast Region</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEP_ID</attrlabl>
+        <attrdef>DEP Region Identifier</attrdef>
+        <attrdefs>DEP</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Western region - Springfield headquarters</edomvd>
+            <edomvds>DEP</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Central region - Worcester headquarters</edomvd>
+            <edomvds>DEP</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Northeast region - Woburn headquarters</edomvd>
+            <edomvds>DEP</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Southeast region - Lakeville headquarters</edomvd>
+            <edomvds>DEP</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area measured in square map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040311</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

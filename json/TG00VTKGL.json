@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg00vtkgl",
+  "dc_title_s": "UA Census Key Geographic Locations, 2000 - Vermont",
+  "dc_description_s": "This datalayer displays Key Geographic Locations (KGLs), as defined by the US Census Bureau, throughout the state. Essential attribute data included are KGL Name and Census Feature Class Code (CFCC). Predominant features represented in this layer include: Airports or airfields; Custodial Facility (hospital, orphanage, Federal penitentiary, state prison); Educational or Religious Institution (convent or monastery, educational institution, religious institution); Multihousehold or Transient Quarters (apartment buildings and complexes, trailer courts or mobile home parks, campground, hotels, motels); Shopping centers or major retail centers; Transportation Terminal (train station, bus or marine terminal). Please note that many other feature types may be present in this layer. Key geographic locations (KGLs) represent a special class of address information. They provide a geocoding tool like address ranges, but also identify a spatial object similar to a landmark. The Census Bureau uses KGLs to identify named buildings where the use of the feature name enhances the ability to geocode addresses. These cases include airports, shopping centers, schools, condominiums, hotels, and apartment complexes. Even though the KGLs appear to identify specific structures, the KGL descriptions do not include location coordinates. In most cases, the Census Bureau can determine the general location of the KGL, but cannot provide a specific location with any certainty. The Census Bureau includes landmarks in the Census TIGER data base for locating special features and to help enumerators during field operations. The Census Bureau added landmark features on an as-needed-basis and made no attempt to ensure that all instances of a particular feature were included. The absence of a landmark does not mean that the living quarters, e.g., hospitals and group quarters associated with the landmark were excluded from the 1990 enumeration. A landmark can be a point, line, or area type. In some cases, the Census TIGER data base permits a choice of types. For instance, an airport or airfield might appear as a point, line, or area; the approach depends on the size of the feature and the depiction of the feature in the source document. Line features such as airfields could appear as one or more complete chains; they are not identified in the landmark record types A census feature class code (CFCC) is used to identify the most noticeable characteristic of a feature. The CFCC is applied only once to a chain or landmark with preference given to classifications that cover features that are visible to an observer and a part of the ground transportation network. Thus, a road that also is the boundary of a town would have a CFCC describing its road characteristics, not its boundary characteristics. The CFCC, as used in the TIGER/Line files, is a three-character code. The first character is a letter describing the feature class; the second character is a number describing the major category; and the third character is a number describing the minor category. Landmark (Feature Class D) is the general name given to a cartographic (or locational) landmark, a land-use area, and a key geographic location. A cartographic landmark is identified for use by an enumerator while working in the field. A land-use area is identified in order to minimize enumeration efforts in uninhabited areas or areas where human access is restricted. A key geographic location is identified in order to more accurately geocode and enumerate a place of work or residence.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG00VTKGL.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG00VTKGL",
+  "layer_slug_s": "harvard-tg00vtkgl",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2003-07-25T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "location",
+    "structure",
+    "Census",
+    "Buildings",
+    "Airports",
+    "Shopping centers",
+    "Apartment houses",
+    "Key geographic locations"
+  ],
+  "dct_spatial_sm": [
+    "Vermont"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, UA Census 2000"
+  ],
+  "solr_geom": "ENVELOPE(-73.288358, -71.8179559994357, 44.799606000262, 42.851018)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990087417150203941"
+  ]
+}

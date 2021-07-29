@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Goad, Charles E.</origin>
+        <pubdate>201410</pubdate>
+        <title>Fire Insurance Map, Alexandria, Egypt, Vol. 1, Plate 10, 1898 (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-h009375496-0012</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of a map plate of a section of Alexandria, Egypt from the Charles E. Goad map set entitled: Insurance plan of Alexandria Egypt, Vol. 1, published June 1898. This image is of Plate 10 (Minet El Bassal). Scale 1:600. Covers the central part of Alexandria.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Egypt Red Belt projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. These large scale fire insurance maps typically include: building footprints, building construction material (frame, brick, plaster, stone), building heights, roof types, doors, windows, selected owner names, selected building functions, property boundaries, building street addresses, street names, railroads, fire hydrants, fire floats, fire brigades, cotton bales, and more. Building construction material is shown by colored shading. The index plate of the map set includes an explanation of map features. This layer is part of a selection of digitally scanned and georeferenced historic fire insurance and land ownership atlases and map sets of various regions from the Harvard Map Collection. The selection of scanned atlases and maps sets represent a range of originators and ground condition dates.</abstract>
+      <purpose>Fire insurance and land ownership atlases and maps sets published in the 19th and early 20th centuries are one of the most valuable sources for monitoring and viewing urban change. As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1898</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>29.888687</westbc>
+        <eastbc>29.894159</eastbc>
+        <northbc>31.183778</northbc>
+        <southbc>31.179249</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Insurance, Fire</themekey>
+        <themekey>Real property</themekey>
+        <themekey>Landowners</themekey>
+        <themekey>Buildings</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>structure</themekey>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Egypt</placekey>
+        <placekey>Alexandria</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard College Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcGIS 9.3.1</native>
+    <crossref>
+      <citeinfo>
+        <origin>Goad, Charles E.</origin>
+        <pubdate>1898-1910</pubdate>
+        <title>Insurance plan of Alexandria Egypt</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>London</pubplace>
+          <publish>C.E. Goad</publish>
+        </pubinfo>
+        <othercit>26 maps : col. ; each sheet 64 x 53 cm.</othercit>
+        <onlink>http://nrs.harvard.edu/urn-3:FHCL:3746612</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map. The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing and georeferencing process. For instance, this raster image was georeferenced to another georeferenced image, which has its own positional inaccuracies (see "Process Steps"). In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic.The RMS error for this map is 0.97813 meters. This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Goad, Charles E.</origin>
+            <pubdate>1898-1910</pubdate>
+            <title>Insurance plan of Alexandria Egypt, Vol. 1. Plate 10, 1898</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>London</pubplace>
+              <publish>C.E. Goad</publish>
+            </pubinfo>
+            <othercit>26 maps : col. ; each sheet 64 x 53 cm.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>600</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1898</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>sheet publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map for raster image</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper map on a high-resolution scanner: (Betterlight, Super8K2 scanning back camera and ViewFinder capture software). Maps were photographed at a copy stand. A vacuum easel and/or Plexiglas or points were used to secure loose maps. Foldouts and bound volumes were supported using cradles and built up foam core and matt board supports. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, that capture the fine detail present in the originals, and that allow for detailed screen reproduction and print reproduction at up 1:1. Images were saved as lossless JPEG2000 files to reduce storage needs and to facilitate variable size viewing. Color and tonal corrections were made using Adobe Photoshop. Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2011</procdate>
+        <srcprod>JP2 Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+            </cntorgp>
+            <cntpos>Digital Imaging and Photography Group</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Using ArcMap 9.3.1 software, the digital JPEG2000 image was georeferenced to common points located on the scanned, georeferenced index map from Volume 1 of this map set: Insurance Plan of Alexandria Egypt [1898] published in London by C. E. Goad. The index map was projected in the "Egypt Red Belt" projected coordinate system, and this image was subsequently georeferenced to the same projection. A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image</procdesc>
+        <srcused>JP2 Map Image</srcused>
+        <procdate>2011</procdate>
+        <srcprod>Georeferenced Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This image underwent an additional geoprocessing step using the ArcMap 9.3.1 shift tool in order to overcome a datum transformation discrepancy.</procdesc>
+        <srcused>Georeferenced Image</srcused>
+        <procdate>2014</procdate>
+        <srcprod>Shifted Georeferenced Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard Library</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>7666</rowcount>
+      <colcount>6433</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <transmer>
+            <sfctrmer>1.000000</sfctrmer>
+            <longcm>31.000000</longcm>
+            <latprjo>30.000000</latprjo>
+            <feast>615000.000000</feast>
+            <fnorth>810000.000000</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>0.080317</absres>
+            <ordres>0.064837</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Egypt_1907</horizdn>
+        <ellips>Helmert_1906</ellips>
+        <semiaxis>6378200.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map.  The colors on that sheet represent building footprints and features, property boundaries, transportation features (roads, railroads, tracks and trails), drainage, map annotations, and more.  The colors and symbols are explained in a key on the index page of the source map set.  A citation and URL to a digital version of the source map set including the index page with key is provided in the cross reference section.  See: http://nrs.harvard.edu/urn-3:FHCL:3746612 The digital version of the map set also includes a graphic and street index.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Information Technology</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>90 Mount Auburn Street</address>
+          <address>Library Technology Services</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>JPEG2000</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20141001</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

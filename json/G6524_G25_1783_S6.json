@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6524-g25-1783-s6",
+  "dc_title_s": "Gdansk Region, Poland, 1783 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Grundriss der Stadt Dantzig : nebst ihren umliegenden Gegenden und dem Ausfluss der Weischsel in dei Ostsee nach einer genauen Aufnahme des Terrains zusammengetragen und angefertiget, durch D.F. Sotzmann den 1ten Novbr. 1783 ; C.C. Glassbach, sen. sc. Berol. It was published in 1783. Scale [ca. 1:86,921]. Covers the Gdansk region, Poland. Map in German.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Pulkovo 1942 Adjust 1958 Poland Zone III' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as villages and towns, roads, drainage, built-up areas and selected buildings, fortification, boundaries, ground cover, and more.This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6524_G25_1783_S6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6524_G25_1783_S6",
+  "layer_slug_s": "harvard-g6524-g25-1783-s6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-01-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Sotzmann, D. F.",
+    "Glassbach, Carl Christian, b. 1751."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Poland",
+    "Gdansk"
+  ],
+  "dct_issued_s": "2015-01",
+  "dct_temporal_sm": [
+    "1783"
+  ],
+  "solr_geom": "ENVELOPE(18.419717, 18.868971, 54.526022, 54.165246)",
+  "solr_year_i": 1783,
+  "harvard_collectionID_sm": [
+    "990114279680203941"
+  ]
+}

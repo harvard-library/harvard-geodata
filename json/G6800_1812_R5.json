@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6800-1812-r5",
+  "dc_title_s": "Generalcharte von Rumeli nebst Morea und Bosna, 1812 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Generalcharte von Rumeli nebst Morea und Bosna : nach allen vorhandenen Ortsbestimmungen, Seecharten, Reisen, Aufnahmen, Nachrichten und dem geographischen Werke des Hadschi Chalfa kritisch bearbeitet und gezeichnet. It was published by: Im Kunst und Industrie Comptoir in 1812. Scale approximately 1:1,925,000. Map in German. The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 34N (EPSG: 32634) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6800_1812_R5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6800_1812_R5",
+  "layer_slug_s": "harvard-g6800-1812-r5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2019-06-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Riedl von Leuenstern, Joseph, 1786-1856",
+    "Stein, Carl",
+    "Simon Schropp'sche Hof-Landkartenhandlung"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Altitudes",
+    "imageryBaseMapsEarthCover",
+    "elevation"
+  ],
+  "dct_spatial_sm": [
+    "Istanbul (Turkey)",
+    "Greece",
+    "Balkan Peninsula",
+    "Marmara, Sea of, Region (Turkey)",
+    "Edirne (Turkey)"
+  ],
+  "dct_issued_s": "2019-06",
+  "dct_temporal_sm": [
+    "1812"
+  ],
+  "solr_geom": "ENVELOPE(12.4853, 33.410684, 46.35099, 34.96554)",
+  "solr_year_i": 1812,
+  "harvard_collectionID_sm": [
+    "14460941"
+  ]
+}

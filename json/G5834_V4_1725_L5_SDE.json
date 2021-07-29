@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5834-v4-1725-l5-sde",
+  "dc_title_s": "Versailles, France, 1725 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan general de la ville et du chateau de Versailles : de ses jardins, bosquets et fontaines dedie au Roy, par Pierre le Pautre, architecte et graveur ordinaire de sa Majeste ; Eleazar Gouman fecit. It was published by And. en Hand. de Leth. op de Beurszluys in de Visser in [1725]. Scale [ca. 1:7,500]. Covers the grounds of Versailles. Map in French and Dutch.The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as roads, paths, drainage, buildings, gardens, ground cover, and more. Relief is shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5834_V4_1725_L5_SDE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5834_V4_1725_L5_SDE",
+  "layer_slug_s": "harvard-g5834-v4-1725-l5-sde",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-02-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Lepautre, Pierre, 1660-1744.",
+    "Leth, Hendrik de, 1703-1766.",
+    "Leth, Andries de, 1662-1731.",
+    "Gouman, Eleazar."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "Versailles"
+  ],
+  "dct_issued_s": "2015-02",
+  "dct_temporal_sm": [
+    "1725"
+  ],
+  "solr_geom": "ENVELOPE(2.060298, 2.163281, 48.838669, 48.7779)",
+  "solr_year_i": 1725,
+  "harvard_collectionID_sm": [
+    "990109116300203941"
+  ]
+}

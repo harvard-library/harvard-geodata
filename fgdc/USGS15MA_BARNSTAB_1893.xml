@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <pubdate>200412</pubdate>
+        <title>Barnstable, Massachusetts 15 Minute Digital Raster Graphic</title>
+        <geoform>raster digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-usgs15ma-barnstab-1893</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a digital raster graphic of the historic 15-minute USGS topographic quadrangle map of Barnstable, Massachusetts. The edition date is 1893 and the map was reprinted in 1907.
+
+A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is geo-referenced to the surface of the earth and fit to the Universal Transverse Mercator projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map.
+The names of quadrangles which border this one appear on the map collar in their respective positions (N,S,E,W) in relation to this map.</abstract>
+      <purpose>One of the most widely used of all maps is the topographic map. The feature that most distinguishes topographic maps from maps of other types is the use of contour lines to portray the shape and elevation of the land. Topographic maps render the three-dimensional ups and downs of the terrain on a two-dimensional surface.
+Topographic maps usually portray both natural and manmade features. They show and name works of nature including mountains, valleys, plains, lakes, rivers, and vegetation. They also identify the principal works of humans, such as roads, boundaries, transmission lines, and major buildings.
+The wide range of information provided by topographic maps make them extremely useful to professional and recreational map users alike. Topographic maps are used for engineering, energy exploration, natural resource conservation, environmental management, public works design, commercial and residential planning, urban planning and design, and outdoor activities like hiking, camping, and fishing. These maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  As this map has been geo-referenced, it may serve as a useful basemap in conjunction with other GIS vector data.</purpose>
+      <supplinf>The Harvard Map Collection owns a near-complete set of the 1:62,500 scale 15-minute USGS Topographic Quadrangle series maps.  These maps were produced between the early 1880s to the mid-1960s. The Map Collection also holds a collection of 30-minute (1:125,000) historical (1882-1940) USGS maps.  Produced at a scale of 1:62,500 (some maps are produced at a scale of 1:63,360), these maps are commonly known as 15-minute quadrangle maps because each map covers a four-sided area of 15 minutes of latitude and 15 minutes of longitude. The United States has been systematically divided into precisely measured quadrangles, and adjacent maps can be combined to form a single large map. Each quadrangle is designated by the name of a city, town or prominent natural feature within it, and the titles of adjoining quadrangles are printed on the margins of each map. 
+
+The Map Collection also owns numerous other USGS topographic maps in other series with various scales, published earlier in the 20th century (before the 7.5 minute series dominated the work of the USGS) as well as USGS topographic maps published in the late 19th century.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1893</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-70.558519</westbc>
+        <eastbc>-70.189858</eastbc>
+        <northbc>41.815920</northbc>
+        <southbc>41.490974</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps, Topographic</themekey>
+        <themekey>Geological Survey (U.S.)</themekey>
+        <themekey>Land Use</themekey>
+        <themekey>Infrastructure</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Landforms</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Barnstable</placekey>
+        <placekey>Falmouth</placekey>
+        <placekey>Mashpee</placekey>
+        <placekey>Yarmouth</placekey>
+        <placekey>Sandwich</placekey>
+        <placekey>Cape Cod</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.  Although this data set has been developed  by Harvard University, no warranty expressed or implied is made by the Universityas to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard College Library</cntorg>
+          <cntper>Harvard Geospatial Library</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The DRG is a 24-bit per pixel color image that employs a color palette to ensure uniform colors throughout a particular DRG series. All DRGs within a series must have the same RGB value.</attraccr>
+    </attracc>
+    <logic>No logical Consistancy information</logic>
+    <complete>The DRG is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the DRG due to the RGB values assigned that particular color.  The intent is to recreate those colors as near as possible. Data completeness for DRG files reflect content of the source graphic.
+
+Nearly all of the maps have an "edition" date and one or more survey and revision dates. Use the survey and revision dates to determine the vintage of the cartography. These dates are usually found in a map's lower left corner. Edition dates (in the lower right corner) can be confusing, because over time, the USGS has changed the method by which edition dates are assigned. For the earliest maps in the 1880s, new edition dates were assigned nearly every time the map was reprinted.  In later years, the original edition date was retained for each subsequent reprinting. Such dates may be assumed to roughly represent the year that the map was first published.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The original USGS quadrangle paper maps in this series were produced before the National Map Accuracy Standards were developed in 1941. These standards were developed to ensure that Federal Government maps meet the high expectations and requirements of users. These standards require horizontal and vertical map precision; these and other standards of accuracy and content ensure consistency in both the detail and the appearance of maps. They also ensure compatibility among USGS maps made at different times.
+
+The positional accuracy of the original map was largely preserved during the digitizing and geo-referenceing processes. Accuracy may be generally characterized as posessing the highest standards of accuracy given the general survey, instrumentation, design and printing technologies and cartographic techniques available during the time the original map was produced.  The original map was scanned and geo-referenced (SEE: Process Steps) to produce this digital version.
+
+While the data of the published map is retained in the georeferenced image, the image is referenced to the Universal Transverse Mercator coordinate system, which is inconsistent with the original projection of the paper map, and may lead to discrepancies in the horizontal accuracy of the DRG.  The standard used for georeferencing the image to the UTM coordinates was an RMS error below 50 meters.  See the process steps for the actual RMS error achieved.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Refer to the DRG collar for information about vertical positional accuracy.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States Geological Service</origin>
+            <pubdate>1893 (reprinted, 1907)</pubdate>
+            <title>USGS Topographic Quadrangle Map</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>62,500</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1893</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS Topo Quad Map</srccitea>
+        <srccontr>Original 15-minute USGS Topo Quad was scanned and digitized in preparation for geo-referencing.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Harvard Map Collection</origin>
+            <pubdate>200412</pubdate>
+            <title>USGS Digital Raster Graphic</title>
+            <geoform>raster digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>62,500</srcscale>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200412</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS Digital Raster Graphic</srccitea>
+        <srccontr>The DRG was georeferenced and a world file (.tfw) was created.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this Digital Raster Graphic (DRG) began with the scanning of the paper 15-minute topographic map on a high-resolution scanner (Betterlight, Super8K2 scanning back camera and ViewFinder 5.x capture software).
+
+Maps were photographed at a copy stand. A vacuum easel was used to keep the maps flat during photography. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, and that allow for highly detailed screen reproduction and print reproduction at up to 1:1.
+
+Files were edited in and saved from Adobe Photoshop CS. When possible files were batch processed using an "action" script derived from edits applied to match a representative sample.  Color and tonal corrections were made using Curves, Levels, and Hue/Saturation filters in Adobe Photoshop. 
+
+Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment. Master Image files were corrected and archived as TIFF files (compliant with the TIFF 6 Specification) in the sRGB IEC611966-2.1 color-space.  Files were saved with an embedded profile. The colorspace tag is used to assure that color and tonal information is properly displayed across multiple systems and media.
+
+Image resolution is of sufficient quality to render all meaningful map details on screen and in print; Format is 24 bit Tiff, uncompressed; Tone/color reproduction: embedded ICC (International Color Consortium) profile with associated size and tone reference. Quality control: visual inspection, MD5 checksum for 100% of images.</procdesc>
+        <srcused>USGS Topographic Quadrangle Map (Paper)</srcused>
+        <procdate>200412</procdate>
+        <srcprod>USGS Topographic Quadrangle Map (Digitized Version)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+              <cntper>Digital Imaging and Photography Group</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The digital image is georeferenced to the true ground coordinates of the latitude and longitude corner tic marks of each quadrangle.  A shape file is created containing control points at the latitude longitude coordinates of the tics.  Those points are then projected to UTM, Zone 18, meters, NAD 27 which provides us a consistent, standardized coordinate system to use across the entire collection of USGS quadrangles of Massachusetts.  ArcMap 8.3 software is utilized to georeference the image to the projected control points, and a .tfw (world file) is generated and saved in association with the scanned image.
+
+The horizontal positional accuracy of a DRG is approximately the same as the accuracy of the published source map. However, there may be errors introduced during the digitizing and geo-referencing process. In most cases, errors in the DRG are small compared with sources of error in the original map graphic. 
+The RMS error for this map is: 11.57848
+
+RMS (Root Mean Square ) Error is defined as:
+A measure of the difference between locations that are known and locations that have been interpolated or digitized.  RMS error is derived by squaring the differences between known and unknown points, adding those together, dividing that by the number of test points, and then taking the square root of that result.
+
+The lack of greater accuracy is largely a result of distortions in the original paper map document prior to scanning.</procdesc>
+        <srcused>USGS Topo Quad (Digitized Version)</srcused>
+        <procdate>200412</procdate>
+        <srcprod>USGS Topo Quad Digital Raster Graphic</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>GIS Technician</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>6167</rowcount>
+      <colcount>5093</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>18</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>-75.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>5.681382</absres>
+            <ordres>5.616672</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Harvard assumes no liability for distribution</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>no compression applied</filedec>
+          <transize>89.909</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+            <accinstr>Search, save, download</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>No Fee</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050112</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

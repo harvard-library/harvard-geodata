@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Estimated State Aid to Municipalities, 2001</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meastaid01</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage for Massachusetts towns which will display town boundaries and estimated state aid for the forthcoming Fiscal Year.
+The attribute data in this layer was derived from the Commonwealth of Massachusetts Department of Revenue, Division of Local Services, Municipal Data Bank/ Local Aid Section "Cherry Sheet" reports for each respective fiscal year.
+Named for the cherry colored paper on which it was originally printed, the Cherry Sheet is the official notification by the Commissioner of Revenue to municipalities and regional school districts of estimated state aid to be paid and charges to be assessed over the next fiscal year. Cherry Sheets are usually issued each spring, following enactment by the Legislature of the state budget for the following year.
+
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. For more information on the definitions, data sources and process steps please read the "Supplemental Information" and "Data Quality" sections which follow.
+
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The Municipal Data Bank collects, analyzes and distributes financial, demographic and economic data on Massachusetts cities and towns. Financial data comes from a series of reports that municipalities submit annually to the Division of Local Services. Demographic and economic data is collected from other state and federal agencies. The Data Bank develops and maintains systems to collect and distribute the information, assists users in interpretation and use, participates in research projects with other agencies and organizations, and distributes reports which summarize data analyses.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>FY2001</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Government aid to education</themekey>
+        <themekey>Municipal budgets</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Commonwealth of Massachusetts, Department of Revenue, Division of Local Services, Municipal Data Bank/ Local Aid Section</origin>
+            <pubdate>20000815</pubdate>
+            <title>MassDOR Cherry Sheet datafile</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20000815</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MassDOR</srccitea>
+        <srccontr>Provided tabular data on state fiscal aid statistics</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS datasets</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from Massachusetts Department of Revenue Division of Local Services, Municipal Data Bank/ Local Aid Section datafile. Boundary data derived from MassGIS Towns datalayer. The MassDOR attribute file was joined to the geography using ArcView GIS v 3.2. The join was based on the town name.</procdesc>
+        <srcused>MassDOR</srcused>
+        <srcused>MassGIS</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>MEA Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata imported.</procdesc>
+        <srcused>D:\Metadata\mea\meastaid01.xml</srcused>
+        <date>20040527</date>
+        <time>10104900</time>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="BONNIE.MEASTAID01">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>610</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040527</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <eainfo>
+    <detailed Name="BONNIE.MEASTAID01">
+      <enttyp>
+        <enttypl>BONNIE.MEASTAID01</enttypl>
+        <enttypd>Polygons represent town boundaries with associated tabular data</enttypd>
+        <enttypds>MEA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>MassGis</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CHAP_70</attrlabl>
+        <attrdef>Education, Distributions and Reimbursements - Chapter 70 Funds over and above state funds appearing in budget proposal</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTL_TRANS</attrlabl>
+        <attrdef>Education, Distributions and Reimbursements - School Transportation Programs</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SCH_CONST</attrlabl>
+        <attrdef>Education, Distributions and Reimbursements - School Construction</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TCHR_RET</attrlabl>
+        <attrdef>Education, Distributions and Reimbursements - Retired Teachers Pensions</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TUIT_WRD</attrlabl>
+        <attrdef>Education, Distributions and Reimbursements -Tuition of State Wards</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RED_CLSS</attrlabl>
+        <attrdef>Education, Offset Items - Reserve for Direct Expenditure - Aid to Reduce Class Size</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RCE_EQL</attrlabl>
+        <attrdef>Education, Offset Items - Reserve for Direct Expenditure - Racial Equality</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SCH_LNCH</attrlabl>
+        <attrdef>Education, Offset Items - Reserve for Direct Expenditure - School Lunch</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOTTRY</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Lottery, Beano and Charity Games</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADD_ASST</attrlabl>
+        <attrdef>General Government Distributions and Reimbursements - Additional Assistance</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HWY_FND</attrlabl>
+        <attrdef>General Government Distributions and Reimbursements - Highway Funds</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHR_RC_TX</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Local Share of Racing Taxes</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_LIB</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Regional Public Libraries</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PLC_CRR</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Police Career Incentive</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>URB_RNWL</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Urban Renewal Projects</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VETS_BEN</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Veterans' Benefits</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EX_VET_SP</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Exemptions: Vets, Blind &amp; Surviving Spouse</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EXMPT_ELD</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - Exemptions: Elderly</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ST_LAND</attrlabl>
+        <attrdef>General Government, Distributions and Reimbursements - State Owned Land</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PUB_LIB</attrlabl>
+        <attrdef>General Government, Offset Item - Reserve for Direct Expenditure - Public Libraries</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTL</attrlabl>
+        <attrdef>Total estimated receipts, Fiscal 2001</attrdef>
+        <attrdefs>MassDOR</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+</metadata>

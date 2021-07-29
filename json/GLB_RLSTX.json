@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-glb-rlstx",
+  "dc_title_s": "Global GIS : Realtime streamgaging stations (2003)",
+  "dc_description_s": "This datalayer is a point coverage representing United States Geological Survey (USGS) realtime streamflow sampling station locations in the United States and territories. This layer contains geographic and attribute data for 7,055 stations with streamflow measurements recorded for a single date between July 7, 2003 and August 4, 2003. Attribute data also includes a URL for each station that provides a direct link to the most recent streamflow data available from the USGS water resources Web site. Historical data is also available from the USGS water resources Web site. The datalayer was published as part of the USGS Global GIS : global coverage database. Sampling stations are equipped with telemetry to transmit data on streamflow, temperature, and other parameters back to a database for real-time viewing via the World Wide Web. A map of the realtime stations is produced every day and is available from the USGS Web site: http://waterdata.usgs.gov/nwis/.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GLB_RLSTX.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GLB_RLSTX",
+  "layer_slug_s": "harvard-glb-rlstx",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-03-15T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "American Geological Institute"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Streamflow",
+    "Stream measurement",
+    "Hydrology",
+    "Rivers",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "Global GIS : global coverage",
+    "U.S. Geological Survey digital data series"
+  ],
+  "solr_geom": "ENVELOPE(-164.171051, -64.779717, 70.281105, 17.729393)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990100637310203941"
+  ]
+}

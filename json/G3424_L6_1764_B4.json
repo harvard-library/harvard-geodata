@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3424-l6-1764-b4",
+  "dc_title_s": "Louisbourg and Louisbourg Harbour, Nova Scotia, Canada, 1764 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper nautical chart entitled: Port de Louisbourg dans l'Isle Royale. It was published in: Le petit atlas meritime: recueil de cartes et plans des quate parties du monde / par le J. Bellin. v.1 Paris: s.n., 1764. map no. 23. Scale [ca.1:24,000]. Covers Louisbourg and Louisbourg Harbour, Nova Scotia, Canada. The image inside the map neatline is georeferenced to the surface of the earth and fit to the UTM Zone 20N NAD83 (meters) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as roads, cities and towns, and fortifications. Relief is shown by land forms. Depths are shown by soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3424_L6_1764_B4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3424_L6_1764_B4",
+  "layer_slug_s": "harvard-g3424-l6-1764-b4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-10-02T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Bellin, Jacques Nicolas, 1703-1772."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Fortification",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Nova Scotia",
+    "Louisbourg",
+    "Louisbourg Harbour"
+  ],
+  "dct_issued_s": "2008-10",
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "solr_geom": "ENVELOPE(-60.064602, -59.885827, 45.957873, 45.838146)",
+  "solr_year_i": 1764,
+  "harvard_collectionID_sm": [
+    "990105902450203941"
+  ]
+}

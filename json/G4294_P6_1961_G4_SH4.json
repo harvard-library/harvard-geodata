@@ -1,0 +1,56 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4294-p6-1961-g4-sh4",
+  "dc_title_s": "Portland and vicinity, Oregon, 1964 (Image 4 of 4) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic, topographic paper map entitled: Portland-Vancouver and vicinity, mapped, edited, and published by the Geological Survey. It was published by The Survey in 1964. Scale 1:24,000. Compiled from 1:24,000-scale maps of Lacamas Creek 1954, Orchards 1961, Vancouver 1961, Sauvie Island 1961, Linnton 1961, Portland 1961, Mount Tabor 1961, Camas 1961, Damascus 1961, Gladstone 1961, Lake Oswego 1961, and Beaverton 1961 7.5 minute quadrangles. Selected hydrographic data compiled from USC&GS Charts 6154 (1959), 6155 (1961), 6156 (1959), and 6171 (1958). This layer is image 4 of 4 total images of the four sheet source map representing the southeast portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Oregon North State Plane (feet) NAD 1927 coordinate system (Fipszone 3601). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This is a typical topographic map portraying both natural and manmade features. It shows and names works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. It also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 10 and 20 feet. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4294_P6_1961_G4_SH4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4294_P6_1961_G4_SH4",
+  "layer_slug_s": "harvard-g4294-p6-1961-g4-sh4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-01-07T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Topographic",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Portland",
+    "Damascus",
+    "Gladstone",
+    "Gresham",
+    "Happy Valley",
+    "Johnson City",
+    "Lake Oswego",
+    "Milwaukie",
+    "Oregon City",
+    "West Linn"
+  ],
+  "dct_issued_s": "2009-01",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "solr_geom": "ENVELOPE(-122.664459, -122.441821, 45.549742, 45.342336)",
+  "solr_year_i": 1964,
+  "harvard_collectionID_sm": [
+    "990029201590203941"
+  ]
+}

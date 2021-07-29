@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8220-1670-m6",
+  "dc_title_s": "North Africa, 1670 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Barbaria Biledulgerid o : Libye et pars Nigritarum terra. It was published by J. von Meurs in 1670. Scale [ca. 1:12,250,000]. Covers North Africa and parts of Europe. Map in Latin.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Lambert Conformal Conic projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads and routes, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes illustrations.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8220_1670_M6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8220_1670_M6",
+  "layer_slug_s": "harvard-g8220-1670-m6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-01-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Meurs, Jacob van, 1619-1680.",
+    "Dapper, Olfert, 1639-1689."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Benin",
+    "Burkina Faso",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Egypt",
+    "Gibraltar",
+    "Greece",
+    "Italy",
+    "Libya",
+    "Mali",
+    "Malta",
+    "Mauritania",
+    "Mediterranean Sea",
+    "Morocco",
+    "Niger",
+    "Nigeria",
+    "South Sudan",
+    "Spain",
+    "Sudan",
+    "Togo",
+    "Tunisia",
+    "Turkey",
+    "Western Sahara",
+    "Africa, North"
+  ],
+  "dct_issued_s": "2012-02",
+  "dct_temporal_sm": [
+    "1670"
+  ],
+  "solr_geom": "ENVELOPE(-19.270013, 35.908893, 41.740333, 3.688353)",
+  "solr_year_i": 1670,
+  "harvard_collectionID_sm": [
+    "990126627890203941"
+  ]
+}

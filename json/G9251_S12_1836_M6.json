@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9251-s12-1836-m6",
+  "dc_title_s": "Oceania, 1836 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Oceanie dressee par C. V. Monin ; grave sur acier par Ales ; Jules Berthelemier scrip. It was published by Armand Aubree Libraire editeur Rue Taranne No. 14 in 1836. Scale [ca. 1:27,500,000]. Covers the Pacific Ocean and South Pacific islands, Australia, and a portion of Southeast Asia. Map in French.The image inside the map neatline is georeferenced to the surface of the earth and fit to a non-standard 'Mercator' projection with the central meridian at 180 degrees west. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. Note: The central meridian of this map is not the same as the Prime Meridian and may wrap the International Date Line or overlap itself when displayed in GIS software.This map shows features such as drainage, cities and other human settlements, territorial divisions, shoreline features, islands, and more. Insets: Details de la partie sud-ouest de L'Australie -- Details de la partie sud-est de L'Australie. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9251_S12_1836_M6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9251_S12_1836_M6",
+  "layer_slug_s": "harvard-g9251-s12-1836-m6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-11-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "Monin, Charles V.",
+    "Mont?mont, Albert, 1788-1861.",
+    "Aubree, Armand."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Oceania",
+    "Pacific Ocean",
+    "Australia",
+    "Southeast Asia"
+  ],
+  "dct_issued_s": "2009-11",
+  "dct_temporal_sm": [
+    "1836"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 46.786127, -64.376995)",
+  "solr_year_i": 1836,
+  "harvard_collectionID_sm": [
+    "990115210290203941"
+  ]
+}

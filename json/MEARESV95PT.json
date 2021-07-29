@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mearesv95pt",
+  "dc_title_s": "Massachusetts Reserves",
+  "dc_description_s": "This datalayer is a point coverage displaying location and additional information on reserves throughout Massachusetts. This layer was derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. These data are an extract from the U.S. Geological Survey Geographic Names Information System December 1996 CD-ROM. The GNIS is a data system developed by the USGS in cooperation with the U.S. Board on Geographic Names. The GNIS includes three data bases: the National Geographic Names Data Base (NGNDB), the National Topographic Map Names Data Base (NTMNDB) and the Reference Data Base. The principal data base in the GNIS is the National Geographic Names Data Base (NGMNDB) which includes known places, features, and areas of the United States that are identified by proper names. The primary source of these data are the USGS topographic map series. The GNIS feature class of RESERVE is defined as a 'bounded tract of land established as a reserve for a particular purpose.'",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEARESV95PT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEARESV95PT",
+  "layer_slug_s": "harvard-mearesv95pt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2004-05-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "environment",
+    "Natural areas",
+    "Wilderness areas"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_geom": "ENVELOPE(-73.249506, -70.850299, 42.696708, 41.687584)",
+  "solr_year_i": 1996,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

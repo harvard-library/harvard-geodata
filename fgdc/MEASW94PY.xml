@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Solid Waste Facilities, 1994</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-measw94py</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage displaying Solid Waste Facilities throughout Massachusetts. The data here were originally produced by MassGIS.
+The Solid Waste Facility Datalayer was compiled by the Department of Environmental Protection (DEP) Division of Solid Waste Management to track the locations of landfills, transfer stations, and combustion facilities. The datalayer contains the majority of the facilities currently regulated under DEP's solid waste regulations (310 CMR 16.00 &amp; 19.00). The 554 polygons in the datalayer include thirteen specific types of solid waste facilities (see ATTRIBUTES below)
+Please Note: Although the majority of the polygons represent landfills, only a small fraction of those landfills are active. In addition, this datalayer does not contain all solid waste facilities known to DEP. The Mass GIS land-use datalayer has waste site and mining classifications which may represent landfills not in the solid waste datalayer. 
+This layer was derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.
+
+For more information on the original MassGIS datalayer please consult their website at:
+http://www.state.ma.us/mgis/sw.htm</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199410</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.477987</westbc>
+        <eastbc>-69.955618</eastbc>
+        <northbc>42.849170</northbc>
+        <southbc>41.267845</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>structure</themekey>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Environmental regulation</themekey>
+        <themekey>Sanitation</themekey>
+        <themekey>Refuse disposal facilities</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.
+
+If the field SL-ID is blank, there is no permitted landfilling activity at the site. The three digits before the decimal point are the facility's TOWN-ID. The three digits after the decimal point are the unique DSWM identifier. 
+e.g. SL-ID = SL001.002 This sanitary landfill is the second DSWM-registered facility in Abington (TOWN-ID 1). O1-ID = SL001.003 This sanitary landfill is on the same property as SL001.002. 
+The Division of Solid Waste Management maintains the Solid Waste Facility Database that tracks the operational status, facility type, capacity, owner and operator contact information, and years of operation of solid waste facilities. The facility information is linked to the GIS Facilities Datalayer by the site ID number.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.
+MassGIS is maintaining the original datalayer.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey-Water Resources Division</origin>
+            <title>USGS 1:24,000 quadrangle maps</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>25,000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate/>
+          </timeinfo>
+          <srccurr>unknown</srccurr>
+        </srctime>
+        <srccitea>USGS Quads</srccitea>
+        <srccontr>Used as basemap for drainage area mapping.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Executive Office of Environmental Affairs (EOEA)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>MassGIS DEP Solid Waste Facilities</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199410</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Feature location and Attribute tabular data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Datalayer used to import into HGL</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The solid waste datalayer was originally digitized from USGS Quadrangle maps (1:25,000) filed as part of the operating permit (310 CMR 19.00) or citing (310 CMR 16.00) requirements for landfills. It has been updated as described below. 
+Department of Environmental Protection (DEP) regional office files were searched for quadrangle locus maps which designated the location of solid waste facilities. In some cases the footprint of the facility was located on the map; in other instances a general location was marked on the map. These were hand-drawn onto a master set of quadrangle maps from which the datalayer was digitized. When possible, point locations were updated with polygons from Mass GIS's 1985 land use data. Point locations were buffered to reflect the permitted acreage (when no permitted area was available, 29.9 acres was used). 
+The Division of Solid Waste Management (DSWM) a has initiated a program to field check existing facilities using global positioning (GPS). 1:5,000 orthophoto basemaps will also be used for site verification. At the same time, the Division will be using GPS during site inspections to add facilities to the datalayer.</procdesc>
+        <srcused>USGS Quads</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>MassGIS (Executive Office of Environmental Affairs (EOEO)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>251 Causeway St.</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+              <address>Suite 500</address>
+            </cntaddr>
+            <cntvoice>(617) 626-1000</cntvoice>
+            <cntfax>(617) 626-1249</cntfax>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617.495.2417</cntvoice>
+            <cntfax>617.496.0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.MEASW94PY">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>554</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000145</absres>
+            <ordres>0.000145</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040503</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <eainfo>
+    <detailed Name="TIM.MEASW94PY">
+      <enttyp>
+        <enttypl>TIM.MEASW94PY</enttypl>
+        <enttypd>Polygons represent waste facilities</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TIM.MEASW94PY.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter measured in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SW_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Assigned</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SW_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Assigned</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SL_ID</attrlabl>
+        <attrdef>DSWM Landfill ID</attrdef>
+        <attrdefs>DSWM (Division of Solid Waste Management)</attrdefs>
+        <attrvai>
+          <attrva>DSWM Identification Numbers are assigned according to type of Facility, Town, and Unique Town ID.</attrva>
+          <attrvae>These classifications are defined here but also included in the items O1-ID and O2-ID</attrvae>
+        </attrvai>
+        <attrdomv>
+          <edom>
+            <edomv>AL</edomv>
+            <edomvd>Ash landfill; takes or has taken only ash</edomvd>
+          </edom>
+          <edom>
+            <edomv>DL</edomv>
+            <edomvd>Demolition landfill; takes or has taken only construction &amp; demolition waste and may take wood waste</edomvd>
+          </edom>
+          <edom>
+            <edomv>CO</edomv>
+            <edomvd>Compost site; a registered yard waste composting site.</edomvd>
+          </edom>
+          <edom>
+            <edomv>EP</edomv>
+            <edomvd>Epic (Unconfirmed) Site; identified by aerial photos taken around 1972-74 by Water Supply as possible solid waste sites, or a site with minimum data to support its existence. When a site is verified, its type is changed to a more specific site type.</edomvd>
+          </edom>
+          <edom>
+            <edomv>IL</edomv>
+            <edomvd>Illegal; solid waste facility that requires site assignment by the local Board of Health but has not obtained it and continues to operate. Most commonly refers to illegal transfer station operations.</edomvd>
+          </edom>
+          <edom>
+            <edomv>MI</edomv>
+            <edomvd>Municipal incinerator; burns MSW (Municipal Solid Waste) without energy recovery</edomvd>
+          </edom>
+          <edom>
+            <edomv>RE</edomv>
+            <edomvd>Recycling facility; materials recovery facility or other recycling operation that does not require site assignment. RE does not include Recycling Drop-off Centers.</edomvd>
+          </edom>
+          <edom>
+            <edomv>RR</edomv>
+            <edomvd>Resource Recovery Facility; burns MSW with mass burn or refuse derived fuel technology with energy recovery.</edomvd>
+          </edom>
+          <edom>
+            <edomv>SL</edomv>
+            <edomvd>MSW landfill; may take or have taken MSW, in addition may take or have taken wood waste, C&amp;D, sludge, ash or other solid waste. SL includes open or burning dumps used to dispose of MSW.</edomvd>
+          </edom>
+          <edom>
+            <edomv>SG</edomv>
+            <edomvd>Sludge landfill; takes or has taken sludge from water supply or waste water treatment only. These landfills are primarily tracked and regulated by DEP Division of Water Pollution Control.</edomvd>
+          </edom>
+          <edom>
+            <edomv>SD</edomv>
+            <edomvd>Stump landfill; has taken only clean wood waste</edomvd>
+          </edom>
+          <edom>
+            <edomv>TI</edomv>
+            <edomvd>Tire pile</edomvd>
+          </edom>
+          <edom>
+            <edomv>TR</edomv>
+            <edomvd>Transfer station; any facility that handles, but does not dispose of, solid waste and requires site assignment.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TR_ID</attrlabl>
+        <attrdef>DSWM Transfer Station ID</attrdef>
+        <attrdefs>DSWM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RR_ID</attrlabl>
+        <attrdef>DSWM Resource Recovery Facility (Incinerator) ID Number</attrdef>
+        <attrdefs>DSWM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RE_ID</attrlabl>
+        <attrdef>DSWM Recycling Facility ID</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>O1_ID</attrlabl>
+        <attrdef>ID number for other facility on a site</attrdef>
+        <attrdefs>MassGIS/DEP</attrdefs>
+        <attrvai>
+          <attrva>DSWM Identification Numbers are assigned according to type of Facility, Town, and Unique Town ID.</attrva>
+          <attrvae>Classifications are defined in item SL_ID and also included in item 02-ID</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>O2_ID</attrlabl>
+        <attrdef>ID number for other facility on a site</attrdef>
+        <attrdefs>MassGIS/DEP</attrdefs>
+        <attrvai>
+          <attrvae>Classifications are defined in item SL_ID and also included in item 01-ID</attrvae>
+          <attrva>DSWM Identification Numbers are assigned according to type of Facility, Town, and Unique Town ID.</attrva>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Facility area in acres</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DIG_METHOD</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Footprint digitized from USGS quadrangle</edomvd>
+          </edom>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Point digitized from USGS quadrangle</edomvd>
+          </edom>
+          <edom>
+            <edomv>UTM</edomv>
+            <edomvd>Point located by UTM coordinates</edomvd>
+          </edom>
+          <edom>
+            <edomv>GPS</edomv>
+            <edomvd>Perimeter points collected with GPS</edomvd>
+          </edom>
+          <edom>
+            <edomv>LU</edomv>
+            <edomvd>Polygon copied from Mass GIS land use datalayer</edomvd>
+          </edom>
+        </attrdomv>
+        <attrdef>Method of data input code</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REGION</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>CEN</edomv>
+            <edomvd>Central</edomvd>
+          </edom>
+          <edom>
+            <edomv>WEST</edomv>
+            <edomvd>Western Region</edomvd>
+          </edom>
+          <edom>
+            <edomv>NE</edomv>
+            <edomvd>Northeast Region</edomvd>
+          </edom>
+          <edom>
+            <edomv>SE</edomv>
+            <edomvd>Southeast Region</edomvd>
+          </edom>
+        </attrdomv>
+        <attrdef>DEP Administrative Region</attrdef>
+        <attrdefs>MassGIS/DEP</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+</metadata>

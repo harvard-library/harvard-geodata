@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <pubdate>2001</pubdate>
+        <title>Flood Depths, La Ceiba, Honduras</title>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>OFR -</sername>
+          <issue>1201</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Tacoma, WA</pubplace>
+          <publish>United States Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-usgs-ho-la-ceiba-lacefd</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Flood depth polygons for the 50-year flood, for Rio Cangrejal, La Ceiba, Honduras.  Water-surface elevations for an estimated 50-year-flood discharge on Rio Cangrejal at La Ceiba were determined using HEC-RAS, a one-dimensional step-backwater computer program.  The channel and floodplain cross section geometry used in HEC-RAS were developed from an airborne light detection and ranging (LIDAR) topographic survey of the area.  The 50-year-flood discharge for Rio Cangrejal, 1030 cubic meters per second, was estimated using a regression equation that relates the 50-year-flood discharge to drainage area and mean annual precipitation.  The area of inundation and depth of flood coverage was created with the HEC-RAS output and topographic TIN using HEC-geo-RAS software.</abstract>
+      <purpose>The 50-year flood depth maps provide a basis for land-use planning and for engineering design of structures near or within the floodplain of the Rio Cangrejal at La Ceiba.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2001</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-86.786090</westbc>
+        <eastbc>-86.766370</eastbc>
+        <northbc>15.797816</northbc>
+        <southbc>15.751081</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Floods</themekey>
+        <themekey>Floodplains</themekey>
+        <themekey>Flood control</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS</themekt>
+        <themekey>flood depth</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Honduras</placekey>
+        <placekey>Atlantida, Departamento de</placekey>
+        <placekey>La Ceiba</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>This GIS data set has not received Director's approval and as such is provisional and subject to revision. The data are released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Mark Mastin</cntper>
+          <cntorg>USGS</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>1201 Pacific Ave. So.  Suite 600</address>
+          <city>Tacoma</city>
+          <state>WA</state>
+          <postal>98402</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>253-428-3600</cntvoice>
+        <cntemail>mcmastin@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.1.649</native>
+    <crossref>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <pubdate>Unpublished Material</pubdate>
+        <title>Fifty-year Peak Flow Inundation Maps for La Ceiba, Honduras</title>
+        <geoform>map</geoform>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Based on the vertical and horizontal accuracy of the source elevation data, LIDAR.</attraccr>
+      <qattracc>
+        <attraccv>0.08</attraccv>
+        <attracce>The estimated accuracy in meters is based on the mean elevation difference between the GPS surveys of ground-control features and the LIDAR values which was -0.302; the standard deviation of the differences was 0.077, maximum difference was -0.060 and the minimum difference was -0.510 for 245 points at this site.</attracce>
+      </qattracc>
+    </attracc>
+    <logic>Topologically clean</logic>
+    <complete>Complete</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal accuracy is based on several sources of information: 1)  The estimated 50-year flood discharge, which is based on a regression equation that uses drainage area and annual precipitation to estimate discharge  is one source of error.  The regression equation is based on 34 long-term stream gaging stations in Honduras and has a standard error of prediction of 71.3 percent.  2)  The application of the one-dimensional hydraulic model (HEC-RAS) that is based on the assumption of gradually varied, steady flow is another source of error.  The river is a natural channel with no known regulation, diversions, or split flows.  Inaccuracies due to the model's limiting assumptions and solutions in only one dimesion are likely to be minimal.  Errors in applying the model and estimating channel roughness by the hydrologist are difficult to assess, but they have been minimized through the USGS review process for publishing interpretive information.  These sources will affect the horizontal accuracy in varying amounts at different locations and channel configurations.</horizpar>
+        <qhorizpa>
+          <horizpav>1</horizpav>
+          <horizpae>The model input for channel geometry that is based on the survey made in March 2000 using airborne LIght Detection And Ranging (LIDAR) terrain mapping system may also be a source of error. Thus the horizontal accuracy is a function of the accuracy of the LIDAR or elevation and terrain model data.</horizpae>
+        </qhorizpa>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Same as for horizontal accuracy.</vertaccr>
+        <qvertpa>
+          <vertaccv>.08</vertaccv>
+          <vertacce>The estimated accuracy of the LIDAR data is based on the mean elevation difference between the GPS surveys of ground-control features and maximun, minimum, and standard deviations for 245 points as stated in the attribute accuracy explanation.</vertacce>
+        </qvertpa>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unpublished Material</pubdate>
+            <title>Fifty-year Peak Flow Inundation Maps for La Ceiba, Honduras</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>OFR</sername>
+              <issue>1201</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Tacoma, WA</pubplace>
+              <publish>USGS</publish>
+            </pubinfo>
+            <onlink>http://mitchntsl.cr.usgs.gov/data/floodhazard.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srccitea>LIDAR</srccitea>
+        <srccontr>Elevation data to determine depth.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>A gis file output from HEC-RAS (Hydrologic Engineering Center's River Analysis System) surface water model,  is processed by the HEC-GeoRAS part of the software.  This outputs a depth grid or raster data set that is converted to ranges of depth using the con function in Arc/Info GRID.  The output grid is then converted to polygons using the gridpoly command, then made into a shape file using arcshape command.</procdesc>
+        <srcused>LIDAR</srcused>
+        <procdate>20011129</procdate>
+        <srcprod>USGS hard drive</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Mark Mastin</cntper>
+              <cntorg>USGS</cntorg>
+            </cntperp>
+            <cntpos>Hydrologist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>1201 Pacific Ave. So.  Suite 600</address>
+              <city>Tacoma</city>
+              <state>WA</state>
+              <postal>98402</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>253-428-3600</cntvoice>
+            <cntemail>mcmastin@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This shapefile was downloaded from an external hard drive provided by the USGS. It was then loaded into an ArcSDE 9.3.1 database via command line using the SDE command SDElayer 'create'.</procdesc>
+        <srcused>USGS hard drive</srcused>
+        <procdate>2010</procdate>
+        <srcprod>HGL SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>2690</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>USGS_HO_LA_CEIBA_LACEFD</enttypl>
+        <enttypd>flood depth polygons in ranges of meters deep</enttypd>
+        <enttypds>Mark Mastin</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>USGS_HO_LA_CEIBA_LACEFD.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Distance around the polygon</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LACEFD_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LACEFD_ID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>GRID_CODE</attrlabl>
+        <attrdef>code from GRID for ranges of values</attrdef>
+        <attrdefs>Mark Mastin</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Depth 0 - 1 meters deep</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>1 - 2 meters deep</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>greater than 2 meters deep</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+          <edom>
+            <edomv>-9999</edomv>
+            <edomvd>no data value</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEPTH</attrlabl>
+        <attrdef>defines depth in meters</attrdef>
+        <attrdefs>Mark Mastin</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 1 METERS</edomv>
+            <edomvd>polygons with flood depth 0 - 1 meters deep</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+          <edom>
+            <edomv>1 - 2 METERS</edomv>
+            <edomvd>polygons with flood depth 1 - 2 meters deep</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+          <edom>
+            <edomv>GT 2 METERS</edomv>
+            <edomvd>polygons with flood depth greater than 2 meters deep</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+          <edom>
+            <edomv>NO DATA</edomv>
+            <edomvd>polygons with no data</edomvd>
+            <edomvds>Mark Mastin</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.This GIS data set has not received [the USGS] Director's approval and as such is provisional and subject to revision. The data are released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20110912</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cambridge14nhdconsdist",
+  "dc_title_s": "Neighborhood Conservation Districts, Cambridge, Massachusetts, 2000 (pub. 2014)",
+  "dc_description_s": "This layer contains five polygons representing the city's Neighborhood Conservation Districts (NCDs). Conservation districts are groups of buildings and their surroundings that are architecturally and historically distinctive. Exterior changes to buildings within NCDs are subject to review by NCD commissions made up of residents appointed by the City Manager. The GIS data layer was created in 2000 from paper documents. Cambridge designated its first NCD in 1984, following City Council legislation the year before allowing NCD establishment.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CAMBRIDGE14NHDCONSDIST.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:CAMBRIDGE14NHDCONSDIST",
+  "layer_slug_s": "harvard-cambridge14nhdconsdist",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2014-06-13T00:00:00Z",
+  "dc_creator_sm": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_publisher_s": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Historic districts",
+    "Administrative and political divisions",
+    "City planning",
+    "Neighborhood planning",
+    "boundaries",
+    "planningCadastre",
+    "City of Cambridge",
+    "Neighborhood Conservation Districts",
+    "NCDs",
+    "Historical"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "City of Cambridge MA GIS Data 2014"
+  ],
+  "solr_geom": "ENVELOPE(-71.13405, -71.099268, 42.388156, 42.366729)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990142665020203941"
+  ]
+}

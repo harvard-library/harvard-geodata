@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-glb-geogrid",
+  "dc_title_s": "Global GIS : Global 5-degree latitude/longitude grid lines (including geographically significant lines)",
+  "dc_description_s": "This dataset is a polyline coverage representing a 5-degree by 5-degree global latitude and longitude grid, including geographically significant lines such as the Equator, the Tropic of Cancer, Tropic of Capricorn, the Arctic and Antarctic circles, and the International Date Line. Each polyline has an associated latitude or longitude attribute value so that grid lines can be selected to display at any 5-degree value. An earlier version of this dataset appears in ESRI's ArcWorld Supplement (1996). This version of the dataset was published as part of the USGS Global GIS : global coverage database (2003). The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GLB_GEOGRID.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GLB_GEOGRID",
+  "layer_slug_s": "harvard-glb-geogrid",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2006-03-27T00:00:00Z",
+  "dc_creator_sm": [
+    "American Geological Institute",
+    "Geological Survey (U.S.)",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "American Geological Institute"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Grids (Cartography)",
+    "location"
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America",
+    "Polar regions"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "Global GIS : global coverage",
+    "U.S. Geological Survey digital data series"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990100637310203941"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4284-s4-1854-u5",
+  "dc_title_s": "Puget Sound, Washington, 1854 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Reconnaissance of Duwamish Bay & Seattle Harbor, Washington Ter., by the hydrographic party under the command of Lieut. James Alden, U.S.N. Assistant; redd. drng by J. R. Key; engd. by Apps. J.J. Knight & F. W. Benner. It was published by the U.S. Coast Survey in 1854. Scale 1:40,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Washington State Plane North Coordinate System HARN NAD83 (in Feet) (Fipszone 4601). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as channels, points, coves, islands, bottom soil types, flats, and more. Depths shown by soundings. Includes note. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4284_S4_1854_U5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4284_S4_1854_U5",
+  "layer_slug_s": "harvard-g4284-s4-1854-u5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-05-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "United States Coast Survey.",
+    "Alden, James, 1810-1877.",
+    "Bache, A. D. (Alexander Dallas), 1806-1867.",
+    "Key, John Ross, 1832-1920.",
+    "Knight, J. J.",
+    "Benner, F. W."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Puget Sound",
+    "Elliott Bay",
+    "Seattle"
+  ],
+  "dct_issued_s": "2008-05",
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "solr_geom": "ENVELOPE(-122.449618, -122.287197, 47.655737, 47.538202)",
+  "solr_year_i": 1854,
+  "harvard_collectionID_sm": [
+    "990111483720203941"
+  ]
+}

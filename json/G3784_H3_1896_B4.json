@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3784-h3-1896-b4",
+  "dc_title_s": "Hartford, Connecticut, 1896 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: New map of Hartford, Connecticut : from the latest surveys. It was published by Belknap & Warfield, 1896. Copyright 1896, by L.J. Richards & Co., Springfield, Mass. Scale [ca. 1:12,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Connecticut State Plane Coordinate System (Feet) (FIPS 0600). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, selected public buildings, cemeteries, parks, fire alarm boxes, police patrol locations, city ward boundaries, radial distances from City Hall, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3784_H3_1896_B4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3784_H3_1896_B4",
+  "layer_slug_s": "harvard-g3784-h3-1896-b4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-02-23T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Belknap & Warfield.",
+    "L.J. Richards & Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "Hartford"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "solr_geom": "ENVELOPE(-72.72353, -72.636569, 41.813315, 41.719188)",
+  "solr_year_i": 1896,
+  "harvard_collectionID_sm": [
+    "990095630650203941"
+  ]
+}

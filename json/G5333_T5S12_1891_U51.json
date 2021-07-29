@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5333-t5s12-1891-u51",
+  "dc_title_s": "Bahia Orange, Tierra del Fuego, Chile, 1891 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic nautical chart entitled: Orange Harbour : Tierra del Fuego, surveyed by the U.S.Ex.Ex. 1839 ; R.H. Wyman U.S.N. Hydrographer to the Bureau of Navigation. It was published by Hydrographic Office in 1891. Scale [ca. 1:18,700]. Covers Bahia Orange, Tierra del Fuego, Chile. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as rocks, channels, points, coves, islands, bottom types, and more. Includes also selected land features such as drainage, relief, and more. Relief shown by hachures and spot heights; depths by soundings. Includes inset view: Pack Saddle off Orange Bay N.N.W. dist. 6 miles This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5333_T5S12_1891_U51.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5333_T5S12_1891_U51",
+  "layer_slug_s": "harvard-g5333-t5s12-1891-u51",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-05-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "United States. Hydrographic Office.",
+    "Wyman, R. H. (Robert Harris), 1822-1882.",
+    "United States Exploring Expedition (1838-1842)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Landforms",
+    "imageryBaseMapsEarthCover",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Chile",
+    "Orange, Bahia",
+    "Tierra del Fuego"
+  ],
+  "dct_issued_s": "2009-05",
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "solr_geom": "ENVELOPE(-68.157681, -67.951558, -55.451115, -55.608604)",
+  "solr_year_i": 1891,
+  "harvard_collectionID_sm": [
+    "990115129630203941"
+  ]
+}

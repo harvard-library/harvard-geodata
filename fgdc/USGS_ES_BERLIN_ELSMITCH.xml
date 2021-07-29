@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>Chirico, Pete.</origin>
+        <origin>United States. Agency for International Development</origin>
+        <pubdate>20020409</pubdate>
+        <title>Landslides Triggered by Hurricane Mitch, Berlin Region, El Salvador, 2001</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Reston, Va.</pubplace>
+          <publish>US Geological Survey, Hurricane Mitch Program</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-usgs-es-berlin-elsmitch</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Chirico, Pete.</origin>
+            <origin>United States. Agency for International Development.</origin>
+            <pubdate>20020409</pubdate>
+            <title>Municipal GIS database of El Salvador</title>
+            <edition>1st</edition>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey open-file report</sername>
+              <issue>02-307A</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>US Geological Survey, Hurricane Mitch Program</publish>
+            </pubinfo>
+            <othercit>Vol. 1, Berlin, El Salvador</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Landslides triggered by Hurricane Mitch for the Berlin region, El Salvador.
+
+This cover contains the outlines of landslides and debris flows caused by heavy rainfall associated with Hurricane Mitch in October-November 1998.  The landslides and debris flows shown in this coverage were mapped using 1:40,000-scale and 1:15,000-scale black-and-white aerial photographs.  Much of the photography was taken a few months after the storm, but additional photography was taken in late 2000.  The photographs were visually examined using 4-X mirror stereoscopes, and the landslides were plotted by hand on mylar overlays that were registered to topographic maps.  The landslides were plotted on 1:25,000-scale maps where these high-quality maps were available; for other parts of the country, the landslides were plotted on 1:50,000-scale maps.  The plotted landslides were then manually digitized and registered to digital raster graphic (DRG) images of 1:50,000-scale topographic maps.  Some of the areas in this coverage are composites of parts of two or more 1:50,000-scale quadrangles.  To produce these composites, the edges of adjoining quadrangles had to be digitally adjusted in ArcInfo to assure continuity between adjacent maps.  These adjustments were also necessary to resolve differences in the resolution between 1:50,000-scale and 1:25,000-scale topographic maps. After these adjustments, the areas of each plate were cut from merged DRGs and the digital landslides were then plotted on the DRG images of the map areas.  The cover portrays the shapes, relative location, and size of landslides and the associated downslope channel deposits caused by the hurricane.  For those features that were originally mapped on 1:25,000-scale topographic maps, we estimate that their locations are accurate to within less than 100 m and probably to within 50m.  For features that were originally mapped on 1:50,000-scale topographic maps, their locations are probably accurate to within 100-200m.
+
+Hurricane Mitch devastated Central America during the months of October- November of 1998. From 1998 to 2001 the US Geological Survey was involved along with other federal agencies in the reconstruction effort. The source CD consists of a compilation of GIS data layers and computer applications focused on hazard prevention and useful in municipal planning. Each dataset includes layers for a base area of one hundred square kilometers around the urban center of each municipality in the Hurricane Mitch project.</abstract>
+      <purpose>The coverage shows the distribution of slope failures and the associated deposits caused by Hurricane Mitch in El Salvador.  The cover included maps of these features in widely separated parts of the country.  The maps provide an inventory of these features and also contain a few recent landslides that predate the hurricane.  When data from this inventory is combined with geotechnical data on the physical properties of material on hill slopes, the hillslope form, and rainfall intensity and duration information, this coverage can be used as a basis for evaluating landslide susceptibility in similar areas of the country.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20020409</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source data set publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-88.526418</westbc>
+        <eastbc>-88.493859</eastbc>
+        <northbc>13.496835</northbc>
+        <southbc>13.464831</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Landslides</themekey>
+        <themekey>Debris avalanches</themekey>
+        <themekey>Earthflows</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>El Salvador</placekey>
+        <placekey>Usulutan, Departamento de</placekey>
+        <placekey>Berlin</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Peter G. Chirico</cntper>
+          <cntorg>USGS Eastern Earth Surface Process Team</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>12201 Sunrise Valley Drive</address>
+          <address>MS 926A</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>703-648-6950</cntvoice>
+        <cntfax>703-648-6953</cntfax>
+        <cntemail>pchirico@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcGIS 9.3</native>
+    <crossref>
+      <citeinfo>
+        <origin>Anthony J. Crone</origin>
+        <origin>Rex L. Baum</origin>
+        <origin>David J. Lidke</origin>
+        <origin>Damon N.D. Sather</origin>
+        <origin>Lee-Ann Bradley</origin>
+        <origin>Arthur C. Tarr</origin>
+        <pubdate>2001</pubdate>
+        <title>Landslides Induced by Hurricane Mitch in El Salvador--An Inventory and Descriptions of Selected Features</title>
+        <geoform>map</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Open-File Report</sername>
+          <issue>01-444</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Denver, CO</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>http://pubs.usgs.gov/of/2001/ofr-01-0444/</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attribute accuracy was assured by visually comparing compilation copy with plotted map in which the landslide styles were color coded.</attraccr>
+    </attracc>
+    <logic>Registration accuracy was checked by inspecting plots of the data and graticule overlaid on a Digital Raster Graphic (DRG) of the base map.  Topological consistency was checked by assuring that all data polygons had one label point.</logic>
+    <complete>Completeness was assured by visually inspecting the compilation map overlaid on the plotted map looking for missing polygons.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>For those landslides that were originally mapped on 1:25,000-scale topographic maps, we estimate that their locations are accurate to within less than 100 m and probably to within 50m.  For features that were originally mapped on 1:50,000-scale topographic maps, their locations are probably accurate to within 100-200m.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Kokusai Kyo?ryoku Jigyo?dan</origin>
+            <origin>Instituto Geogra?fico Nacional (El Salvador)</origin>
+            <pubdate>1998-2000</pubdate>
+            <title>1:15,000-scale black-and-white aerial photographs</title>
+            <geoform>remote-sensing image</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>15000 and 40000</srcscale>
+        <typesrc>aerial photographs</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>199812</begdate>
+              <enddate>200012</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Aerial photos</srccitea>
+        <srccontr>source photos</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Chirico, Pete.</origin>
+            <origin>United States. Agency for International Development.</origin>
+            <pubdate>20020409</pubdate>
+            <title>Municipal GIS database of El Salvador</title>
+            <edition>1st</edition>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey open-file report</sername>
+              <issue>02-307A</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>US Geological Survey, Hurricane Mitch Program</publish>
+            </pubinfo>
+            <othercit>Vol. 1, Berlin, El Salvador</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>50000</srcscale>
+        <typesrc>external hard drive</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2002</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS hard drive</srccitea>
+        <srccontr>USGS source data layers</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Aerial photographs taken between December 1998 and December 2000.  Some photographs were part of a cooperative program between the Japanese International Cooperative Agency (JICA) and the Government of El Salvador and are available the the Salvadoran National Geographic Institute (IGN).  Other photographs were acquired by the USGS  under contract and are archive at the USGS's Eros Data Center, Sioux Falls, South Dakota.  Digital Raster Graphics (DRG) scanned images of 1:50,000-scale quadrangles projected to Transverse Mercator were used as base maps for the mapping.  We mapped the cloud cover by first locating it on the aerial photographs using a mirror stereoscope and then manually plotting by inspection a polygon that best represented the shape and size of the landslides onto the base maps. Many of base maps were at a scale of 1:25,000-scale; for some areas, only 1:50,000-scale base maps were available.  The mapped areal extent of the landslides were digitized, and then digitally registered to the DRG base maps.   Final maps are presented at 1:50,000 scale.</procdesc>
+        <srcused>Aerial photos</srcused>
+        <procdate>200110</procdate>
+        <srcprod>USGS hard drive</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Anthony J Crone</cntper>
+              <cntorg>U.S. Geological Survey, CR</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Mail Stop 966
+P.O. Box 25046</address>
+              <city>Lakewood</city>
+              <state>CO</state>
+              <postal>80225</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>303-273-8591</cntvoice>
+            <cntfax>303-273-8600</cntfax>
+            <cntemail>crone@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This shapefile was downloaded from an external hard drive provided by the USGS. It was then loaded into an ArcSDE 9.3.1 database via command line using the SDE command SDElayer 'create'.</procdesc>
+        <srcused>USGS hard drive</srcused>
+        <procdate>2010</procdate>
+        <srcprod>HGL SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>21</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>USGS_ES_BERLIN_ELSMITCH</enttypl>
+        <enttypd>Landslides triggered by Hurricane Mitch, Berlin Region, El Salvador</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>USGS_ES_BERLIN_ELSMITCH.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ELSMITCH_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ELSMITCH_I</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LS</attrlabl>
+        <attrdef>relation of landslide polygon to Hurricane mitch</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Landslide triggered by Hurricane Mitch</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.
+
+This data were originally prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information apparatus, product or process disclosed in this report, and represents that its use would not infringe privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of this data or related materials. Reference therein to any specific commercial product, process, or related service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20110126</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

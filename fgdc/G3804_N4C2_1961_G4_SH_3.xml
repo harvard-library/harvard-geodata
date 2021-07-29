@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Geological Survey (U.S.)</origin>
+        <pubdate>200710</pubdate>
+        <title>New York, N.Y. and vicinity, 1961 : Oyster Bay, N.Y.-Conn. (8 Sheet Set) (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g3804-n4c2-1961-g4-sh-3</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the United States Geological Survey 7.5 minute topographic sheet map entitled: New York and vicinity : Oyster Bay, N.Y.-Conn., 1955.  It is part of an 8 sheet map set covering the metropolitan New York City area. It was published in 1961. Scale 1:24,000. The source map was prepared by the Geological Survey from 1:24,000-scale maps of Bayville 1954, Mamaroneck 1955, Sea Cliff 1954, and Hicksville 1954 7.5 minute quadrangles compiled by the Army Map Service. The Mamaroneck quadrangle was previously compiled by the Geological Survey in 1933 and 1934. Culture revised by the Geological Survey. Hydrography compiled from USC&amp;GS charts 222 (1955), 223 (1954, 1955), and 224 (1954).
+
+The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) Zone 18N NAD27 projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. 
+
+USGS maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc.  They also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc.  Relief is shown with standard contour intervals of 10 and 20 feet; depths are shown with contours and soundings. 
+
+Please pay close attention to map collar information on projections, spheroid, sources, dates, and keys to grid numbering and other numbers which appear inside the neatline.
+
+This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project.  Maps selected for this project represent major urban areas and cities of the world, at various time periods.  These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.</abstract>
+      <purpose>Historic topographic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1961</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.770612</westbc>
+        <eastbc>-73.479297</eastbc>
+        <northbc>41.019727</northbc>
+        <southbc>40.713803</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Maps, Topographic</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Landforms</themekey>
+        <themekey>Infrastructure (Economics)</themekey>
+        <themekey>Transportation</themekey>
+        <themekey>Bodies of water</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>New York, New York</placekey>
+        <placekey>New York</placekey>
+        <placekey>Baxter Estates</placekey>
+        <placekey>Bayville</placekey>
+        <placekey>Brookville</placekey>
+        <placekey>Centre Island</placekey>
+        <placekey>Cove Neck</placekey>
+        <placekey>East Hills</placekey>
+        <placekey>East Williston</placekey>
+        <placekey>Flower Hill</placekey>
+        <placekey>Glen Cove</placekey>
+        <placekey>Great Neck</placekey>
+        <placekey>Great Neck Estates</placekey>
+        <placekey>Great Neck Plaza</placekey>
+        <placekey>Harrison</placekey>
+        <placekey>Hempstead</placekey>
+        <placekey>Hempstead Harbor</placekey>
+        <placekey>Kensington</placekey>
+        <placekey>Kings Point</placekey>
+        <placekey>Lake Success</placekey>
+        <placekey>Larchmont</placekey>
+        <placekey>Lattingtown</placekey>
+        <placekey>Long Island Sound</placekey>
+        <placekey>Mamaroneck</placekey>
+        <placekey>Manhasset Bay</placekey>
+        <placekey>Matinecock</placekey>
+        <placekey>Mill Neck</placekey>
+        <placekey>Mineola</placekey>
+        <placekey>Munsey Park</placekey>
+        <placekey>Muttontown</placekey>
+        <placekey>North Hempstead</placekey>
+        <placekey>North Hills</placekey>
+        <placekey>Old Brookville</placekey>
+        <placekey>Old Westbury</placekey>
+        <placekey>Oyster Bay</placekey>
+        <placekey>Oyster Bay Cove</placekey>
+        <placekey>Oyster Bay Harbor</placekey>
+        <placekey>Plandome</placekey>
+        <placekey>Plandome Heights</placekey>
+        <placekey>Plandome Manor</placekey>
+        <placekey>Port Chester</placekey>
+        <placekey>Port Washington North</placekey>
+        <placekey>Queens</placekey>
+        <placekey>Roslyn</placekey>
+        <placekey>Roslyn Estates</placekey>
+        <placekey>Roslyn Harbor</placekey>
+        <placekey>Russell Gardens</placekey>
+        <placekey>Rye</placekey>
+        <placekey>Rye Brook</placekey>
+        <placekey>Saddle Rock</placekey>
+        <placekey>Sands Point</placekey>
+        <placekey>Scarsdale</placekey>
+        <placekey>Sea Cliff</placekey>
+        <placekey>Thomaston</placekey>
+        <placekey>Upper Brookville</placekey>
+        <placekey>Westbury</placekey>
+        <placekey>White Plains</placekey>
+        <placekey>Williston Park</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard College Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcCatalog 9.2</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document.  There may also be errors introduced during the digitizing and georeferencing process.  In most cases, errors in the raster image are small compared with sources of error in the original map graphic.  The RMS error for this map is 3.65999 meters.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Army Map Service.</origin>
+            <pubdate>1954</pubdate>
+            <title>AMS 1:24,000-scale topographic maps</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>U.S. Army Map Service</publish>
+            </pubinfo>
+            <othercit>Bayville 1954, Sea Cliff 1954, and Hicksville 1954 quadrangles.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1954</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>AMS maps</srccitea>
+        <srccontr>Compiled from AMS maps.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>1955</pubdate>
+            <title>USGS 1:24,000-scale topographic maps</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Mamaroneck 1955 quadrangles.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1955</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS maps</srccitea>
+        <srccontr>Compiled from USGS maps.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Coast and Geodetic Survey</origin>
+            <pubdate>1954, 1955</pubdate>
+            <title>U.S.C. &amp; G.S. (Series) coastal charts</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>U.S. Coast and Geodetic Survey</publish>
+            </pubinfo>
+            <othercit>Charts 222 (1955), 223 (1954, 1955), and 224 (1954).</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Scales differ</srcscale>
+        <typesrc>chart</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>1954</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>1955</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USC&amp;GS</srccitea>
+        <srccontr>Hydrographic data compiled from USC&amp;GS charts.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>1961</pubdate>
+            <title>New York and vicinity : Oyster Bay, N.Y.-Conn., 1955</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>Geological Survey</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>Geological Survey (U.S.)</origin>
+                <pubdate>1961</pubdate>
+                <title>New York and vicinity</title>
+                <geoform>map</geoform>
+                <pubinfo>
+                  <pubplace>Washington, D.C.</pubplace>
+                  <publish>Geological Survey</publish>
+                </pubinfo>
+                <othercit>8 maps : col. ; 115 x 99 cm. or smaller.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1961</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map for raster image</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper map on a high-resolution scanner: (Betterlight, Super8K2 scanning back camera and ViewFinder 5.x capture software).  Maps were photographed at a copy stand. A vacuum easel was used to keep the maps flat during photography. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, and that allow for highly detailed screen reproduction and print reproduction at up 1:1. Images in this collection were processed using Adobe Photoshop.  Color and tonal corrections were made using Adobe Photoshop. Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment. Master Image files were corrected and archived as TIFF files in the sRGB IEC611966-2.1 color-space. When possible files were batch processed using an "action" script derived from edits applied to match a representative sample.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2007</procdate>
+        <srcprod>TIFF Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+            </cntorgp>
+            <cntpos>Digital Imaging and Photography Group</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The digital TIFF image was georeferenced to control points that represent the true ground coordinates of the four corners of the quadrangle.  ESRI's ArcCatalog was used to create a control point shapefile which was populated with latitude and longitude measurements from each quadrangle corner and projected to NAD27 UTM Zone 18N (meters).   ArcMap 9.2 software was utilized to georeference the image to the projected control points, and a .tfwx (world file) and an .aux.xml file was generated and saved in association with the digital image.
+
+Please note that while the image is stored in UTM coordinates, the projection will need to be defined by the user in order to display the image with other projected data.</procdesc>
+        <srcused>TIFF Map Image</srcused>
+        <procdate>2007</procdate>
+        <srcprod>Georeferenced Raster Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>14450</rowcount>
+      <colcount>10171</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>18</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>-75.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>2.362536</absres>
+            <ordres>2.324689</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map. The colors on that sheet can represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and boundaries. The colors are sometimes explained in a legend that is incorporated into the map inset or collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20071023</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

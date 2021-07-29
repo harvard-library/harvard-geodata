@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g009923835-001",
+  "dc_title_s": "Philadelphia, Pennsylvania, 1797 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: This plan of the city of Philadelphia and it's environs (shewing the improved parts) is dedicated to the mayor, aldermen and citizens thereof, by their most obedient servant John Hills surveyor and draughtsman ; May 30th 1796 ; engraved by John Cooke of Hendon Middlesex near London. It was Published and Sold by John Hills Surveyor and Draughsman in 1797. Scale [1:7,200]. The image inside the map neatline is georeferenced to the surface of the earth and fit to Pennsylvania South State Plane Coordinate System NAD83 (in Feet) (Fipszone 3702). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas, selected public and private buildings, schools, churches, industry locations (e.g. mills, factories, mines, etc.), docks, fortification, ground cover, and more. Relief shown by hachures. Includes also references to points of interest. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G009923835_001.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G009923835_001",
+  "layer_slug_s": "harvard-g009923835-001",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-10-08T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Hills, John, surveyor.",
+    "Cooke, John, of Hendon.",
+    "Clarkson, Matthew, 1733-1800."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Philadelphia"
+  ],
+  "dct_issued_s": "2009-10",
+  "dct_temporal_sm": [
+    "1797"
+  ],
+  "solr_geom": "ENVELOPE(-75.210833, -75.124178, 39.980677, 39.926569)",
+  "solr_year_i": 1797,
+  "harvard_collectionID_sm": [
+    "990099238350203941"
+  ]
+}

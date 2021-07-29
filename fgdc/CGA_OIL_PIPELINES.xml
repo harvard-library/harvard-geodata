@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Center for Geographic Analysis, Harvard University</origin>
+        <pubdate>20090813</pubdate>
+        <title>Global Oil Pipelines</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-cga-oil-pipelines</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Global oil pipeline locations</abstract>
+      <purpose>Developed for the "Oil and the Contemporary Globe" workshop, August 13, 2009.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20090813</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-149.747796</westbc>
+        <eastbc>153.026002</eastbc>
+        <northbc>70.279981</northbc>
+        <southbc>-54.007442</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>economy</themekey>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>utilities</themekey>
+        <themekey>oil</themekey>
+        <themekey>pipelines</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+      <place>
+        <placekt>none</placekt>
+        <placekey>global</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jeff Blossom</cntper>
+          <cntorg>Center for Geographic Analysis, Harvard University</cntorg>
+        </cntperp>
+        <cntpos>Senior GIS Specialist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>1737 Cambridge St.</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-496-6063</cntvoice>
+        <cntfax>617-496-5149</cntfax>
+        <cntemail>jblossom@cga.harvard.edu</cntemail>
+        <hours>9a.m. - 4p.m.</hours>
+        <cntinst>By email is best.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Center for Geographic Analysis, Harvard University</datacred>
+    <native>Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.0.1770</native>
+  </idinfo>
+  <dataqual>
+    <posacc>
+      <horizpa>
+        <horizpar>Some stylization in between cities was necessary - i.e. not exactly following the line from the source map because the geo-referencing was off, but capturing the general trend.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Information Technology Associates</origin>
+            <pubdate>Unknown</pubdate>
+            <title>World Pipelines maps - Crude Oil (petroleum) pipelines - Natural Gas pipelines - Products pipelines</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Peekskill, N.Y.</pubplace>
+              <publish>Information Technology Associates</publish>
+            </pubinfo>
+            <onlink>http://www.theodora.com/pipelines/world_oil_gas_and_products_pipelines.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>10000000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>theora map images</srccitea>
+        <srccontr>Map images used for oil pipeline digitization</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following maps were saved as images and georeferenced:
+
+http://www.theodora.com/pipelines/africa_oil_gas_and_products_pipelines_map.html
+http://www.theodora.com/pipelines/asia_oil_gas_and_products_pipelines.html
+http://www.theodora.com/pipelines/australia_new_zealand_and_papua_new_guinea_oil_gas_products_pipelines_map.html
+http://www.theodora.com/pipelines/central_america_caribbean_and_south_america_oil_gas_and_products_pipelines.html
+http://www.theodora.com/pipelines/europe_oil_gas_and_products_pipelines.html
+http://www.theodora.com/pipelines/north_america_oil_gas_and_products_pipelines.html
+
+Using ArcMap 9.3, Oil pipelines were digitized from the georeferenced maps, taking care to snap the pipelines to the proper cities.
+
+Georeferencing base:
+ESRI data and maps 2008 - country.sdc and cities.sdc and ArcGIS Online Service world_street_map.lyr
+
+The source maps have no coordinate system listed; lat/long lines are rectilinear, so geographic projection was chosen for geo-referencing.  The geo-referencing results weren't great, but good enough for a small scale capture. Then digitizing the .mxd was set up with the ESRI world cities layer, and the ESRI online service World_street_map.lyr for basemap reference. 
+
+When adding pipelines, pipeline features were snapped to an ESRI world city (if it existed), or visually placed the end on the city as drawn on the World_street_map.lyr layer.  If the endpoint city was not labeled on World_street_map, then they were located in Google Maps, the coordinates were located in ArcMap, and a point was added. The pipeline endpoints were put in the cities of pipeline origin and destination as labeled on the source maps.  Some stylization in between cities was necessary - i.e. not exactly following the line from the source map because the geo-referencing was off, but capturing the general trend.</procdesc>
+        <srcused>theora map images</srcused>
+        <procdate>20090813</procdate>
+        <srcprod>oil_pipelines</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jeff Blossom</cntper>
+              <cntorg>Center for Geographic Analysis, Harvard University</cntorg>
+            </cntperp>
+            <cntpos>Senior GIS Specialist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>1737 Cambridge St.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-496-6063</cntvoice>
+            <cntfax>617-496-5149</cntfax>
+            <cntemail>jblossom@cga.harvard.edu</cntemail>
+            <hours>9a.m. - 4p.m.</hours>
+            <cntinst>By email is best.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>355</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Mercator</mapprojn>
+          <mercator>
+            <stdparll>0.000000</stdparll>
+            <longcm>0.000000</longcm>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </mercator>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.016480</absres>
+            <ordres>0.016480</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>oil_pipelines</enttypl>
+        <enttypd>Global Oil Pipelines</enttypd>
+        <enttypds>CGA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Name</attrlabl>
+        <attrdef>Name of pipeline as labeled on the source map.</attrdef>
+        <attrdefs>CGA</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Type</attrlabl>
+        <attrdef>Code for the pipeline's symbol type on the source map.</attrdef>
+        <attrdefs>CGA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>s</edomv>
+            <edomvd>solid = Oil pipeline</edomvd>
+            <edomvds>Source map</edomvds>
+          </edom>
+          <edom>
+            <edomv>d</edomv>
+            <edomvd>dashed = Oil pipeline (planned/under construction)</edomvd>
+            <edomvds>Source map</edomvds>
+          </edom>
+          <edom>
+            <edomv>ds</edomv>
+            <edomvd>double solid = Oil pipeline</edomvd>
+            <edomvds>Source map</edomvds>
+          </edom>
+          <edom>
+            <edomv>ts</edomv>
+            <edomvd>triple solid = oil pipeline</edomvd>
+            <edomvds>Source map</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Source</attrlabl>
+        <attrdef>The url to the source map from which the feature was captured.</attrdef>
+        <attrdefs>CGA</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Status</attrlabl>
+        <attrdef>Built or proposed/in progress, as symbolized on the source maps.</attrdef>
+        <attrdefs>CGA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>built</edomv>
+            <edomvds>Source map</edomvds>
+          </edom>
+          <edom>
+            <edomv>proposed or in progress</edomv>
+            <edomvds>Source map</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090922</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jeff Blossom</cntper>
+          <cntorg>Center for Geographic Analysis, Harvard University</cntorg>
+        </cntperp>
+        <cntpos>Senior GIS Specialist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>1737 Cambridge St.</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-496-6063</cntvoice>
+        <cntfax>617-496-5149</cntfax>
+        <cntemail>jblossom@cga.harvard.edu</cntemail>
+        <hours>9a.m. - 4p.m.</hours>
+        <cntinst>By email is best.</cntinst>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

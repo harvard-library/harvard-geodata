@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95delkcln",
+  "dc_title_s": "Census Miscellaneous Ground Transportation, 1995 - Delaware",
+  "dc_description_s": "This datalayer displays miscellaneous ground transportation features in the state of Delaware. Features other than roads or railroads may be included in this layer. The predominant feature in this layer has a Census Feature Class Code (CFCC) of C20 -- which is classed as power transmission lines. Other features that may be included are: Pipelines: enclosed pipe, carrying fluid or slurry, situated above ground, or in special conditions, below ground when marked by a cleared right-of way and signage. Power Transmission Line: High voltage electrical line, on towers, situated on cleared right-of-way. Miscellaneous Ground Transportation With Special Characteristics: A portion of a ground transportation system that has separately identifiable characteristics. This category is for specialized transportation, usually confined to a local area, that is separate from other ground transportation. Other ground transportation that is not a pipeline or a power transmission line, such as aerial tramway, monorail, or ski lift.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95DELKCLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95DELKCLN",
+  "layer_slug_s": "harvard-tg95delkcln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2006-02-22T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_publisher_s": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "utilitiesCommunication",
+    "Census",
+    "Transportation",
+    "Pipelines",
+    "Public utilities",
+    "Electric lines"
+  ],
+  "dct_spatial_sm": [
+    "Delaware"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-75.779968, -75.064334, 39.562612, 38.4524)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

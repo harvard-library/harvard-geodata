@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-usgs15ma-abington-1893",
+  "dc_title_s": "Abington, Massachusetts 15 Minute USGS DRG",
+  "dc_description_s": "This layer is a digital raster graphic of the historic 15-minute USGS topographic quadrangle map of Abington, Massachusetts. The survey date (ground condition) for this map is 1885, the edition date is 1893 and the map was reprinted in September, 1902. A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is geo-referenced to the surface of the earth and fit to the Universal Transverse Mercator projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The names of quadrangles which border this one appear on the map collar in their respective positions (N,S,E,W) in relation to this map.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/USGS15MA_ABINGTON_1893.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:USGS15MA_ABINGTON_1893",
+  "layer_slug_s": "harvard-usgs15ma-abington-1893",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2005-01-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "imageryBaseMapsEarthCover",
+    "Maps, Topographic",
+    "Geological Survey (U.S.)",
+    "Land Use",
+    "Infrastructure",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Abington",
+    "Braintree",
+    "Brockton",
+    "Cohasset",
+    "Duxbury",
+    "East Bridgewater",
+    "Halifax",
+    "Hanover",
+    "Hanson",
+    "Hingham",
+    "Holbrook",
+    "Kingston",
+    "Marshfield",
+    "Norwell",
+    "Pembroke",
+    "Plympton",
+    "Quincy",
+    "Rockland",
+    "Scituate",
+    "West Bridgewater",
+    "Weymouth",
+    "Whitman"
+  ],
+  "dct_issued_s": "2004-12",
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "solr_geom": "ENVELOPE(-71.05983, -70.690288, 42.283077, 41.962526)",
+  "solr_year_i": 1885,
+  "harvard_collectionID_sm": [
+    "990082156300203941"
+  ]
+}

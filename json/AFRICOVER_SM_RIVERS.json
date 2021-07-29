@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-africover-sm-rivers",
+  "dc_title_s": "Somalia Rivers",
+  "dc_description_s": "Somalia rivers from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO).",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AFRICOVER_SM_RIVERS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:AFRICOVER_SM_RIVERS",
+  "layer_slug_s": "harvard-africover-sm-rivers",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2008-04-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Food and Agriculture Organization of the United Nations",
+    "Di Gregorio, Antonio"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Rivers",
+    "Bodies of water",
+    "Hydrography",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Somalia"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(40.989889, 51.1175, 11.57583, -0.251389)",
+  "harvard_collectionID_sm": [
+    "990115092200203941"
+  ]
+}

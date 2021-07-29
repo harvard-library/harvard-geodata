@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9111-s12-1883-u5",
+  "dc_title_s": "Atlantic Coast of North America, Depths and Temperatures, 1883 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Depths and temperatures observed in the western part of the North Atlantic Ocean, by the U.S. Coast Survey S.S. Blake between 1881 & '83 including also the lines run by the H.M.S. Challenger in 1873 ; U.S. Coast Survey, J.E. Hilgard, Supt. It was published by U.S. Coast Survey in 1883. Scale 1:7,000,000. Covers the Atlantic Coast of North America from Nova Scotia to Puerto Rico.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'North America Lambert Conformal Conic' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, major cities, shoreline features, ocean depths and temperatures recorded by the U.S. Coast Survey S.S. Blake and the H.M.S. Challenger, and more. Depths shown by soundings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9111_S12_1883_U5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9111_S12_1883_U5",
+  "layer_slug_s": "harvard-g9111-s12-1883-u5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-11-16T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "United States Coast Survey.",
+    "Hilgard, J. E. (Julius Erasmus), 1825-1891."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Ocean temperature",
+    "Bathymetric maps",
+    "Coasts",
+    "Sounding and soundings",
+    "Landforms",
+    "Bodies of water",
+    "Discovery and exploration",
+    "imageryBaseMapsEarthCover",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Atlantic Ocean",
+    "North America"
+  ],
+  "dct_issued_s": "2009-11",
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "solr_geom": "ENVELOPE(-92.693471, -44.246361, 53.394466, 10.065643)",
+  "solr_year_i": 1883,
+  "harvard_collectionID_sm": [
+    "990115206480203941"
+  ]
+}

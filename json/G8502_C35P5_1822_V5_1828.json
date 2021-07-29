@@ -1,0 +1,59 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8502-c35p5-1822-v5-1828",
+  "dc_title_s": "Cape of Good Hope and Cape Town Region, South Africa, Nautical Chart, 1822 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic, paper map entitled: Survey of the Cape of Good Hope, by Lieut. A.T.E. Vidal of H.M.S. Leven, assisted by Captn. Chas. Lechmere, R.N. Lieut T. Boteler, and Mr. H.A. Gibbons, Admlty. Midn. under the direction of Captn. W.F.W. Owen, 1822. J. & C. Walker sculpt. It was published according to Act of Parliament at the Hydrographical Office of the Admiralty, 4th March 1828. Scale [ca. 1:153,512]. Covers the Cape Peninsula region, including False Bay and Cape Town, South Africa. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'WGS 1984 UTM 34S' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as beacons, rocks, channels, points, coves, islands, bottom soil types, anchorage points, and more. Includes also selected land features such as roads, drainage, land cover, selected buildings, towns, and more. Relief shown by contours; depths by soundings. Includes notes, table of heights, and two views. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8502_C35P5_1822_V5_1828.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8502_C35P5_1822_V5_1828",
+  "layer_slug_s": "harvard-g8502-c35p5-1822-v5-1828",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-03-04T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863.",
+    "Lechmere, Charles.",
+    "Boteler, Thomas, d. 1829.",
+    "Owen, W. F. W., 1774-1857.",
+    "Gibbons, H A.",
+    "J. & C. Walker (Firm)",
+    "Great Britain. Hydrographic Office."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "South Africa",
+    "Cape Town",
+    "False Bay",
+    "Cape Peninsula"
+  ],
+  "dct_issued_s": "2010-03",
+  "dct_temporal_sm": [
+    "1822"
+  ],
+  "solr_geom": "ENVELOPE(-20.454168, 65.647368, -23.603336, -89.999994)",
+  "solr_year_i": 1822,
+  "harvard_collectionID_sm": [
+    "990114900620203941"
+  ]
+}

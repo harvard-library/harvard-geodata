@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg10usplaces",
+  "dc_title_s": "Places United States 2010",
+  "dc_description_s": "This polygon data layer represents the 2010 TIGER/Line census places for the United States. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The TIGER/Line Files include both incorporated places (legal entities) and census designated places or CDPs (statistical entities). An incorporated place is established to provide governmental functions for a concentration of people as opposed to a minor civil division (MCD), which generally is created to provide services or administer an area without regard, necessarily, to population. Places always nest within a State, but may extend across county and county subdivision boundaries. An incorporated place usually is a city, town, village, or borough, but can have other legal descriptions. CDPs are delineated for the decennial census as the statistical counterparts of incorporated places. CDPs are delineated to provide data for settled concentrations of population that are identifiable by name, but are not legally incorporated under the laws of the State in which they are located. The boundaries for CDPs often are defined in partnership with State, local, and/or tribal officials and usually coincide with visible features or the boundary of an adjacent incorporated place or another legal entity. CDP boundaries often change from one decennial census to the next with changes in the settlement pattern and development; a CDP with the same name as in an earlier census does not necessarily have the same boundary. The only population/housing size requirement for CDPs for the 2010 Census is that they must contain some housing and population. The boundaries of all 2010 Census incorporated places are as of January 1, 2010 as reported through the Census Bureau's Boundary and Annexation Survey (BAS). The boundaries of all 2010 Census CDPs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP).",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG10USPLACES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG10USPLACES",
+  "layer_slug_s": "harvard-tg10usplaces",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2012-01-10T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Census Bureau. Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Census",
+    "Cities and towns",
+    "Villages",
+    "Boundaries",
+    "boundaries",
+    "State or equivalent entity",
+    "Polygon",
+    "Census Designated Place",
+    "CDP",
+    "City",
+    "Village",
+    "Town"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "United States",
+    "U.S."
+  ],
+  "dct_issued_s": "2010",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_geom": "ENVELOPE(-176.713098, 173.429921, 71.340257, -14.41995)",
+  "solr_year_i": 2010,
+  "harvard_collectionID_sm": [
+    "990131492120203941"
+  ]
+}

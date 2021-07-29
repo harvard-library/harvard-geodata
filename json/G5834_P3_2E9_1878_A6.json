@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5834-p3-2e9-1878-a6",
+  "dc_title_s": "Paris, France, 1878 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan de l'exposition universelle de 1878 avec ses annexes. It was published lith. F. Appel in 1878. Scale [ca. 1:2,400]. Map in French. Covers the grounds and buildings of the Exposition Universelle 1878, Paris, France.The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as roads, paths, buildings, drainage, ground cover, and more. Includes indexes, illustrations, text, and insets: [Plan de l'Exposition d'Agriculture] -- Vue Exterieure Des Magasins Du Bon Mache -- Plan des Annexes du Quai d'Orsay Groupe No. 9.This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5834_P3_2E9_1878_A6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5834_P3_2E9_1878_A6",
+  "layer_slug_s": "harvard-g5834-p3-2e9-1878-a6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-02-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Appel, F."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Exhibitions",
+    "Buildings",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "structure"
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "Paris"
+  ],
+  "dct_issued_s": "2015-02",
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "solr_geom": "ENVELOPE(2.283174, 2.310926, 48.867984, 48.849943)",
+  "solr_year_i": 1878,
+  "harvard_collectionID_sm": [
+    "990027978990203941"
+  ]
+}

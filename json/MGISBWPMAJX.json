@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgisbwpmajx",
+  "dc_title_s": "MassGIS 2003 Massachusetts DEP BWP major facilities (August 2000)",
+  "dc_description_s": "The Massachusetts Department of Environmental Protection (DEP) major facilities datalayer is a statewide point dataset containing the location of a subset of facility types regulated by DEP's Bureau of Waste Prevention (BWP). In a preliminary effort to begin locating facilities regulated by DEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located: Large Quantity Generators of Hazardous Waste (LQG) Large Quantity Toxic Users (LQTU) Hazardous Waste Recyclers Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF) Facilities with Air Operating Permits Facilities with Groundwater Discharge Permits",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISBWPMAJX.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISBWPMAJX",
+  "layer_slug_s": "harvard-mgisbwpmajx",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-06-16T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Dept. of Environmental Protection",
+    "Massachusetts. Bureau of Waste Prevention"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Hazardous waste treatment facilities",
+    "Hazardous waste sites",
+    "Factory and trade waste",
+    "Hazardous wastes",
+    "Recycling (Waste, etc.)",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.382913, -69.981743, 42.870574, 41.251789)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

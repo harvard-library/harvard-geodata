@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3954-l7g4-1907-h8",
+  "dc_title_s": "Louisville and Vicinity, Kentucky, 1907 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Louisville Title Co.'s revised map of Louisville, Ky. and environs, compiled & drawn by Wm. B. Hunter. It was published by Louisville Title Co. in 1907. Scale [ca. 1:36,000]. Covers Louisville, Kentucky and vicinity. Portions of source paper map have outer edges torn, and some title and index information is lacking. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Kentucky North State Plane NAD 1983 coordinate system (in Feet) (Fipszone 1601). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads and stations, drainage, selected buildings and names of landowners, property areas and/or dimensions, parks, cemeteries, and more. Includes index. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3954_L7G4_1907_H8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3954_L7G4_1907_H8",
+  "layer_slug_s": "harvard-g3954-l7g4-1907-h8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-04-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Hunter, Wm. B.",
+    "Louisville Title Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Real property",
+    "Landowners",
+    "imageryBaseMapsEarthCover",
+    "planningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Louisville",
+    "Audubon Park",
+    "Kingsley",
+    "Lynnview",
+    "Meadowview Estates",
+    "Mockingbird Valley",
+    "Parkway Village",
+    "Poplar Hills",
+    "Rolling Fields",
+    "Saint Matthews",
+    "Seneca Gardens",
+    "Shively",
+    "Strathmoor Mano",
+    "Strathmoor Village",
+    "Watterson Park",
+    "Wellington",
+    "West Buechel",
+    "Indiana",
+    "Jeffersonville",
+    "New Albany"
+  ],
+  "dct_issued_s": "2009-04",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "solr_geom": "ENVELOPE(-85.882154, -85.608628, 38.317517, 38.122526)",
+  "solr_year_i": 1907,
+  "harvard_collectionID_sm": [
+    "990114818030203941"
+  ]
+}

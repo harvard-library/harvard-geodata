@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nh3740-1791-b4",
+  "dc_title_s": "New Hampshire, 1791 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A new map of New Hampshire, by Jeremy Belknap, 1794 ; engrav'd by S. Hill. From: Belknap's The history of New-Hampshire. Scale [ca. 1:810,000]. Covers New Hampshire, and portions of Vermont, Maine, and the Province of Quebec, Canada. The image inside the map neatline is georeferenced to the surface of the earth and fit to the New Hampshire State Plane Coordinate System (Feet) (FIPS 2800). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as towns, drainage, county boundaries, Mason's Patent line, 40,960 acres granted to Dartmouth College in northern part of state, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NH3740_1791_B4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:NH3740_1791_B4",
+  "layer_slug_s": "harvard-nh3740-1791-b4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-03-09T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Belknap, Jeremy, 1744-1798.",
+    "Hill, Samuel, 1766?-1804."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Vermont",
+    "Maine",
+    "Canada",
+    "Quebec"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "solr_geom": "ENVELOPE(-73.130855, -69.883094, 45.435968, 42.333348)",
+  "solr_year_i": 1791,
+  "harvard_collectionID_sm": [
+    "990095492990203941"
+  ]
+}

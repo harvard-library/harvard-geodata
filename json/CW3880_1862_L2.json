@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cw3880-1862-l2",
+  "dc_title_s": "Maryland, West Virginia & Virginia : Civil War Telegram Map, 1862 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map: War telegram marking map. It was published by L. Prang & Co. in 1862. Scale [ca. 1:490,000]. Covers portions of Maryland, West Virginia, the District of Columbia, and eastern Virginia. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator projection (WGS 1984 UTM Zone 18N). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, selected points of military interest, and more. Relief shown by hachures. Includes text: 'Explanations.The extraordinary large scale on which this map is drawn has been adopted to make it just what we designed it to be, namely 1st. The most distinct map ever published of the whole Virginia territory, where the decisive battles for the Union will be fought. 2nd. A marking map, that is a map to mark the change of positions of the Union forces in red pencil and the rebel forces in blue, on the receipt of every telegram from the seat of war...' This layer is part of a selection of digitally scanned and georeferenced historic maps of the Civil War from the Harvard Map Collection. Many items from this selection are from a collection of maps deposited by the Military Order of the Loyal Legion of the United States Commandery of the State of Massachusetts (MOLLUS) in the Harvard Map Collection in 1938. These maps typically portray both natural and manmade features, in particular showing places of military importance. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CW3880_1862_L2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:CW3880_1862_L2",
+  "layer_slug_s": "harvard-cw3880-1862-l2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-04-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "L. Prang & Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Civil War, 1861-1865",
+    "Fortification",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Cities and towns",
+    "Villages",
+    "Telegraph",
+    "imageryBaseMapsEarthCover",
+    "intelligenceMilitary"
+  ],
+  "dct_spatial_sm": [
+    "Maryland",
+    "West Virginia",
+    "Virginia",
+    "District of Columbia"
+  ],
+  "dct_issued_s": "2007-04",
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "solr_geom": "ENVELOPE(-79.802994, -75.688402, 40.182108, 36.427019)",
+  "solr_year_i": 1862,
+  "harvard_collectionID_sm": [
+    "990094100850203941"
+  ]
+}

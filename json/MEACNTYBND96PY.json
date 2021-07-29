@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-meacntybnd96py",
+  "dc_title_s": "Massachusetts County Boundaries",
+  "dc_description_s": "This datalayer is a polygon coverage representing county boundaries for Massachusetts. This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. MEA staff originally derived this data from the MassGIS (Executive Office of Environmental Affairs) 'Counties' datalayer. This datalayer was produced in March, 1991.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEACNTYBND96PY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEACNTYBND96PY",
+  "layer_slug_s": "harvard-meacntybnd96py",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2004-03-03T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Administrative divisions",
+    "County government",
+    "Counties"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "solr_geom": "ENVELOPE(-73.53379, -69.899027, 42.888257, 41.230203)",
+  "solr_year_i": 1991,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

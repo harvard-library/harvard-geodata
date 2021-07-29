@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95okaircupy",
+  "dc_title_s": "Census American Indian Reservations, 1995 - Oklahoma",
+  "dc_description_s": "This datalayer depicts feature location and other associated data for American Indian tribal entities. Categories included here are: American Indian Reservation Names, Off-reservation trust lands, and various codes for legal or statistical entities. The 1995 TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER data base. The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on January 1, 1995 legal boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts. However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole nation and its territories. The 1995 TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries. The files contain information distributed over a series of record types for the spatial objects of a county. Geographic information contained in the files includes attributes such as feature identifiers/census feature class codes (CFCC) used to differentiate feature types, address ranges and ZIP Codes, codes for legal and statistical entities, latitude and longitude coordinates of linear and point features, landmark point features, area landmarks, key geographic features, and area boundaries. NOTE: Tribal designated statistical areas (TDSAs) are geographic areas that were delineated for 1990 census data tabulation purposes by tribal officials of federally and state-recognized tribes outside of Oklahoma. TDSAs do not have a legally defined reservation or associated trust lands. They define areas that contain population under tribal jurisdiction and/or areas for which the tribe provides benefits and services. TDSAs are defined for data presentation purposes only. Tribal jurisdiction statistical areas (TJSAs) are geographic areas delineated for 1990 census data tabulation purposes in Oklahoma by federally recognized tribes that do not have a legally defined reservation. TJSAs are areas defined only for data presentation purposes. They generally contain American Indian population over which one or more tribal governments have jurisdiction. They replace the single 'Historic Areas of Oklahoma' (excluding UAs) recognized for the 1980 census.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95OKAIRCUPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95OKAIRCUPY",
+  "layer_slug_s": "harvard-tg95okaircupy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-12-13T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Indian reservations",
+    "Census",
+    "Population",
+    "Demography"
+  ],
+  "dct_spatial_sm": [
+    "Oklahoma"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-100.0004, -94.431815, 36.999602, 33.617643)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

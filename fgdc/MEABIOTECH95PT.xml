@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>US Census Bureau</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Biotechnology Establishments</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meabiotech95pt</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer displays a point coverage for biotechnology agencies and institutions located in Massachusetts as of 1995. This dataset was originally prepared by the Center for Labor Market Studies, Northeastern University, January 1996 and distributed by the Metropolitan Area Planning Council. It was published as part of the Massachusetts Electronic Atlas database in 2001. 
+
+The region that comprises the greater Boston/Cambridge area is well known for incubating emerging technologies. Biotechnology's primary products are pharmaceutical preparations, diagnostic substances, botanicals and surgical and medical instruments. As of 1995, the region's biotech industry consisted of 62 establishments with 20 employees or more. These firms are concentrated in Cambridge, suggesting an importance of proximity to the Massachusetts Institute of technology (MIT). As industry production procedures become standarized, emerging technologies often move to lower cost regions.
+
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.
+
+The Metropolitan Area Planning Council (MAPC) is a regional planning agency representing 101 cities and towns in the metropolitan Boston area.  Created by an act of the Legislature in 1963, it serves as a forum for state and local officials to address issues of regional importance. As one of 14 members of the Metropolitan Planning Organization (MPO), MAPC has oversight responsibility for the region's federally funded transportation program
+Stretching west from Boston to include most of the communities inside the I-495 corridor, the MAPC planning area consists of 22 cities and 79 towns. Coastal communities, older industrial centers, rural towns, and modern cities are represented within the 1,422 square miles that comprise the MAPC region.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.589756</westbc>
+        <eastbc>-70.765258</eastbc>
+        <northbc>42.578716</northbc>
+        <southbc>42.106526</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>economy</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Biotechnology industries</themekey>
+        <themekey>Pharmaceutical industries</themekey>
+        <themekey>Biomedical engineering</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. Accuracy statements on the MEA database are based on deductive estimates; no specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created.
+Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require very high levels of positional accuracy in its geographic products. Its files and maps are designed to show only the relative positions of elements. Coordinates in these files are in decimal degrees and have six implied decimal places.  The positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy varies with the source materials used, but at best meets the established National Map Accuracy standards. 
+The Harvard Geospatial Library cannot specify the accuracy of feature updates or of features derived from the MEA files or other map or digital sources. Thus, the level of positional accuracy in these MEA layers is NOT suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface. Despite the fact that MEA data positional accuracy is not as high as the coordinate values imply, the six-decimal place precision is useful when producing maps. This precision allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>1995</pubdate>
+            <title>Massachusetts Division of Employment and Training Guide</title>
+            <geoform>tabular digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DET Data</srccitea>
+        <srccontr>Tabular data and statistics on biotechnology entites derived from this source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Dataset prepared by the Center for Labor Market Studies, Northeastern University and distributed by the Metropolitan Area Planning Council in January 1996</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>61</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System 1983</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000145</absres>
+            <ordres>0.000145</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>TIM.MEABIOTECH95PT</enttypl>
+        <enttypd>Biotechnology Institutions</enttypd>
+        <enttypds>MEA; MAPC</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>MAPC</attrlabl>
+        <attrdef>Metropolitan Area Planning Council Source Code</attrdef>
+        <attrdefs>MEA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BUSNAME</attrlabl>
+        <attrdef>Business Name</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BUSADDRESS</attrlabl>
+        <attrdef>Business Street Address</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SICCODE</attrlabl>
+        <attrdef>Standard Industrial Classification Code</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIZECLASS</attrlabl>
+        <attrdef>Size of Business (in employees)</attrdef>
+        <attrdefs>MAPC</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A</edomv>
+            <edomvd>20-49</edomvd>
+            <edomvds>MAP</edomvds>
+          </edom>
+          <edom>
+            <edomv>B</edomv>
+            <edomvd>50-99</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>100-249</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+          <edom>
+            <edomv>D</edomv>
+            <edomvd>250-499</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+          <edom>
+            <edomv>E</edomv>
+            <edomvd>500-999</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>1,000-4,999</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+          <edom>
+            <edomv>G</edomv>
+            <edomvd>5,000-9,999</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>10,000 or More</edomvd>
+            <edomvds>MAPC</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LEGEND</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BUSCITY</attrlabl>
+        <attrdef>City where business is located</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BUSZIP</attrlabl>
+        <attrdef>Zip Code for Business address</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AV_ADD</attrlabl>
+        <attrdef>Business Street Address</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AV_ZONE</attrlabl>
+        <attrdef>Business address zip code</attrdef>
+        <attrdefs>MAPC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AV_STATUS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AV_SCORE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AV_SIDE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SIZE_RANK</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040129</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

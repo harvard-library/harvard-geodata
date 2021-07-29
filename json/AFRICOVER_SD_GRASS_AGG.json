@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-africover-sd-grass-agg",
+  "dc_title_s": "Sudan Thematic Grassland Aggregation Landcover",
+  "dc_description_s": "Sudan thematic grassland aggregation landcover from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:200,000. This dataset is a reaggregated version of the original national Africover landcover multipurpose database. It contains all natural vegetation with a herbaceous component. The land cover has been produced from visual interpretation of digitally enhanced LANDSAT TM images (Bands 4,3,2) acquired mainly in the year 1994-1999. The land cover classes have been developed using the FAO/UNEP international standard LCCS classification system.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AFRICOVER_SD_GRASS_AGG.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:AFRICOVER_SD_GRASS_AGG",
+  "layer_slug_s": "harvard-africover-sd-grass-agg",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2008-04-16T00:00:00Z",
+  "dc_creator_sm": [
+    "Food and Agriculture Organization of the United Nations",
+    "Di Gregorio, Antonio",
+    "Sudan. National Survey Corporation.",
+    "Mohie El Deen, Fatah El Aleem"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Land use",
+    "Vegetation mapping",
+    "Grasslands",
+    "Earth Surface",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "dct_issued_s": "2003-05-30",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "solr_geom": "ENVELOPE(21.826113, 38.468327, 21.83659, 3.411526)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990115092200203941"
+  ]
+}

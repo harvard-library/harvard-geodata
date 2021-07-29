@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9801-s12-1820-g6-1925",
+  "dc_title_s": "Bransfield Strait and South Shetland Islands Region, Antarctica, 1820 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chart showing the discoveries and approximate track of Edward Bransfield, Master R.N. in the hired brig 'Williams' of Blyth, when exploring the South Shetland Islands and the northern extremity of Graham Land in the year 1820, drawn by Lieut. Commander R.T. Gould, R.N. It was published in 1925 by the Royal Geographical Society. Scale [ca. 1:2,750,000]. Covers Bransfield Strait and South Shetland Islands region, Antarctica.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows shoreline features such as drainage, shoreline features, bays, harbors, inlets, points, rocks, and more. Overprinted to show land relief by hachures and spot heights and other land features and notes from Admiralty Chart No. 1238. Includes dates and notes on Bransfield's observations.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9801_S12_1820_G6_1925.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9801_S12_1820_G6_1925",
+  "layer_slug_s": "harvard-g9801-s12-1820-g6-1925",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-10-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "Gould, Rupert T. (Rupert Thomas), 1890-1948.",
+    "Royal Geographical Society (Great Britain).",
+    "Bransfield, Edward."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Landforms",
+    "Bodies of water",
+    "Discovery and exploration",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica",
+    "Bransfield Strait",
+    "Graham Land",
+    "South Shetland Islands"
+  ],
+  "dct_issued_s": "2009-10",
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "solr_geom": "ENVELOPE(-64.729803, -50.606272, -59.426898, -65.805149)",
+  "solr_year_i": 1820,
+  "harvard_collectionID_sm": [
+    "990115048650203941"
+  ]
+}

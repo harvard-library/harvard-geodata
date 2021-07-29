@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5831-h1-1781-d8",
+  "dc_title_s": "Mineral Resources, France, 1784 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte mineralogique de France : ou sont marques les differens terreins principaux qui partagent ce Royaume, et les substances particulieres qu'il renferme, dressee sur les observations de Mr. Guettard de l'Accademie des Sciences, par Mr. Dupain-Triel, pere, Geog'he du Roy et de Monsieur Censeur Royal, 1781. It was published by Chez Mr. Dupain-Triel, pere, Geo.ghe du Roy et de Monsieur in 1781. Scale approximately 1:2,750,000. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as mines and mineral resource locations, geologic areas, drainage, cities and other human settlements, territorial and administrative boundaries, and more. Relief shown pictorially. Includes also note, 2 legends, coat of arms, and illustration of mining.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5831_H1_1781_D8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5831_H1_1781_D8",
+  "layer_slug_s": "harvard-g5831-h1-1781-d8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Dupain-Triel, Jean Louis, 1722-1805, cartographer, publisher.",
+    "Guettard, Jean Etienne, 1715-1786."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Mines and mineral resources",
+    "Geology",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "solr_geom": "ENVELOPE(-10.462193, 12.286358, 52.522117, 39.780293)",
+  "solr_year_i": 1781,
+  "harvard_collectionID_sm": [
+    "990137435810203941"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-madrg-k42071f5",
+  "dc_title_s": "Townsend, Massachusetts, 1988 (USGS 7.5 x 15 Minute Quadrangle DRG)",
+  "dc_description_s": "This layer is a digital raster graphic of the 7.5 x 15 Minute USGS topographic map of the Townsend, Massachusetts quadrangle, 1988. Scale 1:25,000. The DRG was published in 1996. A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The source paper map was produced by the United States Geological Survey. It was compiled by photogrammetric methods from aerial photographs taken 1980-1981. Field checked 1983. Map edited 1988. The names of quadrangles which border this one appear in a table on the map collar in their respective positions (N,S,E,W) in relation to this map.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MADRG_K42071F5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MADRG_K42071F5",
+  "layer_slug_s": "harvard-madrg-k42071f5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-11-14T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "United States Geological Survey"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Townsend",
+    "Lunenburg",
+    "Pepperell",
+    "Groton",
+    "Shirley",
+    "Dunstable"
+  ],
+  "dct_issued_s": "1996-02-28",
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "solr_geom": "ENVELOPE(-71.763775, -71.456634, 42.762457, 42.612545)",
+  "solr_year_i": 1988,
+  "harvard_collectionID_sm": [
+    "990072954620203941"
+  ]
+}

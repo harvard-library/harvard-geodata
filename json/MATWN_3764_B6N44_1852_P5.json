@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-matwn-3764-b6n44-1852-p5",
+  "dc_title_s": "Boston and vicinity, Massachusetts -- Water works, 1852 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the Boston water works, prepared under the direction of the Cochituate Water Board ; E.S. Chesbrough, city engineer ; drawn by Charles Perkins. It was published in 1852. Scale [1:38,400]. It covers the area Lake Cochituate (Natick, Framingham, Wayland) to Boston Harbor, and Everett to Dorchester, Massachusetts. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows water supply lines and features such as culverts, gatehouses, drains, waste weirs, tunnels, aqueducts, and reservoirs. Shows also features including roads, railroads, drainage, town boundaries, and more. Includes 2 profiles: Profile [of main branch] -- Profile of South Boston branch. Vertical scale [1:1,200]. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MATWN_3764_B6N44_1852_P5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MATWN_3764_B6N44_1852_P5",
+  "layer_slug_s": "harvard-matwn-3764-b6n44-1852-p5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-05-08T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Perkins, Charles.",
+    "Chesbrough, Ellis Sylvester, 1813-1886.",
+    "Boston (Mass.). Cochituate Water Board."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Waterworks",
+    "Water-supply",
+    "City planning",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "utilitiesCommunication"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston",
+    "Framingham",
+    "Natick",
+    "Wayland",
+    "Weston",
+    "Wellesley",
+    "Waltham",
+    "Newton",
+    "Belmont",
+    "Watertown",
+    "Brookline",
+    "Cambridge",
+    "Somerville",
+    "Everett",
+    "Chelsea",
+    "Winthrop",
+    "Boston Harbor",
+    "Lake Cochituate"
+  ],
+  "dct_issued_s": "2006-04",
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "solr_geom": "ENVELOPE(-71.426601, -70.920044, 42.437052, 42.200103)",
+  "solr_year_i": 1852,
+  "harvard_collectionID_sm": [
+    "990094522930203941"
+  ]
+}

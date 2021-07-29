@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Aerospace Center (U.S.)</origin>
+        <origin>United States. National Imagery and Mapping Agency.</origin>
+        <origin>United States. Defense Mapping Agency.</origin>
+        <origin>Harvard University. Center for Geographic Analysis.</origin>
+        <origin>East View Cartographic, Inc.</origin>
+        <pubdate>2009</pubdate>
+        <title>South Africa, 1985, Tactical Pilotage Chart (TPC) R-4A (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-am-tpc-r04al</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the United States Aerospace Center's Tactical Pilotage Chart (TPC) 1:500,000 map series sheet entitled: TPC R-4A : South Africa. Edition: 1. Revision date: 1985. Printed in: 2003. Covers all or portions of: South Africa.
+
+The image inside the map neatline is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. All map collar information is also available as part of the raster image. Series source sheets are of varying revision dates (1973-2001) and editions, published by the U.S. Defense Mapping Agency/U.S. National Imagery and Mapping Agency (later the National Geospatial-Intelligence Agency). Some sheets published by the UK Ministry of Defence (later the Defence Geographic and Imagery Intelligence Agency).
+
+The source map was scanned and georeferenced for Harvard University's Center for Geographic Analysis' AfricaMap project by East View Cartographic. Individual TPC sheets covering a large portion of Africa (137 sheets in total) were selected from the worldwide TPC series.  
+
+The Tactical Pilotage Chart (TPC) is the standard worldwide medium-scale aeronautical chart series. The TPC and other aeronautical navigation and planning charts provide essential cartographic data appropriate to scale, and are overprinted with stable aeronautical information such as obstructions, aerodromes, special use airspace, navigational aids, Maximum Elevation Figures (MEFs), and related data. 
+
+TPC's also show selected topographic, cultural and hydrographic features such as: city outlines, towns and villages, rivers, lakes, landmark features (labeled), roads, railroads, towers, transmission lines, other landmarks, vegetation areas, clearings, and more. Ground elevation is indicated by contours (500-foot intervals with intermediate contours shown at 250 feet), shading, tints, and spot heights.
+
+Please pay close attention to map collar information for original projection information, keys and legends to grid and chart numbering and other numbers, elevations, aeronautical information, vertical obstacles, ground cover, cultural features, and other data which appear inside the neatline.</abstract>
+      <purpose>TPC's are designed for very low-altitude (below 500 feet above ground level) through medium-altitude high-speed visual and radar navigation. Also used for mission planning/analysis and intelligence briefings, and are source for navigational filmstrips, special purpose, and cockpit/visual display products.
+
+The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1985</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>16.170928</westbc>
+        <eastbc>24.341275</eastbc>
+        <northbc>-31.710502</northbc>
+        <southbc>-36.556032</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Aeronautical charts</themekey>
+        <themekey>Landforms</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>South Africa</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Geographic Analysis</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>CGIS K-00A</address>
+          <address>CGIS Knafel Building</address>
+          <address>1737 Cambridge St.</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>contact@help.cga.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.
+
+In regard to the source maps: The representation of boundaries are not necessarily authoritative.</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>Data completeness for raster image files reflect content of the source graphic.  Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints. For instance with TPCs because of scale, some features, including obstructions, are generalized in developed regions (only the highest obstruction within ticked area or urban quadrant is shown).</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing and georeferencing process.  In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic. 
+
+While the data of the published map is retained in the georeferenced image, the image is referenced to the World Geographic Reference 1984 system, which is inconsistent with the original projection of the paper map, and may lead to discrepancies in the horizontal accuracy of the raster image.
+
+The Root Mean Square (RMS) error for this map is 54.9721 meters.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+        <qhorizpa>
+          <horizpav>100 meters</horizpav>
+          <horizpae>1:500,000 Tactical Pilotage Charts</horizpae>
+        </qhorizpa>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Refer to the raster image collar for information about vertical positional accuracy.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Aerospace Center (U.S.)</origin>
+            <origin>United States. National Imagery and Mapping Agency.</origin>
+            <origin>United States. Defense Mapping Agency.</origin>
+            <pubdate>2003</pubdate>
+            <title>TPC R-4A : South Africa</title>
+            <edition>Ed. 1</edition>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>TPC</sername>
+              <issue>R-4A</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>St. Louis, Mo.</pubplace>
+              <publish>U.S. Aerospace Center, Defense Mapping Agency</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>Aerospace Center (U.S.)</origin>
+                <origin>United States. National Imagery and Mapping Agency.</origin>
+                <origin>United States. Defense Mapping Agency.</origin>
+                <pubdate>1900-</pubdate>
+                <title>Tactical Pilotage Charts, TPC, [Africa]</title>
+                <geoform>map</geoform>
+                <pubinfo>
+                  <pubplace>St. Louis, Mo.</pubplace>
+                  <publish>U.S. Aerospace Center, Defense Mapping Agency</publish>
+                </pubinfo>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>500000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1985</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>TPC (Paper)</srccitea>
+        <srccontr>Original map was scanned and georeferencing.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>1) Paper maps were scanned as 400 dpi TIFF images and post-processed
+
+2) Georeferencing
+     A.  Maps georeferenced with Microstation Image Analyst
+     B.  Grid lines and corner coordinates were used as reference points
+     C.  Second-order polynomial transformation was used for geographic/WGS84 projection</procdesc>
+        <srcused>TPC (Paper)</srcused>
+        <procdate>2008</procdate>
+        <srcprod>TPC (Georeferenced TIFF)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>East View Cartographic Inc.</cntorg>
+              <cntper>Michael Cloutier</cntper>
+            </cntorgp>
+            <cntpos>Senior Sales and Customer Service Representative</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>10601 Wayzata Boulevard</address>
+              <city>Minneapolis</city>
+              <state>MN</state>
+              <postal>55305</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>952.252.1205</cntvoice>
+            <cnttdd>877.856.6705</cnttdd>
+            <cntfax>952.252.1202</cntfax>
+            <cntemail>webmaps@cartographic.com</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The Batch Convert/Reproject tool in Global Mapper 10 was used to batch convert the georeferenced TIFFs to georeferenced JP2s.</procdesc>
+        <srcused>TPC (Georeferenced TIFF)</srcused>
+        <procdate>2009</procdate>
+        <srcprod>TPC (Georeferenced JP2)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Center for Geographic Analysis</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University</address>
+              <address>CGIS K-00A</address>
+              <address>CGIS Knafel Building</address>
+              <address>1737 Cambridge St.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntemail>contact@help.cga.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>16671</rowcount>
+      <colcount>28110</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map.  The colors on that sheet represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and national and international boundaries.  The colors are explained in a legend that is incorporated into the map collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>JPEG2000</formname>
+          <filedec>no compression applied</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090717</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

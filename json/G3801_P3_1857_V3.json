@@ -1,0 +1,57 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3801-p3-1857-v3",
+  "dc_title_s": "New York Railroads, 1857 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the rail-roads of the state of New York, prepared under the direction of Silas Seymour, state engineer surveyor ; drawn by David Vaughn. It was published by C. Van Benthuysen in 1857. Scale [ca. 1:1,000,000]. Covers New York and portions of surrounding states and provinces. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) Zone 18N NAD83 projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads (completed and proposed), canals, drainage, selected cities and towns, county and state boundaries, and more. Relief is shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3801_P3_1857_V3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3801_P3_1857_V3",
+  "layer_slug_s": "harvard-g3801-p3-1857-v3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-11-26T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Vaughan, David, fl. 1849-1864.",
+    "Van Benthuysen, C. (Charles), 1817-1881."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Transportation",
+    "Railroads",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Vermont",
+    "New Hampshire",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New Jersey",
+    "Pennsylvania",
+    "Canada",
+    "Ontario"
+  ],
+  "dct_issued_s": "2007-11",
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "solr_geom": "ENVELOPE(-80.873058, -70.885706, 45.78082, 39.883162)",
+  "solr_year_i": 1857,
+  "harvard_collectionID_sm": [
+    "990097248230203941"
+  ]
+}

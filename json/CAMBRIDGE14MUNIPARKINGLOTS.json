@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cambridge14muniparkinglots",
+  "dc_title_s": "Municipal Parking Lots, Cambridge, Massachusetts, 2014",
+  "dc_description_s": "This layer contains point features of all municipal parking lots in the City of Cambridge.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CAMBRIDGE14MUNIPARKINGLOTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:CAMBRIDGE14MUNIPARKINGLOTS",
+  "layer_slug_s": "harvard-cambridge14muniparkinglots",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2014-06-13T00:00:00Z",
+  "dc_creator_sm": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_publisher_s": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Parking facilities",
+    "Parking garages",
+    "Parking lots",
+    "transportation",
+    "City of Cambridge",
+    "Municipal parking lots",
+    "city parking lots",
+    "parking",
+    "traffic"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_isPartOf_sm": [
+    "City of Cambridge MA GIS Data 2014"
+  ],
+  "solr_geom": "ENVELOPE(-71.122144, -71.078118, 42.374294, 42.363992)",
+  "solr_year_i": 2014,
+  "harvard_collectionID_sm": [
+    "990142665020203941"
+  ]
+}

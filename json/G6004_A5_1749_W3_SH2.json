@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6004-a5-1749-w3-sh2",
+  "dc_title_s": "Amsterdam Region, the Netherlands, 1749 (Image 2 of 3) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Kaarte van alle de dykpligtige en eenige waalpligtige landen behorende onder het Hoogreemraadschap van den Zeeburg en Diemerdyk, J. Wandelaar, delin. et sculpsit. It was published in 1749. Scale [ca. 1:6,000]. This layer is image 2 of 3 total images of the three sheet source map, representing the central portion of the map. Covers the region east of Amsterdam, the Netherlands including portions of Gemeente Amsterdam, Gemeente Diemen, Gemeente Muiden, and Gemeente Weesp. Map in Dutch.The image inside the map neatline is georeferenced to the surface of the earth and fit to the RD_New (Rijksdriehoekstelsel), GCS Amersfoort coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, canals, cities and other human settlements, administrative boundaries, roads, propery boundaries with names of landowners, selected buildings and built-up areas, fortification, dikes, dams, windmills, shoreline features, and more. Relief shown by hachures. Depths shown by soundings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6004_A5_1749_W3_SH2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6004_A5_1749_W3_SH2",
+  "layer_slug_s": "harvard-g6004-a5-1749-w3-sh2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-10-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Wandelaar, Jan, 1690-1759."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Real property",
+    "Landowners",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "planningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Amsterdam",
+    "Amsterdam, Gemeente",
+    "Diemen, Gemeente",
+    "Muiden, Gemeente",
+    "Weesp, Gemeente"
+  ],
+  "dct_issued_s": "2014-10",
+  "dct_temporal_sm": [
+    "1749"
+  ],
+  "solr_geom": "ENVELOPE(4.911459, 5.076601, 52.351404, 52.323107)",
+  "solr_year_i": 1749,
+  "harvard_collectionID_sm": [
+    "990129721490203941"
+  ]
+}

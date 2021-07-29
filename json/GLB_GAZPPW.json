@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-glb-gazppw",
+  "dc_title_s": "Global GIS : Gazetteer of populated places, Western Hemisphere (excluding U.S.)",
+  "dc_description_s": "This datalayer is a point coverage representing a gazetteer of populated place features located between the Greenwich meridian (0 degrees) and 180 degrees west of the Greenwich meridian, encompassing the Western Hemisphere, excluding the United States and Antarctica. Features and attributes were derived from the GNS (GEOnet Names Server) and include populated place names. The GEOnet Names Server provides access to the National Geospatial-Intelligence Agency's (NGA) (formerly the National Imagery and Mapping Agency (NIMA)) database of foreign geographic feature names. Approximately 20,000 of the database's 3.5 million features are updated monthly with names information approved by the U.S. Board on Geographic Names (US BGN). The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GLB_GAZPPW.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GLB_GAZPPW",
+  "layer_slug_s": "harvard-glb-gazppw",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-03-29T00:00:00Z",
+  "dc_creator_sm": [
+    "United States. National Geospatial-Intelligence Agency",
+    "Geological Survey (U.S.)",
+    "American Geological Institute",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "American Geological Institute"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Names, Geographical",
+    "Gazetteers",
+    "Cities and towns",
+    "Human settlements",
+    "location",
+    "Populated places"
+  ],
+  "dct_spatial_sm": [
+    "Western Hemisphere",
+    "North America",
+    "South America",
+    "Africa",
+    "Europe"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "Global GIS : global coverage",
+    "U.S. Geological Survey digital data series"
+  ],
+  "solr_geom": "ENVELOPE(-179.983337, -0.000556, 82.48333, -54.933334)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990100637310203941"
+  ]
+}

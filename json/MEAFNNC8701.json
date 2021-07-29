@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-meafnnc8701",
+  "dc_title_s": "Massachusetts Municipal Expenditures, 1985-2001",
+  "dc_description_s": "This datalayer is a polygon coverage for Massachusetts towns which displays town boundaries and municipal general fund expenitures organized by function (Police, Fire, Recreation, etc.) for the Fiscal Years 1987 through 2001. This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. For more information on the definitions, data sources and process steps please read the 'Supplemental Information' and 'Data Quality' sections which follow. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEAFNNC8701.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEAFNNC8701",
+  "layer_slug_s": "harvard-meafnnc8701",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2004-05-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "economy",
+    "Municipal budgets",
+    "Municipal government"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "FY19-FY20"
+  ],
+  "solr_geom": "ENVELOPE(-73.50824, -69.927802, 42.886818, 41.237962)",
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

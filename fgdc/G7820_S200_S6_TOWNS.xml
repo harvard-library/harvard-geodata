@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>East View Cartographic, Inc.</origin>
+        <origin>Harvard University. Center for Geographic Analysis.</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>Zhejiang Sheng, China : Towns</title>
+        <edition>1</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g7820-s200-s6-towns</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Vector dataset showing populated places (with names in Russian) over an area of the Zhejiang Sheng region, China, 1979.  Dataset was derived from 6 sheet maps from a series of Soviet Army topographic maps of China 1:200,000, prepared and printed by the Soviet Army General Headquarters, 1976-1991.
+   
+Source maps were scanned and georeferenced to the Gauss-Kruger projection by Harvard Map Collection staff.  Roads were traced and points were placed in ArcMap from the GeoTIFF using heads-up digitizing by East View Cartographic, Inc.</abstract>
+      <purpose>Dataset was produced to create a vector dataset of the populated places (with names in Russian) over the Zhejiang Sheng region of China for the Harvard University Center for Geographic Analaysis.  Data was created March 2007 from available Soviet 200K source maps held in the Harvard Map Collection.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1979</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source maps ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>118.964018</westbc>
+        <eastbc>121.064941</eastbc>
+        <northbc>30.041674</northbc>
+        <southbc>27.960412</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Human settlements</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Villages</themekey>
+      </theme>
+      <theme>
+        <themekt>Soviet source, cyrillic names</themekt>
+        <themekey>China, roads, Russian, cyrillic</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>China</placekey>
+        <placekey>Zhejiang Sheng</placekey>
+      </place>
+    </keywords>
+    <accconst>UNRESTRICTED</accconst>
+    <useconst>UNRESTRICTED</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Geographic Analysis</cntorg>
+          <cntper>Peter Bol</cntper>
+        </cntorgp>
+        <cntpos>Director</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>1737 Cambridge, N319-N321</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>contact@cga.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browset>TIFF</browset>
+    </browse>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Sheet H-50-XXIV : Zhejiang Sheng Region (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-50-XXIV</othercit>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Sheet H-50-XXX : Zhejiang Sheng Region (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-50-XXX</othercit>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Lishui Region, Zhejiang Sheng (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-50-XXXVI</othercit>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Shaoxing Region, Zhejiang Sheng (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-51-XIX</othercit>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Xianju Region, Zhejiang Sheng (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-51-XXV</othercit>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Wezhou Region, Zhejiang Sheng (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-51-XXXI</othercit>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+            <pubdate>1976-1991</pubdate>
+            <title>[China 1:200,000]</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Moscow</pubplace>
+              <publish>Soviet Union. Soviet Army. General Headquarters.</publish>
+            </pubinfo>
+            <othercit>Sheets: H-50-XXIV , H-50-XXX, H-50-XXXVI, H-51-XIX, H-51-XXV , H-51-XXXI</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>200000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1979</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Soviet Army Topo Maps (Paper)</srccitea>
+        <srccontr>Source maps from which the vector data is derived.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Harvard Map Collection, Harvard College Library</origin>
+            <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+            <pubdate>2004</pubdate>
+            <title>[China 1:200,000]</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Cambridge, Mass.</pubplace>
+              <publish>Harvard Map Collection, Harvard College Library</publish>
+            </pubinfo>
+            <othercit>see cross references section</othercit>
+            <onlink>http://hgl.harvard.edu</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srccitea>Soviet Army Topo Maps (Digitized)</srccitea>
+        <srccontr>Georeferenced TIFF files from which vector data was derived.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>1. Soviet 200K source maps supplied by Harvard University Center for Geographic Analysis.  GeoTIFFs in Gauss-Kruger, Pulkovo, zn20.
+
+2.  Feature Extraction:
+
+a.)  Data is sent to subcontractor for feature extraction.
+b.)  Raster is opened in MapInfo 8.5.
+c.)  New layer is created according to specifications.
+d.)  Map is set to digitizing level (same as source map scale: 1:200,000)
+e.)  Nodes are placed for polygons.
+Nodes are placed as to simulate the "real" geographic nature of the line.  For coastlines the contour is smooth (more nodes) for country borders - more "edge-like". 
+f.)  After all polygons are created, attributes are assigned in the object list. 
+- Screen is centered on the object from the list
+- All attributes are read from the raster and put into the attribute table.
+- Russian names were assigned in cyrillic. 
+g.)  Operator will check that data is complete and do a selective check of object attributes (spelling, etc.)
+h.)  Data is exported to ArcGIS.
+i.)  Polygon topology is verified.
+j.)  Shapefiles are opened in MapInfo and saved for export.
+k.)  Project Manager will QC datasets and send back for rework as necessary.
+i.)  Dataset is sent back to East View for final check.  Corrections are made by East View, or sent back for subcontractor to correct if needed.</procdesc>
+        <srcused>Soviet Army Topo Maps (Digitized)</srcused>
+        <procdate>200703</procdate>
+        <srcprod>Shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>East View Cartographic, Inc.</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>3020 Harbor Ln N</address>
+              <city>Minneapolis</city>
+              <state>MN</state>
+              <postal>55447</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>763-550-0965</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The ArcGIS 9.2 Feature Class to Feature Class tool was used to move the geographic shapes into SDE without any attribute information except for an ID number.  Microsoft Access was used to create an XML file containing just the attributes from the shape file, including the UTF8 encoded Cyrillic names.  The XML file was imported to a new table in Oracle using SQLLoader with the NLS_CHARACTERSET property set to UTF8.  The attributes were then joined back to the shapes using SQLPlus with the NLS_LANGUAGE property set to Russian.  This process ensured that the UTF8 encoding was properly interpreted during the import.</procdesc>
+        <srcused>Shapefile</srcused>
+        <procdate>200706</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>10841</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <transmer>
+            <sfctrmer>1.000000</sfctrmer>
+            <longcm>117.000000</longcm>
+            <latprjo>0.000000</latprjo>
+            <feast>20500000.000000</feast>
+            <fnorth>-1500.000000</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000110</absres>
+            <ordres>0.000110</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Pulkovo_1942</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>G7820_S200_S6_TOWNS</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>NAME_CYR</attrlabl>
+        <attrdef>Name of town in Cyrillic</attrdef>
+        <attrdefs>CGA</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070706</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Geographic Analysis</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>1737 Cambridge, N319-N321</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>contact@cga.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

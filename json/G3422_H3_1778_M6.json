@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3422-h3-1778-m6",
+  "dc_title_s": "Halifax Harbour, Nova Scotia, Canada, 1778 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper nautical chart entitled: Port de Halifax de la Nouvelle Ecosse : avec les recifs, dangers, bas fonds et sondes, leve par ordre du brigadier general Lawrence, gouverneur de la province, par Morris, premier arpenteur; publie a Londres en 1775. It was published chez le Rouge, rue des Grands Augutins in 1778. Scale [ca. 1:63,360]. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the UTM Zone 20N NAD83 (meters) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as drainage, fortifications, and human settlements. Depths are shown by soundings and shading. Includes text. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3422_H3_1778_M6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3422_H3_1778_M6",
+  "layer_slug_s": "harvard-g3422-h3-1778-m6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-02-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Morris, Charles, surveyor.",
+    "Le Rouge, Georges-Louis."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Fortification",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Nova Scotia",
+    "Halifax Harbour",
+    "Halifax"
+  ],
+  "dct_issued_s": "2009-02",
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "solr_geom": "ENVELOPE(-63.834859, -63.276939, 44.84406, 44.330826)",
+  "solr_year_i": 1778,
+  "harvard_collectionID_sm": [
+    "990102324480203941"
+  ]
+}

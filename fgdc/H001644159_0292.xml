@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard Library</origin>
+        <origin>Blaeu, Willem Janszoon, 1571-1638.</origin>
+        <pubdate>201404</pubdate>
+        <title>Norwegian Sea, North Coast of Norway, 1625 (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-h001644159-0292</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of a map plate entitled: Pascaarte vant Noordersche deel van Noorwegen van Dronten aff tot om de Noortcaap toe, met alle de eijlanden aende selfde custen gheleghen, alles gestelt op zijne rechte Streckinghen en behoorlijcke distantien, from the Willem Blaeu atlas entitled: Het licht der see-vaert : daerinne claerlijck beschreven ende afghebeeldet werde, alle de custen ende havenen vande Westersche, Noordsche, Oostersche ende Middelandsche zeen. It was published by Jan Janszoon, 1623-1625. This image covers Norwegian Sea, north coast of Norway. Scale ca. 1:2,000,000. Map in Dutch and French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Geodetic System 1984 (WGS 84) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as roads, cities and towns, and other points of interest. Shows relief with hachures. Depths shown by shading and soundings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.</abstract>
+      <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1625</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>6.101274</westbc>
+        <eastbc>28.809672</eastbc>
+        <northbc>77.420364</northbc>
+        <southbc>60.947197</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Nautical charts</themekey>
+        <themekey>Coasts</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Harbors</themekey>
+        <themekey>Hydrography</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Landforms</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>transportation</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Norwegian Sea</placekey>
+        <placekey>Barents Sea</placekey>
+      </place>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Norway</placekey>
+        <placekey>S?r-Tr?ndelag</placekey>
+        <placekey>Nord-Tr?ndelag</placekey>
+        <placekey>Nordland</placekey>
+        <placekey>Troms</placekey>
+        <placekey>Finnmark</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcGIS 10.1</native>
+    <crossref>
+      <citeinfo>
+        <origin>Blaeu, Willem Janszoon, 1571-1638.</origin>
+        <pubdate>1623-1625</pubdate>
+        <title>Het licht der see-vaert : daerinne claerlijck beschreven ende afghebeeldet werde, alle de custen ende havenen vande Westersche, Noordsche, Oostersche ende Middelandsche zeen ...</title>
+        <geoform>atlas</geoform>
+        <pubinfo>
+          <pubplace>Amsterdam</pubplace>
+          <publish>Ghedruckt by Jan Janszoon</publish>
+        </pubinfo>
+        <othercit>[52], 114, 118 p. : ill. ; 27 x 30 cm.</othercit>
+        <onlink>http://nrs.harvard.edu/urn-3:FHCL:5347094</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing (e.g. the gutter fold of the atlas may not be perfectly flat during the imaging process) and georeferencing process. In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic.  The RMS error for this map is 0.24690 Decimal Degrees. This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Blaeu, Willem Janszoon, 1571-1638.</origin>
+            <pubdate>1623-1625</pubdate>
+            <title>Pascaarte vant Noordersche deel van Noorwegen van Dronten aff tot om de Noortcaap toe, met alle de eijlanden aende selfde custen gheleghen, alles gestelt op zijne rechte Streckinghen en behoorlijcke distantien.</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Amsterdam</pubplace>
+              <publish>Ghedruckt by Jan Janszoon</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>Blaeu, Willem Janszoon, 1571-1638.</origin>
+                <pubdate>1623-1625</pubdate>
+                <title>Het licht der see-vaert : daerinne claerlijck beschreven ende afghebeeldet werde, alle de custen ende havenen vande Westersche, Noordsche, Oostersche ende Middelandsche zeen ...</title>
+                <geoform>atlas</geoform>
+                <pubinfo>
+                  <pubplace>Amsterdam</pubplace>
+                  <publish>Ghedruckt by Jan Janszoon</publish>
+                </pubinfo>
+                <othercit>[52], 114, 118 p. : ill. ; 27 x 30 cm.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1625</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map for raster image</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper map on a high-resolution scanner (Colortrac Smart LF Gx+T42 scanner and SmartWorksPro version 1.1.1.5 scanning software) at 400dpi.  Resulting images were rotated and cropped as needed using Adobe Photoshop CS5 Extended version 12.0. Images were saved as lossless JPEG2000 files.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2013</procdate>
+        <srcprod>JP2 Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Using ArcMap 10.1 software, the digital JPEG2000 image was georeferenced to common points located on digital vector shapefiles. For this image, the following vector shapefile was used as a base map for reference: A Global Self-consistent, Hierarchical, High-resolution Shoreline Database (National Geophysical Data Center, 1996) (1:100,000). The base map data is displayed in the World Geodetic System 1984 (WGS 84) coordinate system, and the image was subsequently georeferenced to the same projection. A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
+        <srcused>JP2 Map Image</srcused>
+        <procdate>2013</procdate>
+        <srcprod>Georeferenced Raster Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>3342</rowcount>
+      <colcount>7521</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map. The colors on that sheet can represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and boundaries. The colors are sometimes explained in a legend that is incorporated into the map inset or collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>JPEG2000</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140407</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Metadata Librarian</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

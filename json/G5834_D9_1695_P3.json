@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5834-d9-1695-p3",
+  "dc_title_s": "Dunkerque, France, 1695 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan en profil van Duynkerken : met sijn sterktens en zee-kasteelen, belegert te water, engebombardeert door de Engelse en Hollantse zee-magten, onder de Engelse admiraal Berkly en Hollantse admiraal Alemonde, op den Augustus, 1695, doen maken en uytgeven na de autentijke tekeninge van Monsieur Pamer, Ingenieur van Sijn Kon. Majest. van Groot Brittannien. It was published by Pieter Persoy, op den Dam in 1695. Scale [ca. 1:13,000]. Covers a portion of Dunkerque, France. Map in Dutch. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortifications and defenses, canals, docks, ground cover, and more. Includes also index and panorama view.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5834_D9_1695_P3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5834_D9_1695_P3",
+  "layer_slug_s": "harvard-g5834-d9-1695-p3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-10-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Pamer, ing.",
+    "Persoy, Pieter."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "Dunkerque"
+  ],
+  "dct_issued_s": "2014-10",
+  "dct_temporal_sm": [
+    "1695"
+  ],
+  "solr_geom": "ENVELOPE(2.293266, 2.466235, 51.079714, 50.976123)",
+  "solr_year_i": 1695,
+  "harvard_collectionID_sm": [
+    "990122613040203941"
+  ]
+}

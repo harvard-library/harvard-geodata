@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Schruben, Paul G.</origin>
+        <origin>Arndt, Raymond E.</origin>
+        <origin>Bawiec, W. J.</origin>
+        <origin>Ambroziak, Russell A.</origin>
+        <origin>King, Philip Burke, 1903-</origin>
+        <origin>Beikman, Helen M.</origin>
+        <origin>Edmonston, Gertrude J.</origin>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>American Geological Institute</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Geology of the conterminous United States at 1:2,500,000 scale : Faults</title>
+        <geoform>vector digital data</geoform>
+        <serinfo/>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-us-flt</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polyline coverage representing geologic faults of the conterminous United States.  It is a digital version of the fault features of H.M. Beikman and P.B. King's Geologic Map of the United States, originally published at a scale of 1:2,500,000 (1974).  This version of the datalayer was published as part of the USGS Global GIS : global coverage database (2003). 
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This layer is a general purpose United States geologic faults datalayer intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.
+
+(description of original map production from King and Beikman, 1974) : 
+   First of all, the map displays the rocky foundations on which our of investigation of this foundation by a succession of geologists.  It is thus a reference work that present and future geologists of the country can consult and is of prime importance in the education of earth scientists in schools and colleges.  Further, it can be consulted by geologists in other countries and continents who wish to learn about the geology of the United States;  they will compare the map with similar national or continental maps of their own countries.
+
+   In terms of resources useful to man, the Geologic Map lays out accurately the major regions of bedrock in the United States upon which many facets of our economy depend.  It illustrates the areas of stratified rocks that are the sources of most of our fuels, and the areas of crystalline, plutonic, and volcanic rocks that contain important parts of mineral wealth.  The map shows areas of complex folding and faulting, parts of which are still tectonically unstable and subject to earthquake hazards.  To some extent the bedrock represented on the map also influences surface soils, which are of interest in agriculture and engineering works.
+     
+   Beyond this, the practical value of the map is less tangible, although it can be an important tool for the discerning user. Clearly, the map will not pinpoint the location of the next producing oil well or the next bonanza mine, nor will it give specific advice for the location of a dam or reactor site;  these needs can only be satisfied by maps on much larger scales, designed for specific purposes.  Nevertheless, the sapient exploration geologist can find upon it significant regional features not apparent to the untrained user.  Many great petroleum pools occur in stratigraphic traps, or "wedge belts of porosity," caused by overlap or truncation, the regional occurrence of which can be seen on the map.  Important mineral deposits cluster along regional tectonic trends or chains of plutons of specific ages. Finally, the Geologic Map will be used in national planning activities in conjunction with other national maps showing environmental features such as climate, vegetation, and land use--for the location of power transmission corridors, highways, National Parks, wilderness areas, reclamation projects, and the like.</purpose>
+      <supplinf>The first published digital version of Beikman and King's map for use in a GIS was produced by the USGS in 1994 on CD-ROM, entitled: Geology of the conterminous United States at 1:2,500,000 scale : a digital representation of the 1974 P.B. King and H.M. Beikman map.  The datalayer was also later made available for download as a ZIP ArcInfo Interchange File from the USGS Web site (http://purl.access.gpo.gov/GPO/LPS20950).  Comparing the Interchange File from the USGS Web site with Global GIS datalayer (2003) shows the same number of features (16,075), but attribute fields are slightly different.
+
+The text: Explanatory text to accompany the geologic map of the United States, by H.M. Beikman and P.B. King (USGS Professional Paper 901, 1974) describes the historical background of the original paper map, details of the compilation process, and limitations to interpretation.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>1974</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2003</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>Publication date of the original work (1974) and the Global GIS DVD (2003)</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>not planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.693108</westbc>
+        <eastbc>-67.025742</eastbc>
+        <northbc>49.031315</northbc>
+        <southbc>27.227633</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Faults (Geology)</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Paul Schruben</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>954 National Center</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>22092-9998</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(703) 648-6142</cntvoice>
+        <cntfax>(703) 648-6383</cntfax>
+        <cntemail>pschrube@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Data General AViiON 6220 computer system running the DG/UX version of UNIX.</native>
+    <crossref>
+      <citeinfo>
+        <origin>King, Philip Burke, 1903-</origin>
+        <origin>Beikman, Helen M.</origin>
+        <pubdate>1974</pubdate>
+        <title>Explanatory text to accompany the geologic map of the United States</title>
+        <geoform>document</geoform>
+        <serinfo>
+          <sername>United States. Geological Survey. Professional paper</sername>
+          <issue>901</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Washington, D.C.</pubplace>
+          <publish>U.S. Govt. Print. Off.</publish>
+        </pubinfo>
+        <onlink>http://pubs.usgs.gov/dds/dds11/pp901_html/1_PP901.HTML</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The linework was captured by hand digitizing as well as scanning from the paper map and negatives.  The digital map was assembled and edited in ARC/INFO on a State-by-State basis, which caused some edge-matching problems.  The final mosaic was adjusted several times to correct for registration problems.  The coastline was taken from the 1:2,000,000 scale Digital Line Graph data (U.S. Geological Survey, 1987), generalized to 1 km.
+
+Construction of a geologic map of an area as large and complex as the conterminous United States requires a great deal of generalization: geologic units shown on larger scale maps are combined into broader map units and their contacts are simplified to produce a pattern that is legible at the scale of publication.  The process of generalization used in the compilation of the Geologic Map of the United States is described in King and Beikman (1974, p. 20).
+
+Furthermore, the Geologic Map of the United States is primarily a bedrock map, which depicts geologic materials present beneath the soil or relatively thin mantles of surficial deposits, not necessarily the surficial materials themselves.  For example, the map does not depict the glacial deposits in the northern States, the widespread eolian deposits in the High Plains, and the high-level gravels that mantle older Tertiary and pre-Tertiary units in much of the Atlantic and Gulf Coastal Plains.</attraccr>
+    </attracc>
+    <logic>Chain-node topology present.</logic>
+    <complete>This datalayer for the digital geologic map of the conterminous United States differs in several ways from the published map.  The county outlines, cities, drainage, and other base-map information are not present on the digital version.
+
+The map does not include coverage of Alaska, Hawaii, or territories.
+
+Faults are shown on the Geologic Map of the United States, not only to explain offsets of map units, but for their own sake, to express the structural grain of the area. The density of faults represented on the geologic map thus equals that which would appear on a tectonic map of the country, but they are marked simply as faults, not as low-angle or high-angle thrust faults, normal faults, or strike-slip faults; for this information the user should consult the appropriate tectonic map.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The users of the geologic map on this datalayer should respect the intentions of the compilers of the map and some of its limitations.  The Geologic Map of the United States (King and Beikman, 1974) is intended to be used at a scale of 1:2,500,000; it is not intended to be used at a more detailed scale.  For instance, Colorado is about 10 inches wide at the published scale of the King and Beikman map.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>King, Philip Burke, 1903-</origin>
+            <origin>Edmonston, Gertrude J.</origin>
+            <pubdate>1974</pubdate>
+            <title>Geologic map of the United States (exclusive of Alaska and Hawaii)</title>
+            <geoform>map</geoform>
+            <serinfo/>
+            <pubinfo>
+              <pubplace>[Reston, Va.]</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>compiled by Philip B. King and Helen M. Beikman ; geologic cartography by Gertrude J. Edmonston.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2500000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1974</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>King and Beikman (1974)</srccitea>
+        <srccontr>Data presented on USGS DDS-11 were produced by scanning this printed map.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Schruben, Paul G.</origin>
+            <origin>Arndt, Raymond E.</origin>
+            <origin>Bawiec, W. J.</origin>
+            <origin>Ambroziak, Russell A.</origin>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>1994</pubdate>
+            <title>Geology of the conterminous United States at 1:2,500,000 scale : a digital representation of the 1974 P.B. King and H.M. Beikman map</title>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-11</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>by Paul G. Scruben, Raymond E. Arndt, and Walter J. Bawiec ; display software by Russell A. Ambroziak.
+
+kbf - faults data</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2500000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1994</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Schruben (1994)</srccitea>
+        <srccontr>Original digitized version.  Global GIS version derived from this version?</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The linework was captured by hand digitizing as well as scanning from the paper map and negatives.  The digital map was assembled and edited in ARC/INFO on a State-by-State basis, which caused some edge-matching problems.  The final mosaic was adjusted several times to correct for registration problems.  The coastline was taken from the 1:2,000,000 scale Digital Line Graph data (U.S. Geological Survey, 1987), generalized to 1 km.
+
+The ARC/INFO version of the Geologic Map of the United States consists of three coverages:
+
+1) geology - 12,800 polygons
+2) faults  - 3 fault types and hidden contacts
+3) legend  - 164 rock units
+
+The fault coverage has four line types:
+
+1) faults
+2) dashed faults
+3) dotted faults
+4) hidden contacts
+
+The DESC field descriptors are FAULT, DASH, DOT, CONTAC, respectively.</procdesc>
+        <srcused>King and Beikman (1974)</srcused>
+        <procdate>1993</procdate>
+        <srcprod>Schruben (1994)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Paul Schruben</cntper>
+              <cntorg>U.S. Geological Survey</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>954 National Center</address>
+              <city>Reston</city>
+              <state>VA</state>
+              <postal>22092-9998</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(703) 648-6142</cntvoice>
+            <cntfax>(703) 648-6383</cntfax>
+            <cntemail>pschrube@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.
+
+Note: Attribute field name was changed from original form: from 'DESC' to DESC_'</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041104</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>16075</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Faults</enttypl>
+        <enttypd>Faults are shown not only to explain offsets of map units, but for their own
+sake, to express the structural grain of the area.  The density of faults
+represented on the geologic map thus equals that which would appear on a
+tectonic map of the country, but they are marked simply as faults, not as
+low-angle or high- angle thrust faults, normal faults, or strike-slip faults;
+for this information the user should consult the appropriate tectonic map.</enttypd>
+        <enttypds>U.S. Geological Survey Professional Paper 901</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of feature in meters.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.788</rdommin>
+            <rdommax>583920.328</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>.001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KBF_</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KBF_ID</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>30107</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DESC_</attrlabl>
+        <attrdef>Short description of fault type</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CONTAC</edomv>
+            <edomvd>Hidden rock unit contacts</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DASH</edomv>
+            <edomvd>Dashed faults</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DIKE</edomv>
+            <edomvd>Dike</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DOT</edomv>
+            <edomvd>Dotted faults</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>FAULT</edomv>
+            <edomvd>Faults</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LTYPE</attrlabl>
+        <attrdef>USGS code for line type</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Dike</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>77</edomv>
+            <edomvd>Hidden contact</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>106</edomv>
+            <edomvd>Dashed fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>117</edomv>
+            <edomvd>Dotted fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONG_DESC</attrlabl>
+        <attrdef>Long description of feature type.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>dashed fault</edomv>
+            <edomvd>dashed fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>dike</edomv>
+            <edomvd>dike</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>dotted fault</edomv>
+            <edomvd>dotted fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>fault</edomv>
+            <edomvd>fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>hidden contact</edomv>
+            <edomvd>hidden contact</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ALC</attrlabl>
+        <attrdef>Color code number (Ala Carte shadeset) for line fill</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Dike</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Dashed fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Dotted fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>29</edomv>
+            <edomvd>Hidden contact</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DESCLTYPE</attrlabl>
+        <attrdef>Short Description plus Line Type Code</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CONTAC 77</edomv>
+            <edomvd>Hidden Contact</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>DASH 106</edomv>
+            <edomvd>Dash faulted</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>DIKE 6</edomv>
+            <edomvd>Dike</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>DOT 117</edomv>
+            <edomvd>Dotted fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>FAULT 5</edomv>
+            <edomvd>Fault</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_US_FLT.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Full details of the meanings of the attributes are given in USGS Professional Paper 901.</eaover>
+      <eadetcit>King, Philip B., and Beikman, Helen M., 1974, Explanatory text to accompany the geologic map of the United States: U.S. Geological Survey Professional Paper 901, 40 p.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>This publication was prepared by an agency of the United States Government.  Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights.  Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.  Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. 
+
+Although all data published here have been used by the USGS, no warranty, expressed or implied, is made by the U.S. Geological Survey as to the accuracy of the data and related materials and/or the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of this data, software, or related materials.
+
+Graphical map depictions of this data are intended to be used within the map scale limits applicable to the source data. Although software enables the user to show images on the disc at various scales, the user is cautioned to refer to the source documentation for the appropriate map scale limitations.
+
+Although this data is being re-distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060303</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

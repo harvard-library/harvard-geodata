@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4414-m6-1906-m4",
+  "dc_title_s": "Mexico City, Mexico, 1906 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plano oficial de la ciudad de México, edición especial para el Consejo Superior de Gobierno del Distrito Federal, con motivo de la reunión del X Congreso Geológico Internacional, Septiembre de 1906. Ed. especial. It was published by Departamento del Distrito Federal in 1906. Scale 1:10,000. Map in Spanish.The image inside the map neatline is georeferenced to the surface of the earth and fit to the North American Datum 1983, Universal Transverse Mercator (UTM) Zone 14N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, street cars, and stations, drainage, canals, selected buildings, built-up areas, parks, ground cover, city districts, and more. Includes also index of 'Edificios y establecimientos publicos' and legend.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4414_M6_1906_M4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4414_M6_1906_M4",
+  "layer_slug_s": "harvard-g4414-m6-1906-m4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-10-11T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Distrito Federal (Mexico). Consejo Superior de Gobierno.",
+    "Compañía Litográfica y Tipográfica, S.A."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Mexico",
+    "Mexico City"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "solr_geom": "ENVELOPE(-99.209334, -99.103535, 19.468619, 19.393882)",
+  "solr_year_i": 1906,
+  "harvard_collectionID_sm": [
+    "990114869720203941"
+  ]
+}

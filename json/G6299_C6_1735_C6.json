@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6299-c6-1735-c6",
+  "dc_title_s": "Cologne region, Germany, 1735 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Descriptio agri civitatis Coloniensis : cum suis limitibus, terminis, viis, confiniis, interjacentibus, et adjacentibus pagis, villis, castris etc. It was published by I. Covens et C. Mortier in 1735. Scale [ca. 1:60,000]. Covers the Cologne region, Germany. Map in Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Deutsches Hauptdreiecksnetz (DHDN) 3-degree Gauss-Kruger Zone 2 coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, towns and villages, drainage, built-up areas, fortification, ground cover, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6299_C6_1735_C6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6299_C6_1735_C6",
+  "layer_slug_s": "harvard-g6299-c6-1735-c6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-10-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Covens et Mortier."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "Cologne"
+  ],
+  "dct_issued_s": "2009-10",
+  "dct_temporal_sm": [
+    "1735"
+  ],
+  "solr_geom": "ENVELOPE(6.624457, 7.193085, 51.136018, 50.745928)",
+  "solr_year_i": 1735,
+  "harvard_collectionID_sm": [
+    "990113976900203941"
+  ]
+}

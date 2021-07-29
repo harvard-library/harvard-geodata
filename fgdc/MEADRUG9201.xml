@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Substance Abuse Admissions, 1992 - 2001</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meadrug9201</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage for Massachusetts displaying town boundaries and associated tabular data on substance abuse admissions (into licensed rehabilitation centers) per town per year. The date range covered here is from 1992-2001. 
+The data here is derived from MassGIS (Town boundaries) and the BSAS Substance Abuse Treatment Fact Sheets on Statewide Admissions (attribute data). The Bureau of Substance Abuse Services (BSAS) is an agency of the Commonwealth of Massachusetts' Department of Public Health.
+
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The admissions rates and type of substance abuse are fully defined for the the first year of coverage included here (1992).  Subsequent years simply follow the pattern of Total Admissions followed by the various types of substance abuse admissions which ocurred during that particular year.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1992</begdate>
+          <enddate>2001</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Substance abuse treatment</themekey>
+        <themekey>Drug abuse treatment</themekey>
+        <themekey>Rehabilitation centers</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>BSAS Substance Abuse Treatment Fact Sheets on Statewide Admissions</title>
+            <origin>Massachsuetts Department of Public Health: Bureau of Substance Abuse Services (BSAS)</origin>
+            <pubdate>2002</pubdate>
+          </citeinfo>
+        </srccite>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1992</begdate>
+              <enddate>2001</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>BSAS</srccitea>
+        <srccontr>Substance abuse admissions by town data are compiled by this agency, and tabular data used to populate this datalayer</srccontr>
+        <typesrc>computer program</typesrc>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS datasets</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from Massachusetts Department of Public Health BSAS; Boundary data derived from MassGIS database.
+BSAS attribute file was joined to the geography using ArcView GIS v 3.2. The join was based on the town name.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+        <srcused>BSAS</srcused>
+        <srcused>MassGIS</srcused>
+        <srcprod>MEA Database</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+        <srcused>MEA Database</srcused>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata imported.</procdesc>
+        <srcused>D:\Metadata\mea\meadrug9201.xml</srcused>
+        <date>20040527</date>
+        <time>10100700</time>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="BONNIE.MEADRUG9201">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>607</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed Name="BONNIE.MEADRUG9201">
+      <enttyp>
+        <enttypl>BONNIE.MEADRUG9201</enttypl>
+        <enttypd>Polygons represent town boundaries with associated tabular data</enttypd>
+        <enttypds>MassGIS; BSAS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_92</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1992</attrdef>
+        <attrdefs>BSAS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_92</attrlabl>
+        <attrdef>Number of admissions for alcohol-related abuse in year</attrdef>
+        <attrdefs>BSAS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COKE_92</attrlabl>
+        <attrdef>Number of admissions for cocaine-related abuse</attrdef>
+        <attrdefs>BSAS</attrdefs>
+        <attrvai>
+          <attrva>Excluding Crack Cocaine</attrva>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_92</attrlabl>
+        <attrdef>Number of admissions for crack cocaine-related abuse</attrdef>
+        <attrdefs>BSAS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_92</attrlabl>
+        <attrdef>Number of admissions for heroin-related abuse</attrdef>
+        <attrdefs>BSAS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_92</attrlabl>
+        <attrdef>Number of admissions for other type or form of substance abuse</attrdef>
+        <attrdefs>BSAS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_93</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1993</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_93</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_93</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_93</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_93</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_93</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_94</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1994</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_94</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_94</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_94</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_94</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_94</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_95</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1995</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_96</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1996</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_96</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_96</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_96</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_96</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_96</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_97</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1997</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_97</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_97</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_97</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_97</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_97</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_98</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1998</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_98</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_98</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_98</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_98</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_98</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_99</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_99</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_99</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_99</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_99</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_99</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_00</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_00</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_00</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_00</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_00</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_00</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_01</attrlabl>
+        <attrdef>Total number of admissions into substance abuse rehabilitation centers in 2001</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ALCH_01</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COKE_01</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CRACK_01</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HEROIN_01</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_01</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area in square map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040527</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

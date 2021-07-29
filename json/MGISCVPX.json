@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgiscvpx",
+  "dc_title_s": "MassGIS 2003 Massachusetts NHESP Certified Vernal Pools (June 1999)",
+  "dc_description_s": "This datalayer contains points for all vernal pools which have been certified by the Natural Heritage & Endangered Species Program (NHESP) according to the Guidelines for Certification of Vernal Pool Habitat (5/88, MA Division of Fisheries & Wildlife). The 1999-2001 version of the datalayer shows all pools that were certified as of June 30, 1999. Vernal pools are small, shallow ponds characterized by lack of fish and by periods of dryness. Vernal pool habitat is extremely important to a variety of wildlife species including some amphibians that breed exclusively in vernal pools, and other organisms such as fairy shrimp which spend their entire life cycles confined to vernal pool habitat. Many additional wildlife species utilize vernal pools for breeding, feeding and other important functions. Certified vernal pools are protected if they fall under the jurisdiction of the Massachusetts Wetlands Protection Act Regulations (310 CMR 10.00). Certified vernal pools are also afforded protection under the state Water Quality Certification regulations (401 Program), the state Title 5 regulations, and the Forest Cutting Practices Act regulations. However, the certification of a pool only establishes that it functions biologically as a vernal pool. Certification does not determine that the pool is within a resource area protected by the Wetlands Protection Act.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISCVPX.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISCVPX",
+  "layer_slug_s": "harvard-mgiscvpx",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-06-19T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Natural Heritage & Endangered Species Program."
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Vernal pool ecology",
+    "Vernal pools",
+    "Wetlands",
+    "Habitat (Ecology)",
+    "biota",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.386641, -69.925242, 42.875482, 41.35621)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

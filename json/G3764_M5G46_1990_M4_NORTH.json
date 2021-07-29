@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3764-m5g46-1990-m4-north",
+  "dc_title_s": "Zoning Map (North, sheet 1 of 2), Medfield, Massachusetts, 1990 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Town of Medfield. It was published by the Board of Assessors in 1990. Scale 1:4,800. This layer is image 1 of 2 total images of the 2 sheet source map, representing the northern side of the town. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Includes also labeled tracts and cadastral divisions. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3764_M5G46_1990_M4_NORTH.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3764_M5G46_1990_M4_NORTH",
+  "layer_slug_s": "harvard-g3764-m5g46-1990-m4-north",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-02-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Medfield (Mass.). Board of Assessors."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Zoning",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "planningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Medfield",
+    "North Medfield"
+  ],
+  "dct_issued_s": "2014-03",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "solr_geom": "ENVELOPE(-71.358033, -71.258487, 42.219362, 42.176094)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990137381660203941"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6004-a5-1780-c6",
+  "dc_title_s": "Amsterdam, Netherlands, ca. 1780 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: [Plan de la grande & fameuse ville marchande d'Amsterdam = Plan van de wyd vermaarde en beroemde koop stad Amsterdam, mise au jour par Ies Iean Covens & Corneille Mortier avec privilege de Mess.rs les Etats Generaux des Provinces Unies = nieuwelks uyt gegeven door Ioannes Covens en Cornelis Mortier met previl. van de Staaten Generaal]. It was published by Iean Covens & Corneille Mortier ca. 1780. Scale [1:53,000]. Map in Dutch and French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Dutch National Grid: RD (Rijksdriehoekstelsel) GCS Amersfoort (Bessel 1841) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, bridges, drainage, canals, wharves, docks, built-up areas and selected buildings pictorially, fortification, water mills, and more. Relief is shown by hachures. Includes indexes. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6004_A5_1780_C6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6004_A5_1780_C6",
+  "layer_slug_s": "harvard-g6004-a5-1780-c6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-04-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Covens, Jean.",
+    "Mortier, Corneille."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Amsterdam"
+  ],
+  "dct_issued_s": "2009-04",
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "solr_geom": "ENVELOPE(4.851293, 4.947833, 52.398378, 52.345542)",
+  "solr_year_i": 1780,
+  "harvard_collectionID_sm": [
+    "990108230500203941"
+  ]
+}

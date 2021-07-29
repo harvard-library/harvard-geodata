@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7964-k98-1732-s2",
+  "dc_title_s": "Ky?to-shi, Japan, ca. 1732 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan de Miaco residence de l'empereur ecclesiastique : copie d'apres l'original japonnois ... qui se trouve dans le Cabinet du Chevalier Hans Sloane = Platte grondt van de stad Miaco, zetel van den geestelyken erf-keyzer van Japan : na een origineele japansche kaart ... onder den Ridder Hans Sloane berustende door J. G. Scheuchser. It was published by chez R. & I. Ottens in ca. 1732. Scale [ca. 1:14,000]. Covers Ky?to-shi, Japan. Map in French and Dutch.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Tokyo Universal Transverse Mercator (UTM) Zone 53N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, streets, mountains, selected buildings, and more. Relief shown pictorially.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7964_K98_1732_S2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7964_K98_1732_S2",
+  "layer_slug_s": "harvard-g7964-k98-1732-s2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-10-03T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Scheuchzer, John Gaspar, 1702-1729.",
+    "Kaempfer, Engelbert, 1651-1716.",
+    "Ottens, R. (Reinier), 1698-1750.",
+    "Ottens, J. (Josua), 1704-1765."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Japan",
+    "Ky?to-shi"
+  ],
+  "dct_issued_s": "2014-10",
+  "dct_temporal_sm": [
+    "1732"
+  ],
+  "solr_geom": "ENVELOPE(135.712004, 135.811568, 35.079435, 34.937324)",
+  "solr_year_i": 1732,
+  "harvard_collectionID_sm": [
+    "990125687180203941"
+  ]
+}

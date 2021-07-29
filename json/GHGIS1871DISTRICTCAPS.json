@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ghgis1871districtcaps",
+  "dc_title_s": "Germany Governmental District Capitals, 1871, German Historical GIS",
+  "dc_description_s": "The points represent the capitals of governmental districts in the larger German territorial states. In many cases, the name of the capital was used as the name of the district as well. The polygons of Germany in 1871 are available in a separate data sets on this server.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1871DISTRICTCAPS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GHGIS1871DISTRICTCAPS",
+  "layer_slug_s": "harvard-ghgis1871districtcaps",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2011-08-08T00:00:00Z",
+  "dc_creator_sm": [
+    "HGIS Germany (Andreas Kunz, Leonhard Dietze)",
+    "IEG-Maps / Berlin Data Pool (Andreas Kunz, Robert Moeschl)",
+    "Institut fur Europaische Geschichte (Mainz, Rhineland-Palatinate, Germany)",
+    "Fachhochschule Mainz (Mainz, Rhineland-Palatinate, Germany)"
+  ],
+  "dc_publisher_s": [
+    "HGIS Germany"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "location",
+    "Capitals (Cities)"
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast"
+  ],
+  "dct_issued_s": "2007",
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "solr_geom": "ENVELOPE(5.072627, 22.204678, 54.834083, 47.477713)",
+  "solr_year_i": 1871,
+  "harvard_collectionID_sm": [
+    "990126902100203941"
+  ]
+}

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Building Permits</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meabldg99</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage of town outlines and building permit data for Massachusetts.
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001.
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1999</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>structure</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Building permits</themekey>
+        <themekey>City planning</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Data is missing for some towns. Not all towns reported for all months.
+Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. Accuracy statements on the MEA database are based on deductive estimates; no specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require very high levels of positional accuracy in its geographic products. Its files and maps are designed to show only the relative positions of elements. Coordinates in these files are in decimal degrees and have six implied decimal places.  The positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy varies with the source materials used, but at best meets the established National Map Accuracy standards. 
+The Harvard Geospatial Library cannot specify the accuracy of feature updates or of features derived from the MEA files or other map or digital sources. Thus, the level of positional accuracy in these MEA layers is NOT suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface. Despite the fact that MEA data positional accuracy is not as high as the coordinate values imply, the six-decimal place precision is useful when producing maps. This precision allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>MassGIS</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS Towns</srccitea>
+        <srccontr>This data except the coastline, was digitized by MassGIS from a set of stable based film prints of the 1:25,000 7.5' quadrangles purchased from the USGS by the Massachusetts Dept. of Public Works. The coastline was taken from the USGS 1:100,000 hydrography DLG database. It was selected visually and appended to the digitized town boundaries. 
+The political boundary datalayer is a 1:25,000 scale datalayer containing the boundaries of the 351 communities (cities and towns) in Massachusetts. The seaward boundary of coastal communities has been defined at mean high water in this datalayer. Note that the 351 communities are the official municipal names, not including "villages" or other sections of towns.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>MISER Attribute Data</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1990</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MISER</srccitea>
+        <srccontr>Attribute data developed by the US Census Bureau, then modified and supplied by Massachusetts Institute for Social and Economic Research (MISER) at the University of Massachusetts.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Geographic data was obtained by the Harvard Map Collection via CD-ROM. These Town outlines were created by MassGIS as part of their base data. Attribute data was developed by the US Census Bureau, then modified and supplied by Massachusetts Institute for Social and Economic Research (MISER) at the University of Massachusetts. Attribute information was downloaded from the internet as Excel spreadsheet. The spreadsheet was converted to a DBF file, which was joined to the geography using ArcView GIS v 3.2. The join was based on the town name. The resulting theme was exported as an ESRI Shapefile.</procdesc>
+        <procdate>200007</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3061</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Town Outlines and Building Permits, 1999</enttypl>
+        <enttypd>Polygons show town boundaries and building permits in 1999</enttypd>
+        <enttypds>MEA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TIM.MEABLDG99.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MATOWNS</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MATOWNS_ID</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN_ID</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town name</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_STCO</attrlabl>
+        <attrdef>State FIPS code</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CCD_MCD</attrlabl>
+        <attrdef>Cencus County Division or Minor Civil Division Code</attrdef>
+        <attrdefs>US Census</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_PLACE</attrlabl>
+        <attrdef>Place FIPS code</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP80</attrlabl>
+        <attrdef>Population in 1980</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP90</attrlabl>
+        <attrdef>Population in 1990</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ISLAND</attrlabl>
+        <attrdef>Indicates if the polygon is an island (Yes or No)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_CH</attrlabl>
+        <attrdef>Change in Population</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_MCD</attrlabl>
+        <attrdef>Minor Civil Division FIPS code</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_COUNT</attrlabl>
+        <attrdef>FIPS County Code</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS</attrlabl>
+        <attrdef>Number of months reported</attrdef>
+        <attrdefs>US Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM1BLDG</attrlabl>
+        <attrdef>Number of single family buildings</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM1UNIT</attrlabl>
+        <attrdef>Number of single family units</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM1VAL</attrlabl>
+        <attrdef>Single family valuation</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM2BLDG</attrlabl>
+        <attrdef>Number of two family buildings</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM2UNIT</attrlabl>
+        <attrdef>Number of two family units</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM2VAL</attrlabl>
+        <attrdef>Two family valuation</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM34BLD</attrlabl>
+        <attrdef>Number of Three and Four-family Buildings</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM34UNI</attrlabl>
+        <attrdef>Number of Three and Four-family Units</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM34VAL</attrlabl>
+        <attrdef>Three and Four-family Valuation</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM5BLDG</attrlabl>
+        <attrdef>Number of Five-family buildings</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM5UNIT</attrlabl>
+        <attrdef>Number of Five-family units</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FAM5VAL</attrlabl>
+        <attrdef>Five-family valuation</attrdef>
+        <attrdefs>MISER</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL99</attrlabl>
+        <attrdef>Total buildings, 1999</attrdef>
+        <attrdefs>NEA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040206</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

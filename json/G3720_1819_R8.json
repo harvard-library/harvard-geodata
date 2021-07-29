@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3720-1819-r8",
+  "dc_title_s": "Massachusetts, Connecticut, and Rhode Island, 1819 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A map of Massachusetts, Connecticut and Rhodeisland, by E. Ruggles; engraved by M.M. Peabody. It was published in 1819. Scale [ca. 1:424,000]. Covers Massachusetts, Connecticut, Rhode Island, and portions of Vermont, New Hampshire, Maine, New York, and New Jersey. The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, bridges, societies, drainage, lighthouses, coastal hazards, state, county, and town boundaries, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3720_1819_R8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3720_1819_R8",
+  "layer_slug_s": "harvard-g3720-1819-r8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-03-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Ruggles, Edward, fl. 1789-1817.",
+    "Peabody, M. M. (Moody Morse), 1789-1866."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island",
+    "Vermont",
+    "New Hampshire",
+    "Maine",
+    "New York",
+    "New Jersey",
+    "New England"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1819"
+  ],
+  "solr_geom": "ENVELOPE(-75.376985, -68.804324, 44.082114, 39.584426)",
+  "solr_year_i": 1819,
+  "harvard_collectionID_sm": [
+    "990095191910203941"
+  ]
+}

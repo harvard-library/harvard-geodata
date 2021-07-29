@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg00delkd",
+  "dc_title_s": "UA Census Landmark Line Features, 2000 - Delaware",
+  "dc_description_s": "This datalayer displays landmark line features throughout the state. 'Landmark' is the general name given to a cartographic (or locational) landmark, a land-use area, and a key geographic location (KGL). A cartographic landmark is identified for use by an enumerator while working in the field. A land-use area is identified in order to minimize enumeration efforts in uninhabited areas or areas where human access is restricted. A key geographic location is identified in order to more accurately geocode and enumerate a place of work or residence. The only feature class represented in this layer has a CFCC of D51 which identifies that feature as an airport or airfield. Other possible landmark features could include military installations, multi-household or transient quarters custodial facilities, educational or religious institutions, other types of transportation facilities or terminals, employment centers, towers, open space and other special landmark designations for post offices, police stations and firehouses.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG00DELKD.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG00DELKD",
+  "layer_slug_s": "harvard-tg00delkd",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2003-07-30T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Census",
+    "Airports",
+    "Landmarks"
+  ],
+  "dct_spatial_sm": [
+    "Delaware"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, UA Census 2000"
+  ],
+  "solr_geom": "ENVELOPE(-75.7222500001211, -75.173653, 39.5260120000324, 38.4585849998294)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990087417150203941"
+  ]
+}

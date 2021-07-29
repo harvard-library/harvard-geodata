@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6491-p2-1927-b5",
+  "dc_title_s": "Austria, 1927 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Automobilkarte fÃ¼r Ober- und NiederÃ¶sterreich, Salzburg, Steiermark, KÃ¤rnten, und Burgenland, von Adolf Bier. It was published by UniversitÃ¤ts-Verlag Wagner in 1927. Scale 1:350,000. Map in German. Legend in German, French, and English. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 33N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as major roads, railroads, ship routes, drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Includes also advertisements on verso, map legend. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6491_P2_1927_B5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6491_P2_1927_B5",
+  "layer_slug_s": "harvard-g6491-p2-1927-b5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-04-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Bier, Adolf."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "dct_issued_s": "2013-04",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "solr_geom": "ENVELOPE(12.288667, 17.401407, 48.920326, 46.155789)",
+  "solr_year_i": 1927,
+  "harvard_collectionID_sm": [
+    "990088788900203941"
+  ]
+}

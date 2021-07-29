@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Natural Heritage &amp; Endangered Species Program.</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts NHESP Potential Vernal Pools (December 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgispvpx</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer identifies the locations of more than 29,000 potential, unverified, vernal pool habitats. Vernal pools are small, shallow ponds characterized by a lack of fish and annual or semi-annual periods of dryness. Vernal pool habitats are extremely important to a variety of wildlife species, including some amphibians that breed exclusively in vernal pools, and other organisms such as fairy shrimp which spend their entire life cycles confined to such locales. 
+
+Potential vernal pools visible on aerial photographs were interpreted and included in this layer. However, this datalayer does not include every vernal pool in Massachusetts. Many vernal pools have not been identified due to unfavorable conditions in the landscape topography, pool physiography and/or photograph quality. Furthermore, vernal pool habitats occur in a wide variety of landscape settings, including forested swamps, bogs, and other wetlands. Vernal pools within these settings were not typically interpreted, but are nonetheless legitimate and valuable vernal pools. Also, field verification of all potential vernal pools in this study will identify errors such as the inclusion of features that are not actually vernal pools. 
+
+Potential vernal pools identified in this survey are not to be confused with Certified Vernal Pools. Data pursuant to the official "Guidelines for the Certification of Vernal Pool Habitat" must be collected in the field and presented to the Massachusetts Natural Heritage &amp; Endangered Species Program to obtain official certification for a vernal pool. Potential vernal pools identified in this survey do not receive protection under the Massachusetts Wetlands Protection Act Regulations (310 CMR 10.00), or under any other state or federal wetlands protection laws.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200012</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.542261</westbc>
+        <eastbc>-69.900829</eastbc>
+        <northbc>42.903595</northbc>
+        <southbc>41.249033</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Bodies of water</themekey>
+        <themekey>Vernal pools</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>The legend that MUST accompany this datalayer on all maps is: 
+"NHESP Potential Vernal Pools: NOT equivalent to Certified Vernal Pools"
+
+All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Natural Heritage &amp; Endangered Species Program</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Massachusetts Division of Fisheries &amp; Wildlife,</address>
+          <address>North Drive</address>
+          <city>Westborough</city>
+          <state>MA</state>
+          <postal>01581</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(508) 792-7270 ext. 200</cntvoice>
+        <cntfax>(508) 792-7821</cntfax>
+        <cntemail>natural.heritage@state.ma.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The legend that MUST accompany this datalayer on all maps is: 
+"NHESP Potential Vernal Pools: NOT equivalent to Certified Vernal Pools
+
+When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown.</logic>
+    <complete>Potential vernal pools visible on aerial photographs were interpreted and included in this layer. However, this datalayer does not include every vernal pool in Massachusetts. Many vernal pools have not been identified due to unfavorable conditions in the landscape topography, pool physiography and/or photograph quality. Furthermore, vernal pool habitats occur in a wide variety of landscape settings, including forested swamps, bogs, and other wetlands. Vernal pools within these settings were not typically interpreted, but are nonetheless legitimate and valuable vernal pools. Also, field verification of all potential vernal pools in this study will identify errors such as the inclusion of features that are not actually vernal pools.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>1993-2000</pubdate>
+            <title>1:12,000 scale, color infrared (CIR), leaf-off aerial photographs</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo/>
+            <othercit>Flown between late March and Early May. Photos taken in 1993 (Bristol, Barnstable, Nantucket and Dukes Counties), 1999 (Plymouth, northern and southern Worcester, and eastern Franklin, Hampshire and Hampden Counties), and 2000 (Essex, Middlesex, Suffolk, Norfolk, central Worcester, western Franklin, Hampshire and Hampden, and Berkshire Counties)</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>photo</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>1993</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>1999</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>2000</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>photo dates</srccurr>
+        </srctime>
+        <srccitea>CIR photos</srccitea>
+        <srccontr>Source for identifying feature data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>MassGIS black and white digital orthophotos</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>unknown ed./dates</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>photo</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>orthophotos</srccitea>
+        <srccontr>Source of locating feature data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>NHESP staff identified potential vernal pools from 1:12,000 scale, color infrared (CIR), leaf-off aerial photographs flown between late March and Early May. Statewide coverage included photos taken in 1993 (Bristol, Barnstable, Nantucket and Dukes Counties), 1999 (Plymouth, northern and southern Worcester, and eastern Franklin, Hampshire and Hampden Counties), and 2000 (Essex, Middlesex, Suffolk, Norfolk, central Worcester, western Franklin, Hampshire and Hampden, and Berkshire Counties). Using stereo pairs under a mirror stereoscope, the approximate centers of pools were located. These points were digitized in a heads-up manner onto the MassGIS black and white digital orthophotos at a scale of approximately 1:12,000.</procdesc>
+        <srcused>CIR photos</srcused>
+        <srcused>orthophotos</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>SHAPE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Natural Heritage &amp; Endangered Species Program</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Massachusetts Division of Fisheries &amp; Wildlife,</address>
+              <address>North Drive</address>
+              <city>Westborough</city>
+              <state>MA</state>
+              <postal>01581</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(508) 792-7270 ext. 200</cntvoice>
+            <cntfax>(508) 792-7821</cntfax>
+            <cntemail>natural.heritage@state.ma.us</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>SHAPE</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>29723</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000173</absres>
+            <ordres>0.000173</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISPVPX</enttypl>
+        <enttypd>NHESP Potential Vernal Pools</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN_ID</attrlabl>
+        <attrdef>Town ID</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PVP_NUMBER</attrlabl>
+        <attrdef>Unique PVP ID number</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060720</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

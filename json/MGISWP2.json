@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgiswp2",
+  "dc_title_s": "MassGIS 2003 Massachusetts Orthophoto Wetlands (1:5,000) (February 2003)",
+  "dc_description_s": "This datalayer consists of polygons representing wetlands (marshes, bogs, swamps, etc.) in the state of Massachusetts. It is one of two datalayers that comprise the MassGIS Orthophoto Wetlands and Streams (1:5,000) data (see also the Orthophoto Streams (1:5,000) arc datalayer). State coverage is incomplete. Portions of North Central and Western Massachusetts are not covered.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISWP2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISWP2",
+  "layer_slug_s": "harvard-mgiswp2",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-07-24T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Dept. of Environmental Protection",
+    "Massachusetts. Wetlands Conservancy Program.",
+    "University of Massachusetts at Amherst."
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Bodies of water",
+    "Wetlands",
+    "Hydrography",
+    "Swamps",
+    "Marshes",
+    "Bogs",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-72.614245, -69.871594, 42.908627, 41.212483)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

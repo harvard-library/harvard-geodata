@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3860-1864-b3-lc-stlmts",
+  "dc_title_s": "Civil War Southern States : Settlements, ca. 1864",
+  "dc_description_s": "Settlement locations during the US Civil War in the Confederate States. Vector data extracted from digital map provided by the Library of Congress at http://hdl.loc.gov/loc.gmd/g3860.cw0048100. Image georeferencing and feature extraction work done by EastView.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3860_1864_B3_LC_STLMTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:G3860_1864_B3_LC_STLMTS",
+  "layer_slug_s": "harvard-g3860-1864-b3-lc-stlmts",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2007-06-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard University. Center for Geographic Analysis.",
+    "Bartholomew, John."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "settlements",
+    "towns",
+    "cities",
+    "villages",
+    "colony",
+    "inhabitancy",
+    "location",
+    "Human settlements",
+    "Cities and towns",
+    "Villages"
+  ],
+  "dct_spatial_sm": [
+    "southeastern US",
+    "confederate states",
+    "Alabama",
+    "Arkansas",
+    "Delaware",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Illinois",
+    "Indiana",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maryland",
+    "Mississippi",
+    "Missouri",
+    "Nebraska",
+    "New Jersey",
+    "North Carolina",
+    "Ohio",
+    "Oklahoma",
+    "Pennsylvania",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Virginia",
+    "West Virginia",
+    "Confederate States of America",
+    "Southern States"
+  ],
+  "dct_issued_s": "2007-07",
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "solr_geom": "ENVELOPE(-98.391011, -74.429404, 40.807296, 25.123174)",
+  "solr_year_i": 1864,
+  "harvard_collectionID_sm": [
+    "990105954840203941"
+  ]
+}

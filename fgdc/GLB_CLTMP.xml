@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>International Institute of Applied Systems Analyses</origin>
+        <origin>Leemans, Rik</origin>
+        <origin>Cramer, Wolfgang P.</origin>
+        <origin>Rijksinstituut voor Volksgezondheid en Milieuhygi???ne (Netherlands)</origin>
+        <origin>National Institute of Public Health and Environmental Protection (Netherlands)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Global Climate Database : Temperature</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-cltmp</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point shapefile that shows long-term (1931-1960) mean monthly values for temperatures (in degrees Celsius) on a global terrestrial grid at 0.5 degree longitude/latitude spatial resolution.  The dataset is a derived portion of the Global Climate Database (May 15, 1996) which is an updated version of the IIASA database for mean monthly values of temperature, precipitation and cloudiness on a global terrestrial grid (1991), first produced by Rik Leemans and Wolfgang Cramer, and published by the International Institute of Applied Systems Analyses and also distributed by the National Institute of Public Health and Environmental Protection (Netherlands).  This version of the datalayer appears as part of the USGS Global GIS : global coverage database (2003).
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This data is a general purpose global mean temperatures datalayer designed to support Geographic Information Systems applications. 
+
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19310101</begdate>
+          <enddate>19601231</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180.000000</westbc>
+        <eastbc>179.500000</eastbc>
+        <northbc>83.000000</northbc>
+        <southbc>-56.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Earth temperature</themekey>
+        <themekey>Meteorology</themekey>
+        <themekey>Climatology</themekey>
+        <themekey>Atmosphere</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>climatologyMeteorologyAtmosphere</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity, the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Rik Leemans</cntper>
+          <cntorg>Wageningen University</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Centre for Water and Climate</address>
+          <address>Environmental System Analysis Group</address>
+          <city>Wageningen</city>
+          <postal>6709 PA</postal>
+          <country>The Netherlands</country>
+        </cntaddr>
+        <cntvoice>0317 48 49 19</cntvoice>
+        <cntemail>Rik.Leemans@wur.nl</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Leemans, Rik.</origin>
+        <origin>Cramer, Wolfgang P.</origin>
+        <origin>International Institute for Applied Systems Analysis.</origin>
+        <pubdate>1991</pubdate>
+        <title>The IIASA database for mean monthly values of temperature, precipitation, and cloudiness on a global terrestrial grid</title>
+        <geoform>document</geoform>
+        <serinfo>
+          <sername>Research report (International Institute for Applied Systems Analysis)</sername>
+          <issue>RR-91-18</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Laxenburg, Austria</pubplace>
+          <publish>International Institute for Applied Systems Analysis</publish>
+        </pubinfo>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The seasonal patterns can clearly be observed on the maps.  By comparing the different monthly values with the database of Legates and Willmott (1990), most patterns are similar.  We have obtained a more detailed pattern in most of the Southern hemisphere.  This is probably due to our more dense network of stations in this area.  Also the different mountainous areas are more clearly distinguished in our database.  This is due to the temperature lapse rate correction.  Although the major patterns are captured in both databases, our database seems to have on average a better regional resolution.  The use of our database for ecological/biogeographical applications is thus likely to reveal a reliable pattern. (Leemans, R. and W.P. Cramer, 1991. The IIASA database for mean monthly values of temperature, precipitation and cloudiness of a global terrestrial grid. p. 16.)
+
+The quality has been improved by using stringent station selection criteria for the climatic normal period 1931-1960. The database is now based on c. high-quality 16000-20000 stations world wide. The interpolation methodology has been improved by using a empirical correction scheme with locally derived lapse rates. This scheme works well for both temperature and precipitation.</attraccr>
+    </attracc>
+    <logic>See process description for IIASA Database (1991).</logic>
+    <complete>A global terrestrial 0.5 degree longitude and latitude grid was created.  Using the variable 'percentage land' in this data set, terrestrial cells were defined as having at least 60% land.   See the process description for IIASA Database (1991) for further details.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Weather Bureau</origin>
+            <pubdate>1959</pubdate>
+            <title>World weather records</title>
+            <edition>1941/1950</edition>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>Government Printing Office</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1941</begdate>
+              <enddate>1950</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>World Weather Records</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Walter, Heinrich, 1898-</origin>
+            <origin>Lieth, Helmut</origin>
+            <pubdate>1960-1967</pubdate>
+            <title>Klimadiagramm-Weltatlas</title>
+            <edition>1960-1967</edition>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Stuttgart</pubplace>
+              <publish>Gustav Fischer Verlag</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1960</begdate>
+              <enddate>1967</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Walter and Lieth Atlas</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>M???lller, Manfred J.</origin>
+            <pubdate>1982</pubdate>
+            <title>Selected climatic data for a global set of standard stations for vegetation science</title>
+            <geoform>document</geoform>
+            <serinfo>
+              <sername>Tasks for vegetation science</sername>
+              <issue>5</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>The Hague ; Boston</pubplace>
+              <publish>Dr. W. Junk Publishers</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1982</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>M???ller</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Bradley, Raymond S., 1948-</origin>
+            <origin>United States. Dept. of Energy. Office of Energy Research.</origin>
+            <pubdate>198501</pubdate>
+            <title>A Climatic data bank for northern hemisphere land areas, 1851-1980</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>United States. Dept. of Energy. Office of Energy Research.</publish>
+            </pubinfo>
+            <othercit>prepared by Raymond S. Bradley ... [et al.].</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1851</begdate>
+              <enddate>1980</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Bradley</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Great Britain. Meteorological Office.</origin>
+            <pubdate>1966-1983</pubdate>
+            <title>Tables of temperature, relative humidity, precipitation, and sunshine for the world</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>London</pubplace>
+              <publish>H.M. Stationery Off.</publish>
+            </pubinfo>
+            <othercit>pt. 1 (1980), pt. 2 (1978), pt. 3 (1972), pt. 4 (1983), pt. 5 (1966), pt. 6 (1973)  ; Editions for 1958, 1960, and 1966 published under title: Tables of temperature, relative humidity and precipitation.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1966</begdate>
+              <enddate>1983</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>UK Meteorological Office</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Thornthwaite, C. W. (Charles Warren), 1899-1963.</origin>
+            <origin>Mather, John Russell, 1923-</origin>
+            <pubdate>1957</pubdate>
+            <title>Instructions and tables for computing potential evapotranspiration and the water balance</title>
+            <geoform>document</geoform>
+            <serinfo>
+              <sername>Laboratory of Climatology (C.W. Thornthwaite Associates). Publications in climatology</sername>
+              <issue>v. 10, no. 3</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Centerton, N.J.</pubplace>
+              <publish>Laboratory of Climatology</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1957</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Thornthwaite</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Leemans, Rik</origin>
+            <origin>Cramer, Wolfgang P.</origin>
+            <origin>International Institute for Applied Systems Analysis</origin>
+            <origin>Rijksinstituut voor Volksgezondheid en Milieuhygi???ne (Netherlands)</origin>
+            <origin>National Institute of Public Health and Environmental Protection (Netherlands)</origin>
+            <pubdate>1991</pubdate>
+            <title>The IIASA database for mean monthly values of temperature, precipitation, and cloudiness on a global terrestrial grid</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Laxenburg, Austria</pubplace>
+              <publish>International Institute for Applied Systems Analysis ;</publish>
+            </pubinfo>
+            <othercit>Average monthly cloudiness data</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>magnetic tape</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19310101</begdate>
+              <enddate>19601231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>IIASA database</srccitea>
+        <srccontr>Source of attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>From Leemans, R. and W.P. Cramer, 1991. The IIASA database for mean monthly values of temperature, precipitation and cloudiness of a global terrestrial grid. p. 11-15 : 
+
+Creation of the Global Climate Database [1991]:
+
+Quality check and selection algorithm:
+
+All data sets were first transformed to the IIASA Biosphere Dynamics Project file standard.  Thereafter all stations were separately checked for coding errors by evaluating extreme values and averages, and by comparing each station with other stations in its direct surroundings.  If unreliable extremes or large differences were located, the data from that station were manually checked for inaccuracies.  The longitude and latitude of each station (location) was checked if it was actually located in the given country and, if possible, if the location was in agreement with the known name of the station.  The latter was checked using the Times World Atlas.
+
+Altitude of each station was checked against a topography database.  This 0.5 * 0.5 degree topography database was created especially for this purpose at IIASA by combining several cells of another global data set on topography (National Geophysical Data Center, 1988).  The new topography data set consists of minumum, maximum and modal elevation in meters, together with percentage land for each cell.  Altitudinal values of all weather stations were checked against the given range in the topography data set.  The most common error spotted during this comparison, was a difference of a factor three in altitudinal values.  Although some sources stated that their altitude were given in meters, no transformation from feet had been made before the publication of those records.  We have corrected these inconsistencies. Stations with missing altitude values were assumed to be located at an elevation similar to the modal value in the topography data set.  
+
+All stations were merged into a single database and sorted according to longitude and latitude.  Due to the known inaccuracy of the location of the Soviet data (Kirikova, 1977), this data set was not included.  Also the data set of Legates and Willmott (1990) has been excluded.  This was not only due to their heterogeneous observation period, but mostly because we wanted to have a data set to compare our data set with in order to evaluate its quality.  There remained 13118 stations in the merged data set.
+
+Finally, the data set was separately screened for station selections for the creation of the gridded temperature, precipitation and cloudiness data set.  The selection criteria, however, were similar.
+
+The first step was to remove redundant stations (stations with multiple entries in the database). This was evaluated on basis of longitude, latitiude and altitude.  Due to differences in the accuracy of the given location of the original data sets, we checked all stations within 0.1 degree longitude and latitude apart from each other.  Secondary criteria for the evaluation of redundant records were the names of the stations.
+
+Together with the length of the observation period, the initial data sets were ranked according to our estimated quality assessment.  The data sets collected by M???ller (1982) and UK Meteorological Office (1966-1983) both ranked first, the Chinese and Bradley et al. (1985) second, Weather Bureau (1959) third and Walter and Lieth (1960-1967) last.  If redundant records were found, and both were within our definition of the 'current-climate' period, the record with the longest observation period was selected in favor of the shorter one.  If an observation period of a record extended outside the observation period, while the other qualified our 'current climate' constraint, the latter was favored for the first.  If the other rules were inconclusive, the quality ranking determined which station was deleted.  If records still were of equal quality, one of them was choosen randomly.  The next selection-step was to remove stations with observation periods shorter than 6 years and longer than 30 years.  Long records are deleted, because we wanted to exclude long term climatic change trends.
+
+Finally, a terrestrial 0.5 degree longitude and latitude grid was created, using the above mentioned topography data set.  Using the variable 'percentage land' in this data set, terrestrial cells were defined as having at least 60% land.  The resulting terrestrial data set was checked for inconsistencies in the coastline against the World Database II (CIA, 1972), as it is incorporated in the computer graphic libraries from UNIRAS (1989).  Erratic terrestrial or water cells were corrected.
+
+The weather records were further delimited by determining the 'most typical station' of each terrestrial cell. We counted only one station per cell to allow for a conistent topography correction scheme (see below).  If more stations were available per cell, the most central one would largely determine the climate of that cell statistically, although it could be located towards the topographical extremes of that cell.  We listed all cells with several available stations together with minimum, maximum, and modal altitude.  By evaluating the altitude of the stations, the observation periods and the quality ranking (see above) we selected the most typical station.  This tedious process was done manually first and included in an automatic selection program later.
+
+The resulting data set consisted of 6280 records with temperature values, 6090 records with precipitation values and 1597 records with cloudiness values.  Good data coverage is obtained for Europe, the USA, Southern Canada, East Asia and Japan.  Africa and Australia have somewhat poorer data coverage, while high latitude, arid and mountainous regions have low data coverage.  The selection procedure has lead to areas with good station densities being determined by stations with observation periods within our defined current climate thus with a high quality for database usage objectives.  The other regions have a somewhat poorer coverage quality, but probably still adequate for our purposes.  Regions with scarce data coverage are often characterized by stations with short observation periods and outside our 'current climate' period.  This leads to poor data coverage in these areas.
+
+The interpolation technique:
+
+Spatial interpolation is the estimation of the function that represents the entire surface from a given set of spatial data.  This function can be used to predict values at other points.  The result of such interpolation from any sets of points can either be exact or approximate.  Exact methods preserve the values of the orginal points, while the latter do not (Wren, 1975). Several algorithms for point interpolation have been developed and reviews on interpolation are presented by Lam (1983) and Ripley (1982).
+
+Interpolation techniques differ in using stations located in cartesian two-dimensional space or on a sphere.  Willmott et al. (1985) have compared these two methods and concluded that the spherical method was superior when using the interpolation for a scarce data network.  Their studies showed that a cartesian two-dimensional network could display large distortions after the actual interpolation, especially if values were estimated outside the original data grid.  The disotrtion was dependent on the type of projection and most severe while using cyclindrical projections.  Their analysis was, however, based on a different interpolation routine (Shepard, 1948) than the one we used.  Their method has less extrapolation capabilites than our methods and it also becomes more sensitive to distortions in data scarce areas, like the high latitudes.  Besides, many weather stations in our database are situated along the coastal edges of continents and we only want to estimate the values of terrestrial areas.  These reasons minimize our need for extrapolation and thus also minimize distortion.  Longer ranging extrapolation occurred only for Nothern Greenland and a small area of Central Siberia, where no stations were available.
+
+Although the spherical interpolation intuitively is appealing, an argument against it is that distances on a sphere mostly are defined as the great circle distances.  Because of this, spherical interpolation methods often cross the poles.  Although climatic polar interaction cannot be neglected, it is of lesser importance than the interactions within any latitudinal belt.  The rotation of the earth causes the climate due east of any point to be more influenced by that point than in any other direction.
+
+The interpolation technique we used is a triangulation of datapoints (according to the algorithm developed by Green and Sibson, 1978) followed by a smooth surface fitting (Akima, 1978).  We used a cartesian two-dimensional space in which we directly used the actual longitude and latitude values (with minutes converted to decimals).  This defines a sinusoidal projection for both the datapoints and the resulting grid.
+
+Correction Scheme for Altitudinal Differences
+
+Temperature and precipitation values in general decrease and increase respectively with elevation.  This observation could be used to improve the data reliability in mountainour areas with scarce data coverage.  These altitudinal correction factors are called lapse rates.  Moist adiabatic lapse rates for temperature are physically determined and range from -0.5 degrees C to -0.8 degrees C per 100m (Strahler &amp; Strahler 1987).  Application of temperature lapse rates on long term monthly means nvolves a rough approximation within this physically-determined narrow range.  Lapse rates for precipitation are more difficult to estimate for a global application.  They would differ largely from region to region and need not be monotonous along a local altitudinal gradient.  Apart from depending on altitude, they also depend on the mian wind direction, distance to oceans, and air humidity.  Therefore, up to now only local precipitation lapse rates are determined and implemented (e.g. Delijani'c, 1972; Khurshid Alam, 1972).
+
+We have implemented a moist adiabatic lapse rate correction for temperature.  Before any monthly temperature was used in the interpolation, the value was corrected as if the station was located at sea level using a lapse rate of -0.6 degrees C per 100m altitude.  All records were then entered into the interpolation as if they were at sea level.  The resulting values for the terrestrial grid were estimates at the same level.  These values were then corrected towards the modal altitude of the grid celll using the same lapse rate and the topography database.
+
+We explored a similar procedure for precipitation, but a satisfactory global orographic lapse rate could not be defined.  The resulting precipitation data set had few similarities with the precipitation patterns from the Legates and Willmott (1990) database.  We decided not to implement a correction for orgraphic processes, due to their complexity.  Precipitation data was therefore interpolated without accounting for differences in altitude.  Future updates of the database will involve algorithms to empirically determine local lapse rates for precipitation as well.</procdesc>
+        <srcused>World Weather Records</srcused>
+        <srcused>Walter and Lieth Atlas</srcused>
+        <srcused>M???ller</srcused>
+        <srcused>Bradley</srcused>
+        <srcused>UK Meteorological Office</srcused>
+        <srcused>Thornthwaite</srcused>
+        <procdate>1991</procdate>
+        <srcprod>IIASA Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Rik Leemans</cntper>
+              <cntorg>Wageningen University</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Centre for Water and Climate</address>
+              <address>Environmental System Analysis Group</address>
+              <city>Wageningen</city>
+              <postal>6709 PA</postal>
+              <country>The Netherlands</country>
+            </cntaddr>
+            <cntvoice>0317 48 49 19</cntvoice>
+            <cntemail>Rik.Leemans@wur.nl</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.
+
+Two attribute column labels were changed from their original form: (A) changed 'DEC' to 'DECEMBER', (B) changed 'LONG' to LONGITUDE</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>62483</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Temperature</enttypl>
+        <enttypd>Mean temperature (C, 1 decimal)</enttypd>
+        <enttypds>American Geological Institute</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>LON</attrlabl>
+        <attrdef>Longitute (degrees (2 decimals), lower left corner of the 0.5 degree cells).</attrdef>
+        <attrdefs>American Geological Association</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-180</rdommin>
+            <rdommax>180</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.5</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAT</attrlabl>
+        <attrdef>Latitude (degrees (2 decimals), lower left corner of the 0.5 degree cells).</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-90</rdommin>
+            <rdommax>90</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.5</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ELEV</attrlabl>
+        <attrdef>Altitude (meters above sea level)</attrdef>
+        <attrdefs>American Geological Society</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-50</rdommin>
+            <rdommax>6033</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JAN</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for January.</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-48.2</rdommin>
+            <rdommax>32.8</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEB</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for February</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-47.5</rdommin>
+            <rdommax>32</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAR</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for March</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-45.8</rdommin>
+            <rdommax>32</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APR</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for April</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-34.9</rdommin>
+            <rdommax>34.3</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAY</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for May</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-17.4</rdommin>
+            <rdommax>37.7</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JUN</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for June</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-7.1</rdommin>
+            <rdommax>36.9</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JUL</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for July</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-7.7</rdommin>
+            <rdommax>37.8</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AUG</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for August</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-8.4</rdommin>
+            <rdommax>36.7</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SEP</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for September</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-17</rdommin>
+            <rdommax>34.5</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OCT</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for October</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-28.1</rdommin>
+            <rdommax>32.3</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NOV</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for November</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-39.3</rdommin>
+            <rdommax>32.2</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DECEMBER</attrlabl>
+        <attrdef>Mean monthly temperature (in degrees Celsius) for December</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-45.9</rdommin>
+            <rdommax>32.7</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attrdef>Longitute (degrees (2 decimals), center of the 0.5 degree cells).</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-180</rdommin>
+            <rdommax>180</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.5</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LATI</attrlabl>
+        <attrdef>Latitude (degrees (2 decimals), center of the 0.5 degree cells).</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-90</rdommin>
+            <rdommax>90</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.5</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAR_MAY</attrlabl>
+        <attrdef>Mean quarterly temperature (in degrees Celsius) for March through May</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-32.7</rdommin>
+            <rdommax>33.5</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SEP_NOV</attrlabl>
+        <attrdef>Mean quarterly temperature (in degrees Celsius) for September through November</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-27.5</rdommin>
+            <rdommax>32.2</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEC_FEB</attrlabl>
+        <attrdef>Mean quarterly temperature (in degrees Celsius) for December through February</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-46.7</rdommin>
+            <rdommax>32.5</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JUN_AUG</attrlabl>
+        <attrdef>Mean quarterly temperature (in degrees Celsius) for June through August</attrdef>
+        <attrdefs>IIASA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-7.5</rdommin>
+            <rdommax>36.8</rdommax>
+            <attrunit>degrees Celsius</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060228</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

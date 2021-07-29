@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824.</origin>
+        <origin>Sproule, Geo. F. (George F.), 1741-1817.</origin>
+        <origin>Holland, Samuel, 1728-1801.</origin>
+        <origin>Blaskowitz, Charles.</origin>
+        <origin>Grant, James, surveyor and draughtsman.</origin>
+        <origin>Wheeler, Thomas, draughtsman and surveyor.</origin>
+        <origin>Flyn, engraver.</origin>
+        <pubdate>2008</pubdate>
+        <title>Coast of New England from Narragansett Bay, Rhode Island to Cape Cod, Massachusetts, Nautical Chart, 1779 (Image 2 of 2) (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g1106-p5-1781-d4-85-4-2</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the untitled, historic nautical chart: [Coast of New England from Narragansett to Cape Cod] (sheet originally published in 1779).  The map is [sheet 6] from the Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England, from surveys taken by Samuel Holland and published by J.F.W. Des Barres, 1781. Scale [ca. 1:130,000]. This layer is image 2 of 2 total images of the two sheet source map, representing the western portion of the map. Covers coast of Narragansett Bay, Rhode Island, Buzzards Bay, Massachusetts, and a portion of Martha's Vineyard, Massachusetts.
+
+The image is georeferenced to the surface of the earth and fit to the 'World Mercator' (WGS 84) projected coordinate system. All map collar information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map.
+
+This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more.  Includes also selected land features such as cities and towns. Relief is shown by hachures; depths by soundings and shading. 
+
+This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection.  The entire Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England has been scanned and georeferenced as part of this selection.</abstract>
+      <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1779</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.578402</westbc>
+        <eastbc>-70.545682</eastbc>
+        <northbc>41.964219</northbc>
+        <southbc>40.944568</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Nautical charts</themekey>
+        <themekey>Coasts</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Harbors</themekey>
+        <themekey>Hydrography</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Landforms</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>transportation</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Atlantic Ocean</placekey>
+      </place>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Buzzards Bay</placekey>
+        <placekey>Martha's Vineyard</placekey>
+      </place>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Rhode Island</placekey>
+        <placekey>Narragansett Bay</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+    <crossref>
+      <citeinfo>
+        <origin>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824.</origin>
+        <origin>Sproule, Geo. F. (George F.), 1741-1817.</origin>
+        <origin>Holland, Samuel, 1728-1801.</origin>
+        <origin>Blaskowitz, Charles.</origin>
+        <origin>Grant, James, surveyor and draughtsman.</origin>
+        <origin>Wheeler, Thomas, draughtsman and surveyor.</origin>
+        <origin>Flyn, engraver.</origin>
+        <pubdate>1781</pubdate>
+        <title>Charts of the coast and harbors of New England : from surveys taken by Saml. Holland Esqr. Survr. Genr. of Lands for the Northern District of North America and Geo. Sproule, Chas. Blaskowitz, Jam.s Grant and Thos. Wheeler his assistants</title>
+        <geoform>atlas</geoform>
+        <serinfo>
+          <sername>Atlantic Neptune</sername>
+          <issue>Vol. 3</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>[London]</pubplace>
+          <publish>J.F.W. Des Barres</publish>
+        </pubinfo>
+        <othercit>1 atlas (52 sheets) ; 84 cm.</othercit>
+        <onlink>http://nrs.harvard.edu/urn-3:FHCL:1271002</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824.</origin>
+        <origin>Sproule, Geo. F. (George F.), 1741-1817.</origin>
+        <origin>Holland, Samuel, 1728-1801.</origin>
+        <origin>Blaskowitz, Charles.</origin>
+        <origin>Grant, James, surveyor and draughtsman.</origin>
+        <origin>Wheeler, Thomas, draughtsman and surveyor.</origin>
+        <origin>Flyn, engraver.</origin>
+        <pubdate>2008</pubdate>
+        <title>Coast of New England from Narragansett Bay, Rhode Island to Cape Cod, Massachusetts, Nautical Chart, 1779 (Image 1 of 2) (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu/</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing and georeferencing process.  In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic.  The RMS error for this map is 420.88733 meters.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824.</origin>
+            <origin>Sproule, Geo. F. (George F.), 1741-1817.</origin>
+            <origin>Holland, Samuel, 1728-1801.</origin>
+            <origin>Blaskowitz, Charles.</origin>
+            <origin>Grant, James, surveyor and draughtsman.</origin>
+            <origin>Wheeler, Thomas, draughtsman and surveyor.</origin>
+            <origin>Flyn, engraver.</origin>
+            <pubdate>1779</pubdate>
+            <title>[Coast of New England from Narragansett to Cape Cod] (sheet originally published in 1779).</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>[London]</pubplace>
+              <publish>J.F.W.  Des Barres</publish>
+            </pubinfo>
+            <othercit>1 map on 2 sheets.
+
+[Sheet 6]
+
+Sheet 2 of 2.</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824.</origin>
+                <origin>Sproule, Geo. F. (George F.), 1741-1817.</origin>
+                <origin>Holland, Samuel, 1728-1801.</origin>
+                <origin>Blaskowitz, Charles.</origin>
+                <origin>Grant, James, surveyor and draughtsman.</origin>
+                <origin>Wheeler, Thomas, draughtsman and surveyor.</origin>
+                <origin>Flyn, engraver.</origin>
+                <pubdate>1781</pubdate>
+                <title>Charts of the coast and harbors of New England : from surveys taken by Saml. Holland Esqr. Survr. Genr. of Lands for the Northern District of North America and Geo. Sproule, Chas. Blaskowitz, Jam.s Grant and Thos. Wheeler his assistants</title>
+                <geoform>atlas</geoform>
+                <serinfo>
+                  <sername>Atlantic Neptune</sername>
+                  <issue>Vol. 3</issue>
+                </serinfo>
+                <pubinfo>
+                  <pubplace>[London]</pubplace>
+                  <publish>J.F.W. Des Barres</publish>
+                </pubinfo>
+                <othercit>1 atlas (52 sheets) ; 84 cm.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>130000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1779</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map for raster image.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper map on a high-resolution scanner: (Betterlight, Super8K2 scanning back camera and ViewFinder capture software). 
+
+Digital images of from the Harvard Map Collection were created by Harvard College Library Imaging Services in 2008. Maps were photographed at a copy stand. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, and that allow for highly detailed screen reproduction and print reproduction at up 1:1. Images in this collection were processed in Adobe Photoshop. Subjective color and contrasting editing was performed at the discretion of the photographer. Color and tonal corrections were made using Adobe Photoshop. Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment. Master Image files were corrected and archived as TIFF files in the Adobe RGB (1988) or sRGB IEC611966-2.1 color-spaces, at the photographer's discretion. The imaging specification for the "delivery" JPEG2000 images was designed to produce images optimized for variable size viewing on the Web. These delivery images were derived in batches from sharpened versions of the "archival master" files, and converted and tagged with the sRGB IEC611966-2.1 colorspace profile (ICC). The colorspace tag is used to assure that color and tonal information is properly displayed across multiple systems and media.
+
+Image resolution is of sufficient quality to render all meaningful map details on screen and in print; Format is 24 bit TIFF, uncompressed; Tone/color reproduction: embedded ICC (International Color Consortium) profile with associated size and tone reference. Quality control: visual inspection, MD5 checksum for 100% of images.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2008</procdate>
+        <srcprod>TIFF Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+            </cntorgp>
+            <cntpos>Digital Imaging and Photography Group</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Using ArcMap 9.2 software, the digital TIFF image was georeferenced to common points located on digital vector shapefiles.  For this image, the following vector shapefiles were used for reference and linking:  NOAA Medium Resolution Digital Vector Shoreline (1:70,000) (data released in 1994).   In addition to vector data, this image was also linked to other georeferenced maps including: Des Barres' [Coast of New England from Narragansett to Cape Cod] [sheet 6] from the Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England, 1781. The vector data was projected to the 'World Mercator' projected coordinate system, and the images were subsequently georeferenced to the same projection.  A world file (.tfwx) and an '.aux.xml' file were automatically generated and saved in association with the digital TIFF image.  See 'Horizontal Accuracy' for the RMS error of this TIFF image. 
+
+Please note that while the image is stored in 'World Mercator' coordinates, the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
+        <srcused>TIFF Map Image</srcused>
+        <procdate>200803</procdate>
+        <srcprod>Georeferenced Raster Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>10188</rowcount>
+      <colcount>7800</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Mercator</mapprojn>
+          <mercator>
+            <stdparll>0.000000</stdparll>
+            <longcm>0.000000</longcm>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </mercator>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>14.738695</absres>
+            <ordres>14.809693</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map.  The colors on that sheet represent building footprints and features, property boundaries, transportation features (roads, railroads, tracks and trails), drainage, map annotations, and more.  A citation and URL to a digital version of the source atlas including the index page is provided in the cross reference section.  See: http://nrs.harvard.edu/urn-3:FHCL:1081746 The digital version of the atlas also includes a graphic and street index.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080912</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

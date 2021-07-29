@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-sedacblk80",
+  "dc_title_s": "SEDAC 1980 Census Blocks",
+  "dc_description_s": "This dataset contains the census blocks from the United States Decennial Census of 1980. The data were derived from the TigerLine 1992 release. In 1980, the entire country had not had blocks defined, therefore, the polygons in this layer are not contiguous. The shapes can be used for demographic analysis.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SEDACBLK80.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:SEDACBLK80",
+  "layer_slug_s": "harvard-sedacblk80",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2007-10-10T00:00:00Z",
+  "dc_creator_sm": [
+    "SEDAC/CIESIN"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Administrative and political divisions",
+    "Census",
+    "boundaries",
+    "society"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "1992-01-01",
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "solr_geom": "ENVELOPE(-164.39795, -68.6318, 67, 21.258086)",
+  "solr_year_i": 1980,
+  "harvard_collectionID_sm": [
+    "990112998240203941"
+  ]
+}

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+        <pubdate>1996</pubdate>
+        <title>Census Block Groups, 1995 - New Hampshire</title>
+        <edition>Version (0024)</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo/>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-tg95nhgrppy</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+            <pubdate>1996</pubdate>
+            <title>TIGER/Line Files, 1995</title>
+            <edition>Version (0024)</edition>
+            <pubinfo>
+              <pubplace>Washington,  DC</pubplace>
+              <publish>U.S. Department of Commerce, Bureau of the Census</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The polygons represent U.S. Census Block Groups for the state. A Block Group (BG) is a cluster of census blocks having the same first digit of their four-digit identifying numbers within a census tract. For example, block group 3 (BG 3) within a census tract includes all blocks numbered from 3000 to 3999. BGs generally contain between 600 and 3,000 people, with an optimum size of 1,500 people. BGs on American Indian reservations, off-reservation trust lands, and special places must contain a minimum of 300 people. (Special places include correctional institutions, military installations, college campuses, worker's dormitories, hospitals, nursing homes, and group homes.) 
+
+Most BGs were delineated by local participants as part of the U.S. Census Bureau's Participant Statistical Areas Program. The U.S. Census Bureau delineated BGs only where a local, state, or tribal government declined to participate or where the U.S. Census Bureau could not identify a potential local or tribal participant. BGs never cross the boundaries of states, counties, or statistically equivalent entities, except for a BG delineated by American Indian tribal authorities, and then only when tabulated within the American Indian hierarchy. BGs never cross the boundaries of census tracts, but may cross the boundary of any other geographic entity required as a census block boundary.</abstract>
+      <purpose>This Block Groups datalayer provides boundaries for U.S. Census block groups within the state. The boundaries are consistent with the tract, county, and state data sets. 
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. 
+More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.)</purpose>
+      <supplinf>The 1995 TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER data base.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on January 1, 1995 legal boundaries. 
+
+The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole nation and its territories.
+
+The 1995 TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  The files contain information distributed over a series of record types for the spatial objects of a county.  Geographic information contained in the files includes attributes such as feature identifiers/census feature class codes (CFCC) used to differentiate feature types, address ranges and ZIP Codes, codes for legal and statistical entities, latitude and longitude coordinates of linear and point features, landmark point features, area landmarks, key geographic features, and area boundaries.
+NOTE: Portions of this metadata file have been copied directly from Census documentation.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Datalayers derived from TIGER/Line files are extracted from the Census TIGER data base when needed for geographic programs required to support the census and survey programs of the Census Bureau. No changes or updates will be made to the 1995 files.</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-72.555290</westbc>
+        <eastbc>-70.610920</eastbc>
+        <northbc>45.305476</northbc>
+        <southbc>42.696986</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Population</themekey>
+        <themekey>Demography</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>New Hampshire</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. TIGER, TIGER/Line, and Census TIGER are trademarks of the Bureau of the Census. Although this data set has been developed  by the U.S. Census Bureau, no warranty expressed or implied is made by the Bureau as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the Bureau in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Department of Commerce, Bureau of the Census, Geography Division</cntorg>
+          <cntper>Products and Services Staff</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical address</addrtype>
+          <address>8903 Presidential Pkwy, WP I</address>
+          <city>Upper Marlboro</city>
+          <state>Maryland</state>
+          <postal>20772</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Bureau of the Census</address>
+          <city>Washington</city>
+          <state>District of Columbia</state>
+          <postal>20233</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-301-457-1128</cntvoice>
+        <cntfax>1-301-457-4710</cntfax>
+        <cntemail>TIGER@census.gov</cntemail>
+        <hours>Monday through Friday 8:30 A.M. to 4:30 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>U.S. Department of Commerce, Bureau of the Census, Geography Division.</datacred>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>None</sechandl>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names. The remaining attribute information has been examined but has not been fully tested for accuracy.</attraccr>
+    </attracc>
+    <logic>The feature network of lines (as represented by Record Types 1 and 2) is complete for census purposes.  Spatial objects in TIGER/Line belong to the "Geometry and Topology"(GT) class of objects in the "Spatial Data Transfer Standard" (SDTS) FIPS Publication 173 and are topologically valid. Node/geometry and topology (GT)-polygon/chain relationships are collected or generated to satisfy topological edit requirements.  These requirements include:
+Complete chains must begin and end at nodes.
+Complete chains must connect to each other at nodes.
+Complete chains do not extend through nodes.
+Left and right GT-polygons are defined for each complete chain element and
+are consistent throughout the extract process.
+The chains representing the limits of the file are free of gaps.
+The Census Bureau performed automated tests to ensure logical consistency and limits of files.  All polygons are tested for closure.  Some polygons in the TIGER/Line files may be so small that the polygon internal point has been manually placed on a node that defines the polygon perimeter.  These small polygons have been detected, and corrections will be incorporated in the Census TIGER data base in the future.  The Census Bureau uses its internally developed Geographic Update System to enhance and modify spatial and attribute data in the Census TIGER data base.  Standard geographic codes, such as FIPS codes for states, counties, municipalities, and places, are used when encoding spatial entities.  The Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census TIGER data base files.  Most of the codes themselves were provided to the Census Bureau by the USGS, the agency responsible for maintaining FIPS 55.  Feature attribute information has been examined but has not been fully tested for consistency.</logic>
+    <complete>Data completeness of the TIGER/Line files reflects the contents of the Census TIGER data base at the time the TIGER/Line files (1995 version) were created.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The information present in these files is provided for the purposes of statistical analysis and census operations only.  Coordinates in the TIGER/Line files have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy varies with the source materials used, but generally the information is no better than the established National Map Accuracy standards for 1:100,000-scale maps from the U.S. Geological Survey (USGS); thus it is NOT suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.
+
+The USGS 1:100,000-scale maps meet national map accuracy standards and use coordinates defined by the North American Datum, 1983. For the contiguous 48 States, the cartographic fidelity of most of the 1995 TIGER/Line files, in areas outside the 1980 census Geographic Base File/Dual Independent Map Encoding (GBF/DIME) file coverage and selected other large metropolitan areas, compare favorably with the USGS 1:100,000-scale maps.  The Census Bureau cannot specify the accuracy of features inside of what was the 1980 GBF/DIME-Files coverage or selected metropolitan areas.
+
+The Census Bureau added updates to the TIGER/Line files that enumerators annotated on map sheets prepared from the Census TIGER data base as they attempted to traverse every street feature shown on the 1990 census map sheets. The Bureau also made other corrections from updated map sheets supplied by local participants for Census Bureau programs.  The locational accuracy of these updates is of unknown quality.  In addition to the Federal, State, and local sources, portions of the files may contain information obtained in part from maps and other materials prepared by private companies.  Despite the fact that TIGER/Line data positional accuracy is not as high as the coordinates values imply, the six-decimal place precision is useful when producing maps.  The precision allows features that are next to each other on the ground to be placed in the correct position, on the map, relative to each other, without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+            <pubdate>Unpublished Material</pubdate>
+            <title>TIGER database</title>
+            <edition>1995</edition>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Date the file was made available to create TIGER/Line File extracts.</srccurr>
+        </srctime>
+        <srcscale>100000</srcscale>
+        <srccitea>TIGER</srccitea>
+        <srccontr>Selected geographic and cartographic information (line segments) from the Census TIGER database.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>In order for others to use the information in the Census TIGER data base in a GIS or for other geographic applications, the Census Bureau releases periodic extracts of selected information from the Census TIGER data base, organized as topologically consistent networks.  Software (TIGER DB routines) written by the Geography Division allows for efficient access to Census TIGER system data.  TIGER/Line files are extracted from the  Census TIGER data base by county or statistical equivalent area.  Census TIGER data for a given county or statistical equivalent area is then distributed among 17 fixed length record ASCII files, each one containing ttributes for either line, polygon, or landmark geographic data types. The Bureau of the Census has released various versions of the TIGER/Line files since 1988, with each version having more updates (feature and feature names, address ranges and ZIP Codes, coordinate updates, new record types, revised field definitions, etc.), than the previous version.</procdesc>
+        <srcused>TIGER data base</srcused>
+        <procdate>1996</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Department of Commerce, Bureau of the Census</cntorg>
+              <cntper>Products and Services Staff</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Bureau of the Census</address>
+              <city>Washington</city>
+              <state>District of Columbia</state>
+              <postal>20233</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntaddr>
+              <addrtype>physical address</addrtype>
+              <address>Bureau of the Census</address>
+              <address>8903 Presidential Parkway, WP I</address>
+              <city>Upper Marlboro</city>
+              <state>Maryland</state>
+              <postal>20772</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>1-301-457-1128</cntvoice>
+            <cntfax>1-301-457-4710</cntfax>
+            <cntemail>TIGER@census.gov</cntemail>
+            <hours>Monday through Friday 8:30 A.M. to 4:30 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original TIGER files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>200208</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>Massachusetts</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata written, imported and edited</procdesc>
+        <srcused>TIGER95 Data Dictionary</srcused>
+        <procdate>20021211</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Gesopatial Library</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>Massachusetts</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.TG95NHGRPPY">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1523</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed Name="TIM.TG95NHGRPPY">
+      <enttyp>
+        <enttypl>Census Block Groups</enttypl>
+        <enttypd>ESRI Shapefile. Polygons represent feature areas</enttypd>
+        <enttypds>ESRI; Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>GIST_ID</attrlabl>
+        <attrdef>Internal Feature Identifer</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FIPSSTCO</attrlabl>
+        <attrdef>FIPS State + County Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRACT</attrlabl>
+        <attrdef>Census Tract Number</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GRP</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STFID</attrlabl>
+        <attrdef>Numeric code combining state and county FIPS codes, and tract and block group numbers. The combined code (twelve digit number) provides a unique block group identifier.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TIM.TG95NHGRPPY.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Positive real numbers</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Positive real numbers</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>The TIGER/Line files contain data describing three major types of features/entities;
+
+Line Features:
+1) Roads
+2) Railroads
+3) Hydrography
+4) Miscellaneous transportation features and selected power lines and pipe lines
+5) Political and statistical boundaries
+
+Landmark Features:
+1) Point landmarks, e.g., schools and churches
+2) Area landmarks, e.g., Parks and cemeteries
+3) Key geographic locations (KGLs), e.g., apartment buildings and factories
+
+Polygon Features:
+1) Geographic entity codes for areas used to tabulate the 1990 census statistical data and current geographic areas
+2) Locations of area landmarks
+3) Locations of KGLs
+
+The line features and polygon information form the majority of data in the TIGER/Line files.  Some of the data/attributes describing the lines include coordinates, feature identifiers (names), CFCCs (used to identify the most noticeable characteristic of a feature), address ranges, and geographic entity codes.  The TIGER/Line files contain point and area labels that describe landmarks features and provide locational reference.  Area landmarks consist of a feature name or label and feature type assigned to a polygon or group of polygons.  Landmarks may overlap or refer to the same set of polygons.
+
+The Census TIGER data base uses collections of spatial objects (points, lines, and polygons) to model or describe real-world geography.  The Census Bureau uses these spatial objects to represent features such as streets, rivers, and political boundaries and assigns attributes to these features to identify and
+describe specific features such as the 500 block of Market Street in Philadelphia, Pennsylvania.
+
+The TIGER/Line files contain information about these spatial objects distributed over a series of record types.  Users of the TIGER/Line files may need to link information from several record types to find all the attributes of interest that belong to one spatial object.
+
+Topology explains how points, lines, and areas relate to each other and is used as the foundation for organizing spatial objects in the Census TIGER data base.
+The Census TIGER data base uses these objects to provide a disciplined, mathematical description of the features on the earth's surface.  All spatial objects are interrelated.  A sequence of points defines line segments, and line segments connect to define polygons.
+
+The Census TIGER data base relates information to points or  0-cells, lines or 1-cells, and polygons or 2-cells.  The number preceding the cell identifies the dimensionality of the objects; for instance, a line segment has a single dimension,length.  Each of these objects build on the others to form higher-level objects.  The 0-cells form the end points of 1-cells.  The 1-cells connect at 0-cells and form closed figures that partition space into polygons or 2-cells.
+
+The spatial objects in TIGER/Line files embody both geometry (coordinate location and shape) and topology (the relationship between points, lines objects, and polygons) and therefore belong to the "Geometry and Topology" (GT) class of objects in the SDTS.  In the SDTS, nodes represent point objects (0-cells) that identify the start and end position of lines or 1-dimensional objects (1-cells) called chains.  The chains in the TIGER/Line files are complete chains because they form GT-polygon boundaries and intersect other chains only at nodes.  Topological chains that do not contain polygon information are network chains used to form GT-rings.  Data users may choose not to use GT-polygon or geographic entity codes and consider the TIGER/Line files a source of network chain data.
+
+The TIGER/Line files contain point landmark data that are not included in the Census TIGER data base topology.  Point landmarks are entity points that mark
+the location of points of interest and are not connected to complete chains or GT-polygons.  A polygon identification code is used to link a landmark to a GT-polygon.</eaover>
+      <eadetcit>The U.S. Bureau of the Census, TIGER/Line Files, 1995 Technical Documentation. The TIGER/Line files documentation defines the terms and definitions used within the files.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021211</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA.</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

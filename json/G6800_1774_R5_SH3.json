@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6800-1774-r5-sh3",
+  "dc_title_s": "Black Sea and Caucasus Regions, 1774 (Image 3 of 3) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte de la partie septentrionale de l'Empire Otoman : dediee a Monseigneur le comte de Vergennes--, par ... Rizzi Zannoni, de l'Academie Royale des Sciences et Belles Lettres de Gottingue, Pr. Ingenieur, Geographe du Roy ; Perrier sculpsit ; Bourgoin scripsit. It was published in 1774. Scale [ca. 1:1,450,000]. Covers the Black Sea and Caucasus regions. This layer is image 3 of 3 total images of the three sheet source map, representing the eastern portion of the map. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6800_1774_R5_SH3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6800_1774_R5_SH3",
+  "layer_slug_s": "harvard-g6800-1774-r5-sh3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-10-14T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Rizzi-Zannoni, Giovanni Antonio, 1736-1814.",
+    "Perrier, fl. 1760-1824."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Black Sea",
+    "Armenia",
+    "Azerbaijan",
+    "Bulgaria",
+    "Georgia",
+    "Greece",
+    "Hungary",
+    "Kazakhstan",
+    "Moldova",
+    "Romania",
+    "Russia",
+    "Turkey",
+    "Ukraine",
+    "Europe",
+    "Balkan Peninsula",
+    "Caucasus"
+  ],
+  "dct_issued_s": "2011-10",
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "solr_geom": "ENVELOPE(33.809365, 58.007614, 52.952389, 35.516389)",
+  "solr_year_i": 1774,
+  "harvard_collectionID_sm": [
+    "990125015560203941"
+  ]
+}

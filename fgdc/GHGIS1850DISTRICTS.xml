@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>HGIS Germany (Andreas Kunz, Leonhard Dietze)</origin>
+        <origin>IEG-Maps / Berlin Data Pool (Andreas Kunz, Robert Moeschl)</origin>
+        <origin>Institut fur Europaische Geschichte (Mainz, Rhineland-Palatinate, Germany)</origin>
+        <origin>Fachhochschule Mainz (Mainz, Rhineland-Palatinate, Germany)</origin>
+        <pubdate>2007</pubdate>
+        <title>Germany Governmental District Boundaries, 1850, German Historical GIS</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Mainz, Germany</pubplace>
+          <publish>HGIS Germany</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ghgis1850districts</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>These polygons represent 71 governmental districts (Regierungsbezirke) existing in several of the sovereign states of the German Confederation (the Deutscher Bund) in 1850. All were located within the (future) boundaries of the German Empire that would be founded in 1871("core Germany"). In 1850, governmental districts formed the middle level administrative units in nearly all of the larger territorial German states: Prussia, Hanover, Saxony, Bavaria, Wurttemberg, Baden, Hesse-Kassel, and Hesse-Darmstadt.</abstract>
+      <purpose>This data set is a contribution to the territorial and administrative history of Germany and of her position within Central Europe. In addition, it lends itself to the application of spatial statistics at the the level of the individual governmental district, which was an important statistical unit, as well as on Germany as whole based on these smaller statistical units.</purpose>
+      <supplinf>All geographic names in the G-HGIS dataset are given in German language, even if some of the populated places shown in historical settings are today located in other countries like Poland, Belgium or Denmark. A multi-language concordance list - including standard English terminology - is contained in the electronic compendium of the HGIS Germany website (http://www.hgisg-ekompendium.ieg-mainz.de/Sprachkonkordanzen/).</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1850</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>4.819391</westbc>
+        <eastbc>23.157687</eastbc>
+        <northbc>56.025202</northbc>
+        <southbc>47.056982</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Political Divisions</themekey>
+        <themekey>sovereign states</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Boundaries</themekey>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Population Statistics</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Germany</placekey>
+        <placekey>German Confederation</placekey>
+        <placekey>Central Europe</placekey>
+      </place>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Germany</placekey>
+        <placekey>Poland</placekey>
+        <placekey>Kaliningrad Oblast</placekey>
+        <placekey>Belgium</placekey>
+        <placekey>Czech Republic</placekey>
+        <placekey>Lithuania</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>19th</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>The G-HGIS data sets are freely distributed for non-commercial academic research purposes.</accconst>
+    <useconst>Academic use of G-HGIS data is allowed, and encouraged, provided that any derived data or digital images of maps give proper citation to G-HGIS as stated above. The G-HGIS datasets are distributed for non-commercial academic research purposes only. Any organization or individual that makes commercial or revenue generating use of the G-HGIS Datasets must first obtain a licensing agreement from the G-HGIS Editors. Use of the datasets distributed downloaded from HGL implies acceptance of all the terms stated in the End User's License Agreement, and acknowledges understanding of any liabilities stated therein by the end-user.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Dr. Andreas Kunz</cntper>
+          <cntorg>Institute of European History</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Alte Universitaetsstrasse 19</address>
+          <city>Mainz</city>
+          <postal>D-55116</postal>
+          <country>Germany</country>
+        </cntaddr>
+        <cntemail>kunz@ieg-mainz.de</cntemail>
+        <cntemail>ieg2@ieg-mainz.de</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>HGIS Germany, Version 1.1</datacred>
+    <native>Unknown</native>
+    <crossref>
+      <citeinfo>
+        <origin>Kunz, Andreas</origin>
+        <pubdate>2011</pubdate>
+        <title>Introduction to the German Historical GIS datasets</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Mainz, Germany</pubplace>
+          <publish>HGIS Germany</publish>
+        </pubinfo>
+        <onlink>http://nrs.harvard.edu/urn-3:HUL.gisdata:012690210_5128032</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>HGIS Germany (Andreas Kunz, Leonhard Dietze)</origin>
+            <origin>IEG-Maps / Berlin Data Pool (Andreas Kunz, Robert Moeschl)</origin>
+            <origin>Institut fur Europaische Geschichte (Mainz, Rhineland-Palatinate, Germany)</origin>
+            <origin>Fachhochschule Mainz (Mainz, Rhineland-Palatinate, Germany)</origin>
+            <pubdate>2007</pubdate>
+            <title>HGIS Germany (German Historical GIS) [electronic resource], ed. by Andreas Kunz et al.</title>
+            <edition>HGIS Germany, Version 1.1</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Mainz, Germany</pubplace>
+              <publish>HGIS Germany</publish>
+            </pubinfo>
+            <othercit>The historical GIS of Germany traces the political and adminstrative history of the German states from 1820 to 1914. Three layers of political-administrative units - state, province, districts - are contained in the data sets, which record all visible boundary changes at these levels per year. In addition to polygons, line information like external boundaries, and point information like capitals of states, provinces, and districts are given. The project's website is www.hgis-germany.de, from where downloads of vector data are not possible, however.</othercit>
+            <onlink>http://www.hgis-germany.de</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2007</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>G-HGIS</srccitea>
+        <srccontr>Source data set</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Data was uncompressed from ZIP format using WinZip and imported to ArcSDE using ArcCatalog 9.3.1.</procdesc>
+        <srcused>G-HGIS</srcused>
+        <procdate>2011</procdate>
+        <srcprod>SDE vector</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>71</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>33</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>15.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000100</absres>
+            <ordres>0.000100</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>GHGIS1850DISTRICTS</enttypl>
+        <enttypd>Germany Governmental District Boundaries, 1850</enttypd>
+        <enttypds>HGIS Germany</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>E</attrlabl>
+        <attrdef>[Number] Encoding of a governmental district; decoded in field Reg_name</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_NAME</attrlabl>
+        <attrdef>Name of a governmental district [from field E]]</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HAUPTSTADT</attrlabl>
+        <attrdef>Capital of a district</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BREITE</attrlabl>
+        <attrdef>Latitude of capital</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LAENGE</attrlabl>
+        <attrdef>Longitude of capital</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_ART</attrlabl>
+        <attrdef>[Number] Encoding of a governmental district; decoded in field Reg_art_b</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_ART_B</attrlabl>
+        <attrdef>Type of governmental district</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REG_AREA</attrlabl>
+        <attrdef>Area of the governmental district in square meters [GIS-value]</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REG_DICHTE</attrlabl>
+        <attrdef>Pop. density of a gov. district [GIS-value, related to figure given in Info_01]</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STAAT_NAME</attrlabl>
+        <attrdef>Name of a state [from field G1]</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INFO_01</attrlabl>
+        <attrdef>Number of inhabitants [district]</attrdef>
+        <attrdefs>HGIS Germany</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>This version of the data layer contains only a subset of the fields contained on the full DVD.</eaover>
+      <eadetcit>HGIS Germany (German Historical GIS) [electronic resource], ed. by Andreas Kunz et al.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20110728</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

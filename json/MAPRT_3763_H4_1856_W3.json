@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-maprt-3763-h4-1856-w3",
+  "dc_title_s": "Hampshire County, Massachusetts, 1856 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A topographical map of Hampshire County, Massachusetts, the details from actual surveys under the direction of H.F. Walling, superintendent of the state map. It was published by Sarony & Co. in 1856. Scale [ca. 1:48,500]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, public buildings, schools, churches, cemeteries, industry locations (e.g. mills, factories, mines, etc.), private buildings with names of property owners, town and county boundaries and more. Relief is shown by hachures. It includes many cadastral insets of individual county towns and villages, and an inset geological map of county. This map represents county boundaries as of 1856, thus portions of the towns of Holyoke (Hampden County), New Salem (Franklin County), and Petersham (Worcester County) are also represented on this map. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MAPRT_3763_H4_1856_W3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MAPRT_3763_H4_1856_W3",
+  "layer_slug_s": "harvard-maprt-3763-h4-1856-w3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-04-07T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Walling, Henry Francis, 1825-1888."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Landowners",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Hampshire County",
+    "Middlefield",
+    "Worthington",
+    "Cummington",
+    "Plainfield",
+    "Goshen",
+    "Chesterfield",
+    "Huntington",
+    "Williamsburg",
+    "Westhampton",
+    "Southampton",
+    "Hatfield",
+    "Northampton",
+    "Easthampton",
+    "Hadley",
+    "South Hadley",
+    "Amherst",
+    "Granby",
+    "Pelham",
+    "Belchertown",
+    "New Salem",
+    "Ware",
+    "Petersham"
+  ],
+  "dct_issued_s": "2006-04",
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "solr_geom": "ENVELOPE(-73.088513, -72.164718, 42.59577, 42.111742)",
+  "solr_year_i": 1856,
+  "harvard_collectionID_sm": [
+    "990095127260203941"
+  ]
+}

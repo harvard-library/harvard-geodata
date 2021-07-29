@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3720-1862-c6",
+  "dc_title_s": "New England, 1862 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: G. Woolworth Colton's railroad, township & distance map of New England : with adjacent portions of New York, Canada & New Brunswick, drawn, engraved & published by G. Woolworth Colton. It was published in 1862. Scale 1:900,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, state, county, and town boundaries, and more. Relief shown by hachures. Includes table of distances and inset: The eastern portion of Massachusetts on an enlarged scale. Scale 1:350,000. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3720_1862_C6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3720_1862_C6",
+  "layer_slug_s": "harvard-g3720-1862-c6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-03-26T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Railroads",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Vermont",
+    "New Hampshire",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Canada",
+    "Quebec",
+    "New Brunswick",
+    "New England"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "solr_geom": "ENVELOPE(-77.574931, -62.799371, 49.847524, 38.24936)",
+  "solr_year_i": 1862,
+  "harvard_collectionID_sm": [
+    "990095307500203941"
+  ]
+}

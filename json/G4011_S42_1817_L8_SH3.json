@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4011-s42-1817-l8-sh3",
+  "dc_title_s": "Louisiana, Mississippi, and Alabama, 1817 (Image 3 of 4) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A map of the state of Louisiana with part of the state of Mississippi and Alabama Territory, by Maxfield Ludlow ; engraved by W. Charles and J.G. Warnicke. It was published in 1817. Scale [ca. 1:504,000]. This layer is image 3 of 4 total images, representing the northwest portion of the four sheet source map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Plate Caree projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, names of selected landowners, roads, territorial, county, and township and range boundaries, shoreline features, and more. Relief shown pictorially. Depths shown by soundings. Includes text and inset: Map shewing the landing of the British Army and its several fortifications in the Mississippi, the works they erected on their retreat and also the lines of Genl. Jackson, 1815.This layer is part of a selection of digitally scanned and georeferenced historic maps of North America from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4011_S42_1817_L8_SH3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4011_S42_1817_L8_SH3",
+  "layer_slug_s": "harvard-g4011-s42-1817-l8-sh3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-01-22T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Ludlow, Maxfield.",
+    "Warnicke, Charles W.",
+    "Warnicke, John G., d. 1818."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Landowners",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Louisiana",
+    "Mississippi",
+    "Texas"
+  ],
+  "dct_issued_s": "2010-01",
+  "dct_temporal_sm": [
+    "1817"
+  ],
+  "solr_geom": "ENVELOPE(-94.571566, -89.622156, 33.225792, 30.458367)",
+  "solr_year_i": 1817,
+  "harvard_collectionID_sm": [
+    "990113833010203941"
+  ]
+}

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <pubdate>19960228</pubdate>
+        <title>Framingham, Massachusetts, 1987 (USGS 7.5 x 15 Minute Quadrangle DRG)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Reston, Va.</pubplace>
+          <publish>United States Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-madrg-k42071c3</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a digital raster graphic of the 7.5 x 15 Minute USGS topographic map of the Framingham, Massachusetts quadrangle, 1987.  Scale 1:25,000.  The DRG was published in 1996.
+
+A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map.
+
+The source paper map was produced by the United States Geological Survey in cooperation with Massachusetts Department of Public Works.  It was compiled by photogrammetric methods from aerial photographs taken 1978 and 1981.  Field checked 1979 and 1982.  Map edited 1987.  
+
+The names of quadrangles which border this one appear in a table on the map collar in their respective positions (N,S,E,W) in relation to this map.</abstract>
+      <purpose>A DRG is useful as a source or background layer in a GIS, as a means to perform quality assurance on other digital products, and as a source for the collection and revision of DLG data.  DRG's can also be merged with other digital data, e.g. DEM's or DOQ's, to produce a hybrid digital file.
+
+One of the most widely used of all maps is the topographic map. The feature that most distinguishes topographic maps from maps of other types is the use of contour lines to portray the shape and elevation of the land. Topographic maps render the three-dimensional ups and downs of the terrain on a two-dimensional surface.
+
+Topographic maps usually portray both natural and manmade features. They show and name works of nature including mountains, valleys, plains, lakes, rivers, and vegetation. They also identify the principal works of humans, such as roads, boundaries, transmission lines, and major buildings.
+
+The wide range of information provided by topographic maps make them extremely useful to professional and recreational map users alike. Topographic maps are used for engineering, energy exploration, natural resource conservation, environmental management, public works design, commercial and residential planning, urban planning and design, and outdoor activities like hiking, camping, and fishing. These maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  As this map has been georeferenced, it may serve as a useful basemap in conjunction with other GIS vector data.
+
+This information is not intended for navigational purposes.</purpose>
+      <supplinf>This layer is part of a series of digital raster graphics (DRG) of USGS topographic map quadrangles covering the entire state of Massachusetts acquired by The Harvard Map Collection.  These DRG layers have been processed and made available online through the Harvard Geospatial Library.  
+
+Massachusetts DRG series available through the Harvard Geospatial Library include: 7.5- by 7.5-minute, 7.5- by 15-minute, and 1- by 2-degree quadrangles.  Scales of these maps range from 1:24,000 to 1:250,000.  The Harvard Geospatial Library also has made available a set of the 1:62,500-scale, 15-minute USGS topographic quadrangle maps covering the state of Massachusetts produced between the early 1880s to the mid-1960s.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1987</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.513115</westbc>
+        <eastbc>-71.207427</eastbc>
+        <northbc>42.386791</northbc>
+        <southbc>42.238210</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps, Topographic</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure (Economics)</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Landforms</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Framingham</placekey>
+        <placekey>Marlborough</placekey>
+        <placekey>Southborough</placekey>
+        <placekey>Ashland</placekey>
+        <placekey>Sudbury</placekey>
+        <placekey>Wayland</placekey>
+        <placekey>Natick</placekey>
+        <placekey>Sherborn</placekey>
+        <placekey>Weston</placekey>
+        <placekey>Wellesley</placekey>
+        <placekey>Dover</placekey>
+        <placekey>Needham</placekey>
+        <placekey>Waltham</placekey>
+        <placekey>Newton</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>Acknowledgment of the USGS would be appreciated in products derived from these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Rolla-ESIC</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>U.S. Geological Survey</address>
+          <address>1400 Independence Road, MS 231</address>
+          <city>Rolla</city>
+          <state>MO</state>
+          <postal>65401-2602</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(573) 308-3500</cntvoice>
+        <cntfax>(573) 308-3615</cntfax>
+        <cntemail>mcmcesic@usgs.gov</cntemail>
+        <hours>Monday through Friday 7:45 AM to 4:15 PM (U.S. Central Time)</hours>
+        <cntinst>http://mcmcweb.er.usgs.gov/  
+http://topomaps.usgs.gov/drg/</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This DRG was produced through an Innovative Partnership agreement between The Land Information Technology Company, Ltd., of Aurora, CO and the USGS.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The DRG is an 8-bit color image that employs a color palette to ensure uniform colors throughout a particular DRG series.  All DRG's within a series must have the same RGB value.</attraccr>
+    </attracc>
+    <logic>Not Applicable.</logic>
+    <complete>The DRG is a faithfully reproduced digital image of the original source map.  Some differences may be detected between the source graphic used and the DRG due to the RGB values assigned that particular color.  The intent is to recreate those colors as near as possible.  Data completeness for DRG files reflect content of the source graphic.  Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints.  For information on collection and inclusion criteria, see U.S. Geological Survey, 1994, Standards for 1:24,000-Scale Digital Line Graphs and Quadrangle Maps: National Mapping Program Technical Instructions and U.S. Geological Survey, 1994, Standards for Digital Line Graphs:  National Mapping Program Technical Instructions.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>While the datum of the published map is retained to be consistent with other USGS digital data, this image is cast on the UTM and may be INCONSISTENT with the credit note on the image collar.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Refer to the DRG collar for information about vertical positional accuracy.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Massachusetts. Dept. of Public Works</origin>
+            <pubdate>1987</pubdate>
+            <title>Framingham, Massachusetts : 1:25 000-scale metric topographic map</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>42071-C3-TM-025</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>Geological Survey (U.S.)</origin>
+                <origin>Massachusetts. Dept. of Public Works.</origin>
+                <pubdate>Unknown</pubdate>
+                <title>Massachusetts, 7.5 x 15 minute series (topographic) :1:25 000-scale metric topographic map</title>
+                <geoform>map</geoform>
+                <pubinfo>
+                  <pubplace>Reston, Va.</pubplace>
+                  <publish>U.S. Geological Survey</publish>
+                </pubinfo>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1987</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>map1</srccitea>
+        <srccontr>The source map is scanned to produce the DRG.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>19960228</pubdate>
+            <title>Framingham</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>File name: K42071C3</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>Geological Survey (U.S.)</origin>
+                <pubdate>1996-1997</pubdate>
+                <title>DRG : Digital Raster Graphic data</title>
+                <geoform>map</geoform>
+                <pubinfo>
+                  <pubplace>Reston, Va.</pubplace>
+                  <publish>U.S. Geological Survey</publish>
+                </pubinfo>
+                <othercit>CD-ROMs</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1987</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>DRG</srccitea>
+        <srccontr>DRG is converted to SDE Raster.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The production procedures, instrumentation, hardware, and software used in the collection of standard DRG products vary depending on systems used at the contract, cooperator or USGS production sites.  The majority of DRG data sets are acquired through government contract.  The process step describes, in general, the process used in the production of standard DRG data sets.
+
+          1. Production of a DRG begins with the scanning of a paper 7.5-minute topographic map (map1) on a high-resolution scanner.  Scanning resolutions range from 500 - 1000 dpi with the outpt file running between 160-300 mb.
+
+          2. Removal of screens (descreening) and color quantization to reduce the number of colors also takes place during the scanning phase.
+
+          3. The raw scan file is then transformed and georeferenced using UTM coordinates of the sixteen 2.5-minute grid ticks, which are obtained using the in-house produced program COORDAT and stored in a ground control file.  Those sixteen 2.5-minute ticks are interactively visited and assigned their respective UTM coordinates. USGS program XSHAPES4 then performs a piecewise linear rubber sheet transformation.
+
+          4. An output resolution of 2.4 meters (8.2 feet) is chosen in order to resample the file to 250 dpi.
+
+          5.  The image file is converted to a TIFF and further reduced by converting the file to a run length encoding Packbits compression(type 32773).
+
+          6.  The color palette of the compressed DRG is then standardized by replacing the original RGB values assigned during the scanning process with standard RGB value combinations using the in-house produced TIFFREMAP program.
+
+          7.  Prior to archiving the DRG undergoes the following quality assurance procedures:
+
+               a. The color index values of each DRG are checked to ensure the RGB combinations are consistent with the standardized color palette.
+
+               b. All DRG files are inspected to ensure that they are geometrically consistent with normal map presentation.
+
+               c. Selected DRG's are checked to ensure that data elements in the DRG metadata file correspond to the map collar information and to the information in the associated image file.
+
+               d. Selected DRG's are checked for georeferencing accuracy by comparing the book value of latitude and longitude tick marks with corresponding tick intersections in the DRG image.
+
+               e. Transformations are checked on selected DRG's by comparing the positions of well defined points, such as UTM grid intersections in the graphic product, with the corresponding image points in the DRG.
+
+USGS DRG production specifications are available on request from the National Mapping Division and Mid-Continent Mapping Center.</procdesc>
+        <srcused>map1</srcused>
+        <procdate>19960228</procdate>
+        <srcprod>DRG</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Rolla-ESIC</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>U.S. Geological Survey</address>
+              <address>1400 Independence Road, MS 231</address>
+              <city>Rolla</city>
+              <state>MO</state>
+              <postal>65401-2602</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(573) 308-3500</cntvoice>
+            <cntfax>(573) 308-3615</cntfax>
+            <cntemail>mcmcesic@usgs.gov</cntemail>
+            <hours>Monday through Friday 7:45 AM to 4:15 PM (U.S. Central Time)</hours>
+            <cntinst>http://mcmcweb.er.usgs.gov/  
+http://topomaps.usgs.gov/drg/</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This USGS Digital Raster Graphic (DRG) was imported from a CD to an ArcSDE 9.1 geodatabase using the "Raster to Geodatabase" tool in ArcCatalog 9.1.  The number of pyramids built under the raster geodatabase environment settings was "4".  Because the DRG was stored with the incorrect datum on the original USGS CD, the datum was altered after the DRG was imported to the SDE database using the SDE alter command line option.  This DRG is now correctly stored in the NAD27, UTM Zone 19N coordinate system.</procdesc>
+        <srcused>DRG</srcused>
+        <procdate>20060321</procdate>
+        <srcprod>ArcSDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>6230</rowcount>
+      <colcount>9754</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>19</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>-69.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>2.540000</absres>
+            <ordres>2.540000</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>Each raster entity or pixel contains a color index from 0 through 12 referencing a color palette of RGB values from 0 through 255 in which the standard colors used in the DRG are defined.
+
+                           USGS DRG Color Palette
+
+            Digital Number    Color       Red      Green    Blue
+
+                  0           Black       0        0        0
+                  1           White       255      255      255
+                  2           Blue        0        151      164
+                  3           Red         203      0        23
+                  4           Brown       131      66       37
+                  5           Green       201      234      157
+                  6           Purple      137      51       128
+                  7           Yellow      255      234      0
+                  8        Light Blue     167      226      226
+                  9        Light Red      255      184      184
+                  10       Light Purple   218      179      214
+                  11       Light Grey     209      209      209
+                  12       Light Brown    207      164      142</eaover>
+      <eadetcit>Draft Standards for Digital Raster Graphic.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20061108</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

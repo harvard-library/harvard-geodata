@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgisgagesx1",
+  "dc_title_s": "MassGIS 2000 Stream-Gaging Stations (1994)",
+  "dc_description_s": "The US Geological Survey (USGS) maintains stream-gaging stations in Massachusetts. This coverage maps the location of the 71 continuous stream-gaging stations managed by USGS in 1994. Though maintained by USGS, these seventy one stations are funded by various sources. The points in this datalayer are fairly stable from year to year, though new gages are added and others removed as project work requires. Steam-gaging stations in Massachusetts are identified by gaging-station number, location, and funding source for 1994 sites.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISGAGESX1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISGAGESX1",
+  "layer_slug_s": "harvard-mgisgagesx1",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-07-03T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Stream-gaging stations",
+    "Stream measurements",
+    "Hydrology",
+    "Rivers",
+    "Streamflow",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "1996-05",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.354833, -70.507806, 42.752869, 41.592332)",
+  "solr_year_i": 1994,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

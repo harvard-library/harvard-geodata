@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5401-c6-1830-r2",
+  "dc_title_s": "Coasts, Brazil, 1830 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Blachford & Co.'s new chart of the coast of Brazil : from the Equator to Rio Janeiro, drawn from the surveys made by order of the Portuguese government, including those of Jose Patriceo, Manoe Pimental & several other officers in the Royal Navy. It was published by R. Blachford & Co., chart sellers to the Admiralty, and East India Compny, etc., 115 Minories in 1830. Scale [ca. 1:1,700,000]. Covers a portion of coastal Brazil.The image inside the map neatline is georeferenced to the surface of the earth and fit to the South America Lambert Conformal Conic projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as rocks, channels, points, ports, coves, islands, flats, bottom types, anchorage points, and more. Includes also selected land features such as towns, drainage, and more. Relief shown by hachures. Depths shown by soundings. Includes notes and insets: Harbor of Cape Frio, Rio de Janeiro, Harbor of Bahia, or St. Salvador, Fernand de Noronha, Bay of Maranham and Pernambuco. Decorated with 10 views of harbor entrances to Rio de Janeiro, Cape Frio, Bahia, etc.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5401_C6_1830_R2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5401_C6_1830_R2",
+  "layer_slug_s": "harvard-g5401-c6-1830-r2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-10-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "R. Blachford & Co.",
+    "Patriceo, Jose.",
+    "Pimental, Manoel."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation",
+    "Coasts",
+    "imageryBaseMapsEarthCover",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Brazil"
+  ],
+  "dct_issued_s": "2012-04",
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "solr_geom": "ENVELOPE(-48.631801, -24.729397, 2.558811, -30.281928)",
+  "solr_year_i": 1830,
+  "harvard_collectionID_sm": [
+    "990130779900203941"
+  ]
+}

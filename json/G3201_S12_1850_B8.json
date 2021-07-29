@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3201-s12-1850-b8",
+  "dc_title_s": "World Map Showing Routes of Exploration and Discovery, 1850 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: The world, on Mercator's projection, by David H. Burr. It was published by J. Haven, 86 State St. in 1850. Scale [ca. 1:74,000,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to a non-standard 'Mercator' projection with the central meridian at 90 degrees west. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. 'Showing the different routes to California, and distance by each, routes of different navigators, route of the contemplated Pacific R. Road, distances to China, Europe, & c.' This map shows features such as drainage, cities and other human settlements, shoreline features, and more. Relief shown by abbreviated form lines. Includes historical notes, ship ill., tables of distances, 'Nicaragua route' distances, and text on 'Pacific Railroad.' Insets: Map of the Nicaragua route -- Map of the proposed rail road from St. Louis to the bay of St. Francisco. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3201_S12_1850_B8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3201_S12_1850_B8",
+  "layer_slug_s": "harvard-g3201-s12-1850-b8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-11-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "Burr, David H., 1803-1875.",
+    "Haven, John."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "World maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Transportation",
+    "Discovery and exploration",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America",
+    "Arctic regions"
+  ],
+  "dct_issued_s": "2009-11",
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 86.438634, -84.990843)",
+  "solr_year_i": 1850,
+  "harvard_collectionID_sm": [
+    "990115271960203941"
+  ]
+}

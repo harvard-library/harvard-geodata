@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-matwn-3764-b6-1851-s6",
+  "dc_title_s": "Boston, Massachusetts, 1851 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan of Boston comprising a part of Charlestown and Cambridge, published by George G. Smith, engraver, 1851. Scale [ca. 1:7,380]. Covers Boston proper (Shawmut Peninsula and Boston Neck) with small portions of Charlestown, Cambridge, and South Boston. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, signal stations, wharves, drainage, churches, schools, selected public buildings, parks, cemeteries, city ward boundaries and more. Relief is shown by hachures. Includes insets: Plan of South Boston from a drawing by S.P. Fuller. Scale [ca. 1:17,600] -- Plan of East Boston from actual survey by R.H. Eddy. Scale [ca. 1:17,000]. Includes also indexes to points of interest and streets. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MATWN_3764_B6_1851_S6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MATWN_3764_B6_1851_S6",
+  "layer_slug_s": "harvard-matwn-3764-b6-1851-s6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-04-26T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Smith, George Girdler, 1795-1878."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2006-04",
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "solr_geom": "ENVELOPE(-71.101397, -71.036308, 42.38093, 42.331792)",
+  "solr_year_i": 1851,
+  "harvard_collectionID_sm": [
+    "990093967230203941"
+  ]
+}

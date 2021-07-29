@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Rock, Joseph Francis Charles, 1884-1962.</origin>
+        <origin>Simpson, William Ekvall, 1901-</origin>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <pubdate>200610</pubdate>
+        <title>Rock map of the Yellow River (Huang He) expedition, China, 1925-1927 : Sheet 4</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <othercit>Sheet IV of X.</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-rockmapiv-453931</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is part of a set of georeferenced, raster images of the manuscript, paper map set entitled: Ch'ing-Hai upper Yellow River expedition : Rock and Simpson, 1925-27, [cartography by J.F. Rock].  Scale 1:250,000.  This layer image is of Sheet IV [of 10] covering a portion of the Yellow River (Huang He) region in eastern Qinghai Sheng, China.  
+
+The map set details the route and surrounding environs of the Arnold Arboretum's "Western China" expedition led by Joseph Rock, 1924-1927.  The set covers a portion of the Yellow River (Huang He) region in south central China (Qinghai, Gansu, and Sichuan shengs (a portion of historic Tibet)).  It shows features, labeled variously in English, Chinese, Wade-Giles transliteration, and Tibetan, including: rivers, streams, lakes, mountains, gorges, valleys, plateaus, plains, cities, towns, villages, provincial capitals, county seats, passes, monasteries, ruin sites, native tribe locations, and more.  Relief is shown by hachures, spot heights, and landform drawings.  The original manuscript map set is part of the Harvard College Library, Harvard Map Collection.   
+
+"Joseph Rock traced his travels for the [Arnold] Arboretum's [Western China] 1924-1927 expedition in a colorful, hand-drawn map entitled 'Ch'ing-Hai upper Yellow River expedition.' The pen-and-ink drawing was made on ten sheets that when joined form a single, irregularly-shaped map, approximately six by eight feet in size. The individual sheets are numbered, using roman numerals; on sheet VII is a second title, 'Choni Territory, Upper and Lower T'ieh-Pu country and route to Sung-Pan, J. F. Rock, 1925-1927.' Topographical and other features are identified using a combination of English, Chinese characters, Wade-Giles transliterations and Tibetan script. Rock's attractive cursive style and use of hachures, spot heights, and landform drawings to depict relief add character to the map." -- Text from the Arnold Arboretum Web site.</abstract>
+      <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape. The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change. As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+      <supplinf>"The first director of the [Arnold] Arboretum, Charles S. Sargent, sent plant explorers to Asia throughout his fifty-year tenure, and it was he who initiated Joseph Rock's expedition in 1924. The Harvard Museum of Comparative Zoology, seeking to acquire bird specimens from this area, cooperated in the project. Sargent directed Rock to collect and photograph plants and the landscape along the Yellow River (Huang He) and in two mountain ranges, the Amne Machin (Jishi Shan) and the Richthofen (Qilian Shan). Rock also collected along the Yangtze River, at the Gansu-Sichuan border, in the Tebbu region of southwestern Gansu, and around the Koko Nor (Qinghai Lake) in northeastern Tibet. The three-year expedition resulted in more than 20,000 herbarium specimens, over 1,000 bird specimens, several hundred packets of seeds, 653 photographs, and a correspondence between Rock and Sargent that exceeded 300 letters and telegrams."  -- Text from Arnold Arboretum Web site.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1925</begdate>
+          <enddate>1927</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>98.650791</westbc>
+        <eastbc>100.131649</eastbc>
+        <northbc>35.476566</northbc>
+        <southbc>33.728784</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps, Manuscript</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Rivers</themekey>
+        <themekey>Landforms</themekey>
+        <themekey>Scientific expeditions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GEOnet Names Servers (GNS)</placekt>
+        <placekey>China</placekey>
+        <placekey>Huang He</placekey>
+        <placekey>Yellow River</placekey>
+        <placekey>Qinghai Sheng</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Ch'ing-hai Province</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard College Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Arnold Arboretum</origin>
+        <origin>Tuttle, Gray.</origin>
+        <pubdate>2003</pubdate>
+        <title>South Central China and Tibet : Hotspot of Diversity :  Map and Gazetteer</title>
+        <geoform>digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Arnold Arboretum</publish>
+        </pubinfo>
+        <othercit>Web site with information on the Rock expedition, including link to online gazetteer database based on the original map set.</othercit>
+        <onlink>http://www.arboretum.harvard.edu/library/tibet/map.html</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source manuscript map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document.  Intended scale of these maps was sketched at 1:250,000, but this varies in actuality depending on its spatial accuracy.  It should also be noted that the longitude, latitude grid lines that appear on these maps are spatially inaccurate.  There may also be errors introduced during the digitizing and georeferencing process.  In most cases, errors in the raster image are small compared with sources of error in the original map graphic.  The RMS error for this map is 0.00832 decimal degrees RMS error.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Rock, Joseph Francis Charles, 1884-1962.</origin>
+            <origin>Simpson, William Ekvall, 1901-</origin>
+            <pubdate>Unpublished Material</pubdate>
+            <title>Ch'ing-hai upper Yellow River expedition, 1925-27 : Sheet IV</title>
+            <geoform>map</geoform>
+            <lworkcit>
+              <citeinfo>
+                <origin>Rock, Joseph Francis Charles, 1884-1962.</origin>
+                <origin>Simpson, William Ekvall, 1901-</origin>
+                <pubdate>Unpublished Material</pubdate>
+                <title>Ch'ing-hai upper Yellow River expedition, 1925-27.</title>
+                <geoform>map</geoform>
+                <othercit>Rock and Simpson ; [cartography by J.F. Rock].
+
+1 ms. map on 10 sheets : col. ; 270 x 228 cm., on sheets 69 x 54 cm. and 54 x 69 cm.
+
+Hand drawn in pen and ink.  Irregularly shaped.
+
+Map sheets are numbered I-X. Each sheet is also numbered consecutively from 453928 to 453937, in bottom right hand corner, except for sheet V.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1925</begdate>
+              <enddate>1927</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map of raster image</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Digital images from the Rock Hand Drawn Map component of the Harvard University Library Digital Initiative (LDI) project "Western China and Tibet: Hotspot of Diversity" were created by the Harvard College Library Digital Imaging Group in 2002. 
+
+Production of this raster image began with the scanning of the paper map on a high-resolution scanner: (Betterlight, Super8K2 scanning back camera and ViewFinder 5.x capture software). The imaging specification was designed to produce highly detailed "Archival Master" images that, to the extent possible, reproduce the full range of tone, color, and level of detail present in the original maps. Color and tonal corrections were made using Adobe Photoshop 6.xx and 7.xx. Files were viewed on a calibrated Barco Reference Calibrator V monitor. For proofing purposes originals were illuminated with a GTI Soft-View 5000k light source. Editing was performed in an ISO 3664 compliant environment. Master image files were corrected and archived as 24 bit TIFF files in the Adobe RGB 1998 color-space.  All files were saved with embedded ICC compliant color-space profiles.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2002</procdate>
+        <srcprod>TIFF Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+            </cntorgp>
+            <cntpos>Digital Imaging and Photography Group</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The digital TIFF image was georeferenced to common reference points located on digital vector shapefiles.  Two shapefiles containing hydrographic data and populated places at 1:1,000,000 scale (from the Digital Map Database of China (China Cartographic Publishing House, 1996)) were used as the base maps for reference.  To the best of our knowledge, Rock did not base his sketches on any particular coordinate system except for latitude, longitude, so the Krasovsky_1940 datum was applied because of its geographic relevance and because the vector files used for reference were published in the GCS Krasovsky_1940 coordinate system.  ArcMap 9.0 software was utilized to georeference the image to several common reference points (control points) on the projected shapefiles, and a .tfw (world file) was automatically generated and saved in association with the scanned image.</procdesc>
+        <srcused>TIFF Map Image</srcused>
+        <procdate>200607</procdate>
+        <srcprod>Georeferenced Raster Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>8396</rowcount>
+      <colcount>6501</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map. The colors on that sheet can represent various topographical and cultural features, including relief, drainage, vegetation, populated places, cultural landmarks, transportation features, spot elevations, landforms, and boundaries, etc.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20061030</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

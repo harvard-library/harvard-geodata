@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6814-a9-1920-e4-sh1",
+  "dc_title_s": "Athens, Greece, 1920 (Image 1 of 4) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Athenai kai sinoikismoi :klimax 1:8000, oiadepote anatyposis apagoreuetai. It was published by Ekdotikos Chartographikos Oikos K. Gregoura in [1920]. Scale 1:8,000. Covers the Athens, Greece region. This layer is image 1 of 4 total images of the four sheet source map, representing the northwest portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Greek Geodetic Reference System (also called the Greek Grid). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as roads, railroads, drainage, built-up areas, selected buildings, historic sites and points of interest, parks, and more. Relief is shown by hachures, contours, and spot heights. Includes legend and inset. Map in Greek. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6814_A9_1920_E4_SH1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6814_A9_1920_E4_SH1",
+  "layer_slug_s": "harvard-g6814-a9-1920-e4-sh1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-01-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Ekdotikos Chartographikos Oikos K. Gregoura."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Greece",
+    "Athens",
+    "Athina"
+  ],
+  "dct_issued_s": "2015-01",
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "solr_geom": "ENVELOPE(23.67947, 23.738771, 38.060682, 37.99119)",
+  "solr_year_i": 1920,
+  "harvard_collectionID_sm": [
+    "990113766480203941"
+  ]
+}

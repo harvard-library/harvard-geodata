@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6003-f7-1730-d6-sh3",
+  "dc_title_s": "Noord-Holland, Netherlands, ca. 1730 (Image 2 of 15) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: 'T Hoogh-Heemraetschap vande uytwaterende sluysen in Kennemerlandt ende West-Vrieslandt, afgemeten en afgeteijckent deur Iohannes Douw, ordinaris landtmeter des landts van Rhynlandt ; Koenraet Decker sculpsit ; Abraham Deur scripsit. It was published by Hendrik de Leth ca. 1730. Scale approximately 1:30,000. This layer is image 2 of 15 total images of the 16 sheet source map, representing an eastern portion of the map. Map in Dutch and Latin.The image inside the map neatline is georeferenced to the surface of the earth and fit to the RD_New (Rijksdriehoekstelsel), GCS Amersfoort coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage (dikes and canals), built-up areas and selected buildings, fortifications, shoreline features, and more. Relief shown pictorially. Includes also the coats of arms of the Hoogheemraadschap.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6003_F7_1730_D6_SH3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6003_F7_1730_D6_SH3",
+  "layer_slug_s": "harvard-g6003-f7-1730-d6-sh3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-08-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Dou, Jan Jansz., 1615-1682, printer.",
+    "Decker, Koenraedt, engraver.",
+    "Deur, Abraham, engraver.",
+    "Leth, Hendrik de, 1703-1766, printer."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Noord-Holland"
+  ],
+  "dct_issued_s": "2015-08",
+  "dct_temporal_sm": [
+    "1730"
+  ],
+  "solr_geom": "ENVELOPE(5.047916, 5.351258, 52.66083, 52.451325)",
+  "solr_year_i": 1730,
+  "harvard_collectionID_sm": [
+    "990137752320203941"
+  ]
+}

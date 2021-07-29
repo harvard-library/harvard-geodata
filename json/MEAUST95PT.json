@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-meaust95pt",
+  "dc_title_s": "Massachusetts Underground Storage Tank Locations, 1995",
+  "dc_description_s": "This datalayer is a point coverage displaying Underground Storage Tank Locations throughout Massachusetts. These tanks may store some of the following substances: chemical, diesel, fuel oil, gas(eous), gasoline, glycol, hazardous, kerosene, lubricant, mixture, solid, water. The Underground Storage Tank Locations datalayer (UST) was compiled by the U.S. Environmental Protection Agency through a contract with Camp, Dresser and McKee Federal Systems, Inc. Tabular information on tank sites was obtained from the Massachusetts Department of Public Safety's Division of Fire Protection Tanks database. The data here were originally produced by MassGIS. NOTE: Funding restrictions prevented all sites from being cataloged and included in the original MAssGIS datalayer. This layer was derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. For more information on the original MassGIS datalayer please consult their website at: http://www.state.ma.us/mgis/ust.htm",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEAUST95PT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEAUST95PT",
+  "layer_slug_s": "harvard-meaust95pt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2004-05-03T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "utilitiesCommunication",
+    "Underground storage tanks",
+    "Petroleum products underground storage"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "solr_geom": "ENVELOPE(-73.383357, -69.924683, 42.87191, 41.260689)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

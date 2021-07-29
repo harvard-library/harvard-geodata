@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-madrg-k42070d7",
+  "dc_title_s": "Lynn, Massachusetts, 1985 (USGS 7.5 x 15 Minute Quadrangle DRG)",
+  "dc_description_s": "This layer is a digital raster graphic of the 7.5 x 15 Minute USGS topographic map of the Lynn, Massachusetts quadrangle, 1985. Scale 1:25,000. The DRG was published in 1997. A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The source paper map was produced by the United States Geological Survey in cooperation with Massachusetts Department of Public Works. It was compiled by photogrammetric methods from aerial photographs taken 1978. Field checked 1979. Map edited 1985. Selected hydrographic data compiled from NOS charts 13270, 13272 (1982), 13275 and 13276 (1981). The names of quadrangles which border this one appear in a table on the map collar in their respective positions (N,S,E,W) in relation to this map.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MADRG_K42070D7.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MADRG_K42070D7",
+  "layer_slug_s": "harvard-madrg-k42070d7",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-11-03T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "United States Geological Survey"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Lynn",
+    "Marblehead",
+    "Salem",
+    "Swampscott",
+    "Nahant",
+    "Saugus",
+    "Revere",
+    "Boston",
+    "Winthrop"
+  ],
+  "dct_issued_s": "1997-05-12",
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "solr_geom": "ENVELOPE(-71.016222, -70.706557, 42.513563, 42.361613)",
+  "solr_year_i": 1985,
+  "harvard_collectionID_sm": [
+    "990072954620203941"
+  ]
+}

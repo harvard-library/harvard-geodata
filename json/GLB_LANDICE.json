@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-glb-landice",
+  "dc_title_s": "Global GIS : Land ice areas",
+  "dc_description_s": "This datalayer is a polygon coverage representing land ice areas (snow fields or ice fields which are on land) worldwide and was published as part of the USGS Global GIS : global coverage database. Most of the land ice areas are located in the polar areas or the high mountain ranges of the world. The datalayer was derived from the National Imagery and Mapping Agency's (NIMA, now the Nation Geospatial-Intelligence Agency (NGA)) Vector Map (VMap) Level 0 database (1997). The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas. The Vector Map (VMap) Level 0 database represents the third edition of the Digital Chart of the World. The second edition was a limited release item published 1995 09. The product is dual named to show its lineage to the original DCW, published in 1992, while positioning the revised product within a broader emerging-family of VMap products. VMap Level 0 is a comprehensive 1:1,000,000 scale vector basemap of the world. It consists of cartographic, attribute, and textual data stored on compact disc read only memory (CD-ROM). The primary source for the database is the National Imagery and Mapping Agency's (NIMA) Operational Navigation Chart (ONC) series. This is the largest scale unclassified map series in existence that provides consistent, continuous global coverage of essential basemap features. The database contains more than 1,900 megabytes of vector data and is organized into 10 thematic layers. The data includes major road and rail networks, major hydrologic drainage systems, major utility networks (cross-country pipelines and communication lines), all major airports, elevation contours (1000 foot(ft), with 500ft and 250ft supplemental contours), coastlines, international boundaries and populated places. The database can be accessed directly from the four optical CD-ROMs that store the database or can be transferred to a magnetic media.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GLB_LANDICE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GLB_LANDICE",
+  "layer_slug_s": "harvard-glb-landice",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-02-07T00:00:00Z",
+  "dc_creator_sm": [
+    "United States. National Imagery and Mapping Agency"
+  ],
+  "dc_publisher_s": [
+    "American Geological Institute"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Ice fields",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America",
+    "Polar Regions"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "dct_isPartOf_sm": [
+    "Global GIS : global coverage",
+    "U.S. Geological Survey digital data series"
+  ],
+  "solr_geom": "ENVELOPE(-179.442779, 179.831909, 83.564423, -87.462509)",
+  "solr_year_i": 1997,
+  "harvard_collectionID_sm": [
+    "990100637310203941"
+  ]
+}

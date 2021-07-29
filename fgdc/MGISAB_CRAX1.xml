@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Massachusetts. Executive Office of Environmental Affairs</origin>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <origin>Massachusetts. Wetlands Conservancy Program.</origin>
+        <pubdate>199703</pubdate>
+        <title>MassGIS 2000 Abandoned Cranberry Bogs (March 1997)</title>
+        <edition>1</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisab-crax1</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2000</pubdate>
+            <title>MassGIS data</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The abandoned cranberry bogs datalayer was compiled by the DEP GIS Group from source material provided by the DEP Wetlands Conservancy Program (WCP).  The data set AB_CRAN is a point layer containing the location of 537 abandoned cranberry bogs in 41 Massachusetts municipalities in Barnstable, Bristol and Plymouth Counties.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199703</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source layer publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.084382</westbc>
+        <eastbc>-69.986999</eastbc>
+        <northbc>42.182116</northbc>
+        <southbc>41.567564</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Agriculture</themekey>
+        <themekey>Cranberries</themekey>
+        <themekey>Bogs</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Wetlands</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>farming</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Barnstable County</placekey>
+        <placekey>Bristol County</placekey>
+        <placekey>Plymouth County</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>MassGIS</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 900</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Unknown</origin>
+            <pubdate>199304</pubdate>
+            <title>1:12,000 scale, color infrared (CIR) photographs</title>
+            <geoform>photos</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199304</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>CIR photos</srccitea>
+        <srccontr>Source from which data was derived</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Abandoned cranberry bogs were identified by the WCP from 1:12,000 color infrared (CIR) photography flown in April, 1993.  A rough delineation of the boundary of each abandoned bog and an estimated center point was marked on a stable mylar overlay.  The estimated center points of the abandoned cranberry bogs were then visually compiled onto paper (1:25,000 scale) GIS base maps and digitized.  The area of each abandoned bog was estimated from the rough delineation on the mylar overlay, and the center points were buffered by the estimated area.          
+
+Abandoned bogs were identified through evidence of landscape features indicating previous cranberry growing activity, including surface hydrologic features and evidence of ditching or diking. Conducted by experienced wetlands delineators, this method provided accurate assessment of sites greater than 1/2 acre in size that had a high probability of being abandoned cranberry bogs.  Comprehensive analysis and processing of the CIRs, combined with field survey work could be expected to identify more possible abandoned cranberry bogs.</procdesc>
+        <srcused>CIR photos</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Massachusetts Dept. of Environmental Protection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Program</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>One Winter Street</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02108</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-574-6856</cntvoice>
+            <cntfax>617-556-1049</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200108</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>537</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISAB_CRAX1</enttypl>
+        <enttypd>Abandoned Cranberry Bogs</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Internall calculated feature area measure</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>This value will always be 0</attrva>
+          <attrvae>This is a point layer. Points have no area</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter measurement</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>This value will always be 0</attrva>
+          <attrvae>This is a point layer. Points have no perimeter</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>AB_CRAN_</attrlabl>
+        <attrdef>Internal feature ID</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AB_CRAN_ID</attrlabl>
+        <attrdef>Internal feature ID</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CBBOG_ID</attrlabl>
+        <attrdef>Unique identifier consisting of flight line number, photo number and ab_unit  number</attrdef>
+        <attrdefs>MassGIs</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_LINE</attrlabl>
+        <attrdef>CIR flight line number</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PHOTO_</attrlabl>
+        <attrdef>CIR photo number</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AB_UNIT_</attrlabl>
+        <attrdef>Unique integer code for each abandoned bog on a CIR</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>Wetlands classification (available for Cape Cod only)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Estimated area of abandoned cranberry bog in acres</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SQ_FEET</attrlabl>
+        <attrdef>Estimated area of abandoned cranberry bog in square feet (sq. ft.)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RADIUS2</attrlabl>
+        <attrdef>Estimated area of abandoned cranberry bog in sq. ft. divided by pi (used to determine bog buffer radii)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CB_BUF</attrlabl>
+        <attrdef>Bog center point buffer radius in feet</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CB_BUF_MET</attrlabl>
+        <attrdef>Bog center point buffer radius in meters</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20010907</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

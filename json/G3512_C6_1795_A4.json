@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3512-c6-1795-a4",
+  "dc_title_s": "Washington and British Columbia, ca. 1795 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carta esferica de los reconocimientos hechos en 1792 en la costa N.O. de America para examinar la entrada de Juan de Fuca, y la internacion de sus canales navegables, levantada de orden del Rey Nuestro Señor abordo de las Goletas Sutil y Mexicana, por D. Dionisio Galiano y D. Cayetano Valdés, Capitanes de navio de la Rl. armada, año de 1795 ; Juan Moreno Tejada la grabó. It was published ca. 1795. Scale [ca. 1:885,000]. Map in Spanish. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Mercator projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown by hachures. Depths shown by soundings. Includes also inset view of land from entrance through Queen Charlotte Sound. Includes also area around Vancouver Island (B.C.) and Strait of Juan de Fuca. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3512_C6_1795_A4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3512_C6_1795_A4",
+  "layer_slug_s": "harvard-g3512-c6-1795-a4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-15T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Alcalá-Galiano, Dionisio, 1760-1805.",
+    "Valdés Flores Bazán y Peón, Cayetano, 1767-1835.",
+    "Moreno Tejada, Juan.",
+    "Spain. Dirección de Hidrografía. Atlas marítimo español."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Hydrography",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "United States",
+    "British Columbia",
+    "Washington"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1795"
+  ],
+  "solr_geom": "ENVELOPE(-132.724145, -119.742997, 51.848155, 46.267207)",
+  "solr_year_i": 1795,
+  "harvard_collectionID_sm": [
+    "990114503220203941"
+  ]
+}

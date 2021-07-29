@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>American Geological Institute</origin>
+        <origin>Geological Survey (U.S)</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : mineral deposit and metallogenic belt maps of the Russian Far East</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-ruslod</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing mineral deposit and metallogenic belts of the Russian Far East.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political analysis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2003</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>122.583300</westbc>
+        <eastbc>179.770600</eastbc>
+        <northbc>72.228600</northbc>
+        <southbc>42.726100</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Geology</themekey>
+        <themekey>Mines and mineral resources</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Russian Far East (Russia)</placekey>
+        <placekey>Russia (Federation)</placekey>
+      </place>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>Russian Federation</placekey>
+        <placekey>Russia</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity, the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Geological Survey (U.S.)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>U.S. Geological Survey, MS 939</address>
+          <address>Box 25046</address>
+          <address>Denver Federal Center</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225-0046</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(303) 236-5776</cntvoice>
+        <cntfax>(303) 236-8822</cntfax>
+        <cntemail>ahlbrandt@usgs.gov</cntemail>
+        <hours>9 am. to 5 pm. U.S. Mountain Time Zone</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <attracc/>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa/>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Nokleberg, Warren J.</origin>
+            <origin>Geological Survey of Canada</origin>
+            <pubdate>1998</pubdate>
+            <title>Summary terrane, mineral deposit, and metallogenic belt maps of the Russian Far East, Alaska, and the Canadian Cordillera</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey open-file report</sername>
+              <issue>98-136</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Menlo Park, CA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>by Warren J. Nokleberg .. [et al.] ; prepared in collaboration with Geological Survey of Canada ... [et al.].</othercit>
+            <onlink>http://wrgis.wr.usgs.gov/open-file/of98-136/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Summary terrane CD-ROM</srccitea>
+        <srccontr>Source from which dataset is derived.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Geological Survey of Canada.</origin>
+            <pubdate>1997</pubdate>
+            <title>Mineral deposit and metallogenic belt maps of the Russian Far East, Alaska, and the Canadian cordillera</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey open-file report</sername>
+              <issue>97-161</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Denver, Colo.]</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>7 maps.
+
+Prepared in cooperation with: Russian Academy of Sciences, Geological Committee of Russia, [and] Alaska Division of Geological and Geophysical Surveys. 
+
+Additional Series: Open file (Geological Survey of Canada) ; 3446.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1997</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS Paper Maps</srccitea>
+        <srccontr>Source maps for CD-ROM version</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Data compiled from:
+Mineral deposit and metallogenic belt maps of the Russian Far East, Alaska, and the Canadian Cordillera USGS: Open File Report 97-161
+GCS: Open File 3446
+
+The preparation of the digital data and the maps was accomplished under the auspices of the Cartography Section of the Geoscience Information Division (GID), Natural Resources Canada.</procdesc>
+        <srcused>USGS Paper Maps</srcused>
+        <procdate>1998</procdate>
+        <srcprod>Summary terrane CD-ROM</srcprod>
+        <proccont>
+          <cntinfo/>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Data compiled from:
+Mineral deposit and metallogenic belt maps of the Russian Far East, Alaska, and the Canadian Cordillera USGS: Open File Report 97-161
+GCS: Open File 3446
+
+The preparation of the digital data and the maps was accomplished under the auspices of the Cartography Section of the Geoscience Information Division (GID), Natural Resources Canada.</procdesc>
+        <srcused>Summary terrane CD-ROM</srcused>
+        <procdate>1998</procdate>
+        <srcprod>Global GIS Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Geological Survey</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a CD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data</srcused>
+        <procdate>20041101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>568</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Russian Mineral Lode Points</enttypl>
+        <enttypd>Points represent mineral lode areas</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>LODEDEP_ID</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>1079</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SYMBOL</attrlabl>
+        <attrdef>Symbol Number</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>11</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QUADNUMBER</attrlabl>
+        <attrdef>Unique deposit identifier made up of combined values of MAP_ROW, MAP_COL_, and NO_IN_SECT</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric field</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEPOSIT_NA</attrlabl>
+        <attrdef>Deposit Name</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text field</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAP_ROW</attrlabl>
+        <attrdef>Quadrant row number of deposit</attrdef>
+        <attrdefs>NIMA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>K</rdommin>
+            <rdommax>S</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAP_COL_</attrlabl>
+        <attrdef>Quadrant column number of deposit</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>51</rdommin>
+            <rdommax>60</rdommax>
+            <attrunit>1</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NO_IN_SECT</attrlabl>
+        <attrdef>Deposit Number</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>01</rdommin>
+            <rdommax>56</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEPOSIT_TY</attrlabl>
+        <attrdef>Deposit Type</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text field</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMODITIE</attrlabl>
+        <attrdef>Deposit Commodity</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Element and Compound Symbols</codesetn>
+            <codesets>IUPAC nomenclature</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BELT_METAL</attrlabl>
+        <attrdef>Name of metallogenic belt in which deposit is located</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>METALLOGEN</attrlabl>
+        <attrdef>Class of metallogenic belt in which deposit is located</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LATDD</attrlabl>
+        <attrdef>Latitude (in decimal degrees)</attrdef>
+        <attrdefs>Computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>42.7261</rdommin>
+            <rdommax>72.2286</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.0001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONGDD</attrlabl>
+        <attrdef>Longitude (in decimal degrees)</attrdef>
+        <attrdefs>Computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>122.5833</rdommin>
+            <rdommax>179.7066</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.0001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABBREVNAME</attrlabl>
+        <attrdef>Metallogenic belt code</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BELT_NAME1</attrlabl>
+        <attrdef>Full name of metallogenic belt in which deposit is located</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BELT_NAME2</attrlabl>
+        <attrdef>Remainder of full name of metallogenic belt in which deposit is located</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_RUSLOD.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050324</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Acknowledgement of the Harvard Geospatial Library, Harvard University would be appreciated in future use or publication of this metadata record.</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

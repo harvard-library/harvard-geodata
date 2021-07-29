@@ -1,0 +1,57 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7650-1752-a5-sh1",
+  "dc_title_s": "India & South Asia, 1752 (Image 1 of 2) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte de l'Inde : dressee pour la Compagnie des Indes, par le Sr. d'Anville, Secretaire de S.A.S. Mgr. le Duc d'Orleans ; [engraved by] Guill.' de-la-Haye. It was published by Jean Baptiste Bourguignon d'Anville in November 1752. Scale [ca. 1:3,100,000]. This layer is image 1 of 2 total images of the two sheet source map, representing the northern portion of the map. Covers India and portions of South Asia. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Kalianpur 1975 India Zone III projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, shoreline features, and more. Relief shown pictorially. Includes insets: Negrais -- Riviere d'Aracan -- Riv. de Sirian -- Archipel de Merghi -- Environs de Junk Selon -- Environs d'Ashem -- Entree du Gange -- Environs de Goa. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7650_1752_A5_SH1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7650_1752_A5_SH1",
+  "layer_slug_s": "harvard-g7650-1752-a5-sh1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-10-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782.",
+    "Delahaye, Guillaume Nicolas, 1725-1802."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Bengal, Bay of",
+    "Bangladesh",
+    "Burma",
+    "Cambodia",
+    "India",
+    "Indonesia",
+    "Maldives",
+    "Malaysia",
+    "Sri Lanka",
+    "Thailand",
+    "South Asia",
+    "Southeast Asia"
+  ],
+  "dct_issued_s": "2011-10",
+  "dct_temporal_sm": [
+    "1752"
+  ],
+  "solr_geom": "ENVELOPE(64.437402, 108.124826, 32.157653, 14.676229)",
+  "solr_year_i": 1752,
+  "harvard_collectionID_sm": [
+    "990125891930203941"
+  ]
+}

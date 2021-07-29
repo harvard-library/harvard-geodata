@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3804-n4-1860-d7-sh2",
+  "dc_title_s": "New York, N.Y. and vicinity, 1860 (Raster Image) (Image 2 of 2)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the five cities of New York, Brooklyn, Jersey City, Hoboken & Hudson City : Plate no. 1, prepared by M. Dripps for Valentine's Manuel [sic] of the Corporation of the city of New York. It was published by Common Council in 1860. Scale not given. This layer is image 1 of 2 total images of the two sheet source map, representing the northern portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) Zone 18N NAD83 projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, city wards, parks, cemeteries, pier and bulkhead lines, selected public buildings, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3804_N4_1860_D7_SH2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3804_N4_1860_D7_SH2",
+  "layer_slug_s": "harvard-g3804-n4-1860-d7-sh2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-11-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Dripps, M. (Matthew)",
+    "Valentine, D. T. (David Thomas), 1801-1869.",
+    "New York (N.Y.). Common Council."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York, New York",
+    "Manhattan",
+    "Brooklyn",
+    "Queens",
+    "Bronx",
+    "New Jersey",
+    "Cliffside Park",
+    "Edgewater",
+    "Englewood Cliffs",
+    "Fairview",
+    "Fort Lee",
+    "Guttenberg",
+    "Hoboken",
+    "Jersey City",
+    "North Bergen",
+    "Palisades Park",
+    "Ridgefield",
+    "Union City",
+    "Weehawken",
+    "West New York"
+  ],
+  "dct_issued_s": "2007-11",
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "solr_geom": "ENVELOPE(-74.041821, -73.778469, 40.90246, 40.716238)",
+  "solr_year_i": 1860,
+  "harvard_collectionID_sm": [
+    "990097151580203941"
+  ]
+}

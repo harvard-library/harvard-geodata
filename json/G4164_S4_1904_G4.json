@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4164-s4-1904-g4",
+  "dc_title_s": "St. Louis, Missouri, 1903 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic topographic paper map entitled: City of Saint Louis, U.S. Geological Survey ; H.M. Wilson, geographer ; Chas. E. Cooke, topographer in charge ; topography by the City of St. Louis and Chas. E. Cooke ; Mississippi River by U.S. Army Engineers ; control by City of St. Louis. It was published by the Geological Survey in 1904. Surveyed 1903. Scale 1:24,000. Covers Saint Louis, Missouri and portions of East Saint Louis and Stites, Illinois. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Missouri East State Plane Coordinate System NAD83 (in Feet) (Fipszone 2401). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This is a typical topographic map portraying both natural and manmade features. It shows and names works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. It also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 20 feet. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4164_S4_1904_G4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4164_S4_1904_G4",
+  "layer_slug_s": "harvard-g4164-s4-1904-g4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-01-23T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Geological Survey (U.S.)",
+    "Wilson, Herbert M. (Herbert Michael), 1860-1920.",
+    "Cooke, Charles E.",
+    "United States. Army. Corps of Engineers."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Topographic",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Saint Louis",
+    "Illinois",
+    "East Saint Louis",
+    "Stites"
+  ],
+  "dct_issued_s": "2008-01",
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "solr_geom": "ENVELOPE(-90.341261, -90.085213, 38.757102, 38.523079)",
+  "solr_year_i": 1903,
+  "harvard_collectionID_sm": [
+    "990091646240203941"
+  ]
+}

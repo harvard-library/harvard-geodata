@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3721-p3-1860-g2",
+  "dc_title_s": "Portland & Rochester Railroad, New England, 1860 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map showing the Portland & Rochester railroad and its connections, prepared by G.W. & C.B. Colton & Co. It was published in 1860. Scale [ca. 1:900,000]. Covers Vermont, New Hampshire, Massachusetts, Connecticut, Rhode Island, and portions of New York, Maine, and the provinces of Quebec and New Brunswick, Canada.The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as railraods, principal and proposed railroad connections, drainage, state, county, and town boundaries, and more. Relief shown by hachures. Includes table of distances and inset: [Northeastern United States]. Scale [ca. 1:7,600,000].This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3721_P3_1860_G2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3721_P3_1860_G2",
+  "layer_slug_s": "harvard-g3721-p3-1860-g2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-04-02T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "G.W. & C.B. Colton & Co.",
+    "Colton, G. Woolworth (George Woolworth), 1827-1901.",
+    "Portland & Rochester Railroad Company"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Railroads",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "New Hampshire",
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island",
+    "New York",
+    "Maine",
+    "Canada",
+    "New Brunswick",
+    "Quebec",
+    "New England"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "solr_geom": "ENVELOPE(-76.3267, -64.362058, 47.362694, 38.711)",
+  "solr_year_i": 1860,
+  "harvard_collectionID_sm": [
+    "990095307330203941"
+  ]
+}

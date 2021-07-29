@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-dma50k-48754l",
+  "dc_title_s": "Kirundo region, Burundi, 1994, Defense Mapping Agency (DMA) Series Z724, Sheet 4875-IV (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the United States Defense Mapping Agency (DMA) Series Z724, Burundi, 1:50,000 Topographic Line Map (TLM) Series sheet map entitled: Kirundo. Printed in: 1994. Covers portions of Kirundo region, Burundi. Sheet: 4875-IV. Edition statement: Ed. 1 - DMA. The image inside the map neatline is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. All map collar information is also available as part of the raster image. Burundi 1:50:000 Series Z724 maps are in English and French (legends also include Rundi). Each source map in the series is printed in color at a scale of 1:50,000. Series source sheets were published in 1994-1995 by the United States Defense Mapping Agency, Hydrographic/Topographic Center. The source map was scanned and georeferenced for Harvard University's Center for Geographic Analysis' AfricaMap project by East View Cartographic. Individual TLM sheets covering Burundi (40 sheets in total) were selected from the TLM worldwide series. DMA Topographic Line Map series maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. They also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 20 meters, with some sheets having supplemental meter contours, form lines, hachures, shading, and/or spot heights. Depths shown by bathymetric isolines. Please pay close attention to map collar information on projections, spheroid, compilation dates, legend information, and keys to grid numbering and other numbers which appear inside the neatline.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/DMA50K_48754L.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:DMA50K_48754L",
+  "layer_slug_s": "harvard-dma50k-48754l",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-12-10T00:00:00Z",
+  "dc_creator_sm": [
+    "United States. Defense Mapping Agency. Hydrographic/Topographic Center",
+    "Institut geographique national (France)",
+    "Institut geographique du Burundi",
+    "Harvard University. Center for Geographic Analysis.",
+    "East View Cartographic, Inc."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Burundi",
+    "Kirundo"
+  ],
+  "dct_issued_s": "2009",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "solr_geom": "ENVELOPE(29.91463, 30.33062, -2.480179, -2.814792)",
+  "solr_year_i": 1994,
+  "harvard_collectionID_sm": [
+    "990084416080203941"
+  ]
+}

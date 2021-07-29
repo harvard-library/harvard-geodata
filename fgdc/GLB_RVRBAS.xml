@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Wolf, Aaron T.</origin>
+        <origin>Natharius, Jeffrey A.</origin>
+        <origin>Danielson, Jeffrey J.</origin>
+        <origin>Ward, Brian S.</origin>
+        <origin>Pender, Jan K.</origin>
+        <origin>American Geological Institute</origin>
+        <origin>Geological Survey (U.S)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : international river basins of the world</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-rvrbas</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage representing the Transboundary Freshwater Dispute Database dataset: international river basins of the world. This version of the datalayer was published as part of the USGS Global GIS : global coverage database (2003).  Does not cover Antarctica.
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>The purpose of this datalayer is to update the river basin data from the Register of International Rivers compendium last updated in 1978 by the now defunct United Nations Department of Economic and Social Affairs. The updated datalayer takes advantage of global digital information that has become available, the detailed watershed analysis performed at the US Geological Survey EROS Data center, the extensive holdings of map libraries at the University of Alabama and Oregon State University, and a thorough compilation of boundary changes since the Register was last updated.</purpose>
+      <supplinf>The following is excerpted from the "International river basins of the world" paper cited in the cross reference section:
+
+Roughly following the 1978 Register, we define a "river basin" as the area which contributes hydrologically (including both surface- and groundwater) to a first order stream, which, in turn, is defined by its outlet to the ocean or to a terminal (closed) lake or inland sea. Thus, "river basin" is synonymous with what is referred to in the U.S. as a "watershed" and in the UK as a "catchment" (5). We define such a basin as "international" if any perennial (6) tributary crosses the political boundaries of two or more nations (7).
+
+By defining these basins by their ultimate outlet, we often group systems together that are commonly thought of as separate, even when they are treated as distinct politically.This situation occurs whenever the confluence of even major river systems takes place upstream of the outlet, such as on the Tigris-Euphrates and on the Ganges-Brahmaputra-Meghna systems.The Meuse, commonly treated by Europeans (and by the 1978 Register) as separate and distinct, is hydrologically part of the Rhine system, and is listed as such here.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2003</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-164.698547</westbc>
+        <eastbc>145.207169</eastbc>
+        <northbc>71.440003</northbc>
+        <southbc>-54.748638</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Watersheds</themekey>
+        <themekey>Rivers</themekey>
+        <themekey>Bodies of water</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Aaron Wolf</cntper>
+          <cntorg>Oregon State University</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Dept. of Geosciences</address>
+          <address>Oregon State University</address>
+          <address>104 Wilkinson Hall</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97331-5506</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-737-2722</cntvoice>
+        <cntfax>541-737-1200</cntfax>
+        <cntemail>wolfa@geo.oregonstate.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcCatalog 9.1.</native>
+    <crossref>
+      <citeinfo>
+        <origin>Wolf, Aaron T.</origin>
+        <origin>Natharius, Jeffrey A.</origin>
+        <origin>Danielson, Jeffrey J.</origin>
+        <origin>Ward, Brian S.</origin>
+        <origin>Pender, Jan K.</origin>
+        <pubdate>199912</pubdate>
+        <title>International river basins of the world</title>
+        <geoform>document</geoform>
+        <serinfo>
+          <sername>International Journal of Water Resources Development</sername>
+          <issue>Vol. 15, no. 4, 1999</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Routledge</pubplace>
+          <publish>London, England</publish>
+        </pubinfo>
+        <othercit>p. 387-427.</othercit>
+        <onlink>http://www.transboundarywaters.orst.edu/publications/register/register_paper.html</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown.</attraccr>
+    </attracc>
+    <logic>Unknown.</logic>
+    <complete>Unknown.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Earth Resources Observation Systems.</origin>
+            <pubdate>1997</pubdate>
+            <title>GTOPO30</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Sioux Falls, SD.</pubplace>
+              <publish>USGS EROS Data Center</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1997</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GTOPO30</srccitea>
+        <srccontr>DEM data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Earth Resources Observation Systems.</origin>
+            <pubdate>Unknown</pubdate>
+            <title>HYDRO1K : Elevation Derivative Database</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Sioux Falls, S.D.</pubplace>
+              <publish>USGS EROS Data Center</publish>
+            </pubinfo>
+            <othercit>A global hydrologic database derived from 1996 GTOPO30 data.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>HYDRO1K</srccitea>
+        <srccontr>DEM data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>United States. Defense Mapping Agency.</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Digital chart of the world</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Redlands, CA</pubplace>
+              <publish>Environmental Systems Research Institute</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI DCW</srccitea>
+        <srccontr>River basin data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Rutgers University. Center for Remote Sensing and Spatial Analysis.</origin>
+            <origin>United States. Army. Corps of Engineers.</origin>
+            <pubdate>1996</pubdate>
+            <title>Watersheds of the World</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>New Brunswick, N.J.</pubplace>
+              <publish>CRSSA, Cook College, Rutgers Univ. and U.S. Army CERL</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>Cook College.</origin>
+                <origin>Rutgers University. Center for Remote Sensing and Spatial Analysis.</origin>
+                <origin>United States. Army. Corps of Engineers.</origin>
+                <pubdate>1996</pubdate>
+                <title>GlobalARC</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>New Brunswick, N.J.</pubplace>
+                  <publish>CRSSA, Cook College, Rutgers Univ. and U.S. Army CERL</publish>
+                </pubinfo>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI Watersheds</srccitea>
+        <srccontr>Basin data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>EROS Data Center.</origin>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:24,000-scale Digital Elevation Model (DEM) data for the conterminous U.S.</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Sioux Falls, S.D.</pubplace>
+              <publish>EROS Data Center</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>EROS DEM 1:24,000</srccitea>
+        <srccontr>Basins DEM data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Central Intelligence Agency.</origin>
+            <pubdate>1998</pubdate>
+            <title>The CIA world fact book</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>Central Intelligence Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>CIA Factbook</srccitea>
+        <srccontr>Political boundary data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Columbia University. Press.</origin>
+            <origin>Cohen, Saul Bernard.</origin>
+            <pubdate>1998</pubdate>
+            <title>The Columbia gazetteer of the world</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New York, N.Y.</pubplace>
+              <publish>Columbia University Press</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Columbia Gazetteer</srccitea>
+        <srccontr>Political boundary data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>International Boundaries Research Unit</origin>
+            <pubdate>Unknown</pubdate>
+            <title>University of Durham International Boundaries Research Unit political boundary data</title>
+            <geoform>Unknown</geoform>
+            <pubinfo>
+              <pubplace>Durham, UK</pubplace>
+              <publish>University of Durham, International Boundaries Research Unit</publish>
+            </pubinfo>
+            <othercit>Personal communication</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>International Boundary Resource Unit</srccitea>
+        <srccontr>Political boundary data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Updating the River Basins -- the following is excerpted from the "International river basins of the world" paper cited in the cross reference section:
+
+As with any cartographic project, we needed a base map to guarantee a minimum scale for consistency across the globe. Our close collaboration with the US Geological Survey's EROS Data Center (EDC) gave us access to their ongoing advances in hydrologic applications of global digital elevation models (DEMs) for this purpose. EDC has recently released a global DEM, called GTOPO30. At a resolution of 30 arc-seconds, GTOPO30 was developed to meet the needs of the geospatial data user community for regional and continental-scale topographic data (Gesch 1994; Gesch, Verdin, and Greenlee, 1999). 
+
+A new geographic database developed at the EDC from GTOPO30 is HYDRO1K. It is designed to provide global coverage of topographically derived data sets at a nominal resolution of one kilometer. HYDRO1k provides a consistent base-line of hydrologic derivatives that are needed in many environmental, climatic, and water resource studies (8). The core data layer is the hydrologically correct DEM, which is obtained directly from the GTOPO30 data set.In order for the DEM to correctly model water movement across the land surface, the elevation data were processed to remove spurious anomalies that interfere with hydrologically correct flow (9). It is essential to develop a hydrologically correct DEM to ensure that derived drainage basins and synthetic streamlines closely represent real-world hydrology.
+
+HYDRO1k provides a base map and minimum unified scale of at least 1:1,000,000 for this register. Nevertheless, these data sets are computer constructs and mathematical interpretations. As such, we found them to be extremely useful both as a starting point and as a basis for minimum standards, but also found that comparison with alternative sources, both digital and hardcopy, was necessary. Fortunately, other good spatial data sets exist, such as Environmental Systems Research Institute's (ESRI) Digital Chart of the World, and the "Watersheds of the World" files included on the GlobalArc data set, developed by the Center for Remote Sensing and Spatial Analysis of Rutgers University, along with the U.S. Army Corps of Engineers Construction Engineering Research Laboratory (10). The U.S. Geological Survey's EROS Data Center has also developed a DEM for the conterminous U.S. at a scale of 1:24,000.This DEM features a spatial resolution of 30 meters that covers a smaller area than GTOPO30 and allows for greater detail.
+
+Finally, recognizing the limitations of digital data, particularly where topographic relief is low, we relied quite heavily on the extensive hardcopy holdings of the University of Alabama map library and the expertise of Tom Kallsen, the library's director. Between an array of air photos, topographic map sheets, and the detailed coverages of various nations, we were regularly able to delineate basins at scales of 1:100,000, often at 1:40,000, and occasionally at 1:20,000.The basins which were digitized for this register, then, include our best judgement of the data available at this time, and finally deviated from HYDRO1k about 20% of the time (11).</procdesc>
+        <srcused>GTOPO30</srcused>
+        <srcused>HYDRO1K</srcused>
+        <srcused>ESRI DCW</srcused>
+        <srcused>ESRI Watersheds</srcused>
+        <srcused>EROS DEM 1:24,000</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Aaron Wolf</cntper>
+              <cntorg>Oregon State University</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Dept. of Geosciences</address>
+              <address>Oregon State University</address>
+              <address>104 Wilkinson Hall</address>
+              <city>Corvallis</city>
+              <state>OR</state>
+              <postal>97331-5506</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>541-737-2722</cntvoice>
+            <cntfax>541-737-1200</cntfax>
+            <cntemail>wolfa@geo.oregonstate.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Updating the Political Boundaries -- the following is excerpted from the "International river basins of the world" paper cited in the cross reference section:
+
+Major geopolitical shifts have taken place since 1978, most of which are manifested in the boundaries between nations. These changes had the effect mostly of internationalizing national basins, notably the break-up of the Soviet Union and balkanization of the Balkans. To a much lesser degree, though, the opposite was true: two basins which were international in 1978 have become national, due to the unification of Yemen and of Germany.
+
+The best digital set of international boundaries are those included in the Digital Chart of the World. However, given the political volatility of the times, this data set was not entirely up to date as we went to press, nor does it document where boundary ambiguities exist between nations. Since these ambiguities within international basins can have serious hydropolitical implications, we felt it important to document them, and to include them in area calculations wherever possible. As noted in the table footnotes, we relied heavily on the CIA World Factbook (1998), the Columbia Gazetteer of the World (Cohen 1998) and, especially, on the work of the International Boundary Resource Unit of Durham University (1999; personal communications 1999).</procdesc>
+        <srcused>ESRI DCW</srcused>
+        <srcused>CIA Factbook</srcused>
+        <srcused>Columbia Gazetteer</srcused>
+        <srcused>International Boundary Resource Unit</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Aaron Wolf</cntper>
+              <cntorg>Oregon State University</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Dept. of Geosciences</address>
+              <address>Oregon State University</address>
+              <address>104 Wilkinson Hall</address>
+              <city>Corvallis</city>
+              <state>OR</state>
+              <postal>97331-5506</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>541-737-2722</cntvoice>
+            <cntfax>541-737-1200</cntfax>
+            <cntemail>wolfa@geo.oregonstate.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041103</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>263</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>GLB_RVRBAS</enttypl>
+        <enttypd>Global GIS River Basins</enttypd>
+        <enttypds>American Geological Institute</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>CATEGORY</attrlabl>
+        <attrdef>Basin name</attrdef>
+        <attrdefs>"International river basins of the world" article [see cross references]</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BCODE</attrlabl>
+        <attrdef>Basin name code</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GLB_RVRBAS.AREA</attrlabl>
+        <attrdef>Area of basin in square meters</attrdef>
+        <attrdefs>"International river basins of the world" article [see cross references]</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>60071571.501</rdommin>
+            <rdommax>5883333632070.89</rdommax>
+            <attrunit>square meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of basin in meters</attrdef>
+        <attrdefs>"International river basins of the world" article [see cross references]</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>35168.074</rdommin>
+            <rdommax>24094559.948</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GLB_RVRBAS.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area in units square</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in internal units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070420</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

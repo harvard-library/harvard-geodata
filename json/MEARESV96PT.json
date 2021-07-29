@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mearesv96pt",
+  "dc_title_s": "Massachusetts Reservoirs, 1996",
+  "dc_description_s": "This datalayer is a point coverage displaying location and additional information on reservoirs throughout Massachusetts. This layer was derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. These data are an extract from the U.S. Geological Survey Geographic Names Information System December 1996 CD-ROM. The GNIS is a data system developed by the USGS in cooperation with the U.S. Board on Geographic Names. The GNIS includes three databases: the National Geographic Names Data Base (NGNDB), the National Topographic Map Names Data Base (NTMNDB) and the Reference Data Base. The principal database in the GNIS is the National Geographic Names Data Base (NGMNDB) which includes known places, features, and areas of the United States that are identified by proper names. The primary source of these data are the USGS topographic map series. The GNIS feature class of RESErVOIR is defined as and 'artificially impounded body of water'.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEARESV96PT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEARESV96PT",
+  "layer_slug_s": "harvard-mearesv96pt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2004-05-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "Reservoirs",
+    "Hydrographic features"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_geom": "ENVELOPE(-73.489027, -69.959393, 42.862804, 41.339417)",
+  "solr_year_i": 1996,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

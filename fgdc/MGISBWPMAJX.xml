@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <origin>Massachusetts. Bureau of Waste Prevention</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts DEP BWP major facilities (August 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisbwpmajx</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Massachusetts Department of Environmental Protection (DEP) major facilities datalayer is a statewide point dataset containing the location of a subset of facility types regulated by DEP's Bureau of Waste Prevention (BWP). 
+
+In a preliminary effort to begin locating facilities regulated by DEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located: 
+
+Large Quantity Generators of Hazardous Waste (LQG) 
+Large Quantity Toxic Users (LQTU)  
+Hazardous Waste Recyclers 
+Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF) 
+Facilities with Air Operating Permits  
+Facilities with Groundwater Discharge Permits</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200008</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.382913</westbc>
+        <eastbc>-69.981743</eastbc>
+        <northbc>42.870574</northbc>
+        <southbc>41.251789</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Hazardous waste treatment facilities</themekey>
+        <themekey>Hazardous waste sites</themekey>
+        <themekey>Factory and trade waste</themekey>
+        <themekey>Hazardous wastes</themekey>
+        <themekey>Recycling (Waste, etc.)</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>MassGIS has restricted access to this data set as of 2003.  Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>The Massachusetts Department of Environmental Protection (MassDEP)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>One Winter Street</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02108</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-292-5500</cntvoice>
+        <cntfax>617-556-1049</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Bureau of Waste Site Cleanup</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <pubdate>Unknown</pubdate>
+        <title>DEP Tier Classified Oil or Hazardous Material Sites</title>
+        <geoform>digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Massachusetts Dept. of Environmental Protection</publish>
+        </pubinfo>
+        <othercit>The BWSC maintains a file (wsc_all.zip) that can be downloaded from the DEP Web Site http://www.mass.gov/dep/bwsc/sites/report.htm. This compressed (.zip) file includes a database (.dbf) file containing a record for all reportable releases tracked by the BWSC, and accompanying documentation (wsc_all.doc). BWSC updates the wsc_all.dbf on a regular schedule. Tabular data records in wsc_all.dbf can be related to the BWP Major Facilities datalayer by the Release Tracking Number (RTN) field.
+
+General and technical questions regarding Chapter 21E, the MCP and waste site cleanup in Massachusetts should be directed to the DEP BWSC Helpline at (617) 338-2255 or (800) 426-0444. Considerable information on the waste site clean-up program is available on the DEP Web Site: http://www.state.ma.us/dep/bwsc. For more comprehensive coverage of oil and hazardous material sites in the Commonwealth, see the DEP Tier Classified Chapter 21e Sites datalayer.</othercit>
+        <onlink>http://www.mass.gov/dep/bwsc/sites/report.htm</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Toxic Use Reduction Act Facilities</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Massachusetts Dept. of Environmental Protection</publish>
+        </pubinfo>
+        <othercit>The BWP maintains information that can be downloaded from the DEP Web Site http://www.mass.gov/dep/toxics/toxicsus.htm Data extract files, such as those found in ext1997.zip can be related to the BWP Major Facilities datalayer by the FAC_ID field. 
+
+The DEP TURA Web Site contains links to other related Web Sites, including that of the Massachusetts Toxic Use Reduction Institute, http://www.turi.org/turadata, a site where TURA information is presented in a searchable format.</othercit>
+        <onlink>http://www.mass.gov/dep/toxics/toxicsus.htm</onlink>
+        <onlink>http://turadata.turi.org/</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>United States. Environmental Protection Agency</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Environmental Protection Agency data</title>
+        <geoform>digital data</geoform>
+        <pubinfo>
+          <pubplace>Washington, D.C.</pubplace>
+          <publish>EPA</publish>
+        </pubinfo>
+        <othercit>The Environmental Protection Agency (EPA) Envirofacts Web Site http://www.epa.gov/enviro presents information in a searchable format.  Using the Facility Name, Address information or HW_ID, facility records can be queried on the EPA RCRIS web page http://www.epa.gov/enviro/html/rcris/rcris_query_java.html.</othercit>
+        <onlink>http://www.epa.gov/enviro</onlink>
+        <onlink>http://www.epa.gov/enviro/html/rcris/rcris_query_java.html</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts. Dept. of Environmental Protection</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Facility Master File (FMF) database</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>The Massachusetts Department of Environmental Protection (DEP)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>FMF Database</srccitea>
+        <srccontr>Attribute data; source of features included in data set.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:5,000 Digital Orthophoto Quads</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>b&amp;w ; 1 meter resolution</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MassGIS DOQ</srccitea>
+        <srccontr>Used to place/confirm selected feature locations</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:12,000 digital orthophotos</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S.G.S.</publish>
+            </pubinfo>
+            <othercit>b&amp;w ; 1 meter resolution</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS orthos</srccitea>
+        <srccontr>Used to place/confirm selected feature locations</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>USGS 1:25,000 DRGs</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S.G.S.</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS DRG</srccitea>
+        <srccontr>Used to place/confirm selected feature locations</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Data Universe: 
+In April 1998, DEP's Facility Master File Database (FMF) was queried to identify facilities engaging in the activities listed above.  A "development coverage" was created from this data using global positioning system (GPS), address-matched, and coordinate derived data developed at DEP and EPA Region 1. 
+
+Point Development Tool: 
+To facilitate conversion of institutional knowledge and paper data to a digital format, the DEP GIS Program created the Point Development Tool (PDT), a customized application using ESRI's ArcView software (the PDT application is available as an extension to the MassGIS DataViewer).  The PDT provides a standardized platform that guides users through the automation and documentation of geographically referenced point data.  DEP technical staff used the PDT to locate facilities based on knowledge gained in the course of their professional activities.  On screen digitizing using the PDT was the primary method of automation. 
+
+Basemap Scale: 
+Using data in the "development coverage," the PDT navigates data developers to the general vicinity of a site.  The PDT then displays the best digital base imagery available for that vicinity.  The PDT uses MassGIS 1 meter (1:5,000) black and white digital orthophoto images (DOQ) as the default basemap.  Where 1 meter 1:5,000 DOQs were not available, the PDT defaulted to 1 meter USGS (1:12,000) black and white digital orthophoto images or (1:25,000) USGS topographic quadrangle imagery respectively.  When data development began, the only available digital basemap imagery for much of Massachusetts was the MassGIS scanned USGS (1:25,000) topographic images.  Therefore, the base scale of this datalayer is considered to be 1:25,000. 
+
+Other Methodologies: 
+In the absence of staff with professional knowledge, facility files were checked for location information.  Facility files maintained by the DEP contain a variety of types and quality of maps, including surveys, site plans and locus maps.  DEP GIS and BWP Program staff reviewed this file information and identified the best manuscript maps and supplemental text information for locating sites.  Locations were entered using the PDT. 
+
+Whenever possible, facility locations derived from GPS field verification were refined using field notes, hand sketched field maps, and the basemap imagery described above.  Some facility locations were derived from existing DEP datalayers containing solid waste facilities and Tier Classified Chapter 21E Oil or Hazardous Material sites.</procdesc>
+        <srcused>FMF Database</srcused>
+        <srcused>MassGIS DOQ</srcused>
+        <srcused>USGS orthos</srcused>
+        <srcused>USGS DRG</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>The Massachusetts Department of Environmental Protection (MassDEP)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>One Winter Street</address>
+              <address>251 Causeway St, Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02108</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-292-5500</cntvoice>
+            <cntfax>617-556-1049</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>1193</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000162</absres>
+            <ordres>0.000162</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISBWPMAJX</enttypl>
+        <enttypd>DEP BWP major facilities</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FAC_ID</attrlabl>
+        <attrdef>Facility ID from DEP's Facility Master File (FMF) Database.  The FAC_ID is a unique identifier used in the FMF Database to identify facilities and their ownership.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Unique ID number</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FAC_NAME</attrlabl>
+        <attrdef>Facility name from the FMF Database.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADDRESS</attrlabl>
+        <attrdef>The number and street address of the facility, as listed in the FMF Database.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>The standard MassGIS town name.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L_TYPE</attrlabl>
+        <attrdef>The location type (L_TYPE) field contains a spatial reference code, indicating what the point represents.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CB</edomv>
+            <edomvd>Approximate center of building footprint as shown on base image</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB2</edomv>
+            <edomvd>Approximate center of a building footprint NOT positive on building identified</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CF</edomv>
+            <edomvd>Approximate center of a facility having more than one building or structure</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CL</edomv>
+            <edomvd>Approximate center of property lot associated with site address.</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CS</edomv>
+            <edomvd>Approximate center of site or area of known contamination</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CT</edomv>
+            <edomvd>Approximate center of individual tankor cluster of tanks (UST or AST)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>EL</edomv>
+            <edomvd>Estimated location -  implies absence of footprint on base image</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>FD</edomv>
+            <edomvd>Front Door or main entrance to facility</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ST</edomv>
+            <edomvd>Air emission stack</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L_METHOD</attrlabl>
+        <attrdef>The location method (L_METHOD) field contains an alphanumeric code which provides information on both the method used to locate the site and the estimated level of data quality. The alpha portion of the code indicates the method of automation.  Sites automated using the PDT have an alpha L_METHOD code of either "ORTH" or "TOPO". Location method codes containing "ORTH" indicate sites automated by on screen digitizing, using an orthophoto (1:5,000 or 1:12,000) image base.  Location method codes containing "TOPO" indicate sites automated by on screen digitizing, using a USGS topographic (1:25,000) image base.  For PDT automated locations, the numeric portion of the L_METHOD code represents an "estimated confidence" in the quality of the point location.  This value is assigned via an interactive dialog with the data developer at the time the time of automation. Non-PDT location method codes such as "GPS," which indicate facilities located using global positioning system (GPS) technology, also have numeric values indicating the general quality of the location.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>GPS_1</edomv>
+            <edomvd>GPS verified location averaged from 100+ 3D differentially corrected (DGPS) positions and mapped +/-100-ft from the target feature.</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>GPS_2</edomv>
+            <edomvd>GPS verified location averaged from 50-100 3D DGPS positions or location averaged from 100+ 3D DGPS positions and mapped between 100 - 500-ft. of the target feature.</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ORTH1</edomv>
+            <edomvd>Estimated to be +/-100-ft from L_TYPE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ORTH2</edomv>
+            <edomvd>Estimated to be 100-500-ft. from L_TYPE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ORTH3</edomv>
+            <edomvd>Estimated to be 500-1000-ft from L_TYPE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TOPO1</edomv>
+            <edomvd>Estimated to be +/-100-ft from L_TYPE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TOPO2</edomv>
+            <edomvd>Estimated to be 100-500-ft. from L_TYPE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TOPO3</edomv>
+            <edomvd>Estimated to be 500-1000-ft from L_TYPE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOURCE</attrlabl>
+        <attrdef>Codes contained in the SOURCE field indicate the type of source material used to locate the site.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>LOCUS_USGS</edomv>
+            <edomvd>USGS topographic quadrangle based</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>LOCUS_ATLAS</edomv>
+            <edomvd>Road or street atlas based</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>LOCUS_MGIS</edomv>
+            <edomvd>MassGIS digital vector based</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>LOCUS_ORTHO</edomv>
+            <edomvd>Orthophoto based</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>LOCUS_OTHER</edomv>
+            <edomvd>Other locus types; ex. trail map</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SURVEY_MAP</edomv>
+            <edomvd>Survey grade map</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SITE_PLAN</edomv>
+            <edomvd>Engineering site plan or map</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SKETCH_MAP</edomv>
+            <edomvd>Hand sketched map (detailed or locus)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>COORD_&lt;SOURCE&gt;</edomv>
+            <edomvd>Coordinate data with source code</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DVD_&lt;SOURCE&gt;</edomv>
+            <edomvd>Digital vector data NOT parcel data with source code</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DVD_SW</edomv>
+            <edomvd>Digital vector data NOT parcel data DEP Solid Waste Facilities Datalayer</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DVD_21E</edomv>
+            <edomvd>Digital vector data NOT parcel data, Tier Classified 21e OHM Sites Datalayer</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>GPSDS</edomv>
+            <edomvd>DEP GPS field data sheets</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SITE_VISIT</edomv>
+            <edomvd>Field verified</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>STAFF_KNOW</edomv>
+            <edomvd>Located by DEP staff through knowledge gained in the course of their professional activities</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>USGS</edomv>
+            <edomvd>Interpolated from 1:25000 USGS topographic quadrangle</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PDT_COMMEN</attrlabl>
+        <attrdef>Development and quality assurance notations such as clarification of the feature located, historical Facility IDs and additional source information can be found in the PDT_COMMENT field.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEP_ID</attrlabl>
+        <attrdef>A code corresponding to the DEP Region in which the facility is located.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Western Region - Springfield  (WERO)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Central Region - Worcester  (CERO)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Northeast Region - Wilmington (NERO)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Southeast Region - Lakeville (SERO)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RTN</attrlabl>
+        <attrdef>If a relationship between a BWP Facility and a BWSC Chapter 21e site was uncovered in the data development process, the RTN field will be populated.  The Release Tracking Number (RTN), is a unique 7-digit site identifier assigned to reportable releases by the BWSC.  This number is preceded by the digit 1, 2, 3, or 4 (e.g. 3-0001234) according to the DEP region in which the site is located (see: description of DEP-ID above).</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Numeric identifier</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HW_ID</attrlabl>
+        <attrdef>EPA Hazardous Waste Generator ID from the RCRAINFO database.  A unique identifier generated by RCRAINFO, EPA's database formerly known as the Resource Conservation and Recovery Information System (RCRIS).</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric identifier</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NPDES_ID</attrlabl>
+        <attrdef>If a relationship between a BWP Facility and a National Pollution Discharge Elimination System (NPDES) facility was discovered in the data development process, the NPDES_ID field will be populated.  The National Pollution Discharge Elimination System ID is a unique identifier generated by EPA.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric identifier</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AIR</attrlabl>
+        <attrdef>A value of "Y" indicates the facility has an active air operating permit.  This is a permit with specific restrictions on the type and amount of particulate or other matter emitted from the facility.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GWD</attrlabl>
+        <attrdef>A value of "Y" indicates the facility has an active groundwater discharge permit.  Please note we have attempted to locate the center of the facility rather than a specific discharge location.  Refer to the L_TYPE to see what feature of the facility was mapped.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HWR</attrlabl>
+        <attrdef>A value of "Y" indicates the facility engages in the recycling of hazardous waste.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LQG</attrlabl>
+        <attrdef>A value of "Y" indicates the facility is a large quantity generator of one or more hazardous wastes.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LQTU</attrlabl>
+        <attrdef>A value of "Y" indicates the facility is permitted as a large quantity toxics user and falls under the requirements of the Toxic Use Reduction Act (TURA).  For a Toxics Use Reduction Act overview, visit the DEP TURA webpage at http://www.state.ma.us/dep/bwp/dhm/tura/turaover.htm.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TSDF</attrlabl>
+        <attrdef>A value of "Y" indicates the facility engages in the treatment, storage and/or disposal of hazardous wastes.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060616</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

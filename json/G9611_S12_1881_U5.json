@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9611-s12-1881-u5",
+  "dc_title_s": "Atoll Ahe and and Atoll Manihi, French Polynesia, 1881 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Ahii and Manhii or Peacock and Wilsons Islands, by the U.S. Ex. Ex. 1839 ; R.H. Wyman Commo. U.S.N. Hydrographer to the Bureau of Navigation. It was published by the Hydrographic Office. Corrected July 1872 ; Additions to 1881. Scale [ca. 1:150,000]. Covers Atoll Ahe and Atoll Manihi, French Polynesia.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, shoreline features, islets, sand banks, entrances, and more. Relief is shown by hachures. Includes 2 inset views of atolls and insets: Entrance to the Mahii Lagoon / from a French Survey ...1874 -- Entrance to Ahii Lagoon / from a French survey ... 1874. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9611_S12_1881_U5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9611_S12_1881_U5",
+  "layer_slug_s": "harvard-g9611-s12-1881-u5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-05-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "United States. Hydrographic Office.",
+    "Wyman, R. H. (Robert Harris), 1822-1882.",
+    "United States Exploring Expedition (1838-1842)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Islands",
+    "Coral reefs and islands",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "French Polynesia",
+    "Tuamotu, Archipel des",
+    "Ahe, Atoll",
+    "Manihi, Atoll"
+  ],
+  "dct_issued_s": "2009-05",
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "solr_geom": "ENVELOPE(-146.641153, -145.629125, -14.118195, -14.799867)",
+  "solr_year_i": 1881,
+  "harvard_collectionID_sm": [
+    "990115153870203941"
+  ]
+}

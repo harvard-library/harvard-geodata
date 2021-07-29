@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6924-c6c34-1883-h6",
+  "dc_title_s": "Groundwater, Copenhagen, Denmark, 1883 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Oversigtskaart over grundvandstandens hojde paa Kjobenhavns : og Frederiksbergs grund ved laveste iagttagne hojde den 16 de Juli 1883. It was published by Hoffensberg & Trap[s] Establ. in 1883. Scale [ca. 1:5,022]. Covers Copenhagen, Denmark. Map in Danish. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 33N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as groundwater levels, roads, railroads and stations, drainage, built-up areas and selected buildings, fortification, docks, wharves, parks, and more. Relief shown by contours and spot heights. Depths shown by soundings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6924_C6C34_1883_H6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6924_C6C34_1883_H6",
+  "layer_slug_s": "harvard-g6924-c6c34-1883-h6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-10-02T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Hoffensberg & Traps."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Groundwater",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Copenhagen",
+    "Denmark"
+  ],
+  "dct_issued_s": "2014-10",
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "solr_geom": "ENVELOPE(12.507311, 12.620582, 55.70832, 55.660025)",
+  "solr_year_i": 1883,
+  "harvard_collectionID_sm": [
+    "990114497330203941"
+  ]
+}

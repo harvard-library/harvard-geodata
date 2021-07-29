@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3770-1887-t5",
+  "dc_title_s": "Rhode Island, 1887 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the State of Rhode Island and Providence Plantations. It was compiled and published by J.C. Thompson in 1887. Scale 1:95,000. Source map and image missing bottom panels, including part of title; description based partly on published bibliography. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Rhode Island State Plane Coordinate System (Feet) (FIPS 3800). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, public buildings, schools, churches, cemeteries, industry locations (e.g. mills, factories, mines, etc.), selected private residences, town and county boundaries and more. Relief shown by hachures. Includes population statistics from the census of 1875 and 1885. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3770_1887_T5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3770_1887_T5",
+  "layer_slug_s": "harvard-g3770-1887-t5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-03-14T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Thompson, John C."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Rhode Island"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "solr_geom": "ENVELOPE(-71.914241, -71.051184, 42.067979, 41.252439)",
+  "solr_year_i": 1887,
+  "harvard_collectionID_sm": [
+    "990094645750203941"
+  ]
+}

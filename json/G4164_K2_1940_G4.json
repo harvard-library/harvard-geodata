@@ -1,0 +1,57 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4164-k2-1940-g4",
+  "dc_title_s": "Kansas City, Missouri, 1940 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic, topographic paper map entitled: Missouri--Kansas : Kansas City quadrangle, Ed. of 1940, by the United States Department of the Interior, Geological Survey; topography by F.W. Hughes and C.A. Killian surveyed in 1934-1935. It was published by the Geological Survey in 1940. Scale 1:31,680. Covers Kansas City, Missouri, and portions of Kansas City, Roeland Park, Westwood, Westwood Hills, Mission Woods, and Mission Hills, Kansas. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Missouri West State Plane Coordinate System NAD27 (in Feet) (Fipszone 2403). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This is a typical topographic map portraying both natural and manmade features. It shows and names works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. It also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 10 feet and spot heights. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4164_K2_1940_G4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4164_K2_1940_G4",
+  "layer_slug_s": "harvard-g4164-k2-1940-g4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-01-24T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Geological Survey (U.S.)",
+    "Hughes, Frank W.",
+    "Killian, C. A.",
+    "United States. Dept. of the Interior."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Topographic",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Kansas City",
+    "Kansas",
+    "Kansas City",
+    "Mission Hills",
+    "Mission Woods",
+    "Roeland Park",
+    "Westwood",
+    "Westwood Hills"
+  ],
+  "dct_issued_s": "2008-01",
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "solr_geom": "ENVELOPE(-94.643985, -94.479773, 39.136851, 38.984011)",
+  "solr_year_i": 1940,
+  "harvard_collectionID_sm": [
+    "990111482820203941"
+  ]
+}

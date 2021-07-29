@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard University. Center for Geographic Analysis.</origin>
+        <origin>Bartholomew, John.</origin>
+        <pubdate>200707</pubdate>
+        <title>Civil War Southern States : Mountains, ca. 1864</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g3860-1864-b3-lc-mtn</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Mountain ranges during the US Civil War in the Confederate States. Vector data extracted from digital map provided by the Library of Congress at http://hdl.loc.gov/loc.gmd/g3860.cw0048100. Image georeferencing and feature extraction work done by EastView.</abstract>
+      <purpose>For a research project on the migration of emancipated slaves following the US Civil War.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1864</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map approximate publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-96.899314</westbc>
+        <eastbc>-76.818447</eastbc>
+        <northbc>40.627972</northbc>
+        <southbc>34.194142</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>hill</themekey>
+        <themekey>mountain range</themekey>
+        <themekey>mountain</themekey>
+        <themekey>mount</themekey>
+        <themekey>ridge</themekey>
+        <themekey>palisade</themekey>
+        <themekey>peak</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+        <themekey>elevation</themekey>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Landforms</themekey>
+        <themekey>Mountains</themekey>
+      </theme>
+      <place>
+        <placekt>none</placekt>
+        <placekey>southeastern US</placekey>
+        <placekey>confederate states</placekey>
+      </place>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Arkansas</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>West Virginia</placekey>
+      </place>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Confederate States of America</placekey>
+        <placekey>Southern States</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Geographic Analysis</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>1737 Cambridge, N319-N321</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>contact@cga.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Bartholomew, John.</origin>
+            <pubdate>Unknown</pubdate>
+            <title>The Confederate states, with the border states &amp; the adjoining portion of the Federal states</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>Library of Congress, Geography and Map Division</publish>
+            </pubinfo>
+            <onlink>http://hdl.loc.gov/loc.gmd/g3860.cw0048100</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>3600000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1864</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>source map approximate publication date</srccurr>
+        </srctime>
+        <srccitea>Bartholomew map</srccitea>
+        <srccontr>Digital image of paper map from which vector data is derived.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>1.  Source TIFF received from Harvard.  
+
+2.  Maps Georeferenced:
+
+a.)  Maps were georeferenced with Microstation Image Analyst.
+b.)  Latitude-longitude tick marks on the maps and World Vector Shoreline 1:250000 data were used for reference to match points.  Assumed Geographic/WGS84 projection.
+c.)  Second-order polynomial transformation was used to project the map with IA.
+d.)  Maps were mosaiced together using Global Mapper v7.04.
+
+3.  Feature Extraction:
+
+a.)  Data is sent to subcontractor for feature extraction.
+b.)  Raster is opened in MapInfo 8.5.
+c.)  New layer is created according to specifications.
+d.)  Map is set to digitizing level (same as source map scale: 1:3,600,000)
+e.)  Nodes are placed for polygons.
+Nodes are placed as to simulate the "real" geographic nature of the line.  For coastlines the contour is smooth (more nodes) for country borders - more "edge-like". 
+f.)  After all polygons are created, attributes are assigned in the object list. 
+- Screen is centered on the object from the list
+- All attributes are read from the raster and put into the attribute table.
+g.)  Operator will check that data is complete and do a selective check of object attributes (spelling, etc.)
+h.)  Data is exported to ArcGIS.
+i.)  Polygon topology is verified.
+j.)  Shapefiles are opened in MapInfo and saved for export.
+k.)  Project Manager will QC datasets and send back for rework as necessary.
+i.)  Dataset is sent back to East View for final check.  Corrections are made by East View, or sent back for subcontractor to correct if needed.</procdesc>
+        <srcused>Bartholomew map</srcused>
+        <procdate>20070118</procdate>
+        <srcprod>vector</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>East View Cartographic, Inc.</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>3020 Harbor Ln N</address>
+              <city>Minneapolis</city>
+              <state>MN</state>
+              <postal>55447</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>763-550-0965</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>ArcCatalog 9.2 was utilized to export the shapefile into an ArcSDE 9.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>Shapefile</srcused>
+        <procdate>200706</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>46</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CGA_CWMountains</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+          <transize>0.070</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070612</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Geographic Analysis</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>1737 Cambridge, N319-N321</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>contact@cga.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>
