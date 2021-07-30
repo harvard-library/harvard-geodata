@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Hydrography (1:25,000) (Arcs) (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgishda2</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The MassGIS 1:25,000 Hydrography datalayer represents hydrographic (water-related) features, including surface water (lakes, ponds, reservoirs), wetlands, bogs, flats, rivers, streams, and others (see attributes section below).  MassGIS has edited and modified the USGS 1:25,000 Hydrography Digital Line Graph (DLG) quadrangle files and the USGS 1:100,000 Hydrography DLG files and digitized hydrographic features from the USGS 1:25,000 Topographic Quadrangles to produce a hybrid 1:25,000 Massachusetts Hydrography Datalayer. The 1:100,000 DLG features were enhanced by digitizing those streams and ponds from the USGS quadrangles that were not part of the 1:100,000 data. MassGIS has also scanned USGS mylar separates to begin replacing the 1:100,000 enhanced data with 1:25,000 features.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200303</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.535624</westbc>
+        <eastbc>-69.826032</eastbc>
+        <northbc>43.002511</northbc>
+        <southbc>41.109537</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Hydrography</themekey>
+        <themekey>Bodies of water</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+        <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Hydrography (1:25,000) (Polygons) (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.ed</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The modified DLG coding scheme is extensive and includes a wide variety of features, including ponds, cranberry bogs, impoundments, wetlands, tidal flats, dams, streams, and aqueducts. Only the DLGs have been coded this completely. The other hydrography quadrangles have been coded to include ponds and streams and in the case of the scanned quads, wetlands.</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>The scanned hydrography was compared both to the source mylars and to the paper quadrangles to ensure completeness.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:25,000 Digital Line Graph files</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>1:25,000 DLGs</srccitea>
+        <srccontr>Features source.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:100,000 Digital Line Graph files</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>1:100,000 DLGs</srccitea>
+        <srccontr>Features source.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The DLG quadrangles were converted into Arc/INFO coverages and projected into Massachusetts State Plane Coordinate System. The long list of items (MAJOR1, MINOR1, MAJOR2, MINOR2...) were then concatenated to a more simplified coding system. For each feature MINORn was truncated to three characters and linked to the other minor codes to create MINOR_TOT. For example, a submerged (612) wetland (111) is now coded MINOR_TOT = 612111. The original MAJORn, MINORn pairs are no longer part of the attribute tables. 
+
+The enhanced hydrography is a combination of two sources of data. The 1:100,000 DLGs were split into 1:25,000 quadrangles. The coverages were then enhanced by adding those streams and ponds that are on the 1:25,000 quadrangles, but missing from the 1:100,000 DLGs. Features, such as streams, that appear as polygons with two shores on the quadrangles, but appear as single lines on the 1:100,000 DLGs, were not changed. Linework that is more generalized on the 1:100,000 DLGs than on the quadrangles was not edited either. Only those features that were missing from the original 1:100,000 DLGs were added. 
+
+Quadrangles covering Nantucket and Martha's Vineyard were completely digitized from the 1:25,000 USGS quadrangles. Though not as thoroughly coded as the 1:25,000 DLGs, the linework is all at 1:25,000. 
+
+The scanned quadrangles were automated in-house by scanning USGS mylar separates at 500 dots per inch. The resulting images were vectorized in GRID and then edited in ARCEDIT. Features missing from the blue line separate (i.e. dams or man-made shore) were digitized from the paper quadrangles.
+
+All of the digitized quadrangles were checkplotted at 1:25,000 as were the enhanced quadrangles. The 1:25,000 DLG quadrangles were randomly checkplotted. Each of the quadrangles was edgematched to its neighboring quads.</procdesc>
+        <srcused>1:25,000 DLGs</srcused>
+        <srcused>1:100,000 DLGs</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Executive Office of Environmental Affairs</address>
+              <address>251 Causeway St, Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-626-1000</cntvoice>
+            <cntfax>617-626-1249</cntfax>
+            <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>253072</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000176</absres>
+            <ordres>0.000176</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISHDA2</enttypl>
+        <enttypd>Hydrography (1:25,000) (Arcs)</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>MINOR_TOT</attrlabl>
+        <attrdef>Type of water feature concatenated Digital Line Graph (DLG) codes, same as MINOR_NUM, as text string</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>20</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>109</edomv>
+            <edomvd>SEWAGE DISP/FILT BED</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>200</edomv>
+            <edomvd>SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201</edomv>
+            <edomvd>MANMADE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>202</edomv>
+            <edomvd>CLOSURE LINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>203</edomv>
+            <edomvd>INDEFINITE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>204</edomv>
+            <edomvd>APPARENT LIMIT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>210</edomv>
+            <edomvd>TRANSPORT ARC</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>211</edomv>
+            <edomvd>UPLAND TRANSPORT ARC</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>300</edomv>
+            <edomvd>SPRING</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>401</edomv>
+            <edomvd>FALLS</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>405</edomv>
+            <edomvd>WATER INTAKE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406</edomv>
+            <edomvd>DAM/WEIR</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>407</edomv>
+            <edomvd>CANAL LOCK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>408</edomv>
+            <edomvd>SPILLWAY</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>409</edomv>
+            <edomvd>GATE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412</edomv>
+            <edomvd>STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>414</edomv>
+            <edomvd>DITCH/CANAL</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415</edomv>
+            <edomvd>AQUEDUCT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>416</edomv>
+            <edomvd>FLUME</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>419</edomv>
+            <edomvd>CHANNEL IN WATER</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>422</edomv>
+            <edomvd>CORAL REEF</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>605</edomv>
+            <edomvd>RIGHT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>606</edomv>
+            <edomvd>LEFT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>999</edomv>
+            <edomvd>UNKNOWN OR NEAT LINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7204</edomv>
+            <edomvd>APPARENT LIMIT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>9606</edomv>
+            <edomvd>LEFT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>200009</edomv>
+            <edomvd>SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>200201</edomv>
+            <edomvd>MANMADE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>200606</edomv>
+            <edomvd>LEFT BANK/SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>200610</edomv>
+            <edomvd>INTERMITTENT SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201002</edomv>
+            <edomvd>MANMADE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201009</edomv>
+            <edomvd>MANMADE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201020</edomv>
+            <edomvd>MANMADE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201605</edomv>
+            <edomvd>MANMADE RIGHT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201606</edomv>
+            <edomvd>MANMADE LEFT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>202412</edomv>
+            <edomvd>CLOSURE LINE/STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>203625</edomv>
+            <edomvd>INDEFINITE SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>203627</edomv>
+            <edomvd>INDEFINITE SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>204007</edomv>
+            <edomvd>APPARENT LIMIT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>204009</edomv>
+            <edomvd>APPARENT LIMIT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406009</edomv>
+            <edomvd>DAM/WEIR</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406017</edomv>
+            <edomvd>DAM/WEIR</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406618</edomv>
+            <edomvd>DAM/WEIR-EARTHEN</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412007</edomv>
+            <edomvd>STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412009</edomv>
+            <edomvd>STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412020</edomv>
+            <edomvd>STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412202</edomv>
+            <edomvd>STREAM CLOSURE LINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412601</edomv>
+            <edomvd>STREAM-UNDERGROUND</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412604</edomv>
+            <edomvd>STREAM-TUNNEL</edomvd>
+          </edom>
+          <edom>
+            <edomv>412609</edomv>
+            <edomvd>STREAM-UNSURVEYED</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412610</edomv>
+            <edomvd>STREAM-INTERMITTENT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>414009</edomv>
+            <edomvd>DITCH/CANAL</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>414017</edomv>
+            <edomvd>DITCH/CANAL</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>414610</edomv>
+            <edomvd>CANAL-INTERMITTENT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>414611</edomv>
+            <edomvd>CANAL-ABANDONED</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415412</edomv>
+            <edomvd>AQUEDUCT/STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415601</edomv>
+            <edomvd>AQUEDUCT-UNDERGROUND</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415604</edomv>
+            <edomvd>AQUEDUCT-TUNNEL</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415605</edomv>
+            <edomvd>AQUEDUCT RIGHT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415611</edomv>
+            <edomvd>AQUEDUCT-ABANDONED</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>415612</edomv>
+            <edomvd>SUBMERGED AQUEDUCT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>601412</edomv>
+            <edomvd>UNDERGROUND STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>605009</edomv>
+            <edomvd>RIGHT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>605201</edomv>
+            <edomvd>RIGHT BANK-MANMADE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>606009</edomv>
+            <edomvd>LEFT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>606201</edomv>
+            <edomvd>LEFT BANK-MANMADE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>610200</edomv>
+            <edomvd>INTERMITTENT SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>610412</edomv>
+            <edomvd>INTERMITTENT STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>610414</edomv>
+            <edomvd>INTERMITTENT CANAL</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>610421</edomv>
+            <edomvd>INTERMITTENT POND</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>200618406</edomv>
+            <edomvd>SHORE/EARTHEN DAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201009020</edomv>
+            <edomvd>MANMADE SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201020002</edomv>
+            <edomvd>MANMADE SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201020605</edomv>
+            <edomvd>MANMADE RIGHT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201605020</edomv>
+            <edomvd>MANMADE RIGHT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201606009</edomv>
+            <edomvd>MANMADE LEFT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>201606020</edomv>
+            <edomvd>MANMADE LEFT BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>202412617</edomv>
+            <edomvd>CLOS LINE/STR UNDERP</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406009017</edomv>
+            <edomvd>DAM/WEIR</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406618017</edomv>
+            <edomvd>DAM-EARTHEN</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>406618200</edomv>
+            <edomvd>DAM-EARTHEN/SHORE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412610009</edomv>
+            <edomvd>STREAM-INTERMITTENT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412610202</edomv>
+            <edomvd>INT STREAM CLOSURE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412610617</edomv>
+            <edomvd>INT STRM UNDERPASS</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>412610202006</edomv>
+            <edomvd>INT STREAM CLOSURE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOURCE</attrlabl>
+        <attrdef>Data source</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ASM</edomv>
+            <edomvd>Assumed transport connection (i.e. pipe)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CLP</edomv>
+            <edomvd>Line from clip</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CNR</edomv>
+            <edomvd>1:24,000 Connecticut hydrography</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DEP</edomv>
+            <edomvd>DEP modified feature</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DIG</edomv>
+            <edomvd>1:25,000 digitized quads (using tablet)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DLG</edomv>
+            <edomvd>1:25,000 USGS DLG</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>MDC</edomv>
+            <edomvd>MDC modified feature</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>QDL</edomv>
+            <edomvd>Quad line</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SCN</edomv>
+            <edomvd>1:25,000 USGS scanned mylar separate</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SCR</edomv>
+            <edomvd>Digitized on screen atop Scanned USGS Quad Images.</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PWSID</attrlabl>
+        <attrdef>DEP public water supply identification number</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>Feature is within the watershed of a surface water supply</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ARC_CODE</attrlabl>
+        <attrdef>Generalized code based on MINOR_TOT simplified</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>UNKNOWN</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>CLOSURE LINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>APPARENT WETLAND LIMIT</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>INTERMITTENT STREAM</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>RIVER BANK</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>OTHER WATER FEATURE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>INTERMITTENT/INDEFINITE SHORELINE</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>99</edomv>
+            <edomvd>TRANSPORT ARC</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_FID</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MARC.MGISHDA2.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060628</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

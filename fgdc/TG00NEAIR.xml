@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+        <pubdate>2002</pubdate>
+        <title>UA Census American Indian Reservations, 1990 - Nebraska</title>
+        <edition>UA Census 2000</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo/>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-tg00neair</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+            <pubdate>2002</pubdate>
+            <title>TIGER/Line Files, UA Census 2000</title>
+            <edition>UA Census 2000</edition>
+            <pubinfo>
+              <pubplace>Washington,  DC</pubplace>
+              <publish>U.S. Department of Commerce, Bureau of the Census</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer depicts feature location and other associated data for American Indian tribal entities for those entities established on January 1, 1990. American Indian Reservations are areas that have been set aside by the United States for the use of tribes, the exterior boundaries of which are more particularly defined in the final tribal treaties, agreements, executive orders, federal statutes, secretarial orders, or judicial determinations. The Census Class Code range associated with American Indian Reservations is 0001 to 4989 for the 1990 datalayer.
+
+The U.S. Census Bureau recognizes federal reservations as territory over which American Indian tribes have primary governmental authority. These entities are known as colonies, communities, pueblos, rancherias, ranches, reservations, reserves, villages, Indian communities, and Indian villages. The Bureau of Indian Affairs (BIA) maintains a list of federally recognized tribal governments. The U.S. Census Bureau contacts representatives of American Indian tribal governments to identify the boundaries for federal reservations. Federal reservations may cross state, county, county subdivision, and place boundaries. The BIA supplied the U.S. Census Bureau with the names and exterior boundaries of the federal AIRs used for the 1990 census. The U.S. Census Bureau first reported data for American Indian reservations in the 1970 census.
+There are both legal and statistical American Indian, Alaska Native, and native Hawaiian entities for which the U.S. Census Bureau provides data. The legal entities consist of federally recognized American Indian reservations and off-reservation trust land areas, the tribal subdivisions that can divide these entities, state recognized American Indian reservations, Alaska Native Regional Corporations (ANRCs), and Hawaiian home lands (HHLs). The statistical entities are Alaska Native village statistical areas (ANVSAs), Oklahoma tribal statistical areas (OTSAs), tribal designated statistical areas (TDSAs), and state designated American Indian statistical areas (SDAISAs). Tribal subdivisions can exist within the statistical Oklahoma tribal statistical areas. In all cases, these areas are mutually exclusive in that no American Indian, Alaska Native, or Hawaiian home land can overlap another tribal entity, except for tribal subdivisions, which subdivide some American Indian entities, and Alaska Native village statistical areas (ANVSAs), which exist within Alaska Native Regional Corporations (ANRCs). 
+
+American Indian Trust Lands
+Areas for which the United States holds title in trust for the benefit of a tribe (tribal trust land) or for an individual Indian (individual trust land). Trust lands can be alienated or encumbered only by the owner with the approval of the Secretary of the Interior or his/her authorized representative. Trust lands may be located on or off a reservation. The U.S. Census Bureau recognizes and tabulates data for reservations and off-reservation trust lands because American Indian tribes have primary governmental authority over these lands. Primary tribal governmental authority generally is not attached to tribal lands located off the reservation until the lands are placed in trust. In U.S. Census Bureau data tabulations, off-reservation trust lands always are associated with a specific federally recognized reservation and/or tribal government. A tribal government appointed liaison provides the name and boundaries of their trust lands. The Bureau of Indian Affairs (BIA), an agency in the U.S. Department of the Interior, identified and provided maps of these areas for use by the U.S. Census Bureau for the 1990 census. The U.S. Census Bureau first reported data for off-reservation tribal trust lands in the 1980 census; in 1990, the trust land data included both tribal and individual trust lands. The U.S. Census Bureau does not identify fee land (or land in fee simple status) or restricted fee lands as specific geographic categories and they are not identified in the TIGER/Line files. Trust lands are assigned the same code as the reservation with which they are associated. Trust lands associated with tribes that do not have a reservation are assigned codes based on tribal name. In the TIGER/Line files, a letter code-"T" for tribal and "I" for individual-appears in a separate field and identifies off-reservation trust lands.
+
+American Indian Reservations-State (State AIRs) 
+Reservations established by some state governments for tribes recognized by the state. A governor-appointed state liaison provides the names and boundaries for state recognized American Indian reservations to the U.S. Census Bureau. State reservations may cross county, county subdivision, and place boundaries.
+
+American Indian Tribal Subdivisions
+Administrative subdivisions of federally recognized American Indian reservations, off-reservation trust land, or Oklahoma tribal statistical areas (OTSAs). Tribal subdivisions are known as areas, chapters, communities, or districts. These entities are internal units of self-government or administration that serve social, cultural, and/or economic purposes for the American Indians on the reservations, off-reservation trust lands, or OTSAs. The U.S. Census Bureau obtains the boundary and name information for tribal subdivisions from tribal governments. The U.S. Census Bureau first provided data for American Indian tribal subdivisions in 1980 when it identified them as "American Indian sub-reservation areas." The U.S. Census Bureau did not provide data for American Indian tribal subdivisions in conjunction with the 1990 census.
+
+Joint Use Areas
+As applied to any American Indian area/Alaska Native area by the U.S. Census Bureau, means an area that is administered jointly and/or claimed by two or more American Indian tribes. The U.S. Census Bureau designates both legal and statistical joint use areas as unique geographic entities for the purpose of presenting statistical data.
+
+Tribal Designated Statistical Areas (TDSAs)
+Statistical entities identified and delineated for the U.S. Census Bureau by federally recognized American Indian tribes that do not currently have a federally recognized land base (reservation or off-reservation trust land). A TDSA generally encompasses a compact and contiguous area that contains a concentration of individuals who identify with a federally recognized American Indian tribe and in which there is structured or organized tribal activity. TDSAs are associated with Census Class Codes of 000 to 9989 for the 1990 datalayer.  A TDSA may be located in more than one state, but it may not include area within an American Indian reservation, off-reservation trust land, Alaska Native village statistical area (ANVSA), or Oklahoma tribal statistical area (OTSA). The U.S. Census Bureau first reported data for TDSAs in conjunction with the 1990 census, when both federally and state recognized tribes could identify and delineate TDSAs. For Census 2000, TDSAs now apply only to federally recognized tribes. State recognized tribes without a land base, including those that were TDSAs in 1990, are identified as state designated American Indian statistical areas (SDAISAs), a new geographic entity for Census 2000. 
+
+Tribal Jurisdiction Statistical Areas (TJSAs)
+1990 statistical entities identified and delineated for the 1990 census to provide a geographic frame of reference for the presentation of statistical data. 1990 TJSA boundaries were required to follow census block boundaries and were based upon the boundaries of the former reservations of federally recognized tribes in Oklahoma. The range of Census Class Codes associated with TJSAs is 5000 to 5989. TJSAs replaced the Historic Areas of Oklahoma recognized by the U.S. Census Bureau for the 1980 decennial census. The 1990 descriptive designation, TJSA, has been changed for Census 2000 to Oklahoma tribal statistical areas (OTSAs).</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political analysis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. 
+More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.) The use of this data for engineering work or to legally define reservation boundaries is prohibited.</purpose>
+      <supplinf>The UA Census 2000 TIGER/Line files are extracts of selected geographic and cartographic information from the Census TIGER (Topologically Integrated Geographic Encoding and Referencing) database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based either on January 1, 2000 or January 1, 1990  legal boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole nation and its territories.
+The UA Census 2000 TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  The boundary information in the TIGER/Line files are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement.  The files contain information distributed over a series of record types for the spatial objects of a county.  There are 17 record types, including the basic data record, the shape coordinate points, and geographic codes that can be used with appropriate software to prepare maps.  Other geographic information contained in the files includes attributes such as feature identifiers/census feature class codes (CFCC) used to differentiate feature types, address ranges and ZIP Codes, codes for legal and statistical entities, latitude/longitude coordinates of linear and point features, landmark point features, area landmarks, key geographic features, and area boundaries.  The UA Census 2000 TIGER/Line data dictionary contains a complete list of all the fields in the 17 record types.
+NOTE: Portions of this metadata file have been copied directly from Census documentation. For additional information on this or other layers in the UA Census 2000 TIGER dataset please consult the U.S. Census Bureau's technical documentation at: http://www.census.gov/geo/www/tiger/tigerua/ua2ktgr.pdf</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19900101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Datalayers derived from TIGER/Line files are extracted from the Census TIGER data base when needed for geographic programs required to support the census and survey programs of the Census Bureau. No changes or updates will be made to the UA Census 2000 TIGER/Line files.</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-102.576104</westbc>
+        <eastbc>-95.326449</eastbc>
+        <northbc>42.9998510004584</northbc>
+        <southbc>39.999999</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Indian reservations</themekey>
+        <themekey>Census</themekey>
+        <themekey>Population</themekey>
+        <themekey>Demography</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>American Indian Reservations</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Nebraska</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. TIGER, TIGER/Line, and Census TIGER are trademarks of the Bureau of the Census. Although this data set has been developed  by the U.S. Census Bureau, no warranty expressed or implied is made by the Bureau as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the Bureau in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Department of Commerce, Bureau of the Census, Geography Division</cntorg>
+          <cntper>Products and Services Staff</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical address</addrtype>
+          <address>8903 Presidential Pkwy, Room 303 WP I</address>
+          <city>Upper Marlboro</city>
+          <state>Maryland</state>
+          <postal>20772</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Bureau of the Census</address>
+          <address>4700 Silver Hill Road, Stop 7400</address>
+          <city>Washington</city>
+          <state>District of Columbia</state>
+          <postal>20233-7400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-301-457-1128</cntvoice>
+        <cntfax>1-301-457-4710</cntfax>
+        <cntemail>tiger@census.gov</cntemail>
+        <hours>Monday through Friday 8:30 A.M. to 4:30 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>U.S. Department of Commerce, Bureau of the Census, Geography Division.</datacred>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>None</sechandl>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of the TIGER/Line files is as precise as the source used during the creation or update of the Census TIGER database. Accuracy statements on the Census TIGER database are based on deductive estimates; no specific field tests for attribute accuracy have been conducted on the files. However, updates or corrections resulting from normal U.S. Census Bureau field operations are entered into the Census TIGER database. In addition, quality checks are conducted to verify clerical transcription of data from source materials. Based on past experience, attribute codes match the source materials with less than a two-percent error.
+The feature network of complete chains (as represented by Record Types 1 and 2) is complete for census purposes. Data users should be aware that on occasion they might not be able to trace a specific feature by name or by census feature class code (CFCC) as a continuous line throughout the TIGER/Line files without making additional edits. For example, State Highway 32 may cross the entire county. The TIGER/Line files will contain complete chains in the file at the location of State Highway 32, but the complete chains may individually have one of a collection of local names such as S Elm Street, or Smallville Highway, with or without State Highway 32 as an alternate. The most frequent CFCC for a state highway is A21, but the complete chains at the location of State Highway 32 may have a variety of class codes such as A01, A41, or A21. Recent edits have reduced this problem, but not eliminated it.
+
+Boundaries and Geographic Entity Codes
+The U.S. Census Bureau collects and tabulates information for both legal and statistical entities. Record Type 1 mainly identifies the boundaries and codes for the legal entities reported to the U.S. Census Bureau to be legally in effect as of the Census 2000 Boundary and Annexation Survey. Record Types 3 and A generally contain the 1990 census tabulation geographic boundaries and codes for those entities. Most legal boundaries are based on the annotations made by local officials in response to the U.S. Census Bureau's Boundary and Annexation Surveys. The boundary information in the TIGER/Line files are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement. 
+
+Local data users generally define and delineate statistical entities following U.S. Census Bureau guidelines. However, there are several exceptions:
+- The U.S. Census Bureau defines Urbanized Areas (UAs) based strictly on technical considerations. USGS edited the FIPS 55 file to ensure alphabetical sorting and data consistency. As a result, changes were made to the FIPS 55 codes and related class codes. These changes, plus codes for new Census 2000 entities, appear in Record Type C. Other attribute data in the TIGER/Line files were gathered from many sources. The U.S. Census Bureau's staff linked the attribute information to the spatial framework of features. Most procedures for gathering the needed attributes were clerical. The quality of these attributes was ensured by various tests conducted before, during, and after the time that the attribute information was entered into the Census TIGER database. Tests included source material selection and evaluation checks, quality control checks on staff work, independent reviews by local and tribal leaders of maps produced from the Census TIGER database, and staff reviews of computer-performed operations.
+- The U.S. Census Bureau defines ZIP Code Tabulation Areas (ZCTAs) through an automated process utilizing addresses in the TIGER database and the Master Address File (MAF).
+- State Departments of Education delineate school districts.
+- The designated liaison for the Redistricting Data Program supplies Voting Districts (VTDs) and State Legislative Districts (SLDs).
+- Metropolitan Planning Organizations or State Departments of Transportation define Traffic Analysis Zones (TAZs). The USGS maintains the file that is published as FIPS 55. The U.S. Census Bureau uses the file for coding American Indian/Alaska Native Areas, county subdivisions, consolidated cities, places, and sub-MCDs. 
+
+Address Ranges and ZIP Codes
+The conversion from the Geographic Base File/Dual Independent Map Encoding (GBF/DIME)-Files to the TIGER format involved neither verification of previously existing address ranges nor any significant updates or corrections. Prior to the release of the 1992 TIGER/Line files, the address ranges for an area were generally the same as those in the corresponding 1980 GBF/DIME-File. The 1992 TIGER/Line files included ACF address ranges for existing and new features identified during census operations. Address ranges and ZIP Codes were verified and coverage extended for Census 2000 through the use of the Master Address File (MAF). The MAF is closely linked to the Census TIGER database. Local address lists and addresses from the U.S. Postal Service supplement the MAF. Through an automated matching process, addresses in the MAF were compared to existing address ranges in the Census TIGER database creating or modifying the TIGER address ranges where necessary.
+
+Feature Identifiers
+A national consistency review of all feature names in the Census TIGER database was performed by running a revised name standardizing operation on all feature identifiers. An additional benefit was the removal of nonstandard characters and punctuation from the names. To improve accuracy, road names in the Census TIGER database were compared with street names in the ZIP+4 file from the US Postal Service. Errors in feature directionals or feature types were corrected in the Census TIGER database.</attraccr>
+    </attracc>
+    <logic>Node-line-area relationships satisfy topological requirements. These requirements include the following:
+- Complete chains must begin and end at nodes.
+- Complete chains must connect to each other at nodes.
+- Complete chains do not extend through nodes.
+- Left and right polygons are defined for each complete chain element and are consistent for complete chains connecting at nodes.
+- Complete chains representing the limits of a file are free from gaps. The U.S. Census Bureau performed automated tests to ensure logical consistency and limits of file. Some polygons in the TIGER/Line files are so small that the polygon internal point has been manually placed on a node that defines the polygon perimeter. The U.S. Census Bureau uses it's internally developed Geographic Update System to enhance and modify spatial and attribute data in the Census TIGER database. The Census TIGER database has two generations of currency in geographic areas. These are the 1990 census areas and the Census 2000 areas. The location, type, and number of areas affect the boundaries of geographic areas.
+To prepare for Census 2000, those features used only as boundaries in the 1980 census were deleted. The deletions lowered the overall count of complete chains and polygons. Standard geographic codes, such as FIPS codes for states, counties, municipalities, and places, are used when encoding spatial entities. The U.S. Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census TIGER database files. Most of the codes themselves were provided to the U.S. Census Bureau by the U.S. Geological Survey (USGS), the agency responsible for maintaining FIPS 55.</logic>
+    <complete>Data completeness of the TIGER/Line files reflects the contents of the Census TIGER data base at the time the TIGER/Line files (UA 2000 version) were created.
+The GBF/DIME-Files and the USGS's DLG were the two main sources of spatial attribute data. Data for a given category contain attribute codes that reflect the information portrayed on the original source. The TIGER/Line files also use the U.S. Census Bureau's internal coding scheme which in some cases parallels the FIPS codes. The feature network of complete chains is complete for census purposes. For the 1990 census and Census 2000, census enumerators identified new and previously unreported street features for the entire nation during a series of decennial census operations. In some areas, local officials reviewed the census maps and identified new features and feature changes. The TIGER/Line files contain limited point and area landmark data. The enumerator updates for decennial censuses do not stress landmark features. Computer file matching and automated updates from the Economic and Agriculture censuses added landmarks and key geographic locations (KGLs).</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The U.S. Census Bureau's mission to count and profile the Nation's people and institutions does not require very high levels of positional accuracy in its geographic products. Its files and maps are designed to show only the relative positions of elements. Coordinates in the TIGER/Line files are in decimal degrees and have six implied decimal places. The positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy varies with the source materials used, but at best meets the established National Map Accuracy standards (approximately + /- 167 feet) where 1:100,000-scale maps from the USGS are the source.
+The U.S. Census Bureau cannot specify the accuracy of feature updates added by its field staff or of features derived from the GBF/DIME-Files or other map or digital sources. Thus, the level of positional accuracy in the TIGER/Line files is NOT suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface. Despite the fact that TIGER/Line data positional accuracy is not as high as the coordinate values imply, the six-decimal place precision is useful when producing maps. This precision allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+            <pubdate>Unpublished Material</pubdate>
+            <title>Census TIGER database</title>
+            <edition>UA Census 2000</edition>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Date the file was made available to create TIGER/Line File extracts.</srccurr>
+        </srctime>
+        <srcscale>100000</srcscale>
+        <srccitea>TIGER</srccitea>
+        <srccontr>Selected geographic and cartographic information (line segments) from the Census TIGER database.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>In order for others to use the information in the Census TIGER database in a GIS or for other geographic applications, the Census Bureau releases periodic extracts of selected information from the Census TIGER database, organized as topologically consistent networks.  Software (TIGER DB routines) written by the Geography Division allows for efficient access to Census TIGER system data.  TIGER/Line files are extracted from the Census TIGER database by county or statistical equivalent area.  Census TIGER data for a given county or statistical equivalent area is then distributed among 17 fixed length record ASCII files, each one containing attributes for either line, polygon, or landmark geographic data types.  The Census Bureau has released various versions of the TIGER/Line files since 1988, with each version having more updates (feature and feature names, address ranges and ZIP Codes, coordinate updates, revised field definitions, etc.) than the previous version.</procdesc>
+        <srcused>Census TIGER database</srcused>
+        <procdate>2000</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Department of Commerce, Bureau of the Census</cntorg>
+              <cntper>Products and Services Staff</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Bureau of the Census</address>
+              <address>4700 Silver Hill Road, Stop 7400</address>
+              <city>Washington</city>
+              <state>District of Columbia</state>
+              <postal>20233-7400</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntaddr>
+              <addrtype>physical address</addrtype>
+              <address>Bureau of the Census</address>
+              <address>8903 Presidential Parkway, Room 303 WP I</address>
+              <city>Upper Marlboro</city>
+              <state>Maryland</state>
+              <postal>20772</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>1-301-457-1128</cntvoice>
+            <cntfax>1-301-457-4710</cntfax>
+            <cntemail>tiger@census.gov</cntemail>
+            <hours>Monday through Friday 8:30 A.M. to 4:30 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original TIGER files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>200210</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>Massachusetts</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata written and edited</procdesc>
+        <procdate>20030101</procdate>
+        <srcused>UA Census 2000 TIGER/Line Files Technical Documentation</srcused>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Gesopatial Library</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>Massachusetts</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.TG00NEAIR">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>10</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed Name="TIM.TG00NEAIR">
+      <enttyp>
+        <enttypl>UA Census American Indian Reservations, 1990 - Nebraska</enttypl>
+        <enttypd>ESRI Shapefile. Polygons represent features</enttypd>
+        <enttypds>ESRI; Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>GIST_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv/>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>Numeric code for State + County FIPS codes</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard Publication 64</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AIANHHCE</attrlabl>
+        <attrdef>Numeric Census Class Code Identifier for the American Indian Reservation</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard Publication 55-3</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPSCODE</attrlabl>
+        <attrdef>Code for Named Populated Place</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard Publication 55-3</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of the Tribal Entity</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20030714</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA.</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

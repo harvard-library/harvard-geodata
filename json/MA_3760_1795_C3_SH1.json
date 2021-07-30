@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ma-3760-1795-c3-sh1",
+  "dc_title_s": "Massachusetts, 1795 (Image 1 of 2) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: An accurate map of the Commonwealth of Massachusetts exclusive of the District of Maine : compiled pursuant to an act of the General Court from actual surveys of the several towns &c. taken by their order, exhibiting the boundary lines of the Commonwealth, the counties and towns, the principal roads, rivers, mountains, mines, islands, rocks, shoals, channels, lakes, ponds, falls, mills, manufactures & public buildings, with the true latitudes & longitudes, &c., by Osgood Carleton. It was published and sold by O. Carleton and I. Norman in 1795. Scale [ca. 1:281,560]. This layer is image 1 of 2 total images, representing the eastern portion of the two sheet source map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, bridges, academies, meeting houses, court houses, drainage, mountains, iron ore deposits, coastal navigational hazards, state, county, and town boundaries, distances of individual towns from Boston and the shire towns, and more. Relief is shown pictorially. Includes illustrative cartouche. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MA_3760_1795_C3_SH1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MA_3760_1795_C3_SH1",
+  "layer_slug_s": "harvard-ma-3760-1795-c3-sh1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-06-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Carleton, Osgood, 1742-1816."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2006-06",
+  "dct_temporal_sm": [
+    "1795"
+  ],
+  "solr_geom": "ENVELOPE(-71.938311, -69.758026, 43.021301, 40.822474)",
+  "solr_year_i": 1795,
+  "harvard_collectionID_sm": [
+    "990093799080203941"
+  ]
+}

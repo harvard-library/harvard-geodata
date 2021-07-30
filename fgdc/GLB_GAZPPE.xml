@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>United States. National Geospatial-Intelligence Agency</origin>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>American Geological Institute</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Gazetteer of populated places, Eastern Hemisphere</title>
+        <geoform>vector digital data</geoform>
+        <serinfo/>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-gazppe</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>American Geological Institute</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing a gazetteer of populated place features located between the Greenwich meridian (0 degrees) and 180 degrees east of the Greenwich meridian, encompassing the Eastern Hemisphere, excluding  Antarctica. Features and attributes were derived from the GNS (GEOnet Names Server) and include populated place names.
+
+The GEOnet Names Server provides access to the National Geospatial-Intelligence Agency's (NGA) (formerly the National Imagery and Mapping Agency (NIMA)) database of foreign geographic feature names. Approximately 20,000 of the database's 3.5 million features are updated monthly with names information approved by the U.S. Board on Geographic Names (US BGN). 
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political analysis, environmental planning or resource use, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2003</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-0.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>86.216667</northbc>
+        <southbc>-49.349998</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Names, Geographical</themekey>
+        <themekey>Gazetteers</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Human settlements</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Populated places</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Geospatial-Intelligence Agency</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Corporate Relations</address>
+          <address>Public Affairs Division, MS D-54</address>
+          <address>4600 Sangamore Road</address>
+          <city>Bethesda</city>
+          <state>MD</state>
+          <postal>20816-5003</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>800-455-0899</cntvoice>
+        <cntemail>chdesk@nga.mil</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc/>
+    <logic>None</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa/>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Geospatial-Intelligence Agency</origin>
+            <pubdate>1996-Present</pubdate>
+            <title>GEOnet names server</title>
+            <geoform>database</geoform>
+            <pubinfo>
+              <pubplace>[Washington, D.C.]</pubplace>
+              <publish>National Geospatial-Intelligence Agency</publish>
+            </pubinfo>
+            <onlink>http://purl.access.gpo.gov/GPO/LPS18715</onlink>
+            <onlink>http://earth-info.nga.mil/gns/html/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1996</begdate>
+              <enddate>Present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GNS</srccitea>
+        <srccontr>Database from which dataset was derived</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  For this layer the two Global GIS  layers:  0_55_GAZ_POP and 55_180_GAZ_POP were joined in ArcGIS to form a single layer representing the Eastern Hemisphere.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.  Note: the GAZ_NAME attribute was not included for this layer because of associated issues with importing the layer into SDE.</procdesc>
+        <srcused>Global GIS Dataset</srcused>
+        <procdate>20060329</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>1363887</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Populated Places Gazetteer, Eastern Hemisphere</enttypl>
+        <enttypd>Points represent populated place features found via the GEOnet Names Server</enttypd>
+        <enttypds>NGA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FULL_NAME</attrlabl>
+        <attrdef>The full name is a complete name which identifies the named feature.  It is comprised of  the specific name, generic name, and any articles or prepositions. It is in reading order.</attrdef>
+        <attrdefs>NGA / GNS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNIQUE_NAM</attrlabl>
+        <attrdef>Unique Name Identifier</attrdef>
+        <attrdefs>NGA / GNS</attrdefs>
+        <attrdomv>
+          <udom>A number which uniquely identifies a name.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNIQUE_FEA</attrlabl>
+        <attrdef>Unique Feature Identifier</attrdef>
+        <attrdefs>NGA / GNS</attrdefs>
+        <attrdomv>
+          <udom>A number which uniquely identifies the feature.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_GAZPPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>For space considerations on nearly all of the Global GIS tiles, many of the fields were deleted. In some cases the Full_name field was also shortened. On the Global GIS DVD volume the Full_name field was copied to a shortened Gaz_name field. And the Full_name field was processed to replace some of the unrecognizable diacritical symbols.
+
+Note: the GAZ_NAME attribute was not included for this layer because of associated issues with importing the layer into SDE.</eaover>
+      <eadetcit>For a complete list of the Feature Description codes and attribute definitions please consult the GNS search site at http://earth-info.nga.mil/gns/html/</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060329</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metuc>Acknowledgement of the Harvard Geospatial Library, Harvard University would be appreciated in future use or publication of this metadata record.</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

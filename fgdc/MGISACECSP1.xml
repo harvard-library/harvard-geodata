@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Areas of Critical Environmental Concern Program (Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Management</origin>
+        <origin>Massachusetts Coastal Zone Management Office</origin>
+        <pubdate>200007</pubdate>
+        <title>MassGIS 2000 Areas of Critical Environmental Concern (July 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisacecsp1</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2000</pubdate>
+            <title>MassGIS data</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Areas of Critical Environmental Concern (ACEC) datalayer shows the location of areas that have been designated ACECs by the Secretary of Environmental Affairs.  ACEC designation requires greater environmental review of certain kinds of proposed development under state jurisdiction within the ACEC boundaries. 
+          
+The ACEC Program is administered by the Department of Environmental Management (DEM) on behalf of the Secretary of Environmental Affairs.  The Massachusetts Coastal Zone Management  (MCZM) Office managed the original Coastal ACEC Program from 1978 to 1993, and continues to  play a key role in monitoring coastal ACECs.  Procedures for ACEC designation and the general
+policies governing the effects of designation are contained in the ACEC regulations (301 CMR 12.00).  For more information about the ACEC datalayer or about the effects of ACEC designation, contact the ACEC Program at (617) 727-3160 ext. 552 or ext. 564.
+          
+The ACEC datalayer has been compiled by MCZM and DEM and includes both coastal and inland areas. New ACEC polygons are added periodically (1 - 2 per year) because the program continues to evaluate and designate new ACECs.  Currently the datalayer contains 25 ACECs.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200007</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source layer publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.489642</westbc>
+        <eastbc>-69.923441</eastbc>
+        <northbc>42.806878</northbc>
+        <southbc>41.546515</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Environmentally sensitive areas</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>MassGIS</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 900</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:25,000 USGS quads</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>unknown ed./dates</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS Quads</srccitea>
+        <srccontr>Source of feature data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:5,000 digital orthophotos</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>orthophotos</srccitea>
+        <srccontr>Used to digitize features</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Polygons are compiled from 1:25,000 USGS quad sheets, 1:5000 orthophotos, or other MassGIS datalayers and digitized. Boundaries were snapped to roads, drainage basins, trails, etc. depending on the item defining the edge. Where the snapcover is at a lower resolution than the USGS quad (roads, streams, etc.), data were changed to provide "relative visual accuracy."</procdesc>
+        <srcused>USGS quads</srcused>
+        <srcused>orthophotos</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>MassGIS</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Executive Office of Environmental Affairs</address>
+              <address>251 Causeway St, Suite 900</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-626-1000</cntvoice>
+            <cntfax>617-626-1249</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200108</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>141</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISACECSP1</enttypl>
+        <enttypd>Areas of Critical Environmental Concern</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Internally calculated area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated perimeter in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACECS_</attrlabl>
+        <attrdef>Internal feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACECS_ID</attrlabl>
+        <attrdef>Internal feature identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACECID</attrlabl>
+        <attrdef>Unique identifier of each area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The name of the area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DES_DATE</attrlabl>
+        <attrdef>The date the Secretary signed the designation</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SECRETARY</attrlabl>
+        <attrdef>he date after which all activities requiring federal funding, licensing or permitting must be consistent withenforceable CZM program policies (for CZM ACECs only)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA_ACRES</attrlabl>
+        <attrdef>Acreage of each polygon</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_BY</attrlabl>
+        <attrdef>Agency responsible for the ACEC</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REGION</attrlabl>
+        <attrdef>Coastal or Inland.  DEP Wetlands Protection Act Regulations have different performance standards for coastal and inland ACECs</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20011015</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

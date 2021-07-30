@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4084-y8-1929-w3",
+  "dc_title_s": "Youngstown, Ohio, 1929 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Wagner's complete map of Youngstown. It was published by A.C. Wagner Co. ca. 1929. Scale ca. 1:25,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Ohio North State Plane NAD 1983 coordinate system (in Feet) (Fipszone 3401) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, coach lines, drainage, landmarks, cities and other human settlements, territorial boundaries, parks, shoreline features, and more. Includes also street names and index, map legend, index of electric car lines and bus routes, This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4084_Y8_1929_W3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4084_Y8_1929_W3",
+  "layer_slug_s": "harvard-g4084-y8-1929-w3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-04-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "A.C. Wagner Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "structure"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Youngstown"
+  ],
+  "dct_issued_s": "2013-04",
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "solr_geom": "ENVELOPE(-80.787105, -80.495545, 41.157684, 41.010837)",
+  "solr_year_i": 1929,
+  "harvard_collectionID_sm": [
+    "990099635380203941"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3201-c82-1884-s8-sheet1",
+  "dc_title_s": "World Atmospheric Temperature Isotherms (January), 1884 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Karte der Januar-Isotherme. It is part of a two map set: [Karten der Isothermen, von Alexander Supan]. It was published by Ed. Holzel in 1884. Scale [ca. 1:110,000,000]. Map in German. The image inside the map neatline is georeferenced to the surface of the earth and fit to a non-standard 'Mercator' projection with the central meridian at 17.666 degrees west. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, selected cities, shoreline features, and more. Isotherms are shown at 2 degree intervals for January. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3201_C82_1884_S8_SHEET1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3201_C82_1884_S8_SHEET1",
+  "layer_slug_s": "harvard-g3201-c82-1884-s8-sheet1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-10-16T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "Supan, Alexander, 1847-1920.",
+    "Ed. Holzel (Firm)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "World maps",
+    "Bodies of water",
+    "Atmospheric temperature",
+    "imageryBaseMapsEarthCover",
+    "climatologyMeteorologyAtmosphere"
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America",
+    "Arctic regions"
+  ],
+  "dct_issued_s": "2009-10",
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 85.006821, -84.925202)",
+  "solr_year_i": 1884,
+  "harvard_collectionID_sm": [
+    "990115274450203941"
+  ]
+}

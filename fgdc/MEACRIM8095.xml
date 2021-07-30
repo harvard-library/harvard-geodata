@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Crime Statistics by Town</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacrim8095</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage of Massachusetts towns with associated tabular data on crime statistics per town between 1980 and 1995.
+This file contains town-level data on the number of specific crimes reported (CR) in 1980, 1985, 1990, and 1995 and the number of crimes cleared by arrest (CL). These crime summary data were reported to the Massachusetts State Police from Massachusetts cities and towns, campus police departments, and other reporting agencies. Not all towns in the Commonwealth report their crime statistics. Crime rates per 1,000 town residents were determined for 1990 and 1995 using 1990 town population figures. Crime rates per 1,000 town residents were determined for 1985 and 1980 using 1980 town population figures. 
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. For more information on this layer please read the "Supplemental Information" section which follows.
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The Crime Reporting Unit (CRU) is the contact point between state, local, and campus police departments and the FBI. It is charged with the responsibility of collecting, maintaining, analyzing, and reporting crime data for the Commonwealth.
+CRU is a part of the Criminal Information Section of the Massachusetts State Police Division of Investigative Services
+
+Crime Definitions used in this layer are as follows:
+Aggravated Assault:
+An unlawful attack by one person upon another for the purpose of inflicting severe or aggravated bodily injury.  The use of a weapon in an attack, even if no injury results, makes an assault 'aggravated'.
+Burglary:
+The unlawful entry of a structure to commit a felony or a theft.  Note that for this offense, the 'structure' does not have to be a dwelling.   
+Larceny:
+The unlawful taking, carrying, leading, or riding away of property from the possession or constructive possession of another.  
+Motor Vehicle Theft:
+The theft or attempted theft of a motor vehicle.  
+Murder:
+"Murder" is defined as the willing killing of one person by another.  
+Property Crimes:
+"Property Crimes" include burglary, larceny, and motor vehicle theft.  
+Rape:
+"Rape" is the carnel knowledge of a female, forcibly and against her will.  
+Rate:
+Rate is calculated by dividing the number of offenses by the population. Since these figures account for changes in population, it is more meaningful to compare rates.  
+Robbery:
+"Robbery" is the taking or attempting to take anything of value from the care or control of another by force or threat of force.  
+Total Crimes:
+"Total Crimes" include the sum of all index offenses:  murder, rape, robbery, aggregated assault, burglary, larceny, and motor vehicle theft.  
+Violent Crimes:
+"Violent Crimes" include murder, rape, robbery, and aggravated assault.
+
+The attribute table contains the following coded fields for each town, for example CR06_85 represents Total robberies reported (CR= Crimes Reported + 06 Crime code for robberies + 2-digit year) in 1985.  All Attribute codes for 1980 are defined in this metadata record. The pattern for subsequent years is as follows:
+First 2 digits indicate either CR (Crimes Reported) or CL (Crimes cleared by arrest)
+Next 2 digits are crime category code
+Next 2 digits are the year (in this case 80 [1980]; 85, 90 and 95)
+If the year code is followed by a 'p' that indicates the value is  the number of crimes committed per 1,00 residents.
+Crime Categories are:
+01 Homicides; 03 Rape; 04 Rape by Force; 05 Attempted Rape; 06 Total Robberies; 07 Robbery by gun; 08 Robbery by knife; 09 Robbery by other dangerous weapon; 10 Strong arm robbery; 11 Total assaults; 12 Aggravated assault - gun; 13 Aggravated assault - knife; 14 Aggravated assault - other dangerous weapon; 15 Aggravated assault - hands/feet/fist; 16 Simple assaults; 17 Total Burglary; 18 Forcible entry; 19 Unlawful entry, no force; 20 Attempted unlawful entry; 21 Larceny/Theft; 22 Total motor vehicle thefts; 23 Automobile thefts; 24 Truck and bus thefts; 25 Other vehicle thefts</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1980</begdate>
+          <enddate>1995</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Crime</themekey>
+        <themekey>Criminal Statistics</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Criminal Information Section of the Massachusetts State Police Division of Investigative Services</origin>
+            <title>CRU Crime Data</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1980</begdate>
+              <enddate>1995</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>CRU</srccitea>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>tabular digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundaries and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular attribute data compiled and edited from Criminal Information Section of the Massachusetts State Police Division of Investigative Services, Crime Reporting Unit.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>611</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Crime Statisics By Town, 1980-1995</enttypl>
+        <enttypd>Polygons and associated tabular data depict crime statistics per town</enttypd>
+        <enttypds>CRU</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNT_80</attrlabl>
+        <attrdef>Number of months of data reported by the agency in that year</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR0_80</attrlabl>
+        <attrdef>Homicides, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR0_80P</attrlabl>
+        <attrdef>Homicides per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR03_80</attrlabl>
+        <attrdef>Total Rapes, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR03_80P</attrlabl>
+        <attrdef>Total Rapes per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR04_80</attrlabl>
+        <attrdef>Rape by force, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR05_80</attrlabl>
+        <attrdef>Attempted rape, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR06_80</attrlabl>
+        <attrdef>Total Robberies, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR06_80P</attrlabl>
+        <attrdef>Total Robberies per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR07_80</attrlabl>
+        <attrdef>Robberies by gun, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR08_80</attrlabl>
+        <attrdef>Robbery by knife, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR09_80</attrlabl>
+        <attrdef>Robbery by other dangerous weapon, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR10_80</attrlabl>
+        <attrdef>Strong-arm robbery, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR11_80</attrlabl>
+        <attrdef>Total Assaults, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR11_80P</attrlabl>
+        <attrdef>Total Assaults per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR12_80</attrlabl>
+        <attrdef>Aggravated assault - gun, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR13_80</attrlabl>
+        <attrdef>Aggravated assault - knife, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR14_80</attrlabl>
+        <attrdef>Aggravated assault - other dangerous weapon, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR15_80</attrlabl>
+        <attrdef>Aggravated assault - hands/feet/fist, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR16_80</attrlabl>
+        <attrdef>Simple assaults, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR17_80</attrlabl>
+        <attrdef>Total Burglary, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR17_80P</attrlabl>
+        <attrdef>Total Burglary per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR18_80</attrlabl>
+        <attrdef>Forcible entry, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR19_80</attrlabl>
+        <attrdef>Unlawful entry, no force, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR20_80</attrlabl>
+        <attrdef>Attempted unlawful entry, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR21_80</attrlabl>
+        <attrdef>Larceny/Theft, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR21_80P</attrlabl>
+        <attrdef>Larceny/Theft per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR22_80</attrlabl>
+        <attrdef>Total motor vehicle thefts, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR22_80P</attrlabl>
+        <attrdef>Total motor vehicle thefts per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL01_80</attrlabl>
+        <attrdef>Homicides Cleared by Arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL03_80</attrlabl>
+        <attrdef>Rapes Cleared by Arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL04_80</attrlabl>
+        <attrdef>Rape by force Cleared by Arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL05_80</attrlabl>
+        <attrdef>Attempted rape cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL06_80</attrlabl>
+        <attrdef>Robberies cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL07_80</attrlabl>
+        <attrdef>Robberies by gun cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL08_80</attrlabl>
+        <attrdef>Robbery by knife cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL09_80</attrlabl>
+        <attrdef>Robbery by other dangerous weapon cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL10_80</attrlabl>
+        <attrdef>Strong arm robberies cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL11_80</attrlabl>
+        <attrdef>Assaults cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL12_80</attrlabl>
+        <attrdef>Aggravated assaults - gun cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL13_80</attrlabl>
+        <attrdef>Aggravated assaults - knife cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL14_80</attrlabl>
+        <attrdef>Aggravated assaults - other dangerous weapon cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL15_80</attrlabl>
+        <attrdef>Aggravated assault - hands/feet/fist cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL16_80</attrlabl>
+        <attrdef>Simple assaults cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL17_80</attrlabl>
+        <attrdef>Burglaries cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL18_80</attrlabl>
+        <attrdef>Forcible entries cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL19_80</attrlabl>
+        <attrdef>Unlawful entry, no force cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL20_80</attrlabl>
+        <attrdef>Attempted unlawful entry cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL21_80</attrlabl>
+        <attrdef>Larceny/Theft cleared by arrest, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CL22_80</attrlabl>
+        <attrdef>Motor vehicle thefts, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_80</attrlabl>
+        <attrdef>Total Aggravated Assaults (assaults with gun/knive/other dangerous weapon/hands/feet/fist - not "simple assaults"), 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_80P</attrlabl>
+        <attrdef>Total Aggravated Assaults per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_80</attrlabl>
+        <attrdef>Total Violent Crimes (homicides, rapes, aggravated assaults), 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_80P</attrlabl>
+        <attrdef>Total Violent Crimes per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PROP_80</attrlabl>
+        <attrdef>Total Property Crimes (burglaries, larceny/theft, motor vehicle thefts), 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PROP_80P</attrlabl>
+        <attrdef>Total Property Crimes per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TOT_80</attrlabl>
+        <attrdef>Total Crimes, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TOT_80P</attrlabl>
+        <attrdef>Total Crimes per 1,000 residents, 1980</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>AGENCY</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>POP80</attrlabl>
+        <attrdef>1980 population</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>COUNT_85</attrlabl>
+        <attrdef>Number of months of data reported by the agency in that year</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CR01_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR01_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR03_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR03_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR04_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR05_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR06_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR06_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR07_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR08_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR09_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR10_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR11_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR11_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR12_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR13_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR14_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR15_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR16_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR17_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR17_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR18_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR19_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR20_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR21_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR21_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR22_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR22_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL01_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL03_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL04_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL05_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL06_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL07_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL08_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL09_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL10_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL11_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL12_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL13_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL14_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL15_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL16_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL17_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL18_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL19_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL20_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL21_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL22_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROP_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROP_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_85P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGENCY_85</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COUNT_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR01_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR01_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR03_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR03_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR04_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR05_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR06_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR06_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR07_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR08_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR09_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR10_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR11_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR11_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR12_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR13_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR14_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR15_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR16_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR17_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR17_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR18_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR19_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR20_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR21_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR21_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR22_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR22_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL01_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL03_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL04_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL05_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL06_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL07_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL08_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL09_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL10_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL11_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL12_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL13_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL14_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL15_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL16_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL17_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL18_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL19_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL20_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL21_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL22_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROP_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROP_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_90P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGENCY_90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>POP90</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COUNT_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR01_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR01_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR03_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR03_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR04_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR05_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR06_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR06_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR07_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR08_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR09_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR10_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR11_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR11_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR12_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR13_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR14_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR15_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR16_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR17_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR17_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR18_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR19_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR20_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR21_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR21_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR22_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR22_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR23_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR24_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR25_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL01_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL03_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL04_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL05_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL06_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL07_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL08_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL09_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL10_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL11_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL12_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL13_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL14_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL15_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL16_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL17_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL18_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL19_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL20_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL21_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL22_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL23_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL24_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CL25_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CR02_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGAS_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOL_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROP_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROP_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOT_95P</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGENCY_95</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview/>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040308</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg00nhurb",
+  "dc_title_s": "UA Census Urbanized Areas, 1990 - New Hampshire",
+  "dc_description_s": "This datalayer displays the Urbanized Areas (UAs) for the state based on a January 1, 1990 ground condition. Note that the Census Bureau made significant changes in Urban/Rural designations for the Census 2000 data layers. Some of these delineations and definitions are explained below. 1990 Urban/Rural The U.S. Census Bureau defined urban for the 1990 census as consisting of all territory and population in urbanized areas (UAs) and in the urban portion of places with 2,500 or more people located outside of the UAs. The 1990 urban and rural classification applied to the 50 states, the District of Columbia, and Puerto Rico. 1990 Urbanized Areas A 1990 urbanized area (UA) consisted of at least one central place and the adjacent densely settled surrounding territory that together had a minimum population of 50,000 people. The densely settled surrounding territory generally consisted of an area with continuous residential development and a general overall population density of at least 1,000 people per square mile. 1990 Extended Cities For the 1990 census, the U.S. Census Bureau distinguished the urban and rural population within incorporated places whose boundaries contained large, sparsely populated, or even unpopulated area. Under the 1990 criteria, an extended city had to contain either 25 percent of the total land area or at least 25 square miles with an overall population density lower than 100 people per square mile. Such pieces of territory had to cover at least 5 square miles. This low-density area was classified as rural and the other, more densely settled portion of the incorporated place was classified as urban. Unlike previous censuses where the U.S. Census Bureau defined extended cities only within UAs, for the 1990 census the U.S. Census Bureau applied the extended city criteria to qualifying incorporated places located outside UAs. 1990 Urbanized Area Codes Each 1990 UA was assigned a 4-digit numeric census code in alphabetical sequence on a nationwide basis based on the metropolitan area codes. Note that in Record Type C, the 1990 UA 4-digit numeric census code and Census 2000 UA 5-digit numeric census code share a 5-character field. Because of this, the 1990 4-digit UA code, in Record Type C only, appears with a trailing blank. For Census 2000 the U.S. Census Bureau classifies as urban all territory, population, and housing units located within urbanized areas (UAs) and urban clusters (UCs). It delineates UA and UC boundaries to encompass densely settled territory, which generally consists of: - A cluster of one or more block groups or census blocks each of which has a population density of at least 1,000 people per square mile at the time - Surrounding block groups and census blocks each of which has a population density of at least 500 people per square mile at the time, and - Less densely settled blocks that form enclaves or indentations, or are used to connect discontiguous areas with qualifying densities. Rural consists of all territory, population, and housing units located outside of UAs and UCs. For Census 2000 this urban and rural classification applies to the 50 states, the District of Columbia, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands of the United States. Urbanized Areas (UAs) An urbanized area consists of densely settled territory that contains 50,000 or more people. The U.S. Census Bureau delineates UAs to provide a better separation of urban and rural territory, population, and housing in the vicinity of large places. For Census 2000, the UA criteria were extensively revised and the delineations were performed using a zero-based approach. Because of more stringent density requirements, some territory that was classified as urbanized for the 1990 census has been reclassified as rural. (Area that was part of a 1990 UA has not been automatically grandfathered into the 2000 UA.) In addition, some areas that were identified as UAs for the 1990 census have been reclassified as urban clusters. Urban Clusters (UCs) An urban cluster consists of densely settled territory that has at least 2,500 people but fewer than 50,000 people. The U.S. Census Bureau introduced the UC for Census 2000 to provide a more consistent and accurate measure of the population concentration in and around places. UCs are defined using the same criteria that are used to define UAs. UCs replace the provision in the 1990 and previous censuses that defined as urban only those places with 2,500 or more people located outside of urbanized areas. Urban Area Title and Code The title of each UA and UC may contain up to three incorporated place names, and will include the two-letter U.S. Postal Service abbreviation for each state into which the UA or UC extends. However, if the UA or UC does not contain an incorporated place, the urban area title will include the single name of a census designated place (CDP), minor civil division, or populated place recognized by the U.S. Geological Survey's Geographic Names Information System. Each UC and UA is assigned a 5-digit numeric code, based on a national alphabetical sequence of all urban area names. For the 1990 census, the U.S. Census Bureau assigned as four-digit UA code based on the metropolitan area codes. Urban Area Central Places A central place functions as the dominant center of an urban area. The U.S. Census Bureau identifies one or more central places for each UA or UC that contains a place. Any incorporated place or census designated place (CDP) that is in the title of the urban area is a central place of that UA or UC. In addition, any other incorporated place or CDP that has an urban population of 50,000 or an urban population of at least 2,500 people and is at least 2/3 the size of the largest place within the urban area also is a central place. Extended Places As a result of the UA and UC delineations, an incorporated place or census designated place (CDP) may be partially within and partially outside of a UA or UC. Any place that is split by a UA or UC is referred to as an extended place.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG00NHURB.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG00NHURB",
+  "layer_slug_s": "harvard-tg00nhurb",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2003-07-15T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Cities and towns",
+    "Urban land use",
+    "Boundaries",
+    "Urbanized areas"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, UA Census 2000"
+  ],
+  "solr_geom": "ENVELOPE(-71.632721, -70.708396, 43.3783420000452, 42.696986)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990087417150203941"
+  ]
+}

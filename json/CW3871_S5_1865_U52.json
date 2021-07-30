@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cw3871-s5-1865-u52",
+  "dc_title_s": "Map of General Sherman's March : Georgia, South Carolina, and North Carolina, 1865 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map: Map showing route of marches of the army of Genl. W.T. Sherman, from Atlanta, Ga. to Goldsboro, N.C. : to accompany the report of operations from Savannah, Ga. to Goldsboro, N.C., prepared by order of the Secretary of War for the officers of the U.S. Army under the command of Maj. Gen. W.T. Sherman. It was published by the Engineer Bureau, War Dept. in 1865. Scale [ca. 1:1,950,000]. Shows Sherman's March through the Carolinas covering South Carolina and portions of North Carolina, Georgia, and Tennessee. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator projection (WGS 1984 UTM Zone 17N). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, cities and towns, drainage, and more. Relief shown by hachures. The routes of the 14th, 15th, 17th, and 20th corps and the cavalry are indicated by colors and symbols. This layer is part of a selection of digitally scanned and georeferenced historic maps of the Civil War from the Harvard Map Collection. Many items from this selection are from a collection of maps deposited by the Military Order of the Loyal Legion of the United States Commandery of the State of Massachusetts (MOLLUS) in the Harvard Map Collection in 1938. These maps typically portray both natural and manmade features, in particular showing places of military importance. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CW3871_S5_1865_U52.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:CW3871_S5_1865_U52",
+  "layer_slug_s": "harvard-cw3871-s5-1865-u52",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-04-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "United States. Army. Corps of Engineers."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Civil War, 1861-1865",
+    "Sherman's March through the Carolinas",
+    "Sherman, William T. (William Tecumseh), 1820-1891",
+    "Fortification",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Cities and towns",
+    "Villages",
+    "imageryBaseMapsEarthCover",
+    "intelligenceMilitary"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "North Carolina",
+    "Georgia",
+    "Tennessee"
+  ],
+  "dct_issued_s": "2007-04",
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "solr_geom": "ENVELOPE(-86.591238, -76.023745, 37.044726, 30.899251)",
+  "solr_year_i": 1865,
+  "harvard_collectionID_sm": [
+    "990094204450203941"
+  ]
+}

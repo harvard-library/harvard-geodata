@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3802-g4-1876-b4",
+  "dc_title_s": "Lake George and vicinity, New York, ca. 1876 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of Lake George & vicinity : from recent and careful surveys, by F.W. Beers. It was published by J.B. Beers & Co., ca. 1876. Scale [1:79,200]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) Zone 18N NAD83 projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, post offices, hotels, township boundaries, and more. Relief is shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3802_G4_1876_B4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3802_G4_1876_B4",
+  "layer_slug_s": "harvard-g3802-g4-1876-b4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-11-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Beers, F. W. (Frederick W.)",
+    "J.B. Beers & Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Tourist",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Lake George",
+    "Bolton",
+    "Chester",
+    "Dresden",
+    "Fort Ann",
+    "Glens Falls",
+    "Hague",
+    "Harford",
+    "Horicon",
+    "Kingsbury",
+    "Lake Lazerne",
+    "Putnam",
+    "Queensbury",
+    "Ticonderoga",
+    "Warrensburg",
+    "Whitehall"
+  ],
+  "dct_issued_s": "2007-11",
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "solr_geom": "ENVELOPE(-73.982644, -73.204762, 43.926446, 43.210672)",
+  "solr_year_i": 1876,
+  "harvard_collectionID_sm": [
+    "990097335260203941"
+  ]
+}

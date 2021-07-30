@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-matwn-3764-b6-1872-s31",
+  "dc_title_s": "Boston, Massachusetts, 1872 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of Boston, published by Sampson, Davenport & Co. in 1872. This edition of the map is overprinted: 'Portions colored blue show improvements in streets and reservations for public grounds, proposed by Robert Morris Copeland ....' Scale [ca. 1:12,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, some public buildings, parks, cemeteries, city ward boundaries and more. Relief is shown by hachures. Includes inset: Plan of East Boston, 1872. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MATWN_3764_B6_1872_S31.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MATWN_3764_B6_1872_S31",
+  "layer_slug_s": "harvard-matwn-3764-b6-1872-s31",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-04-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Sampson, Davenport & Co.",
+    "Copeland, Robert Morris, 1830-1874."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Civic improvement",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston"
+  ],
+  "dct_issued_s": "2006-04",
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "solr_geom": "ENVELOPE(-71.160926, -70.983506, 42.385218, 42.252697)",
+  "solr_year_i": 1872,
+  "harvard_collectionID_sm": [
+    "990093996350203941"
+  ]
+}

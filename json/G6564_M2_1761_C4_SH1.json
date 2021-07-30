@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6564-m2-1761-c4-sh1",
+  "dc_title_s": "Madrid, Spain, 1761 (Image 1 of 4) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan geometrico y historico de la villa de Madrid y sus contornos = Plan geometrique et historique de la ville de Madrid et de ses environs, grave par N. Chalmandrier. It was published by N. Chalmandrier in 1761. Scale [ca. 1:3,500]. Map in Spanish and French. This layer is image 1 of 4 total images of the four sheet source map, representing the northwest portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, UTM Zone 30N coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, ground cover, and more. Relief is shown by hachures and pictorially. Includes index. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6564_M2_1761_C4_SH1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6564_M2_1761_C4_SH1",
+  "layer_slug_s": "harvard-g6564-m2-1761-c4-sh1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-10-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Chalmandrier, Nicolas."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Spain",
+    "Madrid"
+  ],
+  "dct_issued_s": "2008-10",
+  "dct_temporal_sm": [
+    "1761"
+  ],
+  "solr_geom": "ENVELOPE(-3.741053, -3.702683, 40.438328, 40.416686)",
+  "solr_year_i": 1761,
+  "harvard_collectionID_sm": [
+    "990113649320203941"
+  ]
+}

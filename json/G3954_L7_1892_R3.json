@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3954-l7-1892-r3",
+  "dc_title_s": "Louisville, Kentucky, 1892 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of Louisville, Rand McNally & Co. It was published by Rand McNally & Co. in 1892. Scale [ca. 1:20,000]. Covers also a portion of Jeffersonville and New Albany, Indiana. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Kentucky North State Plane NAD 1983 coordinate system (in Feet) (Fipszone 1601). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads and stations, drainage, low water lines, built-up areas and selected buildings, parks, cemeteries, and more. Relief shown by hachures. Includes inset : Southern extension of Louisville. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3954_L7_1892_R3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3954_L7_1892_R3",
+  "layer_slug_s": "harvard-g3954-l7-1892-r3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-03-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Rand McNally and Company."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Louisville",
+    "Indiana",
+    "Jeffersonville",
+    "New Albany"
+  ],
+  "dct_issued_s": "2009-03",
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "solr_geom": "ENVELOPE(-85.835496, -85.688436, 38.296914, 38.204781)",
+  "solr_year_i": 1892,
+  "harvard_collectionID_sm": [
+    "990114266460203941"
+  ]
+}

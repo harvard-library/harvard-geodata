@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Town Populations by Citizenship</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacen-citz90</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage of Massachusetts' towns populations organized by citizenship, foreign-born status, age group and date of entry to the United States.  This data was extracted from the 1990 U.S. Census of Population and Housing STF 3A database published by the U.S. Census Bureau. It also includes Total persons per town, Total number of foreign born persons, and percentage of the Total population per town that is foreign born.
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The following information was transcribed in part from the Glossary available through the U.S. Census Fact Finder website at: http://factfinder.census.gov
+Native Born
+People born in the United States, Puerto Rico, or U.S. Island Areas; as well as those born in a foreign country who had at least one parent who was a U.S. citizen.
+Citizenship status
+Citizen
+People who indicate that they were born in the United States, Puerto Rico, a U.S. Island Area, or abroad of a U.S. citizen parent(s) are citizens.
+People who indicate that they are U.S. citizens through naturalization are also citizens.
+Naturalized citizens are foreign-born people who identify themselves as naturalized. Naturalization is the conferring, by any means, of citizenship upon a person after birth.
+Not a citizen
+People who indicate they are not U.S. citizens.
+Foreign born
+Foreign-born population
+People who are not U.S. citizens at birth.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19900401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Demography</themekey>
+        <themekey>Population geography</themekey>
+        <themekey>Citizenship</themekey>
+        <themekey>Naturalization</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require very high levels of positional accuracy in its geographic products. Its files and maps are designed to show only the relative positions of elements. Coordinates in these files are in decimal degrees and have six implied decimal places.  The positional accuracy of these coordinates may not be as great as the six decimal places suggest and the positional accuracy varies with the source materials used.
+Despite the fact that MEA data positional accuracy is not as high as the coordinate values imply, the six-decimal place precision is useful when producing maps. This precision allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Executive Office of Environmental Affairs</origin>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS Town boundaries (with coastline) dataset</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+            <title>1990 Census of Population and Housing  Summary Tape File (STF-3)</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19900401</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Summary Tape File 3 (STF3)</srccitea>
+        <srccontr>Tabular data for population statistics derived from this source.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from US Census Bureau STF-3; Town boundary data derived from MassGIS database. Geographic data was obtained by the Harvard Map Collection via CD-ROM. Attribute information was downloaded from Internet as Excel spreadsheet. The spreadsheet was converted to a DBF file, which was joined to the geography using ArcView GIS v 3.2. The join was based on the town name.</procdesc>
+        <srcused>1990 Census Summary Tape File 3 (STF3)</srcused>
+        <srcused>MassGIS</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>611</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Foreign Born Persons by Town</enttypl>
+        <enttypd>Polygons represent Town outlines with attribute population data</enttypd>
+        <enttypds>MEA; US Census</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREANAME</attrlabl>
+        <attrdef>State, Town Area Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUSUBFP</attrlabl>
+        <attrdef>FIPS 55 Code (County Subdivision), 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNT</attrlabl>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TIM.MEACEN_CITZ90.AREA</attrlabl>
+        <attrdef>Polygon area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Polyline length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN_N</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNTY</attrlabl>
+        <attrdef>FIPS County Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CCD</attrlabl>
+        <attrdef>Census County Division Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>State + County FIPS Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP80</attrlabl>
+        <attrdef>Town population in 1980</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP90</attrlabl>
+        <attrdef>Town population in 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ISLAND</attrlabl>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_CHNG</attrlabl>
+        <attrdef>Change in Town population between 1980 and 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN_NUM</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTALPER</attrlabl>
+        <attrdef>Total Town Population</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BORFORGN</attrlabl>
+        <attrdef>Total number of foreign born persons per town</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT87_90</attrlabl>
+        <attrdef>Year of entry to United States is between 1987-1990 (if person was born outside of United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT85_86</attrlabl>
+        <attrdef>Year of entry to United States is between 1985-86 (if person was born outside of United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT82_84</attrlabl>
+        <attrdef>Year of entry to United States is between 1982-84 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT80_81</attrlabl>
+        <attrdef>Year of entry to United States is between 1980-81 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT75_79</attrlabl>
+        <attrdef>Year of entry to United States is between 1975-79 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT70_74</attrlabl>
+        <attrdef>Year of entry to United States is between 1970-74 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT65_69</attrlabl>
+        <attrdef>Year of entry to United States is between 1965-69 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT60_64</attrlabl>
+        <attrdef>Year of entry to United States is between 1960-64 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENT50_59</attrlabl>
+        <attrdef>Year of entry to United States is between 1950-59 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENTU50</attrlabl>
+        <attrdef>Year of entry to United States is before 1950 (if person was born outside United States)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NATIVU18</attrlabl>
+        <attrdef>Native born residents of town under age 18 .</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FOCITU18</attrlabl>
+        <attrdef>Foreign born residents (but citizens) of town under age 18 .</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FONOTU18</attrlabl>
+        <attrdef>Foreign born residents (but not naturalized citizens) of town under age 18 .</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NATIVE18</attrlabl>
+        <attrdef>Native born residents of town over age 18 .</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FORCIT18</attrlabl>
+        <attrdef>Foreign born residents (but citizens) of town over age 18 .</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FORNOT18</attrlabl>
+        <attrdef>Foreign born residents (but not naturalized citizens) of town over age 18 .</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Polygon area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040217</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

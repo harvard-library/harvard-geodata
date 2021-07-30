@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95delptpt",
+  "dc_title_s": "Census Landmark Points, 1995 - Delaware",
+  "dc_description_s": "This datalayer displays landmark point features throughout the state of Delaware. 'Landmark' is the general name given to a cartographic (or locational) landmark, a land-use area, and a key geographic location (KGL). A cartographic landmark is identified for use by an enumerator while working in the field. A land-use area is identified in order to minimize enumeration efforts in uninhabited areas or areas where human access is restricted. A key geographic location is identified in order to more accurately geocode and enumerate a place of work or residence. The predominant feature classes represented in this layer include airports or airfields, cemeteries, fraternities or sororities, state or local parks or forests, golf courses, lookout towers, educational and religious institutions. Other possible landmark features could include military installations, multi-household or transient quarters, custodial facilities, other types of transportation facilities or terminals, employment centers, open space and other special landmark designations for post offices, police stations and firehouses.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95DELPTPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95DELPTPT",
+  "layer_slug_s": "harvard-tg95delptpt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-02-15T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_publisher_s": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "intelligenceMilitary",
+    "structure",
+    "imageryBaseMapsEarthCover",
+    "Census",
+    "Religious institutions",
+    "Military installations",
+    "Military bases",
+    "Parks",
+    "Cemeteries",
+    "Airports",
+    "Camp sites, facilities, etc",
+    "Recreation areas"
+  ],
+  "dct_spatial_sm": [
+    "Delaware"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-75.746458, -75.062559, 39.5894, 38.453054)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

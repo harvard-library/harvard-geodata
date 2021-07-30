@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-madrg-l42072c4",
+  "dc_title_s": "Belchertown, Massachusetts, 1979 (USGS 7.5 Minute Quadrangle DRG)",
+  "dc_description_s": "This layer is a digital raster graphic of the 7.5 Minute USGS topographic map of the Belchertown, Massachusetts quadrangle, 1979. Scale 1:25,000. The DRG was published in 1996. A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The source paper map was mapped, edited and published by the United States Geological Survey. The Massachusetts 7.5 minute topographic series was produced in cooperation with the Massachusetts Department of Public Works. Topography by planetable surveys 1939. Revised 1964. Revisions shown in purple compiled in cooperation with the State of Massachusetts agencies from aerial photographs taken 1975 and other source data. This information not field checked. Map edited 1979. The names of quadrangles which border this one appear on the map collar in their respective positions (N,S,E,W) in relation to this map.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MADRG_L42072C4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MADRG_L42072C4",
+  "layer_slug_s": "harvard-madrg-l42072c4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-11-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "United States Geological Survey"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Belchertown",
+    "Amherst",
+    "Pelham",
+    "Granby"
+  ],
+  "dct_issued_s": "1996-02-06",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "solr_geom": "ENVELOPE(-72.51546, -72.359186, 42.385403, 42.230974)",
+  "solr_year_i": 1979,
+  "harvard_collectionID_sm": [
+    "990072954620203941"
+  ]
+}

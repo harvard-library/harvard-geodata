@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection.</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Cape Cod Non-potential Drinking Water Source Areas (March 1997)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisnpdwccp2</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer contains polygons representing Non-Potential Drinking Water Source Areas (NPDWSA) for Cape Cod, Martha's Vineyard, Nantucket, and the Elizabeth Islands, Massachusetts.  
+
+For the purpose of identifying areas in which clean up of hazardous waste sites must meet drinking water standards, as defined in the Massachusetts Contingency Plan (MCP) (310 CMR 40.0000), the DEP has coded polygons within the aquifer coverage to identify "Non Potential Drinking Water Source Areas" (NPDWSAs). 
+
+NPDWSAs include any Potentially Productive Aquifer or portion thereof which underlies land areas of at least 100 acres developed for one or more of the following uses as of January 1, 1996: Industry; Commerce; Dense residential development and associated uses; Transportation; or Urban open space; and those portions of Potentially Productive Aquifers that underlie US Census block groups with population densities of greater than 4,400 persons/square mile. Polygons for which the item NPDWSA = 1 are designated as NPDWSAs; those coded 0 for NPDWSA are not designated as NPDWSAs. 
+
+As defined in the MCP, a Potentially Productive Aquifer means all aquifers delineated by the USGS as high or medium yield, and all aquifers located east of the Cape Cod Canal (Cape Cod), on the Elizabeth Islands, on Martha's Vineyard, or on Nantucket. 
+
+NPDWSA polygons were delineated by the DEP based on land use information in the MassGIS land use coverage and population density data from the 1990 US Census. Municipalities were given the opportunity to review the DEP's delineation of NPDWSAs prior to the September 1996 promulgation of the current MCP groundwater clean up regulations. The delineation of NPDWSAs may reflect additional land use information provided by municipalities.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+      <supplinf>This datalayer is maintained by Massachusetts Department of Environmental Protection (DEP) and MassGIS.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199703</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-70.952426</westbc>
+        <eastbc>-69.918693</eastbc>
+        <northbc>42.088469</northbc>
+        <southbc>41.240403</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Drinking water</themekey>
+        <themekey>Groundwater</themekey>
+        <themekey>Water-supply</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Cape Cod</placekey>
+        <placekey>Nantucket</placekey>
+        <placekey>Martha's Vineyard</placekey>
+        <placekey>Elizabeth Islands</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+        <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Dept. of Environmental Protection.</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Massachusetts Contingency Plan</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Commonwealth of Massachusetts, Executive Office of Environmental Affairs, Dept. of Environmental Protection</publish>
+        </pubinfo>
+        <othercit>310 CMR 40.0000</othercit>
+        <onlink>http://www.mass.gov/dep/cleanup/laws/mcpsuba.htm</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <origin>Massachusetts. Dept. of Environmental Protection</origin>
+            <pubdate>20030519</pubdate>
+            <title>Aquifers (March 1997)</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199703</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>original issue date</srccurr>
+        </srctime>
+        <srccitea>Aquifer</srccitea>
+        <srccontr>Used to identify NPDWSA polygon areas.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <origin>University of Massachusetts at Amherst. Resource Mapping Project.</origin>
+            <pubdate>20030519</pubdate>
+            <title>MassGIS 2003 Massachusetts Land Use (January 2002)</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+            </pubinfo>
+            <onlink>http://hgl.harvard.edu</onlink>
+            <lworkcit>
+              <citeinfo>
+                <origin>MassGIS (Office : Mass.)</origin>
+                <pubdate>2003</pubdate>
+                <title>MassGIS data</title>
+                <edition>2003</edition>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>Boston, Mass.</pubplace>
+                  <publish>MassGIS</publish>
+                </pubinfo>
+                <othercit>7 CD-ROM set</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200201</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>original issue date</srccurr>
+        </srctime>
+        <srccitea>Land Use</srccitea>
+        <srccontr>Used to identify NPDWSA polygon areas.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Bureau of the Census.</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1990 Census data</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>Bureau of the Census</publish>
+            </pubinfo>
+            <othercit>Population Density data</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1990</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>1990 Census</srccitea>
+        <srccontr>Used to identify NPDWSA polygon areas.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The DEP has coded polygons within the aquifer coverage to identify "Non Potential Drinking Water Source Areas" (NPDWSAs).  NPDWSA polygons within the aquifer coverage were delineated by the DEP based on land use information in the MassGIS land use coverage and population density data from the 1990 US Census.</procdesc>
+        <srcused>Aquifer</srcused>
+        <srcused>Land use</srcused>
+        <srcused>1990 Census</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>The Massachusetts Department of Environmental Protection (MassDEP)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>One Winter Street</address>
+              <address>251 Causeway St, Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02108</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-292-5500</cntvoice>
+            <cntfax>617-556-1049</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>228</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000054</absres>
+            <ordres>0.000054</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISNPDWCCP2</enttypl>
+        <enttypd>Cape Cod Non-potential Drinking Water Source Areas</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SSA_NUM</attrlabl>
+        <attrdef>Sole source aquifer ID number.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SSA_NAME</attrlabl>
+        <attrdef>Name of sole source aquifer.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Character values indicating the yield</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>MED</edomv>
+            <edomvd>Medium yield aquifer</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>POND</edomv>
+            <edomvd>Water body</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NPDWSA</attrlabl>
+        <attrdef>Non Potential Drinking Water Source Area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>NPDWSA area</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Not a NPDWSA area, which means water drawn form this area may be used as a drinking water source</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA_1</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060717</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

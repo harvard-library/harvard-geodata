@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9160-1824-n6",
+  "dc_title_s": "Cape Verde, 1824 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A new chart of the Cape Verde islands : drawn from the latest authorities by J.W. Norie, hydrographer. It was published by J.W. Norie and Co. in 1824. Scale [ca. 1:810,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Mercator projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, villages and other human settlements, shoreline features, ports and anchorage points, and more. Relief shown by hachures; depths shown by soundings. Includes also profile of the south coast of the Island of St. Iago and a profile of the Island of Mayo and insets: Port Praya in the Island of St. Iago; Porto Grande in the Island of St. Vincent; English Road in the Island of Bonavista.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9160_1824_N6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9160_1824_N6",
+  "layer_slug_s": "harvard-g9160-1824-n6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-12-18T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Norie, J. W. (John William), 1772-1843."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Human settlements",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Cape Verde"
+  ],
+  "dct_issued_s": "2013-12",
+  "dct_temporal_sm": [
+    "1824"
+  ],
+  "solr_geom": "ENVELOPE(-25.669253, -22.239896, 18.298392, 13.062389)",
+  "solr_year_i": 1824,
+  "harvard_collectionID_sm": [
+    "990127429280203941"
+  ]
+}

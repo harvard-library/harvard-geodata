@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3964-f62s5-1875-m316",
+  "dc_title_s": "Plan of Fort Donelson, Tennessee, 1862 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan of Fort Donelson and its outwork, surveyed under the direction of Lieut. Col. J. B. McPherson, A.D.C. & Capt. of Engineers, by Lieuts. Janney and Kossak in February 1862. Published by authority of the Hon. the Secretary of War, office of the Chief of Engineers, U.S. Army, 1875. It was published by Bell Bros., Photo-Lithographers in 1875. Scale [ca. 1:7,200].The image inside the map neatline is georeferenced to the surface of the earth and fit to the Tennessee State Plane NAD 1983 (Fipszone 4100) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, cities and other human settlements, shoreline features, fortification, and more. Relief shown by hachures. Includes also vegetation, houses, fences, a plan of Dover, fallen timber, enemy's tents and log huts, water batteries, entrenchments, Grant's headquarters, and the location of the divisions of General Smith, General Wallace, and General McClernand. A profile of the fort, another profile of the rifle pits, and one of the water battery appear on the left side of the map.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3964_F62S5_1875_M316.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3964_F62S5_1875_M316",
+  "layer_slug_s": "harvard-g3964-f62s5-1875-m316",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-10-11T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "McPherson, James Birdseye, 1828-1864."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Fortification",
+    "American Civil War (1861-1865)",
+    "imageryBaseMapsEarthCover",
+    "intelligenceMilitary"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "Fort Donelson (historical)"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "solr_geom": "ENVELOPE(-87.894892, -87.82699, 36.513369, 36.457927)",
+  "solr_year_i": 1862,
+  "harvard_collectionID_sm": [
+    "990136445140203941"
+  ]
+}

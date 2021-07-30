@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nhgis-pop1870",
+  "dc_title_s": "Historic County Boundaries and Total Population, United States, 1830",
+  "dc_description_s": "This boundary file contains historic county boundaries for which the U.S. Census Bureau tabulated data and was produced by the Minnesota Population Center as part of the National Historical Geographic Information System (NHGIS) project. The NHGIS county boundaries shapefile was joined with NHGIS total population tabular data from the same year by the Harvard University Center for Geographic Analysis. The county boundary shapefiles and its respective population data were joined for each decade, 1790-2000.The NHGIS is an National Science Foundation-sponsored project (Grant No. BCS0094908) to create a digital spatial-temporal database of all available historical US aggregate census materials. The available shapefiles on the NHGIS site represent version 1.0 of historical US county boundary files for the 1790 to 2000 censuses. These electronic county boundary files were created by referencing a wide variety of sources and considerable care was taken during their production. U.S. Census Bureau TIGER/Line Census 2000 files provided the 1990 and 2000 county boundaries and the roads, hydrography, and public land survey lines required to construct historic county boundaries. Locations of historic county boundaries were derived from William Thorndale and William Dollarhide's Map Guide to the U.S. Federal Censuses (1987), various volumes of John H. Long's Atlas of Historical County Boundaries, the Atlas of Historical County Boundaries website (http://www.newberry.org/ahcbp/), and other state-specific sources. TIGER/Line spatial features that corresponded to boundaries in these sources were used to construct the proper historic boundaries. When a TIGER/Line feature was not available, we digitized the historic boundary from one of the map sources. Aggregate data from Michael Haines' Historical Demographic, Economic and Social Data: The United States, 1790-1970 (2001) and Richard Forstall's Population of States and Counties of the United States: 1790 to 1990 (1996) were used to determine whether a county was enumerated during a given census. If a county was not enumerated, notes from those sources were used to attach the county in question to the county with which it was enumerated. If a county was not enumerated and the notes provide no details, the county was considered 'unattached' and it was merged with other unattached land within the state or territory.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NHGIS_POP1870.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:NHGIS_POP1870",
+  "layer_slug_s": "harvard-nhgis-pop1870",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2012-04-30T00:00:00Z",
+  "dc_creator_sm": [
+    "University of Minnesota. Minnesota Population Center"
+  ],
+  "dc_publisher_s": [
+    "Minnesota Population Center"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Counties",
+    "Census",
+    "Population",
+    "boundaries",
+    "society",
+    "historical",
+    "census of population and housing",
+    "counties",
+    "county equivalents",
+    "census boundaries",
+    "census geography",
+    "census data",
+    "population",
+    "housing",
+    "county",
+    "borough",
+    "independent city",
+    "census area",
+    "parish"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "2006",
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "solr_geom": "ENVELOPE(-114.981498, -65.752857, 50.009315, 23.289995)",
+  "solr_year_i": 1830,
+  "harvard_collectionID_sm": [
+    "990131751620203941"
+  ]
+}

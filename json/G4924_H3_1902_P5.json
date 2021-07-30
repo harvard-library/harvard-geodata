@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4924-h3-1902-p5",
+  "dc_title_s": "Havana, Cuba, 1902 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plano de la Habana, por D. Esteban T. Pichardo, agrimensor y maestro de obras; editor D. Jose Valdepares. It was published by Office of Chief Engineer, City of Havana Department of Streets in 1902. Covers Havana, Cuba. Map in Spanish and English.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'NAD 1927 Cuba Norte' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as roads, railroads, drainage, selected buildings, fortification, city districts, and more. Shows street work disposition by color. Relief is shown by hachures and contours; Depths shown by bathymetric isolines. Includes index.This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4924_H3_1902_P5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4924_H3_1902_P5",
+  "layer_slug_s": "harvard-g4924-h3-1902-p5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-01-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Pichardo y Tapia, Esteban, 1799-1879.",
+    "United States. Army. Corps of Engineers. Engineer Office.",
+    "Barden, W. J. (William Jones), b. 1870.",
+    "Valdepares, Jose.",
+    "Guggenheimer, Weil & Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Cuba",
+    "Havana"
+  ],
+  "dct_issued_s": "2015-01",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "solr_geom": "ENVELOPE(-82.419717, -82.316853, 23.157675, 23.084174)",
+  "solr_year_i": 1902,
+  "harvard_collectionID_sm": [
+    "990111484520203941"
+  ]
+}

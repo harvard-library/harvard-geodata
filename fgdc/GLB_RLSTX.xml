@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Realtime streamgaging stations (2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-rlstx</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing United States Geological Survey (USGS) realtime streamflow sampling station locations in the United States and territories.  This layer contains geographic and attribute data for 7,055 stations with streamflow measurements recorded for a single date between July 7, 2003 and August 4, 2003.  Attribute data also includes a URL for each station that provides a direct link to the most recent streamflow data available from the USGS water resources Web site.  Historical data is also available from the USGS water resources Web site.  The datalayer was published as part of the USGS Global GIS : global coverage database. 
+
+Sampling stations are equipped with telemetry to transmit data on streamflow, temperature, and other parameters back to a database for real-time viewing via the World Wide Web. A map of the realtime stations is produced every day and is available from the USGS Web site: http://waterdata.usgs.gov/nwis/.</abstract>
+      <purpose>This map layer was created to show the locations of the stream gage sampling network. The locations are used to enable links to station Web pages that provide the latest observational data using an internet map server. 
+
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political analysis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20030707</begdate>
+          <enddate>20030804</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>No longer updated</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-164.171051</westbc>
+        <eastbc>-64.779717</eastbc>
+        <northbc>70.281105</northbc>
+        <southbc>17.729393</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Streamflow</themekey>
+        <themekey>Stream measurement</themekey>
+        <themekey>Hydrology</themekey>
+        <themekey>Rivers</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity, the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntorgp>
+        <cntpos>Water Webserver Team</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>12201 Sunrise Valley Drive, MS 439</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>800-426-9000</cntvoice>
+        <cntemail>h2oteam@usgs.gov</cntemail>
+        <cntinst>Please use email.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <logic>All locations are points.</logic>
+    <complete>This coverage includes only those stations with data actually being served on the WWW at the time of compilation. Some stations -- and sometimes whole states -- may be excluded because of temporary webserver or network problems. In addition, a station with data may not be shown on the map if its name and location are not yet in the master list.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Latitudes and  Longitude are specified to the nearest second. The position is determined from 1:24,000-scale maps, where available, but other lower scale (i.e. less resolution) maps may be used also.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>USGS realtime streamgaging stations.</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>http://waterdata.usgs.gov/nwis/current/?type=flow</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS realtime streamgaging stations</srccitea>
+        <srccontr>Original database</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles. The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041103</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>7055</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Realtime Streamgaging Stations</enttypl>
+        <enttypd>Points representing realtime streamgaging stations</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>MARC.GLB_RLSTX.AREA</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Area is always zero for point coverages. Values are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature in internal units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Perimeter is always zero for point coverages. Values are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REALSTX_</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>7055</rdommax>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REALSTX_ID</attrlabl>
+        <attrdef>Internal ID number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10</rdommin>
+            <rdommax>7063</rdommax>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STAID</attrlabl>
+        <attrdef>USGS station identification number of flow station.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>USGS-generated unique station number</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STANAME</attrlabl>
+        <attrdef>Station name.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>USGS station name.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST</attrlabl>
+        <attrdef>Two-digit FIPS State Numeric Code.</attrdef>
+        <attrdefs>FIPS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas. (FIPS Pub 5-2)</codesetn>
+            <codesets>Federal Information Processing Standards Publications</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC</attrlabl>
+        <attrdef>Hydrologic Unit Code of the station. The United States is divided and sub-divided into successively smaller hydrologic units which are classified into four levels: regions, sub-regions, accounting units, and cataloging units. The hydrologic units are arranged within each other, from the smallest (cataloging units) to the largest (regions). Each hydrologic unit is identified by a unique hydrologic unit code (HUC) consisting of two to eight digits based on the four levels of classification in the hydrologic unit system.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Boundary Descriptions and Names of Regions, Subregions, Accounting Units and Cataloging Units. (USGS Water-Supply Paper 2294).</codesetn>
+            <codesets>USGS</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>Indicator of streamflow condition.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Not valid (internal use)</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>New minimum</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>&gt;= old minimum and &lt;= 5th percentile</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>&gt;5th percental and &lt;= 10th percentile</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>&gt;10th percentile and &lt;=25th percentile</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>&gt;25th percentile and &lt;= 75th percentile</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>&gt; 75th percentile and &lt;= 90th percentile</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>&gt; 90th percentile and &lt; old maximum</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>New maximum</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FLOW</attrlabl>
+        <attrdef>Streamflow in cubic feet per second.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-355000</rdommin>
+            <rdommax>429000</rdommax>
+            <attrunit>Cubic Feet Per Second</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TIME</attrlabl>
+        <attrdef>Date/time of streamflow measurement. (YYYY-MM-DD TT:TT:TT).</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Boundary Descriptions and Names of Regions, Subregions, Accounting Units and Cataloging Units. (USGS Water-Supply Paper 2294).</codesetn>
+            <codesets>USGS</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LATDD</attrlabl>
+        <attrdef>Latitude of station location in decimal degrees. (Old Daturm).</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>17.7314</rdommin>
+            <rdommax>70.281403</rdommax>
+            <attrunit>Decimal Degrees (Latitude)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONDD</attrlabl>
+        <attrdef>Longitude of station location in decimal degrees. (New Datum).</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-164.167999</rdommin>
+            <rdommax>-64.780098</rdommax>
+            <attrunit>Decimal Degrees (Longitude)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>URL</attrlabl>
+        <attrdef>Uniform Resource Location for station data</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>URL for individual station data</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WORKA</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>Unknown</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>n/a</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>n/a</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATUMOLD</attrlabl>
+        <attrdef>Datum of Old Coordinates</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NAD27</edomv>
+            <edomvd>North American Datum 1927</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>NAD83</edomv>
+            <edomvd>North American Datum 1983</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUNT_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>Unknown</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>n/a</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONDDNEW</attrlabl>
+        <attrdef>Longitude of station location in decimal degrees. (New Datum)</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-164.171</rdommin>
+            <rdommax>-64.7797</rdommax>
+            <attrunit>Decimal Degrees (Longitude)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LATDDNEW</attrlabl>
+        <attrdef>Latitude of station location in decimal degrees. (New Datum)</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>17.7294</rdommin>
+            <rdommax>70.2811</rdommax>
+            <attrunit>Decimal Degrees (Latitude)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATUMNEW</attrlabl>
+        <attrdef>Datum of New Coordinates</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NAD83</edomv>
+            <edomvd>North American Datum 1983</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_RLSTX.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Each USGS station contains a unique identification number up to 18-digits long. The URL represents the most recent known location for accessing the real-time data for the station.</eaover>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060315</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

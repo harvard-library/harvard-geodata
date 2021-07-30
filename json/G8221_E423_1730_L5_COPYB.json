@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8221-e423-1730-l5-copyb",
+  "dc_title_s": "North Africa & Mediterranean Sea Region, 1730-1742 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: In notitiam ecclesiasticam Africae tabula geographica, auctore G. de l'Isle, Geographo. It was published by Apud I. Covens & C. Mortier, between 1730 and 1742. Scale [ca. 1:5,700,000]. Covers North Africa and a portion of the Mediterranean coast of Europe. Map in Latin.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Sinusoidal projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads and routes, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes text.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8221_E423_1730_L5_COPYB.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8221_E423_1730_L5_COPYB",
+  "layer_slug_s": "harvard-g8221-e423-1730-l5-copyb",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-01-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "L'Isle, Guillaume de, 1675-1726.",
+    "Covens et Mortier."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Albania",
+    "Algeria",
+    "Croatia",
+    "France",
+    "Gibraltar",
+    "Italy",
+    "Libya",
+    "Malta",
+    "Mediterranean Sea",
+    "Monaco",
+    "Montenegro",
+    "Morocco",
+    "Portugal",
+    "Spain",
+    "Tunisia",
+    "Africa, North"
+  ],
+  "dct_issued_s": "2012-02",
+  "dct_temporal_sm": [
+    "1730-1742"
+  ],
+  "solr_geom": "ENVELOPE(-25.366221, 29.016071, 48.646403, 21.76437)",
+  "solr_year_i": 1730,
+  "harvard_collectionID_sm": [
+    "990126694990203941"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3764-m76-1980-g8",
+  "dc_title_s": "Milford, Massachusetts, ca. 1980 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Town of Milford, Mass., by Guerriere & Halnon, Inc. It was published by Guerriere & Halnon ca. 1980. Scale ca. 1:20,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Includes also street index, public lands and buildings, and blue-line print. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3764_M76_1980_G8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3764_M76_1980_G8",
+  "layer_slug_s": "harvard-g3764-m76-1980-g8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-12-05T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Guerriere & Halnon."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "society"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Milford"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "solr_geom": "ENVELOPE(-71.599302, -71.469241, 42.193034, 42.120697)",
+  "solr_year_i": 1980,
+  "harvard_collectionID_sm": [
+    "12533948"
+  ]
+}

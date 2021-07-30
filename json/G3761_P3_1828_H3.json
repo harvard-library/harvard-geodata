@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3761-p3-1828-h3",
+  "dc_title_s": "Boston and Providence Railroad, Massachusetts & Rhode Island, 1828 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan of a survey for the proposed Boston and Providence Rail-Way. It was published by Annin & Smith in 1828. Scale [ca. 1:64,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the North American Datum 1983, Universal Transverse Mercator (UTM) Zone 19N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, 2 proposed railroad routes between Boston and Providence, roads, selected buildings and names of property owners, shoreline features, and more. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3761_P3_1828_H3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3761_P3_1828_H3",
+  "layer_slug_s": "harvard-g3761-p3-1828-h3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-02-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Hayward, James, 1786-1866.",
+    "Annin & Smith."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Railroads",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Rhode Island"
+  ],
+  "dct_issued_s": "2012-11",
+  "dct_temporal_sm": [
+    "1828"
+  ],
+  "solr_geom": "ENVELOPE(-71.542506, -70.943803, 42.41989, 41.768046)",
+  "solr_year_i": 1828,
+  "harvard_collectionID_sm": [
+    "990078463550203941"
+  ]
+}

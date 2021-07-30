@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3454-q4-1694-l6",
+  "dc_title_s": "Quebec, Canada, 1694 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Quebec : ville de l'Amerique septentrionale dans la Nouvelle France avec titre d' eveche situee sur le fleuve de St. Laurent a 310 degz 17 minutes de longitudes et 46 degr. 55 minutes de latitudes : elle fut assiegee par les Anglois sur les Francois par qui elle est encore possedee l'an 1670 depuis le 16.e Octobre jusqu'a 22 du meme mois, monsr. de Frontenac estant pour lors gouverneur du paijs qui leur fit honteusement lever le siege, H.v. Loon fecit. It was published Chez le Sr. de Fer in 1694. Scale [ca. 1:23,000]. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) Zone 19N NAD 1983 coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, selected buildings with names of landowners, fortification, English ships and lines-of-fire, ground cover, and more. Relief is shown by hachures. Includes index and notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3454_Q4_1694_L6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3454_Q4_1694_L6",
+  "layer_slug_s": "harvard-g3454-q4-1694-l6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-01-23T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Fer, Nicolas de, 1646-1720.",
+    "Loon, H. V. (Herman van)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Fortification",
+    "Real property",
+    "Landowners",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Canada",
+    "Quebec",
+    "Levis"
+  ],
+  "dct_issued_s": "2009-01",
+  "dct_temporal_sm": [
+    "1694"
+  ],
+  "solr_geom": "ENVELOPE(-71.25587, -71.160419, 46.886855, 46.789286)",
+  "solr_year_i": 1694,
+  "harvard_collectionID_sm": [
+    "990105767130203941"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-meadrug9201",
+  "dc_title_s": "Massachusetts Substance Abuse Admissions, 1992 - 2001",
+  "dc_description_s": "This datalayer is a polygon coverage for Massachusetts displaying town boundaries and associated tabular data on substance abuse admissions (into licensed rehabilitation centers) per town per year. The date range covered here is from 1992-2001. The data here is derived from MassGIS (Town boundaries) and the BSAS Substance Abuse Treatment Fact Sheets on Statewide Admissions (attribute data). The Bureau of Substance Abuse Services (BSAS) is an agency of the Commonwealth of Massachusetts' Department of Public Health. This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEADRUG9201.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEADRUG9201",
+  "layer_slug_s": "harvard-meadrug9201",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2004-05-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "health",
+    "Substance abuse treatment",
+    "Drug abuse treatment",
+    "Rehabilitation centers"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1992-2001"
+  ],
+  "solr_geom": "ENVELOPE(-73.50824, -69.927802, 42.886818, 41.237962)",
+  "solr_year_i": 1992,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

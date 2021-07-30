@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5833-l3-1703-l3",
+  "dc_title_s": "Le théatre de la guerre dans les Sévennes, avec les montagne et les plaines des environs les grands chemins royaux : dessiné sur les lieux, 1703 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Le théatre de la guerre dans les Sévennes, avec les montagne et les plaines des environs les grands chemins royaux : dessiné sur les lieux. It was published by: chez Henri de la Feuille in 1703. Scale approximately 1:139,000, Echelle de 2 lieues =[6.4 cm]. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 31N (EPSG: 32631) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5833_L3_1703_L3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5833_L3_1703_L3",
+  "layer_slug_s": "harvard-g5833-l3-1703-l3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2019-04-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Lamoignon de Basville, 1648-1724"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Roads",
+    "Early maps",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Languedoc (France)",
+    "Cevennes Mountains Region (France)"
+  ],
+  "dct_issued_s": "2019-04",
+  "dct_temporal_sm": [
+    "1703"
+  ],
+  "solr_geom": "ENVELOPE(3.272505, 4.598083, 44.614585, 43.485364)",
+  "solr_year_i": 1703,
+  "harvard_collectionID_sm": [
+    "990140610620203941"
+  ]
+}

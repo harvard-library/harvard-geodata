@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>United States. Natural Resources Conservation Service</origin>
+        <origin>Massachusetts. Dept. of Food and Agriculture</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Soils (Arcs) (December 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgissoia2</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer contains arcs representing soil survey area boundaries for a portion of the state of Massachusetts (see also Soils (Polygons)).  The soils datalayer has been automated from 1:25,000 published soils surveys as provided on various media by the United States Department of Agriculture (USDA) Natural Resources Conservation Service (NRCS). All soils data released by MassGIS have been "SSURGO-certified ," which means they have been reviewed and approved by the NRCS and meet all standards and requirements for inclusion in the national release of county-level digital soils data. Soil survey areas are roughly based on county boundaries.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.
+
+This data set is not designed for use as a primary regulatory tool in permitting or siting decisions, but may be used as a reference source. This information may be interpreted by organizations, agencies, units of government, or others based on needs; however they are responsible for the appropriate application. Federal, state, or local regulatory bodies are not to assign to the NRCS any authority for the decisions that they will make. The NRCS will not perform any evaluations of these maps for purposes related solely to state or local regulatory programs.</purpose>
+      <supplinf>This datalayer is maintained by DFA. Additional survey areas will be added as they become available</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200012</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.649757</westbc>
+        <eastbc>-69.901839</eastbc>
+        <northbc>42.765259</northbc>
+        <southbc>41.498454</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Soils</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Maps that use NRCS SSURGO data must show the source (NRCS) and date and, space permitting, contain the following notation:  
+
+"This Soil Survey Geographic (SSURGO) data base was produced by the U.S. Department of Agriculture, Natural Resources Conservation Service and cooperating agencies for the Soil Survey of _______ County, (state). The soils were mapped at a scale of ______ with a _______ acre minimum size delineation. Enlargement of these maps to scales greater than that at which they were originally mapped can cause misunderstanding of the detail of mapping. If enlarged, maps do not show the small areas of contrasting soil that could have been shown at a larger scale. The depicted soil boundaries and interpretations derived from them do not eliminate the need of onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, this map and its interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data." 
+
+All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+        <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Maps that use NRCS SSURGO data must show the source (NRCS) and date and, space permitting, contain the following notation:  
+
+"This Soil Survey Geographic (SSURGO) data base was produced by the U.S. Department of Agriculture, Natural Resources Conservation Service and cooperating agencies for the Soil Survey of _______ County, (state). The soils were mapped at a scale of ______ with a _______ acre minimum size delineation. Enlargement of these maps to scales greater than that at which they were originally mapped can cause misunderstanding of the detail of mapping. If enlarged, maps do not show the small areas of contrasting soil that could have been shown at a larger scale. The depicted soil boundaries and interpretations derived from them do not eliminate the need of onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, this map and its interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data." 
+
+All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>United States. Natural Resources Conservation Service</origin>
+        <origin>Massachusetts. Dept. of Food and Agriculture</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Soils (Polygons) (December 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>United States. Natural Resources Conservation Service.</origin>
+        <origin>National Soil Survey Center (U.S.)</origin>
+        <pubdate>1998-Present</pubdate>
+        <title>National soil survey handbook</title>
+        <edition>Rev.</edition>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Washington, D.C.</pubplace>
+          <publish>United States Department of Agriculture, Natural Resources Conservation Service</publish>
+        </pubinfo>
+        <onlink>http://soils.usda.gov/technical/handbook/download.html</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>United States. Dept. of Agriculture. Soil Survey Division.</origin>
+        <pubdate>1993</pubdate>
+        <title>Soil survey manual</title>
+        <geoform>document</geoform>
+        <serinfo>
+          <sername>Agriculture handbook (United States. Dept. of Agriculture)</sername>
+          <issue>no. 18</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>[Washington, D.C.]</pubplace>
+          <publish>U.S. Dept. of Agriculture</publish>
+        </pubinfo>
+        <onlink>http://soils.usda.gov/technical/manual/</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>United States. Division of Soil Survey.</origin>
+        <pubdate>1998-Present</pubdate>
+        <title>National SSURGO database</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Fort Worth, TX</pubplace>
+          <publish>National Cartography and Geospatial Center, USDA, Natural Resources Conservation Service</publish>
+        </pubinfo>
+        <onlink>http://www.ncgc.nrcs.usda.gov/products/datasets/ssurgo/</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown</logic>
+    <complete>This version of dataset is incomplete; covers only portions of Massachusetts.</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Source materials vary by survey area and include scribecoat, clear film positives, and half-tone mylars containing soil lines as well as labels and cultural features. Source sheets to date contained data by "third-quad," a standard NRCS tiling scheme for its published surveys which splits a USGS quadrangle into three sections (north, central and south). Each survey done to date has been based on 1:25,000 orthophoto base maps. Source mylars were scanned at a resolution of 500 dots per inch. The scanned images were registered, rectified, and converted to grids using ARC/INFO. Soils linework was extracted from the grids in the ARC/INFO GRID module and vectorized. MassGIS completed all processing from scanning through vectorization.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Executive Office of Environmental Affairs</address>
+              <address>251 Causeway St, Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-626-1000</cntvoice>
+            <cntfax>617-626-1249</cntfax>
+            <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Map neatline development, line smoothing, labeling, edge matching, and merging of third-quads into full 7.5 minute quads was done by Massachusetts Department of Food and Agriculture staff. Special and ad hoc features such as rock outcrops or stripped land areas that are smaller than the original NRCS minimum mapping units were manually digitized by DFA. These features were captured due to their uniqueness in their surroundings and are represented as point and line data because they are too small to be shown as area features at the scale of mapping. They form a coverage (SPO) separate from the soil area delineation. Mass DFA staff performed all quality checking prior to submittal for SSURGO certification.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Massachusetts Dept. of Agricultural Resources</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>251 Causeway Street</address>
+              <city>Boston</city>
+              <state>Mass.</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(617) 626-1700</cntvoice>
+            <cntfax>(617) 626-1850</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Checkplots were made by DFA and reviewed by NRCS staff at various times during the editing process. NRCS soil scientists edgematched each survey area to all abutting surveys (including those in adjacent states) and these edits were incorporated into the quad coverages. Mylar checkplots were provided to NRCS for compilation of special and ad hoc features that were digitized by DFA staff. Each quad within the survey area was submitted to the NRCS Missouri Digitizing Unit for SSURGO review and these edits were incorporated in the final datalayer.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>USDA, NRCS,</cntorg>
+            </cntorgp>
+            <cntpos>Soil Survey Division</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>14th and Independence Ave., SW.</address>
+              <address>Room 4246-S</address>
+              <city>Washington</city>
+              <state>DC</state>
+              <postal>20250</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>202-720-1820</cntvoice>
+            <cntfax>202-720-4593</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The NRCS Missouri Digitizing Unit reviewed the soil coverages and special and ad hoc features for adherence to Soil Survey Geographic (SSURGO) database standards. Once SSURGO certified by the Missouri Unit, MassGIS added annotation classes to the SOILS coverages.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Missouri Regional Soils Digitizing and Digital Map Finishing Unit</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Natural Resources Conservation Service</address>
+              <address>601 Business Loop 70 West</address>
+              <address>Parkade Center, Suite 250</address>
+              <city>Columbia</city>
+              <state>MO</state>
+              <postal>65203</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>573-876-9428</cntvoice>
+            <cntfax>573-876-0913</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>138523</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000179</absres>
+            <ordres>0.000179</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISSOIA2</enttypl>
+        <enttypd>Soils (Arcs)</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TILE_NAME</attrlabl>
+        <attrdef>Name of the index coverage tile as stored in Librarian eg 105 for quad no. 105</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Source of linework for lines added or edited after scanning during production.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>DIGITI</edomv>
+            <edomvd>digitized on screen or with tablet</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SOIL</edomv>
+            <edomvd>from scan</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TOWNS</edomv>
+            <edomvd>USGS town line used instead of NRCS polygon boundary</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BOUNDARY</attrlabl>
+        <attrdef>Boundary type</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>quad</edomv>
+            <edomvd>USGS Quad tile boundaries</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ss_surv</edomv>
+            <edomvd>Boundaries of the soil survey area</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060726</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

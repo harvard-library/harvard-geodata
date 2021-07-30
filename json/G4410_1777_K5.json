@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4410-1777-k5",
+  "dc_title_s": "Mexico, 1777 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Mexico, or, New Spain : in which the motions of Cortes may be traced / for the Rev. Dr. Robertson's History of America by Thos. Kitchin Senr., hydrographer to his Majesty. It was published by W. Strahan and T. Cadell on Septr. 29, 1777. Scale ca. 1:10,200,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the North American Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as routes, drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also inset: Supplement of the environs of Mexico. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4410_1777_K5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4410_1777_K5",
+  "layer_slug_s": "harvard-g4410-1777-k5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Kitchin, Thomas, -1784.",
+    "Robertson, William, 1721-1793."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Boundaries",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "solr_geom": "ENVELOPE(-141.324996, -74.606043, 47.744277, 3.716749)",
+  "solr_year_i": 1777,
+  "harvard_collectionID_sm": [
+    "12766900"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-measbbn97py",
+  "dc_title_s": "Massachusetts Drainage Sub-Basins",
+  "dc_description_s": "This datalayer is a polygon coverage displaying Major Drainage Sub-Basins throughout Massachusetts. The data here were originally produced by MassGIS. MassGIS produced a statewide digital datalayer of the approximately 2300 sub-basins as defined and used by the USGS Water Resources Division and the Mass Water Resources Commission and as modified by Executive Office of Environmental Affairs (EOEA) agencies. Cape Cod and the Islands do not have much lateral 'surface' drainage because the soils are so porous. The sub-basin line shown for Cape Cod is the approximate groundwater divide between Cape Cod Bay, Vineyard Sound, and the Atlantic Ocean, taken from sub-surface groundwater contours. The state coastline and boundaries are included in the sub-basin coverages and are differentiated by arc attributes. This layer was derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. For more information on the original MassGIS datalayer please consult their website at: http://www.state.ma.us/mgis/subbas.htm",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEASBBN97PY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEASBBN97PY",
+  "layer_slug_s": "harvard-measbbn97py",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2004-05-05T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "environment",
+    "Watersheds",
+    "Hydrography",
+    "Hydrographic features",
+    "Drainage basins"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_geom": "ENVELOPE(-73.53335, -69.898477, 42.88835, 41.230341)",
+  "solr_year_i": 1997,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

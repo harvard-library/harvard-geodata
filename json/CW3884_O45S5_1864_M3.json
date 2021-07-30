@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cw3884-o45s5-1864-m3",
+  "dc_title_s": "Battle of Cold Harbor, Virginia and vicinity, 1864 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the untitled historic paper manuscript map: [Map of the Battle of Cold Harbor, Virginia and vicinity]. Scale not given. Covers a portion of Hanover County, Virginia, showing features in the region surrounding the Cold Harbor Battlefield, Virginia, 1864. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Virginia State Plane South Coordinate System (in Meters) (Fipszone 4502). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, towns and villages, drainage, dwellings with names of inhabitants, troop locations with dates, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps of the Civil War from the Harvard Map Collection. Many items from this selection are from a collection of maps deposited by the Military Order of the Loyal Legion of the United States Commandery of the State of Massachusetts (MOLLUS) in the Harvard Map Collection in 1938. These maps typically portray both natural and manmade features, in particular showing places of military importance. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CW3884_O45S5_1864_M3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:CW3884_O45S5_1864_M3",
+  "layer_slug_s": "harvard-cw3884-o45s5-1864-m3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-04-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Manuscript",
+    "Civil War, 1861-1865",
+    "Cold Harbor, Battle of, Va., 1864",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Landowners",
+    "imageryBaseMapsEarthCover",
+    "intelligenceMilitary"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Hanover County",
+    "Cold Harbor Battlefield"
+  ],
+  "dct_issued_s": "2007-04",
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "solr_geom": "ENVELOPE(-77.50067, -77.177421, 37.717862, 37.530122)",
+  "solr_year_i": 1864,
+  "harvard_collectionID_sm": [
+    "990094200600203941"
+  ]
+}

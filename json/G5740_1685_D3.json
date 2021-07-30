@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5740-1685-d3",
+  "dc_title_s": "Great Britain, ca. 1685 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Novissima et accuratissima totius Angliae, Scotiae et Hiberniae tabula, auctore Theodoris Danckerts. It was published by T. Danckerts, cum Privilegio Holl. et West-Frisiae ca. 1685. Scale [ca. 2,100,000]. Map in Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also prime meridian: Ferro. Ornamental cartouche with coats of arms of England, Scotland and Ireland, with mythological figures. Bar scale in 'Milliaria Anglica communia', Milliaria Gallica communia' and 'Milliaria Germanica Communia'. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5740_1685_D3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5740_1685_D3",
+  "layer_slug_s": "harvard-g5740-1685-d3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-18T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Danckerts, Theodore."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Boundaries",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Europe",
+    "Great Britain",
+    "Ireland",
+    "France",
+    "Netherlands"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1685"
+  ],
+  "solr_geom": "ENVELOPE(-12.380568, 7.212365, 59.363633, 49.267067)",
+  "solr_year_i": 1685,
+  "harvard_collectionID_sm": [
+    "990132254620203941"
+  ]
+}

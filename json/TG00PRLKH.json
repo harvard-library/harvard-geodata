@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg00prlkh",
+  "dc_title_s": "UA Census Hydrographic Features, 2000 - Puerto Rico",
+  "dc_description_s": "This datalayer displays the hydrographic features throughout the state. This category includes shorelines of all water regardless of the classification of the water itself. Predominant features which may be represented in this layer have Census Feature Class Code Major and Minor Descriptor (CFCC2 ) values of: H0 (Water feature, classification unknown or not elsewhere classified) H1 (Naturally Flowing Water Features: streams, rivers) H2 (Man-Made Channel to Transport Water or features used for purposes such as transportation, irrigation, or navigation: canals, ditches, or aqueducts) H3 (Inland Body of Water: lake or pond) H4 (Man-Made Body of Water: reservoir) H5 (Seaward Body of Water: Bay, estuary, gulf, sound, sea, or ocean) H6 (Body of Water in a Man-Made Excavation: flooded gravel pit) H7 (Nonvisible Definition Between Water Bodies. The Census Bureau digitizes nonvisible definition boundaries to separate named water areas; for instance, an artificial boundary is drawn to separate a named river from the connecting bay) H8 (Special Water Feature: Includes area covered by glaciers or snow fields) The Feature Name attribute further identifies water bodies as rivers, reservoirs, creeks, branches, forks, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG00PRLKH.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG00PRLKH",
+  "layer_slug_s": "harvard-tg00prlkh",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2003-07-18T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWaters",
+    "Census",
+    "Hydrography",
+    "Hydrology",
+    "Rivers",
+    "Reservoirs",
+    "Shorelines",
+    "Water",
+    "Hydrographic features"
+  ],
+  "dct_spatial_sm": [
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, UA Census 2000"
+  ],
+  "solr_geom": "ENVELOPE(-67.9986910004271, -65.180435, 18.5680000007776, 17.8315089992224)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990087417150203941"
+  ]
+}

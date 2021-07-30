@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8230-1642-o7",
+  "dc_title_s": "Morocco, ca. 1642 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Fezzae et Marocchi regna Africae celeberrima, describebat Abrah. Ortelius. It was published by Willem Blaeu ca. 1642. Scale [ca. 1:2,300,000]. Covers Morocco and a portion of Algeria, Portugal, and Spain. Map in Latin.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Sinusoidal projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads and routes, territorial boundaries, shoreline features, and more. Relief shown pictorially.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8230_1642_O7.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8230_1642_O7",
+  "layer_slug_s": "harvard-g8230-1642-o7",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-01-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Ortelius, Abraham, 1527-1598.",
+    "Blaeu, Willem Janszoon, 1571-1638."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Gibraltar",
+    "Morocco",
+    "Portugal",
+    "Spain"
+  ],
+  "dct_issued_s": "2012-02",
+  "dct_temporal_sm": [
+    "1642"
+  ],
+  "solr_geom": "ENVELOPE(-15.855864, 0.934462, 38.820868, 26.832732)",
+  "solr_year_i": 1642,
+  "harvard_collectionID_sm": [
+    "990126700610203941"
+  ]
+}

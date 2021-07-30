@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5753-g6-1646-j3",
+  "dc_title_s": "Gloucester, England, 1646 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Glocestria Ducatus, cum Monumethensi Comitatu = Glocestershire and Monmouthshire. It was published after Ioannem Ianssonium in 1646. Scale not given. Title in Latin, place names and annotations in English, text on verso in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief, woodland, and estates shown pictorially. Includes also coat of arms of the Gloucester family. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5753_G6_1646_J3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5753_G6_1646_J3",
+  "layer_slug_s": "harvard-g5753-g6-1646-j3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-27T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Jansson, Jan, 1588-1664.",
+    "Jansson, Jan, 1588-1664."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Boundaries",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Forests and forestry",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "England",
+    "Gloucester"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1646"
+  ],
+  "solr_geom": "ENVELOPE(-4.009247, -1.050749, 52.598129, 51.14846)",
+  "solr_year_i": 1646,
+  "harvard_collectionID_sm": [
+    "12804243"
+  ]
+}

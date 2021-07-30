@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>EROS Data Center</origin>
+        <origin>Geological Survey (U.S)</origin>
+        <origin>American Geological Institute</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Drainage Basins</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-hydbas</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage representing hydrologic drainage basins located worldwide. The data displayed here is derived from the HYDRO 1K Elevation Derivative Database. The drainage basins distributed with the HYDRO1k data set suite are derived using the vector stream networks along with the flow direction data set. Each polygon in the basin data set has been tagged with a Pfafstetter code uniquely identifying each sub-basin.
+
+HYDRO1k, developed at the U.S. Geological Survey's (USGS) EROS Data Center, is a geographic database providing comprehensive and consistent global coverage of topographically derived data sets. Developed from the USGS' recently released 30 arc-second digital elevation model (DEM) of the world (GTOPO30), HYDRO1k provides a standard suite of geo-referenced data sets (at a resolution of 1 km) that will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale.</abstract>
+      <purpose>The Hydro1k Drainage Basins are a general purpose global database designed to support Geographic Information Systems applications. 
+
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political analysis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2003</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.999347</westbc>
+        <eastbc>179.999000</eastbc>
+        <northbc>83.217361</northbc>
+        <southbc>-59.484882</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Hydrology</themekey>
+        <themekey>Watersheds</themekey>
+        <themekey>Drainage</themekey>
+        <themekey>Altitudes</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>elevation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity, the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>EROS Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Customer Services</address>
+          <address>47914 252nd Street</address>
+          <address>U.S. Geological Survey</address>
+          <address>Earth Resources Observation &amp; Science (EROS)</address>
+          <address>47914 252nd Street</address>
+          <city>Sioux Falls</city>
+          <state>SD</state>
+          <postal>57198-0001</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>800-252-4547</cntvoice>
+        <cntvoice>605-594-6151</cntvoice>
+        <cnttdd>605-594-6933</cnttdd>
+        <cntfax>605-594-6589</cntfax>
+        <cntemail>custserv@usgs.gov</cntemail>
+        <hours>Monday thru Friday, 8:00 a.m. to 4:00 p.m., central time -USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Acknowledgement: Data available from USGS/EROS, Sioux Falls, SD.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The drainage basins distributed with the HYDRO1k data set are derived using the vector streamlines along with the flow direction layer. The basins are seeded following procedures first articulated by Otto Pfafstetter, a Brazilian engineer, and adapted for use in the HYDRO1k data set (Verdin, 1997). Each polygon in the basin data set has been tagged with a Pfafstetter code uniquely identifying each sub-basin. The six-digit Pfafstetter code assigned to each basin carries basin linkage information. This permits determination of basin interconnectedness through simple examination of the Pfafstetter code.
+
+Please refer to the following (available in part via the USGS EROS websites) for more information on the Pfafstetter coding scheme:
+
+Pfafstetter, O., 1989, "Classification of hydrographic basins: coding methodology", unpublished manuscript, DNOS, August 18, 1989, Rio de Janeiro; translated by J.P. Verdin, U.S. Bureau of Reclamation, Brasilia, Brazil, September 5, 1991. 
+
+Verdin, K., and S. Jenson, 1996, "Development of continental scale DEMs and extraction of hydrographic features", proceedings of the Third Conference on GIS and Environmental Modeling, Santa Fe, New Mexico, NCGIA.</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa/>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>EROS Data Center</origin>
+            <pubdate>Unknown</pubdate>
+            <title>HYDRO1k elevation derivative database</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Sioux Falls, South Dakota</pubplace>
+              <publish>LP DAAC</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>HYDRO1K</srccitea>
+        <srccontr>Source of derived data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>EROS Data Center</origin>
+            <pubdate>1996</pubdate>
+            <title>GTOPO30</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Sioux Falls, South Dakota</pubplace>
+              <publish>USGS EROS Data Center</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GTOPO30</srccitea>
+        <srccontr>Source of source data (Hydro 1k)</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The HYDRO1k data sets are the result of the cooperative project at the U.S. Geological Survey's (U.S.G.S.) EROS Data Center. The goal of the project is the development of a globally consistent hydrologic derivative data set. The effort has been led by U.S.G.S. scientists in collaboration with the United Nations Environment Programme/Global Resource Information Database (UNEP/GRID) located in Sioux Falls, South Dakota. 
+
+Development of the HYDRO1k database was made possible by the completion of the 30 arc-second digital elevation model at the EROS Data Center in 1996, entitled GTOPO30. This data set, with its nominal cell size of 1 km, has been and will continue to be applied by many scientists and researchers to hydrologic and land form studies. Inevitably, these studies require development, at a minimum, of a standard suite of derivative products. In the past, users would obtain the DEM data, process the data, extract the derivative information, use the derived products in their studies and, perhaps, share the derived information with others. In an attempt to reduce repetition of these procedures by every user of the data set, the HYDRO1k data base aims to provide these standard products, developed in a consistent fashion for the entire globe and make them available for the entire user community. 
+
+The basis of all of the data layers available in the HYDRO1k database is the hydrologically correct DEM. This DEM is, of course, based on the GTOPO30 data set. However, to ensure that the DEM is able to reproduce the correct movement of water across its surface, the DEM is processed to remove elevation anomalies that can interfere with hydrologically correct flow. The procedures followed in development of this DEM are iterative.</procdesc>
+        <procdate>Unknown</procdate>
+        <srcprod>Global GIS Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>EROS Data Center</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Customer Services</address>
+              <address>U.S. Geological Survey</address>
+              <address>47914 252nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198-0001</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>800-252-4547</cntvoice>
+            <cntvoice>605-594-6151</cntvoice>
+            <cnttdd>605-594-6933</cnttdd>
+            <cntfax>605-594-6589</cntfax>
+            <cntemail>custserv@usgs.gov</cntemail>
+            <hours>Monday thru Friday, 8:00 a.m. to 4:00 p.m., central time -USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a CD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data</srcused>
+        <procdate>20041103</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>55853</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Hydrologic Drainage Basins</enttypl>
+        <enttypd>Polygons describe drainage basins</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>LEVEL1</attrlabl>
+        <attrdef>Pfafstetter units of each polygon at the Level 1 Basin category. A System for Topologically Coding Global Drainage Basins and Stream Networks.</attrdef>
+        <attrdefs>USGS/Verdin (1997)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEVEL2</attrlabl>
+        <attrdef>Pfafstetter units of each polygon at the Level 2 Sub-basin category. A System for Topologically Coding Global Drainage Basins and Stream Networks.</attrdef>
+        <attrdefs>USGS/Verdin (1997)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEVEL3</attrlabl>
+        <attrdef>Pfafstetter units of each polygon at the Level 3 Sub-basin category. A System for Topologically Coding Global Drainage Basins and Stream Networks</attrdef>
+        <attrdefs>USGS/Verdin (1997)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEVEL4</attrlabl>
+        <attrdef>Pfafstetter units of each polygon at the Level 4 Sub-basin category. A System for Topologically Coding Global Drainage Basins and Stream Networks</attrdef>
+        <attrdefs>USGS/Verdin (1997)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEVEL5</attrlabl>
+        <attrdef>Pfafstetter units of each polygon at the Level 5 Sub-basin category. A System for Topologically Coding Global Drainage Basins and Stream Networks</attrdef>
+        <attrdefs>USGS/Verdin (1997)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEVEL6</attrlabl>
+        <attrdef>Pfafstetter units of each polygon at the Level 6 Sub-basin category. A System for Topologically Coding Global Drainage Basins and Stream Networks</attrdef>
+        <attrdefs>USGS/Verdin (1997)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEM_MEAN</attrlabl>
+        <attrdef>Mean elevation value within the subbasin</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-130.8667</rdommin>
+            <rdommax>5474.2222</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEM_STDEV</attrlabl>
+        <attrdef>Standard deviation of the elevations within the subbasin in meters</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1</rdommin>
+            <rdommax>1950.243</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLOPE_MEAN</attrlabl>
+        <attrdef>Mean value of the slopes within the subbasin (degree)</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1</rdommin>
+            <rdommax>19.1389</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLOPE_STDE</attrlabl>
+        <attrdef>Standard deviation of the slopes within the subbasin (degree)</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1</rdommin>
+            <rdommax>13.9116</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ASPECT_MEA</attrlabl>
+        <attrdef>Mean value of the aspects within the subbasin (degree from N)</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1</rdommin>
+            <rdommax>341.5651</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ASPECT_STD</attrlabl>
+        <attrdef>Standard deviation of the aspects within the subbasin (degree from N)</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1</rdommin>
+            <rdommax>168.7602</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CTI_MEAN</attrlabl>
+        <attrdef>Mean Value of the Compound Topographic Index. The CTI is calculated using the flow accumulation (FA) layer along with the slope as: CTI = ln ( FA / tan (slope)</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrvai>
+          <attrvae>CTI commonly referred to as the Wetness Index, is a function of the upstream contributing area and the slope of the landscape. In areas of no slope, a CTI value is obtained by substituting a slope of 0.001. This value is smaller than the smallest slope obtainable from a 1000 m data set with a 1 m vertical resolution.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>CTI_STDEV</attrlabl>
+        <attrdef>Standard deviation of the Compound Topographic Index. The CTI is calculated using the flow accumulation (FA) layer along with the slope as: CTI = ln ( FA / tan (slope)</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrvai>
+          <attrvae>CTI commonly referred to as the Wetness Index, is a function of the upstream contributing area and the slope of the landscape. In areas of no slope, a CTI value is obtained by substituting a slope of 0.001. This value is smaller than the smallest slope obtainable from a 1000 m data set with a 1 m vertical resolution.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>TIM.GLB_HYDBAS.AREA</attrlabl>
+        <attrdef>Feature area in meters squared.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>43490.065</rdommin>
+            <rdommax>7608541524688.85</rdommax>
+            <attrunit>meters squared</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature perimeter in meters</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7365236.389</rdommin>
+            <rdommax>31216632.391</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area in units squared</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length of feature in internal units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060117</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Acknowledgement of the Harvard Geospatial Library, Harvard University would be appreciated in future use or publication of this metadata record.</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

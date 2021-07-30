@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8301-c3-1855-l5",
+  "dc_title_s": "Nile River Delta Region, Egypt, 1855 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte hydrographique de la Basse Egypte et d'une partie de l'Isthme de Suez ou sont indiques les travaux executes ou a executer, d'apres les ordres de Son Altesse Mehemet-Ali, Vice-Roi d'Egypte. Avec le projet de communication directe des deux mers au travers de l'Isthme, par M. Linant de Bellefonds ; gravee par Schwaerzle. It was published by Depot General de la Guerre de France in 1855. Scale 1:250,000. Covers the Nile River Delta region, Egypt. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Egypt Red Belt projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, canals, roads, railroads, cities and other human settlements, fortification, administrative boundaries, shoreline features, ruins and historical sites, and more. Relief shown by hachures. Includes also text, Profile de l'Isthme de Suez, and notes.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8301_C3_1855_L5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8301_C3_1855_L5",
+  "layer_slug_s": "harvard-g8301-c3-1855-l5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-01-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Linant de Bellefonds, L.-M.-A. (Louis Maurice Adolphe), 1799-1883.",
+    "Schwaerzle, J.",
+    "Depot de la guerre (France)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile River",
+    "Nile Delta",
+    "Cairo"
+  ],
+  "dct_issued_s": "2012-01",
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "solr_geom": "ENVELOPE(29.287184, 33.174155, 31.889727, 29.806834)",
+  "solr_year_i": 1855,
+  "harvard_collectionID_sm": [
+    "990126754980203941"
+  ]
+}

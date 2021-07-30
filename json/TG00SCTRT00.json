@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg00sctrt00",
+  "dc_title_s": "UA Census Tracts, 2000 - South Carolina",
+  "dc_description_s": "This datalayer displays Census Tracts for the state, based on boundaries established on January 1, 2000. Census tracts are small, relatively permanent statistical subdivisions of a county (or statistical equivalent of a county), and are defined by local participants as part of the U.S. Census Bureau's Participant Statistical Areas Program. The U.S. Census Bureau delineated the census tracts in situations where no local participant existed or where local or tribal governments declined to participate. The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of decennial census data. Census 2000 is the first decennial census for which the entire United States has census tracts. In 1990 some counties had census tracts and others had block numbering areas (BNAs). In preparation for Census 2000, all BNAs were replaced by census tracts. Block groups and census blocks are uniquely numbered within census tract (except for Census 2000 collection blocks which were uniquely numbered within county). Census tracts generally have a population size between 1,500 and 8,000 people, with an optimum size of 4,000 people. When first delineated, census tracts are designed to be homogeneous with respect to population characteristics, economic status, and living conditions. The spatial size of census tracts varies widely depending on the density of settlement. Census tract boundaries are delineated with the intention of being maintained over a long time so that statistical comparisons can be made from census to census. However, physical changes in street patterns caused by highway construction, new development, and so forth, may require boundary revisions. In addition, census tracts occasionally are split due to population growth, or combined as a result of substantial population decline. Boundaries and Boundary Changes Census tract boundaries generally follow visible and identifiable features. Census tract boundaries may follow legal boundaries, such as minor civil division (MCD) or incorporated place boundaries, in some states and situations to allow for census tract-to-governmental unit relationships where the governmental boundaries tend to remain unchanged between censuses. State and county boundaries are al-ways census tract boundaries in the standard census geographic hierarchy. Under the Census 2000 American Indian/Alaska Native area/Hawaiian home land census geographic hierarchy, tribal census tracts are defined within American Indian entities and can cross state and county boundaries. In a few rare instances, a census tract may consist of discontiguous areas. These discontiguous areas may occur where the census tracts are coextensive with all or parts of legal entities that are themselves discontiguous. Census Tracts in American Indian Areas The U.S. Census Bureau has reserved the census tract numbering range of 9400 to 9499 for use by American Indian area participants in situations where an American Indian entity crosses county or state boundaries. Under the Census 2000 American Indian/Alaska Native area/Hawaiian home land census geographic hierarchy, the U.S. Census Bureau will tabulate census tract data within federally recognized American Indian reservations and off-reservation trust lands ignoring state and county boundaries. These are commonly referred to as tribal census tracts.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG00SCTRT00.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG00SCTRT00",
+  "layer_slug_s": "harvard-tg00sctrt00",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2003-07-22T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Census districts",
+    "Administrative divisions",
+    "Boundaries",
+    "Tracts"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, UA Census 2000"
+  ],
+  "solr_geom": "ENVELOPE(-83.353019, -78.5410869987413, 35.21554, 32.037444)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990087417150203941"
+  ]
+}

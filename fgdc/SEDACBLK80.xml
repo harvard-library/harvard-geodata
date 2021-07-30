@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>SEDAC/CIESIN</origin>
+        <pubdate>19920101</pubdate>
+        <title>SEDAC 1980 Census Blocks</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-sedacblk80</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains the census blocks from the United States Decennial Census of 1980.  The data were derived from the TigerLine 1992 release.  In 1980, the entire country had not had blocks defined, therefore, the polygons in this layer are not contiguous.  The shapes can be used for demographic analysis.</abstract>
+      <purpose>To support the  Population, Land Use, and Emissions (PLUE) Data Project at CIESIN.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19800101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-164.397950</westbc>
+        <eastbc>-68.631800</eastbc>
+        <northbc>67.000000</northbc>
+        <southbc>21.258086</southbc>
+      </bounding>
+      <dsgpoly>
+        <dsgpolyx>
+          <grngpoin>
+            <gringlon>I</gringlon>
+          </grngpoin>
+        </dsgpolyx>
+      </dsgpoly>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Census</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For non-commercial uses only</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntpos>Digital Cartography Specialist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Pusey Library</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntemail>maps@harvard.edu</cntemail>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>M-F 10:00 - 16:00 EST</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Please credit :
+Center for International Earth Science Information Network (CIESIN). 1996. Archive of Census Related Products (ACRP): 1980 Census Blocks. Saginaw, MI: CIESIN.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.2.2.1350</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <complete>The dataset is complete for the conditions in 1980.  The entire country did not have blocks defined, therefore the polygons are discontiguous</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Dataset was visually inspected for accuracy</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Dataset contains no vertical values</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Bureau of the Census.</origin>
+            <pubdate>1993</pubdate>
+            <title>TIGER/line 1992</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>U.S. Dept. of Commerce, Bureau of the Census, Data User Services Division</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19900101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>TIGER 1992</srccitea>
+        <srccontr>Data was derived from boundaries in the Tiger 1992 publication</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>SEDAC/CIESIN</origin>
+            <pubdate>19960101</pubdate>
+            <title>SEDAC Census 1980 Blocks</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Palisades, New York</pubplace>
+              <publish>Center for International Earth Science Information Network (CIESIN)</publish>
+            </pubinfo>
+            <onlink>http://sedac.ciesin.org/plue/cenguide.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>disc</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19800101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>SEDAC Census 1980 Blocks</srccitea>
+        <srccontr>Data was processed from SEDAC BNA format to ESRI shape file format to produce the distributed layer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The geographic entities were extracted from the TIGER/Line Files, 1992.</procdesc>
+        <srcused>Tiger 1992</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>SEDAC 1980 Census Blocks</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>SEDAC/CIESIN</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Columbia University/Lamont-Doherty Earth Observatory</address>
+              <address>PO Box 1000, 61 Route 9W</address>
+              <city>Palisades</city>
+              <state>NY</state>
+              <postal>10964</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(845)365-8988</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>State blocks in BNA format were downloaded from CIESIN's ftp server. For each state, the B6 file (see
+ftp://ftp.ciesin.columbia.edu/pub/census/usa/tiger/ca/bna_st/readme) was downloaded. AtlasGIS was
+used to import the BNA file, which was then exported back out as an ESRI format shapefile. As
+mentioned, these steps were used for all but CA and WA - for these two states the BNA file would not
+import, so the county blocks were downloaded instead. These were processed individually before
+being merged into a composite, state-wide shapefile.
+
+The individual state files were appended together in SDE to form a single seamless layer for the United States.   This was done using the "append" tool from ArcToolbox v.9.2</procdesc>
+        <srcused>SEDAC Census 1980 Blocks</srcused>
+        <procdate>20070915</procdate>
+        <srcprod>HGL 1980 Census Block Boundaries</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>Digital Cartography Specialist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>2014267</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>sedacblk80</enttypl>
+        <enttypd>SEDAC 1980 Census Blocks</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Feature identification code</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>First 5 digits represent FIPS state/county code followed by unique code for census block polygon.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>NAME2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20071010</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Pusey Library</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntemail>maps@harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

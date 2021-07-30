@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3700-1839-c4-sh3",
+  "dc_title_s": "United States, 1839 (Image 3 of 5) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chapin's ornamental map of the United States : with plans of the world, British Possessions, West Indies, & Colombia geographical part engraved by J. B. Taylor & H.F. Wheeler. It was published by W. Chapin & J.B. Taylor in 1839. Scale [ca. 1:158,000,000]. This layer is image 3 of 5 total images of the 6 sheet source map, representing the north-central portion of the map.The image inside the map neatline is georeferenced to the surface of the earth and fit to the North American Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, railroads, cities and other human settlements, administrative and territorial boundaries, fortification, shoreline features, and more. Relief shown by hachures. Includes also insets, portrait engravings (with text), and border scenes.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3700_1839_C4_SH3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3700_1839_C4_SH3",
+  "layer_slug_s": "harvard-g3700-1839-c4-sh3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Chapin, William, 1802-1888.",
+    "Wheeler, H. F., engraver.",
+    "Taylor, J. B., engraver.",
+    "Neale, Wm.",
+    "Dick, Archibald L., approximately 1805-approximately 1855.",
+    "Prud'homme, John Francis Eugene, 1800-1892.",
+    "Osborne, engraver.",
+    "Smith, W. D., engraver."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "solr_geom": "ENVELOPE(-90.985876, -70.295764, 51.812958, 36.101914)",
+  "solr_year_i": 1839,
+  "harvard_collectionID_sm": [
+    "990100900640203941"
+  ]
+}

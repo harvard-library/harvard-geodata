@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7824-b4-1812-j4-1843",
+  "dc_title_s": "Beijing, China, 1843 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chinese plan of the city of Peking, T.B. Jervis; the chinese characters and explanations rendered into English were furnished by Mr. Samuel Birch, from a comparison of the above documents and the notes appended to the original by the students in the Missionary College at Naples. It was published by lithographed and printed under the direction of T.B. Jervis Scale [ca. 1:50,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM Zone 50N, meters, WGS 1984) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, parks, cemeteries, ground cover, city districts, fortification, missions, temples, and more. Relief shown pictorially. Includes also dedication: 'To Her Most Gracious Majesty the Queen. This fac-simile of a Chinese plan of the Tartar, or inner city, Nuyching, and the Imperial Palace Kingtoo of Peking or Chun Thein Foo. The northern residence of the court, or capital of the Chinese Empire is most respectfully inscribed, with Her Majesty's faithful servant T. B. Jervis.'This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7824_B4_1812_J4_1843.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7824_B4_1812_J4_1843",
+  "layer_slug_s": "harvard-g7824-b4-1812-j4-1843",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-10-11T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Jervis, T. B. (Thomas Best), 1796-1857.",
+    "Iakin, Monk, 1777-1853.",
+    "Birch, Samuel, 1813-1885.",
+    "Parish, Woodbine, Sir, 1796-1882, donor.",
+    "Pingré, Alexandre Guy, 1711-1796.",
+    "L'Isle, Joseph Nicolas de, 1688-1768.",
+    "Gützlaff, Karl Friedrich August, 1803-1851, donor."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Missions",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Beijing"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "solr_geom": "ENVELOPE(116.342263, 116.437193, 39.950969, 39.899938)",
+  "solr_year_i": 1843,
+  "harvard_collectionID_sm": [
+    "990109754410203941"
+  ]
+}

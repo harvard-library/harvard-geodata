@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Natural Heritage &amp; Endangered Species Program</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Priority Natural Vegetation Communities : Acidic Peatland Community Systems (April 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisvcpeatp</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer contains polygons representing Massachusetts Priority Natural Vegetation Communities : Acidic Peatland Community Systems.  The data covers only a portion of eastern Massachusetts.
+
+Acidic Peatland Systems include evergreen forest and shrub bogs, Atlantic White Cedar (AWC) swamps and bogs, and shrub and graminoid fens. 
+
+This layer is part of the MassGIS Priority Natural Vegetation Communities dataset, which depicts the distribution of the eight natural community systems identified by the Massachusetts Natural Heritage and Endangered Species Program (NHESP) as most critical to the conservation of the Commonwealth's biological diversity (Barbour et al., 1998).</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.
+
+This mapping is intended for planning purposes only, as a guide to potentially valuable natural sites to be protected. All sites should be field checked before any action is taken on them. Aerial photo-interpretation can identify vegetation, but cannot assess the quality of a site for biodiversity, or the actual presence of rare plants and animals.</purpose>
+      <supplinf>MassGIS is maintaining this layer.  Development of this information in other regions of the state is continuing.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200304</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.364161</westbc>
+        <eastbc>-70.516230</eastbc>
+        <northbc>42.859412</northbc>
+        <southbc>41.535629</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Peatlands</themekey>
+        <themekey>Plant communities</themekey>
+        <themekey>Atlantic White Cedar</themekey>
+        <themekey>Fens</themekey>
+        <themekey>Wetlands</themekey>
+        <themekey>Biodiversity conservation</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>biota</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+        <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Natural Heritage &amp; Endangered Species Program.</origin>
+        <origin>Nature Conservancy (U.S.). Massachusetts Chapter.</origin>
+        <pubdate>1998</pubdate>
+        <title>Our irreplaceable heritage : protecting biodiversity in Massachusetts</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Natural Heritage &amp; Endangered Species Program, MA. Division of Fisheries &amp; Wildlife ; Westborough and Boston, Mass.</pubplace>
+          <publish>Massachusetts Chapter of the Nature Conservancy</publish>
+        </pubinfo>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown.</logic>
+    <complete>The mapping is now complete for the Buzzards Bay, South Coastal, Taunton, Ten Mile, Narragansett Bay and Mt Hope Bay watersheds in the southeast, and the North Coastal, Parker, Ipswich, Shawsheen, and portions of the Merrimack and Boston Harbor watersheds in the northeast. It is under production for the Suasco, and portions of the Charles, Merrimack and Nashua watersheds.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <origin>Massachusetts. Dept. of Environmental Protection</origin>
+            <origin>Massachusetts. Wetlands Conservancy Program.</origin>
+            <origin>University of Massachusetts at Amherst.</origin>
+            <pubdate>20030519</pubdate>
+            <title>MassGIS 2003 Massachusetts Orthophoto Wetlands (1:5,000) (February 2003)</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+            </pubinfo>
+            <onlink>http://hgl.harvard.edu</onlink>
+            <lworkcit>
+              <citeinfo>
+                <origin>MassGIS (Office : Mass.)</origin>
+                <pubdate>2003</pubdate>
+                <title>MassGIS data</title>
+                <edition>2003</edition>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>Boston, Mass.</pubplace>
+                  <publish>MassGIS</publish>
+                </pubinfo>
+                <othercit>7 CD-ROM set</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200302</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>original issue date</srccurr>
+        </srctime>
+        <srccitea>DEP Wetlands</srccitea>
+        <srccontr>Source of polygons modified using aerial photos</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>1999-2000</pubdate>
+            <title>1:12,000 scale, color infrared (CIR), leaf-off aerial photographs</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo/>
+            <othercit>Flown spring of 1999 and 2000.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>photo</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>1999</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>2000</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>photo dates</srccurr>
+        </srctime>
+        <srccitea>CIR photos</srccitea>
+        <srccontr>Source for identifying feature data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:5,000 digital orthophotos</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>orthophotos</srccitea>
+        <srccontr>Used to digitize features</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This data was created by starting with the DEP Wetlands, creating a new set of just the bog, coniferous and mixed forested wetland types, and then adding, deleting and changing polygon shapes and labels based on aerial photo interpretation of the 1999/2000 photos and field information. In some areas where this wetland layer did not exist, the wetlands were interpreted and digitized from the aerial photos.
+---------
+Natural Community System types were interpreted in stereo from 1:12,000 scale color infrared aerial photography flown in the spring of 1999 and 2000. The delineations were digitized directly into ESRI's ArcView 3.2a software by "heads-up" on-screen digitizing and by use of the Optem Digital Transfer Scope (DTS), which allows digitizing with the computer's mouse while viewing the aerial photo through the stereoscope. For many of the wetland community types, the on-screen digitizing involved reshaping and relabeling existing digital DEP Orthophoto Wetlands polygons to more specifically delineate and describe the community.  The DTS was used to more accurately delineate the boundary of the new polygon. All polygons were digitized to correspond to features on the MassGIS 1:5,000 Black and White and Color ortho imagery data layers, usually at a screen scale of approximately 1:3,000 to 1:5,000. 
+
+Field and collateral information were used as much as possible to assist in the interpretation. Important sources of digital information were the wetlands and eelgrass data from the Department of Environmental Protection's (DEP) Wetlands Conservancy Program (WCP) and the Plymouth pitch pine data from the University of Massachusetts, Amherst (UMass). Field information from local ecologists and watershed team leaders and community information from the Natural Heritage &amp; Endangered Species Program were also important in determining southeastern community types and locations. 
+
+The southeast upland forest classification was created using a Landsat 5 satellite image acquired on April 7, 1998. All DEP Orthophoto wetlands and all land use types except forest were masked out of the spring satellite image before the image was classified as coniferous or other. The coniferous forest was then removed, and the remaining forest reclassified as deciduous or mixed forest. Classifications were checked against the 1:5,000 scale black and white orthophotos and the color infrared photography. 
+
+When completed, all ArcView shapefiles and the forest raster image were converted to ArcInfo coverages.</procdesc>
+        <srcused>DEP Wetlands</srcused>
+        <srcused>CIR photos</srcused>
+        <srcused>orthophotos</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Executive Office of Environmental Affairs</address>
+              <address>251 Causeway St, Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-626-1000</cntvoice>
+            <cntfax>617-626-1249</cntfax>
+            <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>2022</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000085</absres>
+            <ordres>0.000085</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISVCPEATP</enttypl>
+        <enttypd>Priority Natural Vegetation Communities Acidic Peatland Community Systems</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NHCODE</attrlabl>
+        <attrdef>Abbreviation for the NHESP community type.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AWC</edomv>
+            <edomvd>Atlantic white cedar swamp or bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BG</edomv>
+            <edomvd>level bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>GRF</edomv>
+            <edomvd>acidic graminoid fen</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHF</edomv>
+            <edomvd>acidic shrub fen</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>STB</edomv>
+            <edomvd>spruce-tamarack bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>X</edomv>
+            <edomvd>Not part of Acidic Peatland community</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMM_TYPE</attrlabl>
+        <attrdef>The DEP WCP types.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BG</edomv>
+            <edomvd>bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>shallow marsh, meadow, or fen</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SS</edomv>
+            <edomvd>shrub swamp</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>WS2</edomv>
+            <edomvd>coniferous wooded swamp</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>WS3</edomv>
+            <edomvd>mixed deciduous and coniferous wooded swamp</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>X</edomv>
+            <edomvd>not part of Acidic Peatland community</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMENTS</attrlabl>
+        <attrdef>Usually the site name and/or town, but may also include minor notes, or the site number (such as motz34) from Motzkin's AWC inventory (Atlantic White Cedar Wetlands of Massachusetts, 1991). Abbreviations used in this field are bk (brook), cb (cranberry bog), lk (lake), pd (pond), rv (river), st (street), and swp (swamp). Also includes X for not part of the Acidic Peatland community.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMM_DESC</attrlabl>
+        <attrdef>Brief description of the code shown in NHCODE, or the COMM_TYPE if there is no NHCODE type described.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LABEL</attrlabl>
+        <attrdef>The same label codes as in NHCODE</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AWC</edomv>
+            <edomvd>Atlantic white cedar swamp or bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BG</edomv>
+            <edomvd>level bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>GRF</edomv>
+            <edomvd>acidic graminoid fen</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHF</edomv>
+            <edomvd>acidic shrub fen</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>STB</edomv>
+            <edomvd>spruce-tamarack bog</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>X</edomv>
+            <edomvd>not part of Acidic Peatland community</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GEN_LABEL</attrlabl>
+        <attrdef>Atlantic White Cedar, Bog and Fen (shrub and graminoid combined) or X for not part of the Acidic Peatland community</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_FID</attrlabl>
+        <attrdef>Feature identification number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA_1</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Feature length measured in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MGISVCPEATP.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length measured in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>These layers contain polygon features representing different priority natural vegetation communities, described to the level of detail possible with remote sensing and collateral information. Because some of the data came from other digital data sources, and the communities are very different, not all the attribute tables are the same. An attempt was made to standardize the attribute tables as much as possible. For detailed descriptions of the natural community system types, refer to Swain and Kearsley, "Classification of the Natural Communities of Massachusetts" (2000).</eaover>
+      <eadetcit>Swain, P. C., and J. B. Kearsley.  July 2000.  Classification of the Natural Communities of Massachusetts.  Natural Heritage &amp; Endangered Species Program, MA Division of Fisheries and Wildlife.  Westborough, MA
+http://www.mass.gov/dfwele/dfw/nhesp/nhclass.htm</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060731</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

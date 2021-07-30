@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4294-p6p55-1921-p6",
+  "dc_title_s": "Portland, Oregon, 1921 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Industrial map, Portland, Oregon : showing location of port facilities and principal industries with rail connections, compiled and distributed by the Commission of Public Docks. It was published by The Commission of Public Docks in 1921. Scale [ca. 1:21,000]. Covers also a portion of Vancouver, Washington. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Oregon North State Plane NAD 1983 (in Feet) (Fipszone 3601). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, selected buildings, Commission of Public Docks properties, private shipyards and dry docks, lumber mills, railroads and street car lines, as well as shipyards and railways of Vancouver, Washington. Includes index and inset: Key map, Portland to the sea, showing ship channel, Columbia & Willamette Rivers. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4294_P6P55_1921_P6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4294_P6P55_1921_P6",
+  "layer_slug_s": "harvard-g4294-p6p55-1921-p6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-01-08T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Portland (Or.). Commission of Public Docks."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Shipyards",
+    "Railroads",
+    "Industrial buildings",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Portland",
+    "Washington",
+    "Vancouver"
+  ],
+  "dct_issued_s": "2009-01",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "solr_geom": "ENVELOPE(-122.862654, -122.541632, 45.69685, 45.429188)",
+  "solr_year_i": 1921,
+  "harvard_collectionID_sm": [
+    "990114808120203941"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-maprt-3762-b65-1852-n5",
+  "dc_title_s": "Boston Harbor, Massachusetts, 1852 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of Boston Harbor : showing Commissioners' lines, wharves &c., prepared by order of the Harbor Committee of the City Council of 1852 under the direction of E.S. Chesbrough, city engineer ; drawn by Charles Leonard & M.W. Nicoll. It was published in 1852. Scale [ca. 1:20,000]. Covers Boston Harbor, Boston Harbor Islands, portions of the Charles River, the Mystic River, Boston, Winthrop, Revere, Chelsea, Everett, Somerville, Cambridge, and Hull, Massachusetts. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as the Harbor Commissioners' lines, wharves, drainage, rivers, islands, roads, railroads, bridges, selected buildings, the contemporary and historic (circa 1630) Boston shoreline and more. Harbor depths are shown by contours. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MAPRT_3762_B65_1852_N5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MAPRT_3762_B65_1852_N5",
+  "layer_slug_s": "harvard-maprt-3762-b65-1852-n5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-04-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Chesbrough, Ellis Sylvester, 1813-1886.",
+    "Boston (Mass.). Engineering Dept.",
+    "Boston (Mass.). City Council. Joint Standing Committee on Boston Harbor."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Harbors",
+    "Infrastructure (Economics)",
+    "Land use",
+    "City planning",
+    "Bodies of water",
+    "Transportation",
+    "Shorelines",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston Harbor",
+    "Boston",
+    "Charles River",
+    "Mystic River",
+    "Winthrop",
+    "Revere",
+    "Chelsea",
+    "Somerville",
+    "Cambridge",
+    "Everett",
+    "Hull"
+  ],
+  "dct_issued_s": "2006-04",
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "solr_geom": "ENVELOPE(-71.149592, -70.829689, 42.453395, 42.259997)",
+  "solr_year_i": 1852,
+  "harvard_collectionID_sm": [
+    "990094302440203941"
+  ]
+}

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>United States. Defense Mapping Agency. Hydrographic/Topographic Center</origin>
+        <origin>Institut geographique national (France)</origin>
+        <origin>Institut geographique du Burundi</origin>
+        <origin>Harvard University. Center for Geographic Analysis.</origin>
+        <origin>East View Cartographic, Inc.</origin>
+        <pubdate>2009</pubdate>
+        <title>Cibitoke region, Burundi, 1994, Defense Mapping Agency (DMA) Series Z724, Sheet 4675-III (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-dma50k-46753l</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the United States Defense Mapping Agency (DMA) Series Z724, Burundi, 1:50,000 Topographic Line Map (TLM) Series sheet map entitled: Cibitoke. Printed in: 1994. Covers portions of Cibitoke region, Burundi.
+
+Sheet: 4675-III.  
+Edition statement:  Ed. 1 - DMA.
+
+The image inside the map neatline is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. All map collar information is also available as part of the raster image.
+
+Burundi 1:50:000 Series Z724 maps are in English and French (legends also include Rundi). Each source map in the series is printed in color at a scale of 1:50,000. Series source sheets were published in 1994-1995 by the United States Defense Mapping Agency, Hydrographic/Topographic Center.
+
+The source map was scanned and georeferenced for Harvard University's Center for Geographic Analysis' AfricaMap project by East View Cartographic.  Individual TLM sheets covering Burundi (40 sheets in total) were selected from the TLM worldwide series.
+
+DMA Topographic Line Map series maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc.  They also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc.  Relief is shown with standard contour intervals of 20 meters, with some sheets having supplemental meter contours, form lines, hachures, shading, and/or spot heights. Depths shown by bathymetric isolines.
+
+Please pay close attention to map collar information on projections, spheroid, compilation dates, legend information, and keys to grid numbering and other numbers which appear inside the neatline.</abstract>
+      <purpose>Historic topographic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199408</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>28.914217</westbc>
+        <eastbc>29.333199</eastbc>
+        <northbc>-2.733908</northbc>
+        <southbc>-3.063116</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps, Topographic</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure (Economics)</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Landforms</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Burundi</placekey>
+        <placekey>Cibitoke</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Center for Geographic Analysis</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>CGIS K-00A</address>
+          <address>CGIS Knafel Building</address>
+          <address>1737 Cambridge St.</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>contact@help.cga.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>Data completeness for raster image files reflect content of the source graphic.  Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints.
+
+Series area of interest is complete with the exception of Sheet 4772 I.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing and georeferencing process.  In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic. 
+
+While the data of the published map is retained in the georeferenced image, the image is referenced to the World Geographic Reference 1984 system, which is inconsistent with the original projection of the paper map, and may lead to discrepancies in the horizontal accuracy of the raster image.
+
+The Root Mean Square (RMS) error for this map is 2.8420 meters.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
+        <qhorizpa>
+          <horizpav>10 meters</horizpav>
+          <horizpae>1:50,000 Defense Mapping Agency</horizpae>
+        </qhorizpa>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Refer to the raster image collar for information about vertical datum.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Defense Mapping Agency. Hydrographic/Topographic Center</origin>
+            <origin>Institut geographique national (France)</origin>
+            <origin>Institut geographique du Burundi</origin>
+            <pubdate>199408</pubdate>
+            <title>Cibitoke</title>
+            <edition>Ed. 1 - DMA</edition>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>Z724</sername>
+              <issue>Sheet 4675-III</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Bethesda, Md.</pubplace>
+              <publish>Defense Mapping Agency</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>United States. Defense Mapping Agency. Hydrographic/Topographic Center</origin>
+                <origin>Institut geographique national (France)</origin>
+                <origin>Institut geographique du Burundi</origin>
+                <pubdate>1994-1995</pubdate>
+                <title>Burundi 1:50,000</title>
+                <geoform>map</geoform>
+                <serinfo>
+                  <sername>Z724</sername>
+                </serinfo>
+                <pubinfo>
+                  <pubplace>Bethesda, Md.</pubplace>
+                  <publish>Defense Mapping Agency</publish>
+                </pubinfo>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>50000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199408</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DMA (Paper)</srccitea>
+        <srccontr>Original map was scanned and georeferencing.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>1) Paper maps were scanned as 400 dpi TIFF images and post-processed
+
+2) Georeferencing
+     A.  Maps georeferenced with Microstation Image Analyst
+     B.  Grid lines and corner coordinates were used as reference points
+     C.  Second-order polynomial transformation was used for geographic/WGS84 projection</procdesc>
+        <srcused>DMA (Paper)</srcused>
+        <procdate>2008</procdate>
+        <srcprod>DMA (Georeferenced TIFF)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>East View Cartographic Inc.</cntorg>
+              <cntper>Michael Cloutier</cntper>
+            </cntorgp>
+            <cntpos>Senior Sales and Customer Service Representative</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>10601 Wayzata Boulevard</address>
+              <city>Minneapolis</city>
+              <state>MN</state>
+              <postal>55305</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>952.252.1205</cntvoice>
+            <cnttdd>877.856.6705</cnttdd>
+            <cntfax>952.252.1202</cntfax>
+            <cntemail>webmaps@cartographic.com</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The Batch Convert/Reproject tool in Global Mapper 10 was used to batch convert the georeferenced TIFFs to georeferenced JP2s.</procdesc>
+        <srcused>DMA (Georeferenced TIFF)</srcused>
+        <procdate>2009</procdate>
+        <srcprod>DMA (Georeferenced JP2)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Center for Geographic Analysis</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University</address>
+              <address>CGIS K-00A</address>
+              <address>CGIS Knafel Building</address>
+              <address>1737 Cambridge St.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntemail>contact@help.cga.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>11533</rowcount>
+      <colcount>14678</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map.  The colors on that sheet represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and national and international boundaries.  The colors are explained in a legend that is incorporated into the map collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>JPEG2000</formname>
+          <filedec>no compression applied</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20091210</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

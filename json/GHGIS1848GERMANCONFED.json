@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ghgis1848germanconfed",
+  "dc_title_s": "Germany : German Confederation Boundary Lines, 1848, German Historical GIS",
+  "dc_description_s": "These lines represent the boundary of the German Confederation (Deutscher Bund) in 1848. The confederation boundary extends beyond 'core Germany' and includes portions of the Habsburg Empire and Luxembourg. Missing segments indicate bodies water (Lake Constance) in which boundaries were not fixed at the time or which did not connect to 'core Germany' (Adriatic Sea). Compared to 1834, several changes have occurred: in the west Luxembourg has been diminished in size, and the Dutch Province of Limburg has been added to the Federation, both as result of the London Agreement of 1839 in the wake of the creation of the Belgian State (in 1830). In the east the boundary has moved eastward to include nearly all of Prussian territory.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1848GERMANCONFED.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GHGIS1848GERMANCONFED",
+  "layer_slug_s": "harvard-ghgis1848germanconfed",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2011-07-28T00:00:00Z",
+  "dc_creator_sm": [
+    "HGIS Germany (Andreas Kunz, Leonhard Dietze)",
+    "IEG-Maps / Berlin Data Pool (Andreas Kunz, Robert Moeschl)",
+    "Institut fur Europaische Geschichte (Mainz, Rhineland-Palatinate, Germany)",
+    "Fachhochschule Mainz (Mainz, Rhineland-Palatinate, Germany)"
+  ],
+  "dc_publisher_s": [
+    "HGIS Germany"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "boundaries",
+    "Boundaries",
+    "Administrative and political divisions",
+    "German states"
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Austria",
+    "Belgium",
+    "Croatia",
+    "Czech Republic",
+    "Italy",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Netherlands",
+    "Poland",
+    "Slovenia"
+  ],
+  "dct_issued_s": "2007",
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "solr_geom": "ENVELOPE(4.443474, 23.157687, 56.025202, 44.732479)",
+  "solr_year_i": 1848,
+  "harvard_collectionID_sm": [
+    "990126902100203941"
+  ]
+}

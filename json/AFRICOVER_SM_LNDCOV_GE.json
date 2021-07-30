@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-africover-sm-lndcov-ge",
+  "dc_title_s": "Somalia Landcover",
+  "dc_description_s": "Somalia landcover from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:200,000. The land cover has been produced from visual interpretation of digitally enhanced LANDSAT TM images (Bands 4,3,2) acquired mainly from 1995 - 1998. The land cover classes have been developed using the FAO/UNEP international standard LCCS classification system.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AFRICOVER_SM_LNDCOV_GE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:AFRICOVER_SM_LNDCOV_GE",
+  "layer_slug_s": "harvard-africover-sm-lndcov-ge",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2008-04-14T00:00:00Z",
+  "dc_creator_sm": [
+    "Food and Agriculture Organization of the United Nations",
+    "Di Gregorio, Antonio"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Land use",
+    "Vegetation mapping",
+    "Earth Surface",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Somalia"
+  ],
+  "dct_issued_s": "2002-04-04",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_geom": "ENVELOPE(40.988628, 51.412724, 11.992188, -1.66719)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990115092200203941"
+  ]
+}

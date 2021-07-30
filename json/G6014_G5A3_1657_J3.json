@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6014-g5a3-1657-j3",
+  "dc_title_s": "Gent, Belgium, 1657 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Gandavum amplissima Flandriae urbs a Julio Caesare condita, et a suo nomine Caio ut chronici Brabantini loquuntur dicta, fluminibus nobilis amoena, ampla, spaciosa, nunque conclusa, nusque suffocata. It was published by J. Janssonius in 1657. Scale [ca. 1:9,000]. Covers a portion of Gent, Belgium. Map in Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Belgian Lambert 1972 coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortifications, ground cover, and more. Includes also text and index.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6014_G5A3_1657_J3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6014_G5A3_1657_J3",
+  "layer_slug_s": "harvard-g6014-g5a3-1657-j3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-10-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Jansson, Jan, 1588-1664."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Aerial views",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Belgium",
+    "Gent"
+  ],
+  "dct_issued_s": "2014-10",
+  "dct_temporal_sm": [
+    "1657"
+  ],
+  "solr_geom": "ENVELOPE(3.685316, 3.768839, 51.084551, 51.026471)",
+  "solr_year_i": 1657,
+  "harvard_collectionID_sm": [
+    "990123183610203941"
+  ]
+}

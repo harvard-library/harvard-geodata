@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <pubdate>200501</pubdate>
+        <title>AMS China : Ta-yung Region (Raster Image)</title>
+        <geoform>map</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ams7810-s250-u54-nh49-10</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the Army Map Service (AMS) Series L500, China 1:250,000 topographic map of the Ta-yung (Zhangjiajie) region of China.  
+
+Map quadrangle number: NH49-10.  
+Edition statement:  AMS - ed. 1.  
+
+Printed in November 1964; the source map was compiled in 1953 from USAF Preliminary Base, 1:250,000, ACIC Chart 494-D-II, 1946. 
+
+The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator projection.  All map collar information is also available as part of the raster image.
+
+AMS Series L500 topographic maps were prepared and printed by the AMS, US Army Corps of Engineers in the 1950s and 1960s.   
+
+AMS Series L500 maps are in English, with modified Wade-Giles romanized Chinese place and feature names; many names also appear as Chinese ideographs.  Each source map in the series is printed in color at a scale of 1:250,000. 
+
+AMS Series L500 maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc.  They also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc.  Relief is shown with standard contour intervals of 100 meters, with some sheets having supplemental 50 meter contours, form lines, and/or spot heights. 
+
+Please pay close attention to map collar information on projections, spheroid, planimetric revision methods and dates, and keys to grid numbering and other numbers which appear inside the neatline.</abstract>
+      <purpose>Historic topographic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+      <supplinf>Please note that the map title is an outdated (Wade-Giles romanization) spelling of the Chinese place or feature name for which the map is named.  Both this outdated version and the current pinyin romanization version appear as place keywords in this metadata record.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1953</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>compilation date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>109.361315</westbc>
+        <eastbc>111.322141</eastbc>
+        <northbc>30.099858</northbc>
+        <southbc>28.778390</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps, Topographic</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Landforms</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>China</placekey>
+        <placekey>Ta-yung</placekey>
+        <placekey>Dayong</placekey>
+        <placekey>Zhangjiajie</placekey>
+        <placekey>Yung-ting</placekey>
+        <placekey>Hunan Sheng</placekey>
+        <placekey>Hunan Province</placekey>
+        <placekey>Hubei Sheng</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Hubei Province</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard College Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Harvard Map Collection, Harvard College Library</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>This raster image is a 24-bit per pixel color image that employs a color palette to ensure uniform colors throughout the series. All raster images within the series have the same RGB value.
+
+In regards to the source maps: Road classification should be referred to with caution.  Vegetation information is generally unreliable on many of these maps and the delineation of international boundaries is not considered authoritative. Each sheet in the series includes also a reliability diagram in the collar detailing sources and methods used to compile data, reliability by geography, and areas for which vegetation information is available.</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color.  The intent is to recreate those colors as near as possible. Data completeness for raster image files reflect content of the source graphic.  Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The positional accuracy of the original map was largely preserved during the digitizing and georeferencing  processes. Accuracy may be generally characterized as possessing the highest standards of accuracy given the general survey, instrumentation, design and printing technologies and cartographic techniques available during the time the original map was produced.  The original map was scanned and georeferenced (SEE: Process Steps) to produce this digital version.
+
+While the data of the published map is retained in the georeferenced image, the image is referenced to the Universal Transverse Mercator coordinate system, which is inconsistent with the original projection of the paper map, and may lead to discrepancies in the horizontal accuracy of the raster image.  The standard used for georeferencing the image to the UTM coordinates was an RMS error below 50 meters.  See the process steps for the actual RMS error achieved.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Refer to the raster image collar for information about vertical positional accuracy.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Army Map Service</origin>
+            <pubdate>196411</pubdate>
+            <title>Ta-yung</title>
+            <edition>Ed. 1 - AMS</edition>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>Series L500</sername>
+              <issue>NH49-10</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>United States. Army Map Service</publish>
+            </pubinfo>
+            <othercit>Publication date is taken from the date of printing on the map.</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>United States. Army Map Service</origin>
+                <pubdate>1954-1969</pubdate>
+                <title>China, 1:250,000</title>
+                <geoform>map</geoform>
+                <othercit>This series was printed between 1954 and 1969. Map sources used to create Series L500 maps include British Survey of India maps, Japanese civil survey and military maps; United States Air Force (USAF) and United States Hydrographic Office (USHO) charts and a variety of other source maps simply described as the "... best available large scale and medium scale maps of China."</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>196411</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>AMS Topo Map (Paper)</srccitea>
+        <srccontr>Original map was scanned and digitized in preparation for georeferencing.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Harvard Map Collection</origin>
+            <pubdate>200412</pubdate>
+            <title>AMS Topographic Map (Digitized Version)</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200412</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>AMS Topo Map (Digitized Version)</srccitea>
+        <srccontr>The digitized version of the AMS Topo Map was georeferenced and a world file (.tfw) was created.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Air Force.</origin>
+            <origin>Aeronautical Chart and Information Center (U.S.)</origin>
+            <pubdate>1946</pubdate>
+            <title>USAF preliminary base, 1:250,000</title>
+            <geoform>map</geoform>
+            <othercit>Chart 494-D-II, 1946</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1946</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USAF Base Maps</srccitea>
+        <srccontr>Base maps used to compile the source map.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper topographic map on a high-resolution scanner (Betterlight, Super8K2 scanning back camera and ViewFinder 5.x capture software).
+
+Maps were photographed at a copy stand. A vacuum easel was used to keep the maps flat during photography. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, and that allow for highly detailed screen reproduction and print reproduction at up to 1:1.
+
+Files were edited in and saved from Adobe Photoshop CS. When possible files were batch processed using an "action" script derived from edits applied to match a representative sample.  Color and tonal corrections were made using Curves, Levels, and Hue/Saturation filters in Adobe Photoshop. 
+
+Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment. Master Image files were corrected and archived as TIFF files (compliant with the TIFF 6 Specification) in the sRGB IEC611966-2.1 color-space.  Files were saved with an embedded profile. The colorspace tag is used to assure that color and tonal information is properly displayed across multiple systems and media.
+
+Image resolution is of sufficient quality to render all meaningful map details on screen and in print; Format is 24 bit Tiff, uncompressed; Tone/color reproduction: embedded ICC (International Color Consortium) profile with associated size and tone reference. Quality control: visual inspection, MD5 checksum for 100% of images.</procdesc>
+        <srcused>AMS Topo Map (Paper)</srcused>
+        <procdate>200412</procdate>
+        <srcprod>AMS Topo Map (Digitized Version)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard College Library</cntorg>
+            </cntorgp>
+            <cntpos>Digital Imaging and Photography Group</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>D-Level, Room D-30</address>
+              <address>Widener Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2030</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This digital image was georeferenced to a shapefile containing the four sets of UTM grid coordinates nearest to the corner tics of each map image.  The coordinates were projected in UTM_WGS_1984 with the appropriate UTM Zone (44_N through 51_N).  Because the AMS did not publish this map series with an associated horizontal datum, the widely used WGS_1984 datum was applied to each image in order to provide a consistent, standardized coordinate system to use across the entire collection of AMS L500 Series China maps.  Horizontal accuracy is therefore not as good as it would be if the datum(s) were known.  ArcMap 9.0 was utilized to georeference the image to the four projected control points, and a .tfw (world file) was generated.  The RMS error was recorded and a world file (automatically generated by ArcMap) was saved in association with the scanned image.  The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map. However, there may be errors introduced during the digitizing and georeferencing process. In most cases, errors in the raster image are small compared with sources of error in the original map graphic.
+
+The RMS error for this map is: 31.15565 meters.
+
+RMS: The degree to which the transformation can accurately map all control points can be measured mathematically by comparing the actual location of the map coordinate to the transformed position in the raster. The distance between these two points is known as the residual error. The total error is computed by taking the root mean square (RMS) sum of all the residuals to compute the RMS error. This value describes how consistent the transformation is between the different control points (links). The RMS error is only an assessment of the accuracy of the transformation.</procdesc>
+        <srcused>AMS Topo Map (Digitized Version)</srcused>
+        <procdate>200502</procdate>
+        <srcprod>AMS Topo Map (Georeferenced Raster)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>6752</rowcount>
+      <colcount>8850</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>49</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>111.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>21.350817</absres>
+            <ordres>21.525988</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map.  The colors on that sheet represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and national and international boundaries.  The colors are explained in a legend that is incorporated into the map collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office for Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed  by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>no compression applied</filedec>
+          <transize>0.000</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20051017</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

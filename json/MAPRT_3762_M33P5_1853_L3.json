@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-maprt-3762-m33p5-1853-l3",
+  "dc_title_s": "Massachusetts Bay and the New England coast, 1853 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A new chart of Massachusetts Bay, and part of the coast of Maine, by Samuel Lambert, hydrographer, Salem, 1822 ; New edition published by Henry Whipple, 1853. Scale [ca. 1:200,000]. Covers the coast of New England from Buzzards Bay, Massachusetts to Monhegan Island, Maine. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This nautical chart shows coastal features such as rocks, channels, points, coves, harbors, islands, lighthouses, and more. Depths are shown by soundings and shading. It also shows land features such as settlements and more. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MAPRT_3762_M33P5_1853_L3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MAPRT_3762_M33P5_1853_L3",
+  "layer_slug_s": "harvard-maprt-3762-m33p5-1853-l3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-05-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Whipple, Henry, 1789-1869."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Bodies of water",
+    "Nautical charts",
+    "Harbors",
+    "Coasts",
+    "imageryBaseMapsEarthCover",
+    "oceans",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Atlantic Ocean",
+    "Massachusetts Bay",
+    "Massachusetts",
+    "New Hampshire",
+    "Maine",
+    "New England"
+  ],
+  "dct_issued_s": "2006-05",
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "solr_geom": "ENVELOPE(-71.240564, -69.128178, 43.904698, 41.457894)",
+  "solr_year_i": 1853,
+  "harvard_collectionID_sm": [
+    "990095308930203941"
+  ]
+}

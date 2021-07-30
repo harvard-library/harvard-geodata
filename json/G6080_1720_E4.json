@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6080-1720-e4",
+  "dc_title_s": "Central Europe Region, 1720-1729 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Tabula novissima totius Germaniae praecipue ex designatione viri celeberrimi D[om]ini Johannis Caspari Eisenschmidii. It was published by in lucem edita a Johanne Baptista Homanno, between 1720 and 1729. Scale [ca. 1:1,270,000]. Covers the Central Europe region. Map in Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, territorial and administrative boundaries, shoreline features, and more. Relief shown pictorially.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6080_1720_E4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6080_1720_E4",
+  "layer_slug_s": "harvard-g6080-1720-e4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-09-29T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Eisenschmidt, Johann Caspar, 1656-1712.",
+    "Homann, Johann Baptist, 1663-1724."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Austria",
+    "Belgium",
+    "Croatia",
+    "Czech Republic",
+    "Denmark",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Liechtenstein",
+    "Luxembourg",
+    "Netherlands",
+    "Poland",
+    "Russia",
+    "Slovakia",
+    "Slovenia",
+    "Switzerland",
+    "United Kingdom",
+    "Europe, Central"
+  ],
+  "dct_issued_s": "2011-09",
+  "dct_temporal_sm": [
+    "1720-1729"
+  ],
+  "solr_geom": "ENVELOPE(-1.230324, 23.737907, 56.310066, 44.018307)",
+  "solr_year_i": 1720,
+  "harvard_collectionID_sm": [
+    "990125101370203941"
+  ]
+}

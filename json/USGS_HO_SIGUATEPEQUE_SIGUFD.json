@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-usgs-ho-siguatepeque-sigufd",
+  "dc_title_s": "Flood Depths, Siguatepeque, Honduras",
+  "dc_description_s": "Flood depth polygons for the 50-year flood, for Siguatepeque, Honduras. Water-surface elevations for an estimated 50-year-flood discharge on Rio Selguapa, Rio Celan, Rio Calan, Rio Guique, and Qda Chalantuma at Siguatepeque were determined using HEC-RAS, a one-dimensional step-backwater computer program. The channel and floodplain cross section geometry used in HEC-RAS were developed from an airborne light detection and ranging (LIDAR) topographic survey of the area. The 50-year-flood discharge for Rio Selguapa, 323 cubic meters per second, Rio Celan, 161 cubic meters per second, Rio Calan, 146 cms, Rio Guique, 168 cms, and Qda Chalantuma, 90 cms, were estimated using a regression equation that relates the 50-year-flood discharge to drainage area and mean annual precipitation. The area of inundation and depth of flood coverage was created with the HEC-RAS output and topographic TIN using HEC-geo-RAS software.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/USGS_HO_SIGUATEPEQUE_SIGUFD.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:USGS_HO_SIGUATEPEQUE_SIGUFD",
+  "layer_slug_s": "harvard-usgs-ho-siguatepeque-sigufd",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2011-09-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_publisher_s": [
+    "United States Geological Survey"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Floods",
+    "Floodplains",
+    "Flood control",
+    "inlandWaters",
+    "flood depth"
+  ],
+  "dct_spatial_sm": [
+    "Honduras",
+    "Comayagua, Departamento de",
+    "Siguatepeque"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_geom": "ENVELOPE(-87.85445, -87.81346, 14.615863, 14.57707)",
+  "solr_year_i": 2001,
+  "harvard_collectionID_sm": [
+    "990129561930203941"
+  ]
+}

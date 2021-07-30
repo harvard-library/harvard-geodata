@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3851-e625-1935-s6",
+  "dc_title_s": "Juvenile Delinquents, Washington, D.C., 1935 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Spot map showing residences of juvenile delinquents in the District of Columbia as of July 1, 1935. Data furnished by Juvenile Court of the District of Columbia. It was published in 1936. Scale [ca. 1:19,200]. Base map 'Complete to June 13, 1933.' The image inside the map neatline is georeferenced to the surface of the earth and fit to the Maryland State Plane Coordinate System Meters NAD83 (Fipszone 1900). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows location of juvenile delinquents' residences by race and sex. Shows also features such as block numbers and alley dwelling areas, roads, railroads and stations, drainage, selected public buildings and points of interest, parks, cemeteries, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3851_E625_1935_S6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3851_E625_1935_S6",
+  "layer_slug_s": "harvard-g3851-e625-1935-s6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-03-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "District of Columbia. Office of the Surveyor.",
+    "District of Columbia. Juvenile Court."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Outline and base.",
+    "Juvenile delinquents",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Public buildings",
+    "Railroads",
+    "Alleys",
+    "imageryBaseMapsEarthCover",
+    "society"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Washington (D.C.)"
+  ],
+  "dct_issued_s": "2009-03",
+  "dct_temporal_sm": [
+    "1935"
+  ],
+  "solr_geom": "ENVELOPE(-77.164735, -76.903945, 39.000002, 38.796399)",
+  "solr_year_i": 1935,
+  "harvard_collectionID_sm": [
+    "990114529770203941"
+  ]
+}

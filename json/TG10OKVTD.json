@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg10okvtd",
+  "dc_title_s": "Voting Districts OK 2010",
+  "dc_description_s": "This polygon data layer represents the 2010 TIGER/Line voting districts for Oklahoma. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections. States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs. Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county. For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products. Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG10OKVTD.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG10OKVTD",
+  "layer_slug_s": "harvard-tg10okvtd",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2012-01-10T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Census Bureau. Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Census",
+    "Boundaries",
+    "Election districts",
+    "Administrative and political divisions",
+    "boundaries",
+    "County or equivalent entity",
+    "Polygon",
+    "Voting District",
+    "State Legislative District"
+  ],
+  "dct_spatial_sm": [
+    "Oklahoma",
+    "United States",
+    "U.S.",
+    "County or Equivalent Entity"
+  ],
+  "dct_issued_s": "2010",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_geom": "ENVELOPE(-103.002455, -94.430662, 37.002312, 33.615787)",
+  "solr_year_i": 2010,
+  "harvard_collectionID_sm": [
+    "990131492120203941"
+  ]
+}

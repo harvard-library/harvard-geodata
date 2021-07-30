@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ams7810-s250-u54-nf50-5",
+  "dc_title_s": "AMS China : Hong Kong Region (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the Army Map Service (AMS) Series L500, China 1:250,000 topographic map of the Hong Kong region of China. Map quadrangle number: NF50-5. Edition statement: AMS - ed. 1. Printed in December 1960; the source map was compiled in 1954 from the best available large scale maps of China; British Admiralty Charts 1180, 1951; 3681, 1951; USHO Charts 3174, 1951; 3199, 1946. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator projection. All map collar information is also available as part of the raster image. AMS Series L500 topographic maps were prepared and printed by the AMS, US Army Corps of Engineers in the 1950s and 1960s. AMS Series L500 maps are in English, with modified Wade-Giles romanized Chinese place and feature names; many names also appear as Chinese ideographs. Each source map in the series is printed in color at a scale of 1:250,000. AMS Series L500 maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. They also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 100 meters, with some sheets having supplemental 50 meter contours, form lines, and/or spot heights. Please pay close attention to map collar information on projections, spheroid, planimetric revision methods and dates, and keys to grid numbering and other numbers which appear inside the neatline.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AMS7810_S250_U54_NF50_5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:AMS7810_S250_U54_NF50_5",
+  "layer_slug_s": "harvard-ams7810-s250-u54-nf50-5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2005-10-24T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "imageryBaseMapsEarthCover",
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms"
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Hong Kong Special Administrative Region",
+    "Hong Kong",
+    "Xianggang Tebie Xingzhengqu",
+    "Guangdong Sheng",
+    "Guangdong Province"
+  ],
+  "dct_issued_s": "2005-01",
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "solr_geom": "ENVELOPE(113.8087, 115.683098, 23.127249, 21.770372)",
+  "solr_year_i": 1954,
+  "harvard_collectionID_sm": [
+    "990094028280203941"
+  ]
+}

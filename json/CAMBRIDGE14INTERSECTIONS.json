@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cambridge14intersections",
+  "dc_title_s": "Intersections, Cambridge, Massachusetts, 2014",
+  "dc_description_s": "This point layer contains start and end nodes for all of the street segments in Cambridge. It also contains street names for all intersections.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CAMBRIDGE14INTERSECTIONS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:CAMBRIDGE14INTERSECTIONS",
+  "layer_slug_s": "harvard-cambridge14intersections",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2014-07-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_publisher_s": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Roads",
+    "Interchanges and intersections",
+    "Transportation",
+    "transportation",
+    "City of Cambridge",
+    "Intersections",
+    "nodes"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_isPartOf_sm": [
+    "City of Cambridge MA GIS Data 2014"
+  ],
+  "solr_geom": "ENVELOPE(-71.161489, -71.06817, 42.40471, 42.351476)",
+  "solr_year_i": 2014,
+  "harvard_collectionID_sm": [
+    "990142665020203941"
+  ]
+}

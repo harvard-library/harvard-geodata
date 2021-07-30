@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8300-1822-b7-copya",
+  "dc_title_s": "Nile River & Red Sea Region, 1822 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte generale de l'Egypte et de l'Arabie Petree, par A. H. Brue, Geographe de S.A.R. Monsieur. It was published by Chez l'auteur, Rue des Macons Sorbonne, No. 9 in Mai 1822. Scale [ca. 1:2,350,000]. Covers the Nile River and Red Sea regions. Map in French.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Egypt Red Belt projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, historic sites and ruins, and more. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8300_1822_B7_COPYA.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8300_1822_B7_COPYA",
+  "layer_slug_s": "harvard-g8300-1822-b7-copya",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-01-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Brue, Adrien Hubert, 1786-1832."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Nile River",
+    "Red Sea",
+    "Egypt",
+    "Gaza Strip",
+    "Israel",
+    "Jordan",
+    "Saudi Arabia",
+    "Syria",
+    "West Bank"
+  ],
+  "dct_issued_s": "2012-01",
+  "dct_temporal_sm": [
+    "1822"
+  ],
+  "solr_geom": "ENVELOPE(27.683221, 38.137624, 33.215572, 21.495004)",
+  "solr_year_i": 1822,
+  "harvard_collectionID_sm": [
+    "990126597460203941"
+  ]
+}

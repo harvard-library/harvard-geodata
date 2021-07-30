@@ -1,0 +1,56 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5751-r1-1804-l8",
+  "dc_title_s": "Military Districts, England and Wales, United Kingdom, 1804 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A complete representation of the coast of England, together with the interior, divided into counties and military districts : also the coast of France and Holland from the Texel to Brest ... to which is annexed eighteen plans of the ports of the enemy, the principal depots of the flotilla intended for the invasion of England, by John Luffman, Geogr. It was published by J. Luffman in 1804. Scale [ca. 1:2,500,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, administrative and military district boundaries, shoreline features including distances between selected ports, and more. Includes insets of foreign military installations and index to the military districts. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5751_R1_1804_L8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5751_R1_1804_L8",
+  "layer_slug_s": "harvard-g5751-r1-1804-l8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-09-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Luffman, J. (John), 1756-1846."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Administrative and political division",
+    "Fortification",
+    "Coast defenses",
+    "Coasts",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "intelligenceMilitary"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "England",
+    "Wales",
+    "Belgium",
+    "France",
+    "Ireland",
+    "Netherlands"
+  ],
+  "dct_issued_s": "2011-09",
+  "dct_temporal_sm": [
+    "1804"
+  ],
+  "solr_geom": "ENVELOPE(-9.911051, 7.248898, 58.323959, 45.883523)",
+  "solr_year_i": 1804,
+  "harvard_collectionID_sm": [
+    "990123612220203941"
+  ]
+}

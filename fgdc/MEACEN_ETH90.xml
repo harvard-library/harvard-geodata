@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Town Population by Ethnicity</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacen-eth90</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage for Massachusetts town populations in 1990 organized by ethnicity. 
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001.
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The following information pertains to the terms used by the U.S. Census Bureau to define those categories of the population included in this layer. Parts of the following were transcribed from the glossary available through the U.S. Census Fact Finder website at: http://factfinder.census.gov
+
+The data on ancestry were derived from answers to a questionnaire item, which was asked of a sample of persons. The question was based on self-identification; the data on ancestry represent self-classification by people according to the ancestry group(s) with which they most closely identify. Ancestry refers to a person's ethnic origin or descent, "roots," or heritage or the place of birth of the person or the person's parents or ancestors before their arrival in the United States. Some ethnic identities, such as "Egyptian" or "Polish" can be traced to geographic areas outside the United States, while other ethnicities such as "Pennsylvania Dutch" or "Cajun" evolved in the United States. The intent of the ancestry question was not to measure the degree of attachment the respondent had to a particular ethnicity. For example, a response of "Irish" might reflect total involvement in an "Irish" community or only a memory of ancestors several generations removed from the individual. 
+
+The Census Bureau coded the responses through an automated review, edit, and coding operation. The open-ended write-in ancestry item was coded by subject-matter specialists into a numeric representation using a code list containing over 1,000 categories. The 1990 code list reflects the results of the Census Bureau's own research and consultations with many ethnic experts. Many decisions were made to determine the classification of responses. These decisions affected the grouping of the tabulated data. For example, the "Assyrian" category includes both responses of "Assyrian" and "Chaldean." 
+
+The ancestry question allowed respondents to report one or more ancestry groups. While a large number of respondents listed a single ancestry, the majority of answers included more than one ethnic entry. Generally, only the first two responses reported were coded in 1990. If a response was in terms of a dual ancestry, for example, Irish-English, the person was assigned two codes, in this case one for Irish and another for English. 
+
+However, in certain cases, multiple responses such as "French Canadian," "Scotch-Irish," "Greek Cypriote," and "Black Dutch" were assigned a single code reflecting their status as unique groups. If a person reported one of these unique groups in addition to another group, for example, "Scotch-Irish English," resulting in three terms, that person received one code for the unique group ("Scotch-Irish") and another one for the remaining group ("English"). If a person reported "English Irish French," only English and Irish were coded. Certain combinations of ancestries where the ancestry group is a part of another, such as "German-Bavarian," the responses were coded as a single ancestry using the smaller group ("Bavarian"). Also, responses such as "Polish-American" or "Italian-American" were coded and tabulated as a single entry ("Polish" or "Italian"). 
+
+The Census Bureau accepted "American" as a unique ethnicity if it was given alone, with an ambiguous response, or with State names. If the respondent listed any other ethnic identity such as "Italian American," generally the "American" portion of the response was not coded. However, distinct groups such as "American Indian," "Mexican American," and "African American" were coded and identified separately because they represented groups who considered themselves different from those who reported as "Indian," "Mexican," or "African," respectively. 
+
+In all tabulations, when respondents provided an unacceptable ethnic identity (for example, an uncodeable or unintelligible response such as "multi-national," "adopted," or "I have no idea"), the answer was included in "Ancestry not reported." 
+
+The Census Bureau identified hundreds of ethnic groups in the 1990 census. However, it was impossible to show information for every group in all census tabulations because of space constraints. Publications such as the 1990 CP-2, Social and Economic Characteristics and the 1990 CPH-3, Population and Housing Characteristics for Census Tracts and Block Numbering Areas reports show a limited number of groups based on the number reported and the advice received from experts. A more complete distribution of groups is presented in the 1990 Summary Tape File 4, supplementary reports, and a special subject report on ancestry. In addition, groups identified specifically in the questions on race and Hispanic origin (for example, Japanese, Laotian, Mexican, Cuban, and Spaniard), in general, are not shown separately in ancestry tabulations. 
+
+Limitation of the Data:
+Although some experts consider religious affiliation a component of ethnic identity, the ancestry question was not designed to collect any information concerning religion. The Bureau of the Census is prohibited from collecting information on religion. Thus, if a religion was given as an answer to the ancestry question, it was coded as an "Other" response. 
+
+Comparability:
+A question on ancestry was first asked in the 1980 census. Although there were no comparable data prior to the 1980 census, related information on ethnicity was collected through questions on parental birthplace, own birthplace, and language which were included in previous censuses. Unlike other census questions, there was no imputation for nonresponse to the ancestry question. 
+
+In 1990, respondents were allowed to report more than one ancestry group; however, only the first two ancestry groups identified were coded. In 1980, the Census Bureau attempted to code a third ancestry for selected triple-ancestry responses. 
+
+New categories such as "Arab" and "West Indian" were added to the 1990 question to meet important data needs. The "West Indian" category excluded "Hispanic" groups such as "Puerto Rican" and "Cuban" that were identified primarily through the question on Hispanic origin. In 1990, the ancestry group, "American" is recognized and tabulated as a unique ethnicity. In 1980, "American" was tabulated but included under the category "Ancestry not specified." 
+
+A major improvement in the 1990 census was the use of an automated coding system for ancestry responses. The automated coding system used in the 1990 census greatly reduced the potential for error associated with a clerical review. Specialists with a thorough knowledge of the subject matter reviewed, edited,</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19900401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Demography</themekey>
+        <themekey>Ethnicity</themekey>
+        <themekey>Population geography</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.
+
+The tabulations on ancestry are presented using two types of data presentations, one used total persons as the base, and the other used total responses as the base. The following are categories shown in the two data presentations: 
+
+Presentation Based on Persons: 
+Single Ancestries Reported: Includes all persons who reported only one ethnic group. Included in this category are persons with multiple-term responses such as "Scotch-Irish" who are assigned a single code. 
+Multiple Ancestries Reported: Includes all persons who reported more than one group and were assigned two ancestry codes. 
+Ancestry Unclassified: Includes all persons who provided a response that could not be assigned an ancestry code because they provided nonsensical entries or religious responses. 
+
+Presentations Based on Responses: 
+Total Ancestries Reported: Includes the total number of ancestries reported and coded. If a person reported a multiple ancestry such as "French Danish," that response was counted twice in the tabulations-once in the "French" category and again in the "Danish" category. Thus, the sum of the counts in this type of presentation is not the total population but the total of all responses. 
+First Ancestry Reported: Includes the first response of all persons who reported at least one codeable entry. For example, in this category, the count for "Danish" would include all those who reported only Danish and those who reported Danish first and then some other group. 
+Second Ancestry Reported: Includes the second response of all persons who reported a multiple ancestry. Thus, the count for "Danish" in this category includes all persons who reported Danish as the second response, regardless of the first response provided.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require very high levels of positional accuracy in its geographic products. Its files and maps are designed to show only the relative positions of elements. Coordinates in these files are in decimal degrees and have six implied decimal places.  The positional accuracy of these coordinates may not be as great as the six decimal places suggest and the positional accuracy varies with the source materials used.
+Despite the fact that MEA data positional accuracy is not as high as the coordinate values imply, the six-decimal place precision is useful when producing maps. This precision allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Executive Office of Environmental Affairs</origin>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS Town boundaries (with coastline) dataset</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+            <title>1990 Census of Population and Housing  Summary Tape File (STF-3)</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19900401</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Summary Tape File 3 (STF3)</srccitea>
+        <srccontr>Tabular data for population statistics derived from this source.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundary data and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from US Census Bureau STF-3; Town boundary data derived from MassGIS database. Geographic data was obtained by the Harvard Map Collection via CD-ROM. Attribute information was downloaded from Internet as Excel spreadsheet. The spreadsheet was converted to a DBF file, which was joined to the geography using ArcView GIS v 3.2. The join was based on the town name.</procdesc>
+        <srcused>1990 Census Summary Tape File 3 (STF3)</srcused>
+        <srcused>MassGIS</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>611</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Massachusetts Towns by Ethnicity</enttypl>
+        <enttypd>Polygons represent towns with feature attributes</enttypd>
+        <enttypds>MEA; Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREANAME</attrlabl>
+        <attrdef>State and Town or Town Area Name</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUSUBFP</attrlabl>
+        <attrdef>FIPS 55 Code (County Subdivision), 1990</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNT</attrlabl>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TIM.MEACEN_ETH90.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Polyline length in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNTY</attrlabl>
+        <attrdef>FIPS County Code</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CCD</attrlabl>
+        <attrdef>Census County Division Code</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>FIPS State+County Code</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP80</attrlabl>
+        <attrdef>Town Population in 1980</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP90</attrlabl>
+        <attrdef>Town Population in 1990</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ISLAND</attrlabl>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_CHNG</attrlabl>
+        <attrdef>Change in Population from 1980 to 1990</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN_MGIS</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANCSINGL</attrlabl>
+        <attrdef>Persons who reported identification with only one group</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+        <attrvai>
+          <attrva>Included in this category are persons with multiple-term responses such as "Scotch-Irish" who are assigned a single code.</attrva>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>ANCMULTI</attrlabl>
+        <attrdef>Persons who reported ethnic identification with more than one group</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+        <attrvai>
+          <attrva>Generally, only the first two responses reported were coded in 1990</attrva>
+          <attrvae>Persons in this group were assigned two ancestry codes</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>ANCUNCLS</attrlabl>
+        <attrdef>Persons who provided a response that could not be assigned an ancestry code</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANCNOTRP</attrlabl>
+        <attrdef>Persons who did not provide a response to the ancestry item on the census questionnaire</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_ARAB</attrlabl>
+        <attrdef>First Ancestry Reported - Arab</attrdef>
+        <attrdefs>MEA; Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_AUSTRI</attrlabl>
+        <attrdef>First Ancestry Reported - Austrian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_BELGIA</attrlabl>
+        <attrdef>First Ancestry Reported - Belgian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_CANADI</attrlabl>
+        <attrdef>First Ancestry Reported - Canadian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_CZECH</attrlabl>
+        <attrdef>First Ancestry Reported - Czech</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_DANISH</attrlabl>
+        <attrdef>First Ancestry Reported - Danish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_DUTCH</attrlabl>
+        <attrdef>First Ancestry Reported - Dutch</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_ENGLIS</attrlabl>
+        <attrdef>First Ancestry Reported - English</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_FINNIS</attrlabl>
+        <attrdef>First Ancestry Reported - Finnish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_FRENCH</attrlabl>
+        <attrdef>First Ancestry Reported - French</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_FRCANA</attrlabl>
+        <attrdef>First Ancestry Reported - French-Canadian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_GERMAN</attrlabl>
+        <attrdef>First Ancestry Reported - German</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_GREEK</attrlabl>
+        <attrdef>First Ancestry Reported - Greek</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_HUNGAR</attrlabl>
+        <attrdef>First Ancestry Reported - Hungarian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_IRISH</attrlabl>
+        <attrdef>First Ancestry Reported - Irish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_ITALIA</attrlabl>
+        <attrdef>First Ancestry Reported - Italian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_LITHUA</attrlabl>
+        <attrdef>First Ancestry Reported - Lithuanian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_NORWEG</attrlabl>
+        <attrdef>First Ancestry Reported - Norwegian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_POLISH</attrlabl>
+        <attrdef>First Ancestry Reported - Polish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_PORTUG</attrlabl>
+        <attrdef>First Ancestry Reported - Portugese</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_ROMANI</attrlabl>
+        <attrdef>First Ancestry Reported - Romanian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_RUSSIA</attrlabl>
+        <attrdef>First Ancestry Reported - Russian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_SCOIRS</attrlabl>
+        <attrdef>First Ancestry Reported - Scotch-Irish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_SCOTTI</attrlabl>
+        <attrdef>First Ancestry Reported - Scottish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_SLOVAK</attrlabl>
+        <attrdef>First Ancestry Reported - Slovakian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_SUBAFR</attrlabl>
+        <attrdef>First Ancestry Reported - Sub-Saharan Africa</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_SWEDIS</attrlabl>
+        <attrdef>First Ancestry Reported - Swedish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_SWISS</attrlabl>
+        <attrdef>First Ancestry Reported - Swiss</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_UKRAIN</attrlabl>
+        <attrdef>First Ancestry Reported - Ukrainian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_AMERIC</attrlabl>
+        <attrdef>First Ancestry Reported - American</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_WELSH</attrlabl>
+        <attrdef>First Ancestry Reported - Welsh</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_WSTIND</attrlabl>
+        <attrdef>First Ancestry Reported - West Indian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_YUGOSL</attrlabl>
+        <attrdef>First Ancestry Reported - Yugoslavian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_RACE</attrlabl>
+        <attrdef>First Ancestry Reported - None</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_OTHGRP</attrlabl>
+        <attrdef>First Ancestry Reported - Other</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_UNCLAS</attrlabl>
+        <attrdef>First Ancestry Reported - Unclassified</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_ARAB</attrlabl>
+        <attrdef>Second Ancestry Reported - Arab</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_AUSTRI</attrlabl>
+        <attrdef>Second Ancestry Reported - Austrian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_BELGIA</attrlabl>
+        <attrdef>Second Ancestry Reported - Belgian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_CANADI</attrlabl>
+        <attrdef>Second Ancestry Reported - Canadian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_CZECH</attrlabl>
+        <attrdef>Second Ancestry Reported - Czech</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_DANISH</attrlabl>
+        <attrdef>Second Ancestry Reported - Danish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_DUTCH</attrlabl>
+        <attrdef>Second Ancestry Reported - Dutch</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_ENGLIS</attrlabl>
+        <attrdef>Second Ancestry Reported - English</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_FINNIS</attrlabl>
+        <attrdef>Second Ancestry Reported - Finnish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_FRENCH</attrlabl>
+        <attrdef>Second Ancestry Reported - French</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_FRCANA</attrlabl>
+        <attrdef>Second Ancestry Reported - French-Canadian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_GERMAN</attrlabl>
+        <attrdef>Second Ancestry Reported - German</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_GREEK</attrlabl>
+        <attrdef>Second Ancestry Reported - Greek</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_HUNGAR</attrlabl>
+        <attrdef>Second Ancestry Reported - Hungarian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_IRISH</attrlabl>
+        <attrdef>Second Ancestry Reported - Irish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_ITALIA</attrlabl>
+        <attrdef>Second Ancestry Reported - Italian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_LITHUA</attrlabl>
+        <attrdef>Second Ancestry Reported - Lithuanian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_NORWEG</attrlabl>
+        <attrdef>Second Ancestry Reported - Norwegian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_POLISH</attrlabl>
+        <attrdef>Second Ancestry Reported - Polish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_PORTUG</attrlabl>
+        <attrdef>Second Ancestry Reported - Portugese</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_ROMANI</attrlabl>
+        <attrdef>Second Ancestry Reported - Romanian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_RUSSIA</attrlabl>
+        <attrdef>Second Ancestry Reported - Russian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_SCOIRS</attrlabl>
+        <attrdef>Second Ancestry Reported - Scotch-Irish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_SCOTTI</attrlabl>
+        <attrdef>Second Ancestry Reported - Scottish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_SLOVAK</attrlabl>
+        <attrdef>Second Ancestry Reported - Slovakian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_SUBAFR</attrlabl>
+        <attrdef>Second Ancestry Reported - Sub-Saharan African</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_SWEDIS</attrlabl>
+        <attrdef>Second Ancestry Reported - Swedish</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_SWISS</attrlabl>
+        <attrdef>Second Ancestry Reported - Swiss</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_UKRAIN</attrlabl>
+        <attrdef>Second Ancestry Reported - Ukrainian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_AMERIC</attrlabl>
+        <attrdef>Second Ancestry Reported - American</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_WELSH</attrlabl>
+        <attrdef>Second Ancestry Reported - Welsh</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_WSTIND</attrlabl>
+        <attrdef>Second Ancestry Reported - West Indian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_YUGOSL</attrlabl>
+        <attrdef>Second Ancestry Reported - Yugoslavian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_RACE</attrlabl>
+        <attrdef>Second Ancestry Reported - Not reported</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>O_OTHGRP</attrlabl>
+        <attrdef>Second Ancestry Reported - Other Group</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Polygon area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040224</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

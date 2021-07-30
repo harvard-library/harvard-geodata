@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Geospatial-Intelligence Agency</origin>
+        <pubdate>1995-2001</pubdate>
+        <title>VMap1 Rest Stops, Points</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-vmap1restp</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing vehicle parking and rest areas adjacent to major transportation routes located throughout current VMap1 geographic coverage areas.
+
+Features in this layer have an FACC (Feature and Attribute Coding Catalogue) Code of AQ135, defined as, "Vehicle Stopping Area/Rest Area: A roadside place usually having facilities for people and/or vehicles." 
+
+This layer was derived from the VMAP1 series produced by the National Geospatial-Intelligence Agency (NGA), an agency of the United States government. VMAP data set products use the "vector product format" (vpf) utilized first by the US Defense Mapping Agency and later by its successor, the National Imagery and Mapping Agency (NIMA, now known as the NGA). "VMap" is derived from "Vector Smart Map."
+
+Vector Smart Map (VMAP) Level 1 is a global vector GIS dataset at 1:250,000 scale. This is currently the most detailed global digital dataset freely available and can be downloaded from the National Imagery and Mapping Agency (NGA) website, using their GeoSpatial Engine.  The coverage is not complete - of the 234 zones which make up the dataset, only around 25% are currently (2002) available - others have not yet been completed or are not declassified.  They feature a vast number of files organized into libraries. These libraries, or coverages, are geographicially bounded areas, rather than feature-linked coverages.  
+
+VMAP Layers in the Harvard Geospatial Library are feature-based as we have processed the multiple tiles from the VMAP libraries into a series of seamless coverages (e.g. Aqueduct Lines appear in a single layer, "Aqueduct Lines") which depict a particular feature as it occurs throughout the available geographic coverage areas.  Since different geographic areas were mapped by NIMA at different times using various types of feature capture and scanning and digitizing methods and software, multiple map sources of varying dates and multiple processing approaches are represented in each of these HGL layers. We have necessarily generalized the discussion of data source material and process steps in the Data Quality section of this metadata document.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1995</begdate>
+          <enddate>2001</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.498123</westbc>
+        <eastbc>140.668304</eastbc>
+        <northbc>57.866180</northbc>
+        <southbc>-5.552861</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Roadside rest areas</themekey>
+        <themekey>Roads</themekey>
+      </theme>
+      <theme>
+        <themekt>Alexandria Digital Library Feature Type Thesaurus</themekt>
+        <themekey>Transportation features</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Polar regions</placekey>
+        <placekey>Antarctica</placekey>
+        <placekey>Arctic regions</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed by the NGA no warranty expressed or implied is made by them as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the NGA in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Geospatial-Intelligence Agency</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Corporate Relations</address>
+          <address>Public Affairs Division, MS D-54</address>
+          <address>4600 Sangamore Road</address>
+          <city>Bethesda</city>
+          <state>MD</state>
+          <postal>20816-5003</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>800-455-0899</cntvoice>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The VMAP Level 1 dataset was produced by the National Imagery and Mapping Agency (NIMA) Defense Mapping Agency (DMA) now known as the National Geospatial-Intelligence Agency (NGA).</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Feature Attribute Coding information was derived from The DIgital Geographic Information Exchange STandard (DIGEST) Feature Attribute Coding Catalogue (FACC) which has been prepared by and issued under the authority of the Digital Geographic Information Working Group (DGIWG). 
+Type/Status codes were mapped into the FACC coding scheme.  A full description of FACC may be found in Digital Geographic Information Exchange Standard (DIGEST) Edition 1.2, January 1994.  Not all attributes here have been completely defined by including their enumerated domain values. For example, the USE attribute (Usage) contains over 165 possible values with associated definitions.
+Please consult the DIGEST FACC website for complete coding data. (http://www.digest.org/html/DIGEST_2-1_Part4_AnnexB.pdf)</attraccr>
+    </attracc>
+    <complete>All features in this library have valid attribute codes assigned to them in accordance with this specification (VMapLV1 MILSPEC MIL-V-89033).</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Absolute horizontal accuracy: Derived from cartographic source or generalized from centerline data. Actual map scale and class source of error are contained in the Data Quality coverage. Accuracy is expressed as a circular error at 90% probability.</horizpar>
+        <qhorizpa>
+          <horizpav>-/+(1200)</horizpav>
+        </qhorizpa>
+      </horizpa>
+      <vertacc>
+        <qvertpa>
+          <vertaccv>-/+(134)</vertaccv>
+        </qvertpa>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Geospatial-Intelligence Agency (formerly NIMA)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Joint Operations Graphic (JOG) Series 1501</title>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>JOG Series 1501</sername>
+            </serinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>196?</begdate>
+              <enddate>198?</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>JOG</srccitea>
+        <srccontr>The primary sources for the VMAP layers were  the NIMA (DMA) Joint Operations Graphic (JOG) Charts. The standard DoD medium scale chart, at 1: 250,000 scale, the JOG series displays topographic data such as: relief, drainage, vegetation, populated places, cultural features, coastal hydrography, aeronautical overprint depicting obstructions, aerodromes, special use airspace, navigational aids and related data.
+Coverage within tiles is not always consistent - data may be incomplete or missing altogether. The geographic extent of the VMap Level 1 product is global and consists of multiple regional databases. 
+VMap Level 1 data from standard DMA source products are derived from the feature content defined in the associated military specification.  
+The Vector Product Format (VPF) is defined by a Department of Defense Military Standard (MIL-STD-2407, July 1993), and represents a new data model for digital vector products to be built, maintained, archived, and distributed by DMA.
+The VMAP program is designed to provide vector-based geospatial data at medium (level 1) and high (level 2) resolution. Data is separated into 10 thematic layers consistent throughout the VMAP program. Each layer contains thematically consistent data. A reference library is provided with general information to orient the user. All data is topologically structured. Each coverage contains a set of files that describe the features in that thematic layer. Data volume is tiled at nominal one degree (level 1) and 15 minutes (level 2) expanding in size towards the poles. Cross-tile topology is maintained. Data coverages are boundaries, elevation, hydrography, industry, physiography, population, transportation, utilities, and vegetation. 
+The horizontal datum for this VMap product is WGS84. The vertical datum for this VMap product is mean sea level (MSL).  Data gaps between a VMap Level 1 library may exist due to absence of data.  The unit of measure for VMap is metric.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>NIMA Defense Mapping Agency (now called National Geospatial-Intelligence Agency or NGA)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>VMAP Level 1</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1994</begdate>
+              <enddate>Continuing</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>VMAP</srccitea>
+        <srccontr>Vector digital data produced by Defense Mapping Agency used to create shapefiles.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Automated cartographic techniques were employed to incorporate cartographic data sources into the library.  The primary sources for the VMAP layers were  the NIMA (DMA) Joint Operations Graphic- Air (JOG- A) Charts. The standard DoD medium scale chart, at 1: 250,000 scale, the JOG series displays topographic data such as: relief, drainage, vegetation, populated places, cultural features, coastal hydrography, aeronautical overprint depicting obstructions, aerodromes, special use airspace, navigational aids and related data.
+Other source maps used for some layers include:
+TPC (Tactical Pilotage Chart) 1:500,000; ONC (Operational Navigation Chart) 1:1,000,000; JNC (Jet Navigation Chart) 1:2,000,000 and GNC (Global Navigation &amp; Planning Chart) 1:5,000,000
+
+General Production Process:  
+The production process may vary from library to library, (i.e. sources and procedures may vary by geographic area (library) rather than by feature or coverage type).  We have necessarily generalized source information and process steps (e.g scanning software and type of digitizing boards are not described in detail). For detailed, library-level information on ancillary sources, map dates and and explicit process steps descriptions, please consult NGA documentation available via http://www.nima.mil/portal/site/nga01/
+
+In general, the data were captured from positives developed from the color film separates for each of the sources. A feature inventory was taken to determine which layers were needed to comply with the database and typically scanned at a minimum resolution of 600 dots per inch (dpi).  Because of the density and proximity of the line features on the contour separates, it was often necessary to scan them at a higher resolution (e.g. 1000 dpi).  
+Four tics were identified from the latitude and longitude coordinates at the corners of the projection separate. These tics were used to create a master tic coverage in map inches, to which all coverages were transformed. This uniform transformation registers each coverage from source separates to the same geographic reference. Most features were captured from the raster data by automatic vectorization software.  Other means employed to capture the data include on screen manual digitizing, ArcScan software (Version 7.0) and manual digitizing large format digitizing boards. 
+
+All features were captured in ARC/INFO format (Version 7.0) in a SUN-5 processing environment. After the initial processing phase, the first round of Quality Control checks were made. The data were plotted at scale (inches) using various plotters. The plot was overlaid on the source film separates and the data were checked for positional accuracy, topological correctness and completeness and cartographic presentation quality. It was required that all data fall within a line width of the positions on the source. One-hundred percent of the data were checked and all known errors were corrected.
+
+General Extraction Process:
+Map features were then placed in their appropriate layer according to the database design. Features found on the source materials but not defined by the database design were not captured. This includes all warning, caution and restriction notes on the original source material which have not been extracted.  All name attributes (NAM, NM3, NM4) are capitalized. All Text Descriptions and Named Locations (ZD040, ZD045) have been extracted as they appeared on the source material.
+Information from the Automated Air Facilities Information File does not cover the area of this library; therefore, airfield/airport information from the original JOG source was not updated. Attribute code assignments were performed by registering the source on digitizing boards and coding the features on screen or by relating coded tables to the feature attribute tables.
+Following completion of initial attribute coding, the data were checked by creating code plots and overlaying the plots on the source. On screen checks in ArcEdit were also performed to verify the attribute codes. All data also underwent a series of consistency and item checks.. One hundred percent of the data were checked in this fashion. All known errors were corrected.
+Text strings on the original source were added as annotation into the appropriate coverage only if the information had not already been captured as a feature or attribute.
+The inch coverages were transformed to UTM (Universal Transverse Mercator), and all area and length attributes were coded. The UTM coverages were then projected into decimal-degree coordinates using the ARC/INFO PROJECT command.  The database was often enhanced in currency and content by incorporating CHUM, DVOF and AAFIF data. 
+Vertical obstructions, including powerlines, are extracted from the most reliable source available including the Digital Vertical Obstructions File.
+The representation of boundaries is not necessarily authoritative.  Geographic names or their spelling do not necessarily reflect recognition of the political status of the area by the U.S. Government. The maximum allowable Root Mean Square Error (RMSE) was .004 inch in all transformed data during processing. All line data were processed using a maximum fuzzy tolerance of .002 inch. When reviewing the vegetation layer two densities of tree vegetation were identified, trees which were considered to be 80% DMT, and scattered trees which were considered to be 30% DMT. Attribution of features in adjacent sources may be different due to various factors (differing compilation dates of source material, etc.) For this reason edge matching attribution of these features may not logically occur. In these cases, the feature and/or particular attribution may end at a hardcopy source boundary.</procdesc>
+        <srcused>JOG</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>NGA (formerly NIMA, Defense Mapping Agency)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>4600 Sangamore Road</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Bethesda</city>
+              <state>MD</state>
+              <postal>20816-5003</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>800-455-0899</cntvoice>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>VMAP data was obtained by the Harvard Geospatial Library via download using the NGA public access data portal at: http://geoengine.nima.mil. The data were downloaded as VPF files. These files were then converted to ESRI Shapefiles using the Safe Software Feature Manipulation Engine (FME) 2004 program. The resulting Shapefiles were then imported to an ArcSDE Layer.</procdesc>
+        <srcused>VMAP Data</srcused>
+        <procdate>200402</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>7</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000005</latres>
+        <longres>0.000005</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>WGS84</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>WGS84</altdatum>
+        <altres>1.000000</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+      <depthsys>
+        <depthdn>Mean sea level</depthdn>
+        <depthdu>meters</depthdu>
+        <depthem>Explicit depth coordinate included with horizontal coordinates</depthem>
+      </depthsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Rest Stops</enttypl>
+        <enttypd>Points represent rest stops</enttypd>
+      </enttyp>
+      <attr>
+        <attrlabl>NAME0</attrlabl>
+        <attrdef>NIMA Feature Type Category Group</attrdef>
+        <attrdefs>NIMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Alpha-Numeric code of NIMA Library (geographic coverage area) map sources</attrdef>
+        <attrdefs>NIMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TILE_ID</attrlabl>
+        <attrdef>VPF Format Tile Identifier Code</attrdef>
+        <attrdefs>NIMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOCAL_NAME</attrlabl>
+        <attrdef>ocal name applied to NIMA Feature Type Category</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>F_CODE</attrlabl>
+        <attrdef>Feature Attribute-Type Code</attrdef>
+        <attrdefs>DIGEST</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AQ135</edomv>
+            <edomvd>Vehicle Stopping Area/Rest Area: A roadside place usually having facilities for people and/or vehicles</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>F_CODEDESC</attrlabl>
+        <attrdef>Feature Code Textual Description</attrdef>
+        <attrdefs>DIGEST</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Unique Feature Identifier</attrdef>
+        <attrdefs>Assigned</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>END_ID</attrlabl>
+        <attrdef>Primitive Record Identifier for the Feature</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040910</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

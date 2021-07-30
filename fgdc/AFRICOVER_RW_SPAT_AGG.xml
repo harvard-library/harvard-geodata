@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Food and Agriculture Organization of the United Nations</origin>
+        <origin>Di Gregorio, Antonio</origin>
+        <origin>Rwanda. Ministere des terres, de la reinstallation et de la protection de l'environnement</origin>
+        <origin>Burabyo, Eugene Rurangwa</origin>
+        <pubdate>20021112</pubdate>
+        <title>Rwanda Spatially Aggregated Multipurpose Landcover Database</title>
+        <edition>1st</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-africover-rw-spat-agg</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Rwanda spatially aggregated multipurpose landcover database from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:100,000.
+
+This dataset is a spatially reaggregated version of the original national Africover landcover multipurpose database. The land cover has been produced from visual interpretation of digitally enhanced LANDSAT TM images (Bands 4,3,2) acquired mainly in the year 1999. The land cover classes have been developed using the FAO/UNEP international standard LCCS classification system.</abstract>
+      <purpose>The purpose of the Africover landcover database is to provide the information required for natural resource assessment and management, environmental modeling and decision-making.
+
+The purpose of the Africover Project is to establish a digital georeferenced database on land cover and a geographic referential for the whole of Africa including:
+
+    - geodetical homogeneous referential
+    - toponomy
+    - roads
+    - hydrography
+
+The Multipurpose Africover Database for the Environmental Resources (MADE) is produced at a 1:200,000 scale (1:100,000 for small countries and specific areas).
+
+Reinforcing national and sub-regional capacities for the establishment, update and use of the geographic referential and land cover maps and spatial data bases is the core strategy of Africover: this has been the methodology adopted to ensure an operational approach and the sustainability of the initiative.</purpose>
+      <supplinf>This data set is a reaggregated version of the original national data set; it is intended for free public access. Reaggregation has been performed by eliminating polygons below a certain area threshold. This threshold corresponds to approx. a 30 % reduction in the polygon count. See the spatial aggregation thresholds used for each country in the 'Spatial aggregation' section of the website  (http://www.africover.org/aggregation.htm).</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20021112</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>28.771509</westbc>
+        <eastbc>30.989523</eastbc>
+        <northbc>-0.963372</northbc>
+        <southbc>-2.930110</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Land use</themekey>
+        <themekey>Vegetation mapping</themekey>
+        <themekey>Agriculture</themekey>
+        <themekey>Earth Surface</themekey>
+        <themekey>Grasslands</themekey>
+        <themekey>Forests and forestry</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Rwanda</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>The data remains full property of the owners. It can be accessed, reproduced and distributed given that the owner information is explicitly acknowledged and displayed in the copyright information (I.E. Produced by FAO - Africover). The Authors do not assume any responsibilities for improper use of the data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Mr. Antonio Di Gregorio</cntper>
+          <cntorg>FAO Africover</cntorg>
+        </cntperp>
+        <cntpos>Senior Remote Sensing and Land Cover Mapping Expert</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>c/o FAO Representative in Kenya</address>
+          <address>PO Box 30470</address>
+          <address>00200</address>
+          <city>Nairobi</city>
+          <state>Nairobi</state>
+          <country>Kenya</country>
+        </cntaddr>
+        <cntvoice>+254-(0)2-4440985/4443331/4443715/4441106</cntvoice>
+        <cntfax>+254-(0)2-4441993</cntfax>
+        <cntemail>antonio.digregorio@africover.org</cntemail>
+        <cntinst>http://www.africover.org/</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Food and Agriculture Organization of the United Nations (FAO) and Rwanda.</datacred>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+    <crossref>
+      <citeinfo>
+        <origin>Di Gregorio, Antonio</origin>
+        <origin>Jansen, Louisa J. M.</origin>
+        <pubdate>1998</pubdate>
+        <title>Land cover classification system (LCCS) : classification concepts and user manual</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Rome</pubplace>
+          <publish>Food and Agriculture Organization of the United Nations</publish>
+        </pubinfo>
+        <onlink>http://www.africover.org/download/manuals/LCCSMS20.pdf</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Food and Agriculture Organization of the United Nations</origin>
+        <pubdate>2003</pubdate>
+        <title>Inside MADE</title>
+        <geoform>document</geoform>
+        <pubinfo>
+          <pubplace>Nairobi, Kenya</pubplace>
+          <publish>Food and Agriculture Organization of the United Nations</publish>
+        </pubinfo>
+        <onlink>http://www.africover.org/MADE_use.htm</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>In the aggregation a 30 % reduction in the polygon count has been made. See the spatial aggregation thresholds used for each country in the 'Spatial aggregation' section of the website (http://www.africover.org/aggregation.htm).</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Food and Agriculture Organization of the United Nations</origin>
+            <pubdate>2002</pubdate>
+            <title>Multipurpose Africover Database for the Environmental Resources</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Nairobi, Kenya</pubplace>
+              <publish>Food and Agricultural Organization of the United Nations</publish>
+            </pubinfo>
+            <onlink>http://www.africover.org/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2002</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>africover</srccitea>
+        <srccontr>Source dataset</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The land cover was interpreted from LANDSAT imagery (Bands 4,3,2) acquired mainly in the year 1999, verified by field work, digitised, checked for topological and attribute errors and mosaiced. The data was the aggregated based on area threshold values. See the spatial aggregation thresholds used for each country in the 'Spatial aggregation' section of the website (http://www.africover.org/aggregation.htm).</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1674</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>africover_rw_spat_agg</enttypl>
+        <enttypd>Rwanda spatially aggregated multipurpose landcover database</enttypd>
+        <enttypds>FAO</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USERLABEL</attrlabl>
+        <attrdef>Map codes. Synthetic code used during the interpretation phase. It is built to facilitate class recognition.</attrdef>
+        <attrdefs>Food and Agriculture Organization of the United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Land cover classification system (LCCS) : classification concepts and user manual</codesetn>
+            <codesets>Food and Agriculture Organization of the United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CODE1</attrlabl>
+        <attrdef>Map code 1. Synthetic code used during the interpretation phase. It is built to facilitate class recognition.</attrdef>
+        <attrdefs>Food and Agriculture Organization of the United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Land cover classification system (LCCS) : classification concepts and user manual</codesetn>
+            <codesets>Food and Agriculture Organization of the United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CODE2</attrlabl>
+        <attrdef>Map code 2. Synthetic code used during the interpretation phase. It is built to facilitate class recognition.</attrdef>
+        <attrdefs>Food and Agriculture Organization of the United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Land cover classification system (LCCS) : classification concepts and user manual</codesetn>
+            <codesets>Food and Agriculture Organization of the United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CODE3</attrlabl>
+        <attrdef>Map code 3. Synthetic code used during the interpretation phase. It is built to facilitate class recognition.</attrdef>
+        <attrdefs>Food and Agriculture Organization of the United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Land cover classification system (LCCS) : classification concepts and user manual</codesetn>
+            <codesets>Food and Agriculture Organization of the United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LCCCODE</attrlabl>
+        <attrdef>Land Cover Class Code - unique numerical identifier for each LCCS category</attrdef>
+        <attrdefs>Food and Agriculture Organization of the United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Land cover classification system (LCCS) : classification concepts and user manual</codesetn>
+            <codesets>Food and Agriculture Organization of the United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LCCLEVEL</attrlabl>
+        <attrdef>Boolean formula showing each classifier used to create the class.</attrdef>
+        <attrdefs>Food and Agriculture Organization of the United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Land cover classification system (LCCS) : classification concepts and user manual</codesetn>
+            <codesets>Food and Agriculture Organization of the United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HECTARES</attrlabl>
+        <attrdef>Feature area in hectares</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LC</attrlabl>
+        <attrdef>Major land cover group code</attrdef>
+        <attrdefs>FAO</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AG</edomv>
+            <edomvd>Cultivated Terrestrial &amp; Aquatic</edomvd>
+            <edomvds>FAO</edomvds>
+          </edom>
+          <edom>
+            <edomv>NVT</edomv>
+            <edomvd>Natural Vegetation - Terrestrial</edomvd>
+            <edomvds>FAO</edomvds>
+          </edom>
+          <edom>
+            <edomv>NVW</edomv>
+            <edomvd>Natural Vegetation - Aquatic</edomvd>
+            <edomvds>FAO</edomvds>
+          </edom>
+          <edom>
+            <edomv>UR</edomv>
+            <edomvd>Artificial Surfaces</edomvd>
+            <edomvds>FAO</edomvds>
+          </edom>
+          <edom>
+            <edomv>WAT</edomv>
+            <edomvd>Artificial &amp; Natural Water</edomvd>
+            <edomvds>FAO</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080429</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

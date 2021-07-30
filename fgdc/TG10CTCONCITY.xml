@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Census Bureau. Geography Division</origin>
+        <pubdate>2010</pubdate>
+        <title>Consolidated Cities CT 2010</title>
+        <edition>2010</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-tg10ctconcity</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon data layer represents the 2010 TIGER/Line Census consolidated cities for Connecticut. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  A consolidated city is a unit of local government for which the functions of an incorporated place and its county or minor civil division (MCD) have merged.  This action results in both the primary incorporated place and the county or MCD continuing to exist as legal entities, even though the county or MCD performs few or no governmental functions and has few or no elected officials.  Where this occurs, and where one or more other incorporated places in the county or MCD continue to function as separate governments, even though they have been included in the consolidated government, the primary incorporated place is referred to as a consolidated city.  The Census Bureau classifies the separately incorporated places within the consolidated city as place entities and creates a separate place (balance) record for the portion of the consolidated city not within any other place.  The boundaries of the 2010 Census consolidated cities are those as of January 1, 2010, as reported through the Census Bureau's Boundary and Annexation Survey (BAS).</abstract>
+      <purpose>In order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>201001</begdate>
+          <enddate>201007</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>Publication Date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database.  No changes or updates will be made to this version of the TIGER/Line Shapefiles.  Future releases of TIGER/Line Shapefiles will reflect updates made to the Census MAF/TIGER database.</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.727775</westbc>
+        <eastbc>-71.787239</eastbc>
+        <northbc>42.050587</northbc>
+        <southbc>40.950943</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Land settlement patterns</themekey>
+        <themekey>Boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>State or equivalent entity</themekey>
+        <themekey>Polygon</themekey>
+        <themekey>Consolidated City</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Connecticut</placekey>
+      </place>
+      <place>
+        <placekt>INCITS.38-200x (R2004),INCITS.31-200x (R2007),INCITS.454-200x,INCITS 455-200x,INCITS 446-2008</placekt>
+        <placekey>United States</placekey>
+        <placekey>U.S.</placekey>
+        <placekey>State or Equivalent Entity</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>CT</placekey>
+        <placekey>09</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.
+The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing address</addrtype>
+          <address>4600 Silver Hill Road, Stop 7400</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20233-7400</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>301-763-1128</cntvoice>
+        <cntfax>301-763-4710</cntfax>
+        <cntemail>geo.tiger@census.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy.</attraccr>
+    </attracc>
+    <logic>The Census Bureau performed automated tests to ensure logical consistency and limits of shapefiles.  Segments making up the outer and inner boundaries of a polygon tie end-to-end to completely enclose the area.  All polygons are tested for closure.
+The Census Bureau uses its internally developed geographic update system to enhance and modify spatial and attribute data in the Census MAF/TIGER database.  Standard geographic codes, such as FIPS codes for states, counties, municipalities, county subdivisions, places, American Indian/Alaska Native/Native Hawaiian areas, and congressional districts are used when encoding spatial entities.  The Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census MAF/TIGER database files.  Most of the codes for geographic entities except states, counties, urban areas, Core Based Statistical Areas (CBSAs), American Indian Areas (AIAs), and congressional districts were provided to the Census Bureau by the USGS, the agency responsible for maintaining FIPS 55.  Feature attribute information has been examined but has not been fully tested for consistency.
+For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polygon SDTS Point and Vector Object Type reflects the number of records in the shapefile attribute table.  For multi-polygon features, only one attribute record exists for each multi-polygon rather than one attribute record per individual G-polygon component of the multi-polygon feature.  TIGER/Line Shapefile multi-polygons are an exception to the G-polygon object type classification.  Therefore, when multi-polygons exist in a shapefile, the object count will be less than the actual number of G-polygons.</logic>
+    <complete>Data completeness of the TIGER/Line Shapefiles reflects the contents of the Census MAF/TIGER database at the time the TIGER/Line Shapefiles were created.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Census Bureau. Geography Division</origin>
+            <pubdate>Unpublished material</pubdate>
+            <title>Census MAF/TIGER database</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>201001</begdate>
+              <enddate>201007</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Publication Date</srccurr>
+        </srctime>
+        <srccitea>MAF/TIGER</srccitea>
+        <srccontr>The selected geographic and cartographic information (line segments) are derived from the U.S. Census Bureau's Master Address File Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) database.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database by nation, state, county, and entity.  Census MAF/TIGER data for all of the aforementioned geographic entities are then distributed among the shapefiles each containing attributes for line, polygon, or landmark geographic data.</procdesc>
+        <srcused>Census MAF/TIGER</srcused>
+        <procdate>2010</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>This shapefile was downloaded from the U.S Census TIGER/Line shapefile website in June, 2011.  It was then uploaded to an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" tool in ArcCatalog.</procdesc>
+        <srcused>US Census Shapefiles</srcused>
+        <procdate>2011</procdate>
+        <srcprod>HGL SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Federal Information Processing Standards (FIPS), ANSI, and feature names.</indspref>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000458</latres>
+        <longres>0.000458</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983 in the 48 contiguous states, the District of Columbia, Alaska, Hawaii, Puerto Rico, the Virgin Islands of the United States, and the Pacific Island Areas.</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298257</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>TG10CTCONCITY.shp</enttypl>
+        <enttypd>2010 Census Consolidated City State-based</enttypd>
+        <enttypds>U.S. Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATEFP10</attrlabl>
+        <attrdef>2010 Census state Federal Information Processing Standards
+                 (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of
+                      the States, the District of Columbia, Puerto Rico, and the
+                      Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONCTYFP10</attrlabl>
+        <attrdef>2010 Census consolidated city Federal Information Processing
+                 Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for
+                      Named Populated Places, Primary County Divisions, and
+                      other Locational Entities of the United States, Puerto
+                      Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONCTYNS10</attrlabl>
+        <attrdef>2010 Census consolidated city ANSI code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS 446-2008, (GNIS) Identifying Attributes for Named
+                      Physical and Cultural Geographic Features (Except Roads
+                      and Highways) of the United States, Its Territories,
+                      Outlying Areas, and Freely Associated Areas, and the
+                      Waters of the Same to the Limit of the Twelve-Mile
+                      Statutory Zone</codesetn>
+            <codesets>U.S. Geological Survey (USGS)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GEOID10</attrlabl>
+        <attrdef>Consolidated city identifier; a concatenation of 2010 Census
+                 state FIPS code and consolidated city FIPS code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of
+                      the States, the District of Columbia, Puerto Rico, and the
+                      Insular Areas of the United States (Formerly FIPS 5-2),
+                      INCITS.31-200x (R2007), and the consolidated city FIPS
+                      code found in CONCTYFP10</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME10</attrlabl>
+        <attrdef>2010 Census consolidated city name</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Refer to the names that appear in NAMELSAD00</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAMELSAD10</attrlabl>
+        <attrdef>2010 Census name and the translated legal/statistical area
+                 description for consolidated city</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>03436</edomv>
+            <edomvd>Athens-Clarke County, GA</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>04200</edomv>
+            <edomvd>Augusta-Richmond County, GA</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>11390</edomv>
+            <edomvd>Butte-Silver Bow, MT</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>19000</edomv>
+            <edomvd>Columbus city, GA</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>36000</edomv>
+            <edomvd>Indianapolis city, IN</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>47500</edomv>
+            <edomvd>Milford city, CT</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>52004</edomv>
+            <edomvd>Nashville-Davidson, TN</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LSAD10</attrlabl>
+        <attrdef>2010 Census legal/statistical area description code for
+                 consolidated city</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>25</edomv>
+            <edomvd>city</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>CG</edomv>
+            <edomvd>consolidated government</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>MG</edomv>
+            <edomvd>metropolitan government</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>MT</edomv>
+            <edomvd>metro government</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>UG</edomv>
+            <edomvd>unified government</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASSFP10</attrlabl>
+        <attrdef>2010 Census Federal Information Processing Standards (FIPS) 55
+                 class code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>C3</edomv>
+            <edomvd>Consolidated city</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MTFCC10</attrlabl>
+        <attrdef>MAF/TIGER feature class code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>G4120</edomv>
+            <edomvd>Consolidated City</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FUNCSTAT10</attrlabl>
+        <attrdef>2010 Census functional status</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A</edomv>
+            <edomvd>Active government providing primary general-purpose functions</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ALAND10</attrlabl>
+        <attrdef>2010 Census land area (square meters)</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 to 9,999,999,999,999</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AWATER10</attrlabl>
+        <attrdef>2010 Census water area (square meters)</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 to 9,999,999,999,999</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INTPTLAT10</attrlabl>
+        <attrdef>2010 Census latitude of the internal point</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INTPTLON10</attrlabl>
+        <attrdef>2010 Census longitude of the internal point</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.
+
+This data were originally prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information apparatus, product or process disclosed in this report, and represents that its use would not infringe privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of this data or related materials. Reference therein to any specific commercial product, process, or related service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120110</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

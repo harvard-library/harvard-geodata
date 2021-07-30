@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cambridge14historicdistricts",
+  "dc_title_s": "Historic Districts, Cambridge, Massachusetts, 2014",
+  "dc_description_s": "This layer contains two polygons representing the city's Historic Districts, Fort Washington Historic District and Old Cambridge Historic District. Historic Districts are groups of buildings, structures, and their surroundings that are architecturally and historically distinctive. Exterior changes to buildings within Historic Districts are subject to review by the Historical Commission made up of residents appointed by the City Manager. The GIS data layer was created from paper documents. Cambridge designated its first Historic Districts in 1963, under the state enabling law, Ch. 40C of the Mass. General Laws.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CAMBRIDGE14HISTORICDISTRICTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:CAMBRIDGE14HISTORICDISTRICTS",
+  "layer_slug_s": "harvard-cambridge14historicdistricts",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2014-06-13T00:00:00Z",
+  "dc_creator_sm": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_publisher_s": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Historic districts",
+    "boundaries",
+    "planningCadastre",
+    "City of Cambridge",
+    "Historic Districts",
+    "Historical"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_isPartOf_sm": [
+    "City of Cambridge MA GIS Data 2014"
+  ],
+  "solr_geom": "ENVELOPE(-71.141342, -71.10293, 42.379601, 42.355942)",
+  "solr_year_i": 2014,
+  "harvard_collectionID_sm": [
+    "990142665020203941"
+  ]
+}

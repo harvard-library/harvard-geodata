@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-h006917193-v08-0086",
+  "dc_title_s": "Sanborn map of Boston, Massachusetts, 1899 : Vol. 8 Dorchester, Plate 81 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of a map plate of a section of Boston, Massachusetts from the Sanborn Map Company atlas entitled: Insurance maps of Boston, Massachusetts, Vol. 8 covering parts of Dorchester, Roxbury, and Mattapan, published 1899. This image is of Plate 81. Scale 1:600. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. These large scale fire insurance maps typically include: building footprints, building construction material (frame, brick, stone), building heights, roof types, doors, selected owner names, selected building functions, property boundaries, building street addresses, street names, railroads, fire hydrants, automatic fire alarms and sprinklers, water main pipelines (with size in inches), sewers, and more. Building construction material is shown by colored shading. The index plate of the atlas includes an explanation of map features. This layer is part of a selection of digitally scanned and georeferenced historic fire insurance and land ownership atlases of Boston and Cambridge, Massachusetts from the Harvard Map Collection. The selection of scanned atlases represents a range of originators and ground condition dates (1873-1916).",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/H006917193_V08_0086.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:H006917193_V08_0086",
+  "layer_slug_s": "harvard-h006917193-v08-0086",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-09-18T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Sanborn Map Company"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Insurance, Fire",
+    "Real property",
+    "Landowners",
+    "Buildings",
+    "imageryBaseMapsEarthCover",
+    "structure",
+    "planningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston",
+    "Dorchester"
+  ],
+  "dct_issued_s": "2013-03",
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "solr_geom": "ENVELOPE(-71.075678, -71.07101, 42.303058, 42.298956)",
+  "solr_year_i": 1899,
+  "harvard_collectionID_sm": [
+    "990069171930203941"
+  ]
+}

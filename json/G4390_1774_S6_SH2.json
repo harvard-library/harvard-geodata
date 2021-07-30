@@ -1,0 +1,83 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4390-1774-s6-sh2",
+  "dc_title_s": "Gulf of Mexico and Caribbean Sea Region, 1774 (Image 2 of 2) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: To His Royal Highness. George Augustus Frederick. Prince of Wales &c. &c. &c. This chart of the West Indies,is humbly inscribed by His Royal Highness faithful & obedient servant Joseph Smith Speer ; Thos. Bowen, sculpt. It was published by the author in 1774. This layer is image 2 of 2 total images of the 2 sheet source map, representing the eastern portion of the map. Covers the Gulf of Mexico and Caribbean Sea Region including parts of southern United States, Mexico, Central America, West Indies, and northern South America.The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Mercator projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, ocean currents, shoreline features, and more. Relief shown pictorially. Depths shown by soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4390_1774_S6_SH2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4390_1774_S6_SH2",
+  "layer_slug_s": "harvard-g4390-1774-s6-sh2",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-10-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Speer, Joseph Smith.",
+    "Bowen, Thomas, -1790."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Caribbean Sea",
+    "Mexico, Gulf of",
+    "Anguilla",
+    "Antigua and Barbuda",
+    "Aruba",
+    "Bahamas, The",
+    "Barbados",
+    "Belize",
+    "British Virgin Islands",
+    "Cayman Islands",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Curacao",
+    "Dominica",
+    "Dominican Republic",
+    "El Salvador",
+    "Grenada",
+    "Guadeloupe",
+    "Guatemala",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Martinique",
+    "Mexico",
+    "Montserrat",
+    "Nicaragua",
+    "Panama",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Sint Maarten",
+    "Trinidad and Tobago",
+    "Turks and Caicos Islands",
+    "United States",
+    "Venezuela",
+    "Virgin Islands",
+    "West Indies",
+    "Caribbean Area"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "solr_geom": "ENVELOPE(-82.286463, -56.265154, 35.053175, 3.718267)",
+  "solr_year_i": 1774,
+  "harvard_collectionID_sm": [
+    "990128203730203941"
+  ]
+}

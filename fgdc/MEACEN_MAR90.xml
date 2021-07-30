@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Marriage Statistics by Town, 1990</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacen-mar90</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage for Massachusetts towns and will display marriage statistics for each town.  The statistical data contained here was collected as part of the U.S. Census of Population and Housing and originally published as part of the 1990 Census. Therefore the currentness reference date for the tabular data here is April 1, 1990.  For more information on the definitions and enumeration process please read the "Supplemental Information" and "Attribute Accuracy Statement" sections which follow. This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001.
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The following information pertains to the terms used by the U.S. Census Bureau to define those categories of the population included in this layer. Parts of the following were transcribed from the glossary available through the U.S. Census Fact Finder website at: http://factfinder.census.gov
+
+The marital status classification identifies four major categories: never married, married, widowed, and divorced. These terms refer to the marital status at the time of the enumeration. 
+The category "married" is further divided into "married, spouse present," "separated," and "other married, spouse absent." A person was classified as "married, spouse present" if the husband or wife was reported as a member of the household, even though he or she may have been temporarily absent on business or on vacation, visiting, in a hospital, etc., at the time of the enumeration. People reported as separated included those with legal separations, those living apart with intentions of obtaining a divorce, and other people permanently or temporarily separated because of marital discord. 
+
+The group "other married, spouse absent" includes married people living apart because either the husband or wife was employed and living at a considerable distance from home, was serving away from home in the Armed Forces, had moved to another area, or had a different place of residence for any other reason except separation as defined above.
+
+Single, when used as a marital status category, is the sum of never-married, widowed, and divorced people. "Single," when used in the context of "single-parent family/household," means only one parent is present in the home. The parent may be never-married, widowed, divorced, or married, spouse absent.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200107</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Demography</themekey>
+        <themekey>Population geography</themekey>
+        <themekey>Census</themekey>
+        <themekey>Marital status</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.
+
+Marital Status Attributes
+The data on marital status were derived from answers to questionnaire item 6, which was asked of all persons. The marital status classification refers to the status at the time of enumeration. Data on marital status are tabulated only for persons 15 years old and over. 
+All persons were asked whether they were "now married," "widowed," "divorced," "separated," or "never married." Couples who live together (unmarried persons, persons in common-law marriages) were allowed to report the marital status they considered the most appropriate. 
+Never Married:
+Includes all persons who have never been married, including persons whose only marriage(s) was annulled. 
+Now Married, Except Separated:
+Includes persons whose current marriage has not ended through widowhood, divorce, or separation (regardless of previous marital history). The category may also include couples who live together or persons in common-law marriages if they consider this category the most appropriate. In certain tabulations, currently married persons are further classified as "spouse present" or "spouse absent." 
+Separated:
+Includes persons legally separated or otherwise absent from their spouse because of marital discord. Included are persons who have been deserted or who have parted because they no longer want to live together but who have not obtained a divorce. 
+Widowed:
+Includes widows and widowers who have not remarried. 
+Divorced:
+Includes persons who are legally divorced and who have not remarried. 
+In selected sample tabulations, data for married and separated persons are reorganized and combined with information on the presence of the spouse in the same household. 
+Now Married:
+All persons whose current marriage has not ended by widowhood or divorce. This category includes persons defined above as "separated." 
+Spouse Present:
+Married persons whose wife or husband was enumerated as a member of the same household, including those whose spouse may have been temporarily absent for such reasons as travel or hospitalization. 
+Spouse Absent:
+Married persons whose wife or husband was not enumerated as a member of the same household. This category also includes all married persons living in group quarters. 
+Spouse Absent, Other:
+Married persons whose wife or husband was not enumerated as a member of the same household, excluding separated. Included is any person whose spouse was employed and living away from home or in an institution or absent in the Armed Forces.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The positional accuracy of these coordinates may not be as great as the six decimal places suggest. The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Executive Office of Environmental Affairs</origin>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS Town boundaries (with coastline) dataset</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+            <title>1990 Census of Population and Housing  Summary Tape File (STF-3)</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19900401</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Summary Tape File 3 (STF3)</srccitea>
+        <srccontr>Tabular data for population statistics derived from this source.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundary data and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from US Census Bureau STF-3; Town boundary data derived from MassGIS database. Geographic data was obtained by the Harvard Map Collection via CD-ROM. Attribute information was downloaded from Internet as Excel spreadsheet. The spreadsheet was converted to a DBF file, which was joined to the geography using ArcView GIS v 3.2. The join was based on the town name.</procdesc>
+        <srcused>1990 Census Summary Tape File 3 (STF3)</srcused>
+        <srcused>MassGIS</srcused>
+        <procdate>2001</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>611</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Massachusetts Towns and Marital Status</enttypl>
+        <enttypd>Polygons represent Town boundaries with associated tabular data</enttypd>
+        <enttypds>MEA; Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREANAME</attrlabl>
+        <attrdef>State and Town or Town Area Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUSUBFP</attrlabl>
+        <attrdef>FIPS Town Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNT</attrlabl>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TIM.MEACEN_MAR90.AREA</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature perimeter polyline length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN_N</attrlabl>
+        <attrdef>MassGIS Town-ID Code (alphabetical, 1-351)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNTY</attrlabl>
+        <attrdef>FIPS County only code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CCD</attrlabl>
+        <attrdef>US Census Town Code (Census County Division Code)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>FIPS State+County Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP80</attrlabl>
+        <attrdef>Town Population in 1980</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP90</attrlabl>
+        <attrdef>Town Population in 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ISLAND</attrlabl>
+        <attrdef>Polygon is (1) / is NOT (0) an island - many towns are composed of many polygons</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_CHNG</attrlabl>
+        <attrdef>Population change, 1980-1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWN_NUM</attrlabl>
+        <attrdef>MassGIS Town-ID Code (alphabetical, 1-351)</attrdef>
+        <attrdefs>MassGis</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTALPER</attrlabl>
+        <attrdef>Total 1990 Persons in Town</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MANEVMAR</attrlabl>
+        <attrdef>Number of Males - "Never Married"</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAMAR</attrlabl>
+        <attrdef>Number of "Now Married" Males</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAMARSEP</attrlabl>
+        <attrdef>Number of "Now Married Except Separated" Males</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAMARABS</attrlabl>
+        <attrdef>Number of "Married, Spouse Absent" Males</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAWIDOW</attrlabl>
+        <attrdef>Number of Widowers (males)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MADIVORC</attrlabl>
+        <attrdef>Number of "Divorced" Males</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FENEVMAR</attrlabl>
+        <attrdef>Number of Females - "Never Married"</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMAR</attrlabl>
+        <attrdef>Number of "Now Married" Females</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMARSEP</attrlabl>
+        <attrdef>Number of "Now Married Except Separated" Females</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMARABS</attrlabl>
+        <attrdef>Number of "Married, Spouse Absent" Females</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEWIDOW</attrlabl>
+        <attrdef>Number of Widows (Females)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEDIVORC</attrlabl>
+        <attrdef>Number of "Divorced" Females</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length measured in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040301</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

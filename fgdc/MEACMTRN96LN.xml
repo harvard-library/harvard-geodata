@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Railroads, 1996</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacmtrn96ln</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a line coverage depicting railroad tracks for the entire state of Massachusetts. Each segment of track is coded with its owner, whether it is part of the commuter rail system, whether it is freight operative, and whether it is passenger operative. 
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.
+These data were originally compiled by the Center for Transportation and Public Safety (CTPS) from data provided by the Executive Office of Transportation (EOTC), the MBTA, and individual railroad operators; then supplied to MassGIS to create their "TRAINS" datalayer.  The ground condition reference date for this MassGIS layer is October, 1996.
+The Central Transportation Planning Staff updated and enhanced railroad linework distributed by the United States Geological Survey (USGS) as 1:100,000 Digital Line Graphs (DLGs). CTPS added several attributes pertaining to type of service, MBTA Commuter Rail status and stations, rail line ownership, and freight and passenger operation. MassGIS distributes these data as a single statewide coverage</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199610</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.427276</westbc>
+        <eastbc>-70.128248</eastbc>
+        <northbc>42.871780</northbc>
+        <southbc>41.509747</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Railroads</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.
+
+From MassGIS website documentation on tis Trains layer:
+"The linework is generally excellent, although some railroads are discontinuous (not perfectly edgematched) at USGS 1:100,000 quadrangle boundaries."</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Executive Office of Environmental Affairs</origin>
+            <title>MassGIS Trains Datalayer</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199610</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>The Central Transportation Planning Staff updated and enhanced railroad linework distributed by the United States Geological Survey (USGS) as 1:100,000 Digital Line Graphs (DLGs). CTPS added several attributes pertaining to type of service, MBTA Commuter Rail status and stations, rail line ownership, and freight and passenger operation. MassGIS distributes these data as a single statewide coverage called TRAINS.  
+In addition to the new attribute coding mentioned above (on Ownership, Source of data, etc.), some linework obtained from a variety of sourceswas added to the DLGs by CTPS staff. CTPS also created routes and sections from the arcs for the Commuter Rail lines. MassGIS performed quality checking on the data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>tabular digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Rail line and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Line work and associated tabular data derived from MassGIS TRAINS datalayer.  CTPS staff provided data to MassGIS.
+The Central Transportation Planning Staff updated and enhanced railroad linework distributed by the United States Geological Survey (USGS) as 1:100,000 Digital Line Graphs (DLGs). CTPS added several attributes pertaining to type of service, MBTA Commuter Rail status and stations, rail line ownership, and freight and passenger operation.</procdesc>
+        <procdate>1998</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1546</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System 1983</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000145</absres>
+            <ordres>0.000145</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Massachusetts Rail Lines</enttypl>
+        <enttypd>Lines represent railroads</enttypd>
+        <enttypds>MEA; CTPS; EOTC</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>Internal node number for the beginning of an arc (From-node)</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Sequential unique positive integer</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>Internal node number for the end of an arc (To-node)</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Sequential unique positive integer</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Internal number of poly to left of arc</attrdef>
+        <attrdefs>Assigned</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Sequential unique positive integer</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Internal number of poly to right of arc</attrdef>
+        <attrdefs>Assigned</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Sequential unique positive integer</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CMTRNS_</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CMTRNS_ID</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Type of Service</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Active</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Multi use, Active rail and recreation</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Abandoned Rail Line</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Abandoned Rail Line in Right of Way in Public Ownership</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Activity status is unknown</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Out of Service</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Recreation, hiking or biking</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Out of state, to Bradley, Green and Manchester airports.</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FACILITY</attrlabl>
+        <attrdef>Facility (if any) operator. See: OWNERSHIP Attribute Domain Values</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SOURCE</attrlabl>
+        <attrdef>Source of linework</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>DLG</edomv>
+            <edomvd>Original USGS 1:100000 Digital Line Graphs</edomvd>
+          </edom>
+          <edom>
+            <edomv>CTPS</edomv>
+            <edomvd>Line work or data items altered by CTPS staff</edomvd>
+          </edom>
+          <edom>
+            <edomv>1890</edomv>
+            <edomvd>1890 Topographical maps of Massachusetts (MA publisher)</edomvd>
+          </edom>
+          <edom>
+            <edomv>1938</edomv>
+            <edomvd>1938 General Highway Maps (MA DPW publisher)</edomvd>
+          </edom>
+          <edom>
+            <edomv>VMAP</edomv>
+            <edomvd>VPmap Valuation Section Maps of 1917 of NY, NH&amp;H, and Central NE Lines and circa. 1970's Boston and Maine Valuation Section Map</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMRAIL</attrlabl>
+        <attrdef>"y" (for "Yes') if segment is part of the commuter rail system, otherwise it is blank</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNERSHIP</attrlabl>
+        <attrdef>Organization owning the segment</attrdef>
+        <attrdefs>MEA; CTPS; EOTC</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AMTRAK</edomv>
+            <edomvd>AMTRAK</edomvd>
+          </edom>
+          <edom>
+            <edomv>B&amp;M</edomv>
+            <edomvd>Boston and Maine</edomvd>
+          </edom>
+          <edom>
+            <edomv>CONRAIL</edomv>
+            <edomvd>Consolidated Railroad Corporation</edomvd>
+          </edom>
+          <edom>
+            <edomv>CT</edomv>
+            <edomvd>Out of State, Connecticut</edomvd>
+          </edom>
+          <edom>
+            <edomv>DEM</edomv>
+            <edomvd>MA Department of Environmental Management</edomvd>
+          </edom>
+          <edom>
+            <edomv>EOTC</edomv>
+            <edomvd>MA Executive Office of Transportation and Construction</edomvd>
+          </edom>
+          <edom>
+            <edomv>FEDERAL</edomv>
+            <edomvd>United States Gov't--DOD and Parks</edomvd>
+          </edom>
+          <edom>
+            <edomv>G&amp;U</edomv>
+            <edomvd>Grafton and Upton Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>HOUSATONIC</edomv>
+            <edomvd>Housatonic Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>LOCAL</edomv>
+            <edomvd>City or Town</edomvd>
+          </edom>
+          <edom>
+            <edomv>MBTA</edomv>
+            <edomvd>Massachusetts Bay Transportation Authority</edomvd>
+          </edom>
+          <edom>
+            <edomv>MDC</edomv>
+            <edomvd>Metropolitan District Commission</edomvd>
+          </edom>
+          <edom>
+            <edomv>MTA</edomv>
+            <edomvd>Massachusett Turnpike Authority</edomvd>
+          </edom>
+          <edom>
+            <edomv>MWRA</edomv>
+            <edomvd>Massachusetts Water Resources Authority</edomvd>
+          </edom>
+          <edom>
+            <edomv>NECR</edomv>
+            <edomvd>Northeast Corridor Railroad- AMTRAK</edomvd>
+          </edom>
+          <edom>
+            <edomv>NH</edomv>
+            <edomvd>Out of State, New Hamphire</edomvd>
+          </edom>
+          <edom>
+            <edomv>P&amp;W</edomv>
+            <edomvd>Providence and Worcester Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>PI</edomv>
+            <edomvd>Private Industry</edomvd>
+          </edom>
+          <edom>
+            <edomv>PRIVATE</edomv>
+            <edomvd>Private Owner</edomvd>
+          </edom>
+          <edom>
+            <edomv>PV</edomv>
+            <edomvd>Pioneer Valley</edomvd>
+          </edom>
+          <edom>
+            <edomv>RI</edomv>
+            <edomvd>Out of State, Rhode Island</edomvd>
+          </edom>
+          <edom>
+            <edomv>UTILITY</edomv>
+            <edomvd>Utility</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FREIGHT_OP</attrlabl>
+        <attrdef>Name of the organization providing freight operation on the segment, if any</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BC</edomv>
+            <edomvd>Bay Colony Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>CONRAIL</edomv>
+            <edomvd>Consolidated Railroad Corporation</edomvd>
+          </edom>
+          <edom>
+            <edomv>CV</edomv>
+            <edomvd>Central Vermont Railway</edomvd>
+          </edom>
+          <edom>
+            <edomv>G&amp;U</edomv>
+            <edomvd>Grafton and Upton Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>HOUSATONIC</edomv>
+            <edomvd>Housatonic Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>MCR</edomv>
+            <edomvd>Massachusetts Central Rail Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>P&amp;W</edomv>
+            <edomvd>Providence and Worcester Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>PV</edomv>
+            <edomvd>Pioneer Valley Railroad</edomvd>
+          </edom>
+          <edom>
+            <edomv>QB</edomv>
+            <edomvd>Quincy Bay Terminal Company</edomvd>
+          </edom>
+          <edom>
+            <edomv>STRC</edomv>
+            <edomvd>Springfield Terminal Railway Company</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PASS_OP</attrlabl>
+        <attrdef>Name of the organization providing passenger operation on the segment, if any</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AMTRAK</edomv>
+            <edomvd>AMTRAK</edomvd>
+          </edom>
+          <edom>
+            <edomv>AMTRAK</edomv>
+            <edomvd>AMTRAK summer line to Cape</edomvd>
+          </edom>
+          <edom>
+            <edomv>AMTRAK/MBTA</edomv>
+            <edomvd>AMTRAK and MTBA share service</edomvd>
+          </edom>
+          <edom>
+            <edomv>MBTA</edomv>
+            <edomvd>Massachusetts Bay Transportation Authority</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040303</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

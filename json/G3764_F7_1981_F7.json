@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3764-f7-1981-f7",
+  "dc_title_s": "Framingham, Massachusetts, 1981 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Town of Framingham, Massachusetts, Fred W. Sergeant P.E., Town Engineer, Feb. 1941. Revised Mar. 1981. It was published by Town Engineer in 1981. Scale [ca. 1:19,200]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads (public streets, private ways), railroads, drainage, precinct boundaries, selected buildings, cemeteries, water supply features, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3764_F7_1981_F7.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3764_F7_1981_F7",
+  "layer_slug_s": "harvard-g3764-f7-1981-f7",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Framingham (Mass.). Town Engineer."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Framingham"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "solr_geom": "ENVELOPE(-71.51229, -71.318474, 42.361931, 42.238634)",
+  "solr_year_i": 1981,
+  "harvard_collectionID_sm": [
+    "990131783930203941"
+  ]
+}

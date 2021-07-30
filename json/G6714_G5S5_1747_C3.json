@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6714-g5s5-1747-c3",
+  "dc_title_s": "War of Austrian Succession, Genoa Region, Italy, 1747 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte geometrique de la ville et des environs de Gene : ou on voit l'expedition des Imperiaux et Piemontois contre le Genois et leurs alliez avec les differents postes, retranchements, attaques, deffenses, et mouvements de deux parties, le tout de?ine sur le lieux, et de la maniere la plus exacte dans l'annee 1747. It was published in 1747. Scale [ca. 1:38,980]. Covers the Genoa region, Italy. Map in French.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'European Datum 1950 UTM Zone 32N' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as towns and villages, roads, drainage, built-up areas and selected buildings, fortification and defenses, places of military interest related to the War of Austrian Succession 1740-1748, ground cover, and more. Relief shown by hachures. Includes index.This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6714_G5S5_1747_C3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6714_G5S5_1747_C3",
+  "layer_slug_s": "harvard-g6714-g5s5-1747-c3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2015-01-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Austrian Succession, War of, 1740-1748",
+    "Fortification",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "intelligenceMilitary"
+  ],
+  "dct_spatial_sm": [
+    "Italy",
+    "Genoa"
+  ],
+  "dct_issued_s": "2015-01",
+  "dct_temporal_sm": [
+    "1747"
+  ],
+  "solr_geom": "ENVELOPE(8.748027, 9.071517999999999, 44.545524, 44.345638)",
+  "solr_year_i": 1747,
+  "harvard_collectionID_sm": [
+    "990114981820203941"
+  ]
+}

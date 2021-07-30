@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-maprt-3762-c355p5-1841-g7",
+  "dc_title_s": "Provincetown Harbor, Cape Cod, Massachusetts, 1841 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chart of Cape Cod Harbor and the adjacent coast of Provincetown and Truro, reduced from the original of James D. Graham and published under the patronage of the Boston Marine Insurance Companies by I.W.P. Lewis ; surveyed and projected by J.D. Graham ; W.J. Stone, sc.. It was published in 1841. Scale 1:21,120. Covers Cape Cod from Truro to Provincetown including Provincetown Harbor, Massachusetts. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map is a nautical chart showing coastal features such as harbors, light houses, ocean bottom types, points, inlets, coves, wharves, high and low tide marks, and more. Depths are shown by soundings and contours. Shows also land features: buildings with names of landowners, roads, drainage, and more. Relief is shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MAPRT_3762_C355P5_1841_G7.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MAPRT_3762_C355P5_1841_G7",
+  "layer_slug_s": "harvard-maprt-3762-c355p5-1841-g7",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-05-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Graham, J. D. (James Duncan), 1799-1865.",
+    "Lewis, I. W. P.",
+    "Boston Marine Insurance Company."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Harbors",
+    "Coasts",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "oceans",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cape Cod",
+    "Provincetown Harbor",
+    "Provincetown",
+    "Truro"
+  ],
+  "dct_issued_s": "2006-05",
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "solr_geom": "ENVELOPE(-70.265016, -70.028435, 42.142157, 41.993849)",
+  "solr_year_i": 1841,
+  "harvard_collectionID_sm": [
+    "990081374850203941"
+  ]
+}

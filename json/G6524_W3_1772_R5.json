@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6524-w3-1772-r5",
+  "dc_title_s": "Warsaw, Poland, 1772 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan de Varsovie, lev? par ordre de son exece. Mr. Ct. Bielinski Grand Marechal de la couronne ; dedi? ? son exce. Mr. Le Dte. Wielhorski Gd. aitre d'Hot?l du G.D. de Lithuanie Sarofte de Kaminiec par son tr?s hble. et tr?s obt. serviteur Rizzi Zannoni ; grav? par Chalmandrier ; Arrivet fecit. It was published in 1772. Scale [ca 1:17,000]. Covers Warsaw, Poland. Map in French.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Pulkovo 1942 Adjust 1958 Poland Zone II' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as roads, drainage, built-up areas and selected buildings, fortification, ground cover, and more. Relief shown by hachures. Includes index, aerial view: Vue de Varsovi du c?t? de la Viscule, and views of individual buildings.This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6524_W3_1772_R5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6524_W3_1772_R5",
+  "layer_slug_s": "harvard-g6524-w3-1772-r5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-02-26T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Rizzi-Zannoni, Giovanni Antonio, 1736-1814.",
+    "Bielinski, Franciszek, 1683?-1766, commissioner.",
+    "Chalmandrier, Nicolas.",
+    "Arrivet, J.",
+    "Wielhorski, ca. 1716-1804?, dedicatee."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Poland",
+    "Warsaw"
+  ],
+  "dct_issued_s": "2010-02",
+  "dct_temporal_sm": [
+    "1772"
+  ],
+  "solr_geom": "ENVELOPE(20.914899, 21.114323, 52.302572, 52.173479)",
+  "solr_year_i": 1772,
+  "harvard_collectionID_sm": [
+    "990111483950203941"
+  ]
+}

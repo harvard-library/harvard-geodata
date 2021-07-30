@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95akarcpy",
+  "dc_title_s": "Alaska Native Regional Corporations, 1995 - Alaska",
+  "dc_description_s": "This datalayer depicts feature location and other associated data for Alaska Native Regional Corporations (ANRC). Categories included here are: the ANRC code and ANRC Name. ANRCs are corporate entities established by the Alaska Native Claims Settlement Act. Twelve ANRCs have specific boundaries that together cover the state of Alaska except for the Annette Islands Reserve (an American Indian reservation). A thirteenth corporation represents Alaska Natives not resident in Alaska who do not identify with any of the other 12 corporations.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95AKARCPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95AKARCPY",
+  "layer_slug_s": "harvard-tg95akarcpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-29T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Indian reservations",
+    "Census",
+    "Population",
+    "Demography"
+  ],
+  "dct_spatial_sm": [
+    "Alaska"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-179.14734, 179.778464, 71.389613, 51.215265)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

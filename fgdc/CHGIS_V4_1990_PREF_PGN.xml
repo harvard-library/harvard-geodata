@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>China in Time and Space (CITAS)</origin>
+        <origin>Chinese Academy of Sciences</origin>
+        <origin>Center for International Earth Science Information Network</origin>
+        <pubdate>1995</pubdate>
+        <title>CHGIS Version 4 : CITAS 1990 China Districts</title>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>CITAS China Dimensions</sername>
+        </serinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-chgis-v4-1990-pref-pgn</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>CITAS, Chinese Academy of Sciences</origin>
+            <pubdate>1990</pubdate>
+            <title>China Administrative Regions GIS Data, 1990</title>
+            <geoform>vector digital data</geoform>
+            <onlink>http://sedac.ciesin.columbia.edu/china/</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Administrative Regions (Districts) in the People's Republic of China, 1990.
+
+1990 CITAS Data China in Time and Space [CITAS] datasets have been reprojected to match the CHGIS base datasets.
+
+Separate polygon GIS layers are provided for provinces, prefectures, and counties. See the CHGIS China Dimensions page for a full description of the CITAS datasets.
+
+V4 County layers include statistical data from the 1990 census! See Counties description for details.  -- text from CHGIS v4 CD-ROM.</abstract>
+      <purpose>Redistribution of CITAS GIS dataset in CHGIS projection and format.
+
+The China Historical Geographic Information System (CHGIS) project is designed to provide a GIS platform for scholarly and scientific research. Considerable flexibility has been designed into the GIS, allowing for alternate versions and variations of feature attributes, spatial data, and competing political entities. The CHGIS aims to build a reliable database of administrative units and settlements, but does not wish to impose a closed interpretation on the relationships among those units. The advantage of creating the CHGIS, rather than printing paper maps, is that the relationships between the units can be modified and improved whenever new information becomes available and the new "edition" needs only to be posted on the Internet for users to download. The CHGIS editors have set high editorial standards for the inclusion of material in the CHGIS time series data and regulate the release of the official versions from designated CHGIS participating organizations.  Users may search the database for administrative units and capitals for any given time in Chinese history, can create customized digital maps for particular times and places, or can join their own datasets for spatial analysis, thematic mapping, or other specialized statistical modeling according to their own interests.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1990</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>69.091016</westbc>
+        <eastbc>136.711544</eastbc>
+        <northbc>54.218045</northbc>
+        <southbc>3.681840</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CITAS</themekt>
+        <themekey>Districts and Prefectures, China</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NGA)</placekt>
+        <placekey>China</placekey>
+      </place>
+    </keywords>
+    <accconst>Available to all non-commecial users.</accconst>
+    <useconst>For non-commercial academic research purposes only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Historical GIS</cntorg>
+          <cntper>Lex  Berman</cntper>
+        </cntorgp>
+        <cntpos>Project Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Harvard Yenching Inst, 20 Van Serg, 25 Francis Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+        </cntaddr>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Copyright holders are CIESIN, NASA, CITAS, and Chinese Academy of Sciences</datacred>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+    <crossref>
+      <citeinfo>
+        <title>CITAS 1990 China Districts</title>
+        <serinfo>
+          <sername>China Historical Geographic Information System</sername>
+          <issue>Version: 4</issue>
+        </serinfo>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>ArcMap was used to edit the source shape files and delete the values in any columns containing Chinese characters, then the ArcGIS 9.2 Feature Class to Feature Class tool was used to move the geographic shapes into SDE.  Microsoft Access was used to import the CHGIS-provided text file containing the properly encoded attribute values.  A new text file containing just attributes with Chinese characters was created with the proper encoding, either GBK or UTF-8 depending on the source.  This text file was imported to a new table in Oracle using SQLLoader with the NLS_CHARACTERSET property set to either UTF8 or ZHS16GBK.  The attributes were then joined back to the shapes using Windows SQLPlus with the NLS_LANGUAGE property set to Traditional Chinese.  This process ensured that the encoding was properly interpreted during the import.</procdesc>
+        <srcused>Shapefile</srcused>
+        <procdate>200708</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>346</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <transmer>
+            <sfctrmer>1.000000</sfctrmer>
+            <longcm>111.000000</longcm>
+            <latprjo>0.000000</latprjo>
+            <feast>19500000.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Xian_1980</horizdn>
+        <ellips>Xian_1980</ellips>
+        <semiaxis>6378140.000000</semiaxis>
+        <denflat>298.257000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>v4_citas90_pref_pgn_utf</enttypl>
+        <enttypd>CITAS 1990 China Districts</enttypd>
+        <enttypds>CHGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Y_COORD</attrlabl>
+        <attrdef>Decimal Degrees Longitude for Point</attrdef>
+        <attrdefs>CHGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADM2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HZ_NAME</attrlabl>
+        <attrdef>1990 District Name, Chinese</attrdef>
+        <attrdefs>CHGIS</attrdefs>
+        <attrdomv>
+          <udom>Text. [Chinese characters may not display properly on machines without the proper character sets installed.]</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PY_NAME</attrlabl>
+        <attrdef>1990 District Name, Pinyin</attrdef>
+        <attrdefs>CHGIS</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADM1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ADM_LVL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>GB_91</attrlabl>
+        <attrdef>GB (Guo Biao -- National Standard) Codes for the Administrative Divisions of the People's Republic of China, 1991</attrdef>
+        <attrdefs>CHGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>X_COORD</attrlabl>
+        <attrdef>Decimal Degrees Latitude for Point</attrdef>
+        <attrdefs>CHGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+          <transize>10.322</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20070208</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Historical GIS</cntorg>
+          <cntper>Lex Berman</cntper>
+        </cntorgp>
+        <cntpos>Project Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Harvard Yenching Inst, 20 Van Serg, 25 Francis Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-384-7380</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Division of Marine Fisheries</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Designated Shellfish Growing Areas (Polygons) (October 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisdsgap2</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Designated Shellfish Growing Area (DSGA) datalayer was compiled by the Department of Fisheries, Wildlife and Environmental Law Enforcement's (DFWELE) Division of Marine Fisheries (DMF). Three hundred and three growing areas in Massachusetts have been designated by DMF's Shellfish Project.  The data are stored in two feature layers: Designated Shellfish Growing Areas (Arcs) and Designated Shellfish Growing Areas (Polygons). 
+
+A designated shellfish growing area is an area of potential shellfish habitat, and all three hundred and three DSGA's make up the territorial waters (tidal zone out to the territorial line) of the Commonwealth. Growing areas are managed with respect to shellfish harvest for direct human consumption, and comprise at least one or more classification areas. The classification areas are the management units, and range from being approved to prohibited (six different classification types in all) with respect to shellfish harvest. For example, one growing area may be composed of four classification areas, all of which are managed separately (have a classification type the same or different from the rest in the growing area).  This coverage reflects classification areas as of July 1, 2000.  The dataset was originally issued in October 2000.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20000701</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.288101</westbc>
+        <eastbc>-69.830174</eastbc>
+        <northbc>42.878800</northbc>
+        <southbc>41.187242</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Shellfish</themekey>
+        <themekey>Aquatic habitat</themekey>
+        <themekey>Fisheries</themekey>
+        <themekey>Marine resources</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>oceans</themekey>
+        <themekey>biota</themekey>
+        <themekey>environment</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Atlantic Ocean</placekey>
+        <placekey>Gulf of Maine</placekey>
+        <placekey>Massachusetts Bay</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+        <hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Division of Marine Fisheries</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Designated Shellfish Growing Areas (Arcs) (October 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.ed</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Division of Marine Fisheries</origin>
+        <pubdate>200010</pubdate>
+        <title>Shellfish Sampling Stations</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://www.mass.gov/mgis/shlfshst.htm</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Check plots were created and boundaries QA/QC'd by the biologists</attraccr>
+    </attracc>
+    <logic>Unknown.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:24,000 Digital Line Graph files</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DLG 24K</srccitea>
+        <srccontr>Base map feature source</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:100,000 Digital Line Graph files</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DLG 100K</srccitea>
+        <srccontr>Base map feature source</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:25,000 USGS quads</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>unknown ed./dates</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS topos</srccitea>
+        <srccontr>Base map feature source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The growing areas and their classification areas were defined by DMF shellfish project biologists.  Compilation base maps covering the entire coast and islands were plotted at 1:12,000 using hydrography from 1:24,000 USGS DLG; 1:100,000 USGS DLG; and 1:25,000 USGS Topographic maps, all modified and enhanced by MassGIS.  In addition, town boundaries, the territorial waters line and roads were plotted on these base maps.  Shellfish project biologists compiled area boundaries onto the base maps, and these boundaries were then digitized or constructed using existing hydrography, town or territorial sea lines by DMF GIS personnel.  Check plots were created and boundaries QA/QC'd by the biologists</procdesc>
+        <srcused>DLG 24K</srcused>
+        <srcused>DLG 100K</srcused>
+        <srcused>USGS topos</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Division of Marine Fisheries</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>251 Causeway Street</address>
+              <address>Suite 400</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-626-1520</cntvoice>
+            <cntemail>marine.fish@state.ma.us</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1696</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000109</absres>
+            <ordres>0.000109</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISDSGAP2</enttypl>
+        <enttypd>Designated Shellfish Growing Areas (Polygons)</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GRW_AREAID</attrlabl>
+        <attrdef>ID associated to each growing area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Unique whole numbers for each growing area</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CL_DESC_ID</attrlabl>
+        <attrdef>Unique ID for each class area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Unique whole numbers for each class</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GRW_AREACD</attrlabl>
+        <attrdef>Code name for growing area.  For example: N2 is the GRW_AREACD for the Merrimack River</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric code name</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GRW_AREANM</attrlabl>
+        <attrdef>Meaningful name for growing area (For example: Merrimack River for N2)</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CL_AREANM</attrlabl>
+        <attrdef>Classification area name (Code format similar to GRW_AREACD.  Starts with GRW_AREACD and is appended by a '.' and  a number making it unique within the growing area.  For example: N2 has a classification area in it called N2.0</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric code</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CL_TYPE</attrlabl>
+        <attrdef>Classification type or how classification area is classified with respect to shellfish harvest for direct human consumption. There are six classification types.  Note: symbol numbers have been included [with the codeset domain value definitions] because the Division of Marine Fisheries Shellfish Project has asked that the same shadeset symbols are used for each classification type so that maps are plotted consistently.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>APPROVED</edomv>
+            <edomvd>Open for harvest of shellfish for direct human consumption subject to local rules and state regulations. (SHADESET SWPI - SYMBOL 3)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CONDITIONALLY APPROVED</edomv>
+            <edomvd>During the time area is approved it is open for harvest of shellfish for direct human consumption subject to local rules and state regulations. (SHADESET SWPI-SYMBOL 502)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CONDITIONALLY RESTRICTED</edomv>
+            <edomvd>During the time area is restricted it is only open for the harvest of shellfish with depuration subject to local rules and state regulations. (SHADESET SWPI- SYMBOL 265)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>MANAGEMENT CLOSURE</edomv>
+            <edomvd>Closed for harvest of shellfish. Not enough testing has been done in the area to determine whether it is fit for shellfish harvestor not.(SHADESET SWPI- SYMBOL 34)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PROHIBITED</edomv>
+            <edomvd>Closed for harvest of shellfish. (SHADESET SWPI - SYMBOL 2)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>RESTRICTED</edomv>
+            <edomvd>Open for harvest of shellfish with depuration subject to local rules and state regulations or for the relay of shellfish.  (SHADESET SWPI - SYMBOL 381)</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CL_STATUS</attrlabl>
+        <attrdef>Classification status or whether the area is OPEN or CLOSED to shellfish harvest for direct human consumption.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>OPEN</edomv>
+            <edomvd>Open to shellfish harvesting</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CLOSED</edomv>
+            <edomvd>Closed to shellfish harvesting</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CL_BEGINDT</attrlabl>
+        <attrdef>Date classification area was classified.</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Calendar Date</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA_1</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060620</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5740-1725-v5",
+  "dc_title_s": "Great Britain, ca. 1695 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Magnae Britanniae Tabula : comprehendens Angliae, Scotiae, ac Hiberniae Regna, in omnes suascujusque Provincias peraccurate et distincte divisa / per Nicolm. Vissche, Amst. Bat. It was published by P. Schenk Jur. ca. 1725. Scale [ca. 1:2,300,000]. Map in Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also ornate title cartouche with Hercules clubbing the hydra and dedication to King William III: 'Guilielmo III D.G. Angliae, Scotiae, Franciae, et Hiberniae Regi; religionis et libertatis oppressae liberatori ac defensori.' This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5740_1725_V5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5740_1725_V5",
+  "layer_slug_s": "harvard-g5740-1725-v5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Visscher, Nicolaes, 1649-1702.",
+    "Schenk, Pieter, approximately 1698-1775."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Boundaries",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1695"
+  ],
+  "solr_geom": "ENVELOPE(-15.39223, 10.106488, 60.437526, 48.101213)",
+  "solr_year_i": 1695,
+  "harvard_collectionID_sm": [
+    "990132267530203941"
+  ]
+}

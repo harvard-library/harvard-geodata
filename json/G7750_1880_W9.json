@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7750-1880-w9",
+  "dc_title_s": "Sri Lanka, 1880-1889 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Ceylon. It was published by James Wyld, Geographer to the Queen, between 1880 and 1889. Scale [ca. 1:580,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM Zone 44N, meters, WGS 1984) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, railroads, territorial and administrative boundaries, shoreline features, and more. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7750_1880_W9.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7750_1880_W9",
+  "layer_slug_s": "harvard-g7750-1880-w9",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-12-08T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Wyld, James, 1812-1887."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_issued_s": "2011-12",
+  "dct_temporal_sm": [
+    "1690-1699"
+  ],
+  "solr_geom": "ENVELOPE(78.654993, 82.327275, 10.170024, 5.513706)",
+  "solr_year_i": 1690,
+  "harvard_collectionID_sm": [
+    "990126346760203941"
+  ]
+}

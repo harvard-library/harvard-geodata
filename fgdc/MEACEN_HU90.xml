@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Housing Occupancy and Tenure, 1990</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacen-hu90</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage for Massachusetts towns which displays tabular data on housing unit occupancy, ownership status, median age of structures as well as vehicles associated with different types of housing or living quarters.  For more information on the terms and definitions used for these attributes, please read the "Supplemental Information" section below.
+
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The following information pertains to the terms used by the U.S. Census Bureau to define the data included in this layer. Parts of the following were transcribed from the glossary available through the U.S. Census Fact Finder website at: http://factfinder.census.gov
+
+Living Quarters 
+Living quarters are classified as either housing units or group quarters. This datalayer includes information on housing units only.
+Usually, living quarters are in structures intended for residential use (for example, a one-family home, apartment house, hotel or motel, boarding house, or mobile home). Living quarters also may be in structures intended for nonresidential use (for example, the rooms in a warehouse where a guard lives), as well as in places such as tents, vans, shelters for the homeless, dormitories, barracks, and old railroad cars. 
+Housing Units:
+A housing unit is a house, an apartment, a mobile home or trailer, a group of rooms or a single room occupied as separate living quarters or, if vacant, intended for occupancy as separate living quarters. Separate living quarters are those in which the occupants live and eat separately from any other persons in the building and which have direct access from outside the building or through a common hall. 
+The occupants may be a single family, one person living alone, two or more families living together, or any other group of related or unrelated persons who share living arrangements. For vacant units, the criteria of separateness and direct access are applied to the intended occupants whenever possible. If that information cannot be obtained, the criteria are applied to the previous occupants. 
+Both occupied and vacant housing units are included in the housing unit inventory, except that recreational vehicles, boats, vans, tents, railroad cars, and the like are included only if they are occupied as someone's usual place of residence. Vacant mobile homes are included provided they are intended for occupancy on the site where they stand. Vacant mobile homes on dealers' sales lots, at the factory, or in storage yards are excluded from the housing inventory. 
+
+Occupied Housing Units:
+A housing unit is classified as occupied if it is the usual place of residence of the person or group of persons living in it at the time of enumeration, or if the occupants are only temporarily absent; that is, away on vacation or business. If all the persons staying in the unit at the time of the census have their usual place of residence elsewhere, the unit is classified as vacant. A household includes all the persons who occupy a housing unit as their usual place of residence. By definition, the count of occupied housing units for 100-percent tabulations is the same as the count of households or householders. In sample tabulations, the counts of household and occupied housing units may vary slightly because of different sample weighting methods. 
+
+Vacant Housing Units:
+A housing unit is vacant if no one is living in it at the time of enumeration, unless its occupants are only temporarily absent. Units temporarily occupied at the time of enumeration entirely by persons who have a usual residence elsewhere also are classified as vacant.
+New units not yet occupied are classified as vacant housing units if construction has reached a point where all exterior windows and doors are installed and final usable floors are in place. Vacant units are excluded if they are open to the elements; that is, the roof, walls, windows, and/or doors no longer protect the interior from the elements, or if there is positive evidence (such as a sign on the house or in the block) that the unit is condemned or is to be demolished.
+
+Tenure (Owner/Renter Occupied) 
+All occupied housing units are classified as either owner occupied or renter occupied. 
+Owner Occupied:
+A housing unit is owner occupied if the owner or co-owner lives in the unit even if it is mortgaged or not fully paid for. The owner or co-owner must live in the unit.
+The unit is "Owned by you or someone in this household with a mortgage or loan" if it is being purchased with a mortgage or some other debt arrangement such as a deed of trust, trust deed, contract to purchase, land contract, or purchase agreement. The unit is also considered owned with a mortgage if it is built on leased land and there is a mortgage on the unit. 
+A housing unit is "Owned by you or someone in this household free and clear (without a mortgage)" if there is no mortgage or other similar debt on the house, apartment, or mobile home including units built on leased land if the unit is owned outright without a mortgage. Although owner-occupied units are divided between mortgaged and owned free and clear on the questionnaire, census data products containing 100-percent data show only total owner-occupied counts. More extensive mortgage information was collected on the long-form questionnaire and are shown in census products containing sample data. 
+
+Renter Occupied: 
+All occupied housing units which are not owner occupied, whether they are rented for cash rent or occupied without payment of cash rent, are classified as renter occupied. "No cash rent" units are separately identified in the rent tabulations. Such units are generally provided free by friends or relatives or in exchange for services such as resident manager, caretaker, minister, or tenant farmer. Housing units on military bases also are classified in the "No cash rent" category. "Rented for cash rent" includes units in continuing care, sometimes called life care arrangements. These arrangements usually involve a contract between one or more individuals and a health services provider guaranteeing the individual shelter, usually a house or apartment, and services, such as meals or transportation to shopping or recreation. 
+
+Median Year Structure Built 
+The data on year structure built were obtained from questionnaire item H17, which was asked at both occupied and vacant housing units. This item was asked on a sample basis. Data on year structure built refer to when the building was first constructed, not when it was remodeled, added to, or converted. For housing units under construction that met the housing unit definition--that is, all exterior windows, doors, and final usable floors were in place--the category "1989 or March 1990" was used. For a houseboat or a mobile home or trailer, the manufacturer's model year was assumed to be the year built. The figures shown in census data products relate to the number of units built during the specified periods that were still in existence at the time of enumeration. 
+The median divides the distribution into two equal parts. The median is rounded to the nearest calendar year.
+
+Vehicles Available 
+The data on vehicles available were obtained from questionnaire item H13, which was asked at occupied housing units. This item was asked on a sample basis. These data show the number of households with a specified number of passenger cars, vans, and pickup or panel trucks of one-ton capacity or less kept at home and available for the use of household members. Vehicles rented or leased for one month or more, company vehicles, and police and government vehicles are included if kept at home and used for non-business purposes. Dismantled or immobile vehicles are excluded. Vehicles kept at home but used only for business purposes also are excluded.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19900401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+        <themekey>structure</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Population geography</themekey>
+        <themekey>Census</themekey>
+        <themekey>Vehicles</themekey>
+        <themekey>Housing</themekey>
+        <themekey>Rental Housing</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The positional accuracy of these coordinates may not be as great as the six decimal places suggest. The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Massachusetts Executive Office of Environmental Affairs</origin>
+            <title>MassGIS Town Boundaries</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>MassGIS</srccitea>
+        <srccontr>Town boundaries derived from MassGIS Town boundaries (with coastline) dataset</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+            <title>1990 Census of Population and Housing  Summary Tape File (STF-3)</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19900401</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Summary Tape File 3 (STF3)</srccitea>
+        <srccontr>Tabular data for population statistics derived from this source.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundary data and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular data compiled and edited from US Census Bureau STF-3; Town boundary data derived from MassGIS database. Geographic data was obtained by the Harvard Map Collection via CD-ROM. Attribute information was downloaded from Internet as Excel spreadsheet. The spreadsheet was converted to a DBF file, which was joined to the geography using ArcView GIS v 3.2. The join was based on the town name.</procdesc>
+        <srcused>1990 Census Summary Tape File 3 (STF3)</srcused>
+        <srcused>MassGIS</srcused>
+        <procdate>2001</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>611</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>TIM.MEACEN_HU90</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TIM.MEACEN_HU90.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Polyline perimeter length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMHOUSU</attrlabl>
+        <attrdef>Total number of housing units</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HSOCC</attrlabl>
+        <attrdef>Number of Housing units which are Occupied</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HSVAC</attrlabl>
+        <attrdef>Number of Housing Units which are Vacant</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNEROCC</attrlabl>
+        <attrdef>Number of Housing Units which are Owner-Occupied</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RNTROCC</attrlabl>
+        <attrdef>Number of Renter-Occupied Housing Units</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MEDYRBLT</attrlabl>
+        <attrdef>Median Year Structure Built</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrvai>
+          <attrva>Data on year structure built refer to when the building was first constructed, not when it was remodeled, added to, or converted . The median divides the distribution into two equal parts. The median is rounded to the nearest calendar year.</attrva>
+          <attrvae>Median age of housing can be obtained by subtracting median year structure built from 1990. For example, if the median year structure built is 1957, the median age of housing in that area is 33 years (1990 minus 1957).</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>VEHOWN</attrlabl>
+        <attrdef>Vehicles available at Owner-Occupied Housing Units</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEHRNT</attrlabl>
+        <attrdef>Vehicles available at Renter-Occupied Housing Units</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZOWNEROCC</attrlabl>
+        <attrdef>Owner-occupied housing units expressed as a percentage</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZRENTEROCC</attrlabl>
+        <attrdef>Renter-occupied housing units expressed as a percentage</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZVACANT</attrlabl>
+        <attrdef>Vacant housing units expressed as a percentage</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTALUNITS</attrlabl>
+        <attrdef>Total number of housing units</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Polygon area in sqaure coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040226</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

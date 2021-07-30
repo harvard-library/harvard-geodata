@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>US Census Bureau</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Beach Locations</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meabeach95pt</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage of named beaches along the coast of  Massachusetts including those which extend into Connecticut and Maine.
+
+This layer was derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. 
+
+These data are an extract from the U.S. Geological Survey Geographic Names Information System December 1996 CD-ROM. The GNIS is a data system developed by the USGS in cooperation with the U.S. Board on Geographic Names. The GNIS includes three databases: the National Geographic Names Data Base (NGNDB), the National Topographic Map Names Data Base (NTMNDB) and the Reference Data Base. The principal database in the GNIS is the National Geographic Names Data Base (NGMNDB) which includes known places, features, and areas of the United States that are identified by proper names. The primary source of these data are the USGS topographic map series. 
+
+The GNIS feature class of BEACHES is defined as "the sloping shore that lies along a body of water and that is washed by waves or tides and usually covered by sand or gravel".  The vast majority of points in this layer occur along coastal beaches, and there are only a few which are located along lakes or ponds.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-72.771708</westbc>
+        <eastbc>-69.909297</eastbc>
+        <northbc>42.874232</northbc>
+        <southbc>41.238304</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>oceans</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Beaches</themekey>
+        <themekey>Seashore</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>The tabular data here are extracted from the U.S. Geological Survey Geographic Names Information System December 1996 CD-ROM. The GNIS is a data system developed by the USGS in cooperation with the U.S. Board on Geographic Names. The GNIS includes three databases: the National Geographic Names Data Base (NGNDB), the National Topographic Map Names Data Base (NTMNDB) and the Reference Data Base. The principal database in the GNIS is the National Geographic Names Data Base (NGMNDB) which includes known places, features, and areas of the United States that are identified by proper names. The primary source of these data are the USGS topographic map series.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>166</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System 1983</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000145</absres>
+            <ordres>0.000145</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Beaches</enttypl>
+        <enttypd>Points represent named beaches</enttypd>
+        <enttypds>ESRI; USGS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Internal Feature Number</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IG</attrlabl>
+        <attrdef>GNIS ID Number</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NM</attrlabl>
+        <attrdef>Feature Name</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FI</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TF</attrlabl>
+        <attrdef>Feature Type</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SC</attrlabl>
+        <attrdef>State + County FIPS Code</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ST</attrlabl>
+        <attrdef>Name of State where feature is located</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CN</attrlabl>
+        <attrdef>Name of County where feature is located</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>EL</attrlabl>
+        <attrdef>Elevation Above sea level</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MP</attrlabl>
+        <attrdef>USGS 7.5 minute series Topographic quadrangle map containing feature</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>QC</attrlabl>
+        <attrdef>USGS 7.5 Minute Series Quadrangle Map Number containing feature</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LL</attrlabl>
+        <attrdef>Alpha-Numeric for Latitude/Longitude of Feature</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrvai>
+          <attrva>Expressed in Degrees, Minutes, Seconds</attrva>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>DT</attrlabl>
+        <attrdef>Decimal Degrees Latitude for Point</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DL</attrlabl>
+        <attrdef>Decimal Degrees Longitude for Point</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HD</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VN</attrlabl>
+        <attrdef>Variant Feature Name</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NF</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BC</attrlabl>
+        <attrdef>Bibliographic Reference Code. A variable-length alphanumeric coded entry that references the source for each name record not compiled from USGS topographic maps during initial compilation. M or T characters correspond to Map or Text, respectively.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrvai>
+          <attrvae>If the source referenced is an atlas or text, the code will be followed by a slash (/) and the appropriate map or page number(s). The codes are cross-referenced to fully documented and annotated bibliographies in the Reference Data Base. The absence of a code indicates that the name was compiled during Phase I (1978-81) from the most current, largest-scale USGS topographic map available.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>FS</attrlabl>
+        <attrdef>Federal Status. A variable-length alphabetic entry that indicates the year of any decision by the U.S. Board on Geographic Names regarding the feature name or its application.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrvai>
+          <attrvae>This means the name or application of the name of the feature has been the subject of controversy and has undergone special research and consideration by the Board. The format of the entry is BGN YEAR, where YEAR is the appropriate year of the BGN decision. If the name has been made official by an act of Congress, the format will be US YEAR.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>BG</attrlabl>
+        <attrdef>Date of entry or change in database in YY/MM format</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DE</attrlabl>
+        <attrdef>Description of Feature Location</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HI</attrlabl>
+        <attrdef>Notes on Feature name, origin or meaning</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ED</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE</attrlabl>
+        <attrdef>Decimal Degrees Latitude for Point</attrdef>
+        <attrdefs>Calculated</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attrdef>Decimal Degrees Longitude for Point</attrdef>
+        <attrdefs>Calculated</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040507</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

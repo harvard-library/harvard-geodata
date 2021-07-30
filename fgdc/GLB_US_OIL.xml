@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <pubdate>19960326</pubdate>
+        <title>Global GIS : 1995 National Oil and Gas Assessment - 1 mile cell data</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Denver, Colo.</pubplace>
+          <publish>U.S. Geological Survey, Central Region Energy Team</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-us-oil</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The USGS Central Region Energy Team assessed the oil and gas resources of the United States. Cell maps for each oil and gas production area were created by the USGS as a method for illustrating the degree of exploration, type of production, and distribution of production in a play. Each cell represents a one-mile square of the land surface, and the cells are coded to represent whether the wells included within the cell are predominantly oil-producing, gas-producing, or dry. The well information was initially retrieved from the Petroleum Information Well History Control System (WHCS), which is a proprietary, commercial database containing information for most oil and gas wells in the U.S. Cells were developed as a graphic solution to overcome the problem of displaying proprietary WHCS data. No proprietary data are displayed or included in the cell maps. The data used to generate the cells are from WHCS and are current as of December, 1990.  This version of the dataset was published as part of the USGS Global GIS : global coverage database (2003).
+ 
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>The purpose of the cell map is to display the exploration maturity, type of production, and distribution of production in one-mile cells for each of the oil and gas plays defined in the 1995 U.S. National Oil and Gas Assessment.
+
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19960326</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.858365</westbc>
+        <eastbc>-0.007002</eastbc>
+        <northbc>48.994835</northbc>
+        <southbc>0.004704</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Oils wells</themekey>
+        <themekey>Gas wells</themekey>
+        <themekey>Petroleum reserves</themekey>
+        <themekey>Natural gas reserves</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>None.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Central Region Energy Team</cntorg>
+          <cntper>Dave Ferderer</cntper>
+        </cntorgp>
+        <cntpos>Data Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>U.S. Geological Survey</address>
+          <address>P.O. Box 25046 MS 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225-0046</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(303) 236-3611</cntvoice>
+        <cntfax>dferdere@usgs.gov</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>None</sechandl>
+    </secinfo>
+    <native>Arc/Info</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The accuracy of the cells, as created by the FORTRAN program of D.H. Root and R.F. Mast, depends on the accuracy of the oil and gas well information in the version of the Petroleum Information System (PI) Well History Control System (WHCS) database. For the national scale of the 1995 Oil and Gas Assessment, the assumption was made that the data in WHCS were of sufficient accuracy for such a national-scale analysis.</attraccr>
+    </attracc>
+    <logic>A sampling of cell locations and cell attributes were visually compared to a hard-copy plot of wells to identify errors.</logic>
+    <complete>The cells were defined using the well data in the Petroleum Information System (PI) Well History Control System (WHCS) database. The WHCS database contains over two million wells for the U.S., which, although not a complete tabulation of all U.S. wells, is the most complete well database available for the United States.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A visual comparison was made using a sampling of cell locations and cell attributes with well locations and attributes. In particular, the values of latitude and longitude for the wells in WHCS were assumed to be accurate.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Gautier, Donald L.</origin>
+            <pubdate>19960326</pubdate>
+            <title>1995 national assessment of United States oil and gas resources : results, methodology, and supporting data</title>
+            <edition>Release 2</edition>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-30</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Denver, CO]</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>edited by Donald L. Gautier ... [et al.].</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19960326</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccontr>spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Beeman, William R.</origin>
+            <origin>Obuch, Raymond C.</origin>
+            <origin>Brewton, James D.</origin>
+            <pubdate>19960325</pubdate>
+            <title>Digital map data, text, and graphical images in support of the 1995 national assessment of United States oil and gas resources</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-35</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Denver, Colo.]</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>[compiled by William R. Beeman, Raymond C. Obuch, and James D. Brewton].</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19960325</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccontr>spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Charpentier, Ronald R.</origin>
+            <pubdate>19960325</pubdate>
+            <title>Tabular data, text, and graphical images in support of the 1995 national assessment of United States oil and gas resources</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-36</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Denver, CO]</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>compiled by Ronald R. Charpentier ... [et al.].</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19960325</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccontr>spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Petroleum Information Corporation</origin>
+            <pubdate>19901201</pubdate>
+            <title>Well History Control System</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Houston, Texas</pubplace>
+              <publish>Petroleum Information Corporation</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>digital tape media</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19901201</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>WHCS</srccitea>
+        <srccontr>Lat./Long. Points, Final Well Class</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Oil and gas well information for each petroleum province in the U.S. was analyzed with a FORTRAN program written by D.H. Root (ret.) and R.F. Mast (ret.). This program converted the PI WHCS data into latitude-longitude points that represent the center-points of one-mile square cells. The cells were then assigned an attribute based on the type of production of the wells located within the cell. The latitude-longitude center points were converted to an Arc/INFO coverage using the GENERATE command.</procdesc>
+        <srcused>WHCS</srcused>
+        <procdate>19950315</procdate>
+        <srcprod>Global GIS Data Set</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>431301</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS US National Oil and Gas Assessment</enttypl>
+        <enttypd>Point attribute table</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>IC</attrlabl>
+        <attrdef>Exploration Level Code Equivalent WHCS Initial Class. If there are several wells in a cell, the cell is assigned the lowest initial class value within the cell area.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Outpost or extension test</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Shallower pool test</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Deeper pool test</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>New pool wildcat</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>New pool wildcat</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Development well</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7, 8, and 9</edomv>
+            <edomvd>Stratigraphic test, core hole, core test or injection well</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Unclassified or service well</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>G</edomv>
+            <edomvd>Geothermal well</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SYMB</attrlabl>
+        <attrdef>Production Status Code</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Cell contains at least one productive oil well, but no productive gas wells</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Cell contains at least one productive gas well, but no productive oil wells</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Cell contains at least one productive oil well and at least one productive gas well or one well producing both oil and gas</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Cell contains no producing wells</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CY</attrlabl>
+        <attrdef>Completion year. Two spaces, integer value. These values are calculated by decade. If more than one well was contained within the cell, the value was assigned from the earliest completed well within the cell (e.g., code 98 means that the earliest well in the cell was completed in the 1980's). A code of 81 (1810) indicates no data.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Two spaces, integer value.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PY</attrlabl>
+        <attrdef>Production Year. Two spaces, integer value. These values are also calculated by decade. If more than one producing well was contained within a cell, the value was assigned from the earliest productive well within the cell, e.g. code 98 means that the earliest production was in the 1980's. A code of 81 (1810) indicates no data. Non-producing cells are coded as 10.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Two spaces, integer value.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NOWLS</attrlabl>
+        <attrdef>Number of wells per cell code. Single integer value.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Cell contains no identified wells. Cells filled in from State oil and gas maps have this code.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Cell contains 1 well.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Cell contains 2 - 4 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Cell contains 5 - 8 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Cell contains 9 - 16 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Cell contains 17 -32 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Cell contains 33 - 64 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Cell contains 65 - 128 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Cell contains 129 - 256 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>Cell contains more than 256 wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PRWLS</attrlabl>
+        <attrdef>Number of producing wells per cell code</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Cell contains no producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Cell contains 1 producing well.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Cell contains 2 - 4 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Cell contains 5 - 8 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Cell contains 9 - 16 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Cell contains 17 - 32 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Cell contains 33 - 64 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Cell contains 65 - 128 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Cell contains 129 - 256 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>Cell contains more than 256 producing wells.</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TD</attrlabl>
+        <attrdef>Total depth code</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>no value</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>1 - 1,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>1,001 - 2,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>2,001 - 4,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>4,001 - 8,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>8,001 - 12,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>12,001 - 16,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>16,001 - 20,000 feet</edomvd>
+            <edomvds>USGS</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>greater than 20,000 feet</edomvd>
+            <edomvds>USGs</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>YEAR</attrlabl>
+        <attrdef>undefined date field</attrdef>
+        <attrdefs>none</attrdefs>
+        <attrdomv>
+          <udom>3 digit integer</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_US_OIL.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060213</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

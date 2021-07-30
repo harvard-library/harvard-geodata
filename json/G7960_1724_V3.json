@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7960-1724-v3",
+  "dc_title_s": "Nieuwe Kaart van het Eyland Japan, 1724-1726 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Nieuwe Kaart van het Eyland Japan. It was published by: J. van Braam et G. onder de Linden Amsterdam between 1724 and 1726. Scale ca. 1:2,500,000. Map in Dutch. The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 World Mercator (EPSG: 3395) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7960_1724_V3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7960_1724_V3",
+  "layer_slug_s": "harvard-g7960-1724-v3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2019-06-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Valentijn, François, 1666-1727"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Administrative and political divisions",
+    "imageryBaseMapsEarthCover",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_issued_s": "2019-06",
+  "dct_temporal_sm": [
+    "1724-1726"
+  ],
+  "solr_geom": "ENVELOPE(124.632894, 145.299046, 43.334076, 28.604918)",
+  "solr_year_i": 1724,
+  "harvard_collectionID_sm": [
+    "12578528"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgissltmrshx",
+  "dc_title_s": "MassGIS 2003 Massachusetts Salt Marsh Restoration Sites (October 2000)",
+  "dc_description_s": "Massachusetts Coastal Zone Management (MCZM), within the Executive Office of Environmental Affairs (EOEA), has compiled a salt marsh restoration GIS coverage for the Parker River/Essex Bay Area of Critical Environmental Concern (ACEC) project. The purpose of the project was to develop a regional picture of past, current, and potential restoration sites along with supporting information to help future restoration planning. The focus area for this project includes the salt marsh between Salisbury and Gloucester.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISSLTMRSHX.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISSLTMRSHX",
+  "layer_slug_s": "harvard-mgissltmrshx",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-07-25T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts Coastal Zone Management Office"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Salt marshes",
+    "Wetland restoration",
+    "environment",
+    "inlandWaters",
+    "biota"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Salisbury",
+    "Newburyport",
+    "Newbury",
+    "Rowley",
+    "Ipswich",
+    "Essex",
+    "Gloucester"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-70.887825, -70.69464, 42.865334, 42.642436)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

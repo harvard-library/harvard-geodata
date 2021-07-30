@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg10ussldu",
+  "dc_title_s": "State Legislative Districts (SLD) Upper Chamber United States 2010",
+  "dc_description_s": "This polygon data layer represents the 2010 TIGER/Line census state legislative district (SLD) upper chambers for the United States. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. State Legislative Districts (SLDs) are the areas from which members are elected to State legislatures. The SLDs embody the upper (senate) and lower (house) chambers of the State legislature. Nebraska has a unicameral legislature and the District of Columbia has a single council, both of which the Census Bureau treats as upper-chamber legislative areas for the purpose of data presentation; there are no data by SLDL for either Nebraska or the District of Columbia. A unique three-character census code, identified by State participants, is assigned to each SLD within a State. In Connecticut, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, New Jersey, Ohio, and Puerto Rico, the Redistricting Data Program (RDP) participant did not define the SLDs to cover all of the State or State equivalent area. In these areas with no SLDs defined, the code 'ZZZ' has been assigned, which is treated within county as a single SLD for purposes of data presentation. The boundaries of the 2010 Census State legislative districts were provided by State-level participants through the Redistricting Data Program (RDP) and reflect the districts used to elect members in the last election before 2010.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG10USSLDU.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:TG10USSLDU",
+  "layer_slug_s": "harvard-tg10ussldu",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2012-01-10T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Census Bureau. Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Administrative and political divisions",
+    "Election districts",
+    "Legislative bodies",
+    "boundaries",
+    "State or equivalent entity",
+    "Polygon",
+    "State Legislative District"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "United States",
+    "U.S."
+  ],
+  "dct_issued_s": "2010",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_geom": "ENVELOPE(-179.231086, 179.859681, 71.441059, 17.831509)",
+  "solr_year_i": 2010,
+  "harvard_collectionID_sm": [
+    "990131492120203941"
+  ]
+}

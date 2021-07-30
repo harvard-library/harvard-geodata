@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard Library</origin>
+        <origin>Fer, Nicolas de, 1646-1720</origin>
+        <pubdate>201902</pubdate>
+        <title>Antibes, ca. 1696 (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Map Collection, Harvard Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g5834-a77-1696-f4</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the historic paper map entitled: Antibes : ville et port de mer de Provence, sur la mer Mediterranée--. It was published by: Chez le Sr. de Fer ca. 1696. Scale not given.  Map in French.                                        The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 32N (EPSG: 32632) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.                                     This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.</abstract>
+      <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1696</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map approximate publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>7.107246</westbc>
+        <eastbc>7.142425</eastbc>
+        <northbc>43.597671</northbc>
+        <southbc>43.570853</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Harbors</themekey>
+        <themekey>Fortification</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Antibes (France)</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection, Harvard Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 10:30 am - 4:30 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>ArcMap 10.3</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map.  The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document.  There may also be errors introduced during the digitizing and georeferencing process. In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic.                                          The RMS error for this map is 8.81895 meters.  This value describes how consistent the transformation is between the different control points (links).  The RMS error is only an assessment of the accuracy of the transformation.               </horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Fer, Nicolas de, 1646-1720</origin>
+            <pubdate>1696</pubdate>
+            <title>Antibes : ville et port de mer de Provence, sur la mer Mediterranée--</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Paris</pubplace>
+              <publish>Chez le Sr. de Fer</publish>
+            </pubinfo>
+            <othercit>1 map ;  23 x 28 cm</othercit>
+            <onlink>http://id.lib.harvard.edu/alma/990138680750203941/catalog</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1696</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>approximate publication date</srccurr>
+        </srctime>
+        <srccitea>Paper Map</srccitea>
+        <srccontr>Source map for raster image</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Production of this raster image began with the scanning of the paper map on a high-resolution scanner: (Betterlight, Super8K2 scanning back camera and ViewFinder capture software). Maps were photographed at a copy stand. A vacuum easel and/or Plexiglas or points were used to secure loose maps. Foldouts and bound volumes were supported using cradles and built up foam core and matt board supports. The imaging specification was designed to produce detailed "Archival Master" images that, to the extent possible, are faithful reproductions of the originals, that capture the fine detail present in the originals, and that allow for detailed screen reproduction and print reproduction at up 1:1. Images in this collection were processed using: Adobe Photoshop/Aware JPEG2000 Content Creation Workstation.  Images were saved as lossless JPEG2000 files to reduce storage needs and to facilitate variable size viewing. Color and tonal corrections were made using Adobe Photoshop. Image files were viewed on a calibrated monitor. Editing was performed in an ISO 3664 compliant proofing environment.</procdesc>
+        <srcused>Paper Map</srcused>
+        <procdate>2014</procdate>
+        <srcprod>JP2 Map Image</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Library</cntorg>
+            </cntorgp>
+            <cntpos>Imaging Services</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Widener Library</address>
+              <address>Ground Floor, Room G-81</address>
+              <address>Harvard Yard</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-3995</cntvoice>
+            <cntemail>imaging@fas.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 5:00 pm ET-USA (phone &amp; email)</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Using ArcMap 10.3, the digital JPEG2000 image was georeferenced to common points located on digital vector shapefiles. For this image, the following vector shapefiles were used as a base map for reference: OpenStreetMap; ESRI World Imagery. The base map data is projected in the WGS 1984 UTM Zone 32N (EPSG: 32632) coordinate system, and the image was subsequently georeferenced to the same projection.                                        A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
+        <srcused>JP2 Map Image</srcused>
+        <procdate>20160726</procdate>
+        <srcprod>Georeferenced Raster Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>Geospatial Data Technical Assistant</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 10:30 am - 4:30 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>3896</rowcount>
+      <colcount>5129</colcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>WGS 1984 UTM Zone 32N</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>9.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map. The colors on that sheet can represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and boundaries. The colors are sometimes explained in a legend that is incorporated into the map inset or collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Information Technology</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>JPEG2000</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20190212</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Metadata Librarian</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 10:30 am - 4:30 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>            FGDC Content Standard for Digital Geospatial Metadata        </metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9642-s12-1872-u5-mapa",
+  "dc_title_s": "?les du Roi Georges, French Polynesia, 1872 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of a portion of the historic paper map entitled: King Georges Group. Aratica or Carlshoff Island, by the U.S. Ex. Ex. 1839 ; R.H. Wyman, Commo. U.S.N. Hydrographer to the Bureau of Navigation ; eng. by Sherman & Smith, N.Y. Cor. July 1872. It was published by the Hydrographic Office in 1872. This dataset is georeferenced for the component map entitled: King Georges Group. Scale [ca. 1:9,000,000]. Covers Atoll Takapoto and Takaroa Atoll, ?les du Roi Georges, French Polynesia.The original map contains multiple maps on one sheet. Because the map images are non-contiguous and possibly at differing scales, each map image was georeferenced separately. Please see the 'cross references' section for other maps on this sheet.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any ancillary maps, inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows shoreline features such as islets, sand banks, entrances, and more. Includes inset: Entrance of Takaroa Lagoon from French surveys in 1865.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9642_S12_1872_U5_MAPA.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9642_S12_1872_U5_MAPA",
+  "layer_slug_s": "harvard-g9642-s12-1872-u5-mapa",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-10-15T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "United States. Hydrographic Office.",
+    "Wyman, R. H. (Robert Harris), 1822-1882.",
+    "United States Exploring Expedition (1838-1842)",
+    "Sherman & Smith."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Islands",
+    "Coral reefs and islands",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "French Polynesia",
+    "Roi Georges, ?les du",
+    "Takapoto, Atoll",
+    "Takaroa Atoll"
+  ],
+  "dct_issued_s": "2009-10",
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "solr_geom": "ENVELOPE(-145.420386, -144.712044, -14.278093, -15.076685)",
+  "solr_year_i": 1872,
+  "harvard_collectionID_sm": [
+    "990115162090203941"
+  ]
+}

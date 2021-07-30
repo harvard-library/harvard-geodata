@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7750-1813-a8",
+  "dc_title_s": "Ceylon, 1813 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Ceylon. It was published by: W. Faden, Geographer, No. 5 Charing Cross in 1813. Scale ca. 1:506,880. [8 miles to an inch]. Map in English. The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 44N (EPSG: 32644) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7750_1813_A8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7750_1813_A8",
+  "layer_slug_s": "harvard-g7750-1813-a8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2019-06-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Atkinson, George, active 1800",
+    "Faden, William, 1749-1836"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Boundaries",
+    "Roads",
+    "imageryBaseMapsEarthCover",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_issued_s": "2019-06",
+  "dct_temporal_sm": [
+    "1813"
+  ],
+  "solr_geom": "ENVELOPE(78.936187, 82.598431, 10.398628, 5.379799)",
+  "solr_year_i": 1813,
+  "harvard_collectionID_sm": [
+    "12634956"
+  ]
+}

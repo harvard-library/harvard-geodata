@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Cape Cod Commission</origin>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <pubdate>199808</pubdate>
+        <title>MassGIS 2000 Cape Cod Major Marine Water Recharge Areas (August 1998)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisallmwrp1</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2000</pubdate>
+            <title>MassGIS data</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer contains major marine water recharge areas for Cape Cod</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199808</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source layer publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-70.666067</westbc>
+        <eastbc>-69.928879</eastbc>
+        <northbc>42.072752</northbc>
+        <southbc>41.526254</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Water</themekey>
+        <themekey>Hydrology</themekey>
+        <themekey>Wetlands</themekey>
+        <themekey>Groundwater</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Cape Cod</placekey>
+        <placekey>Barnstable County</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Cape Cod Commission</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Barnstable County</address>
+          <address>251 Couseway St, Suite 900</address>
+          <address>Superior Court House</address>
+          <address>3195 Main St. PO Box 427</address>
+          <city>Barnstable</city>
+          <state>MA</state>
+          <postal>02630</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>508-375-6648</cntvoice>
+        <cntfax>508-362-4136</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Cape Cod Commission requests that use of any of its coverages or data bases to generate maps, analyses, or reports be followed by a credit to the Cape Cod Commission as the source of the data.</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Most of the coverages the Cape Cod Commission provided to MassGIS were digitized from paper maps using a Calcomp 9100 digitizer and ARC/INFO. Source material varies by layer. Some original manuscripts were obtained from the 1990 APCC Atlas; others came from town sources. Other layers were produced with on-screen digitizing in Arcedit. Attribute information for parcel and zoning coverages came from town planning and engineering departments' and assessors' databases. MassGIS performed quality checking on all layers and standardized all attrribute tables before creating the libraries.</procdesc>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Cape Cod Commisssion</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Barnstable County</address>
+              <address>Superior Court House</address>
+              <address>3195 Main Street, P.O. Box 427</address>
+              <city>Barnstable</city>
+              <state>MA</state>
+              <postal>02630</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(508)-375-6648</cntvoice>
+            <cntfax>(508)-362-4136</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200108</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>288</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISALLMWRP1</enttypl>
+        <enttypd>Cape Cod Major Marine water Recharge Areas</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Internally calculated area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated perimeter in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ALLMWRA4_</attrlabl>
+        <attrdef>Internal feature identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ALLMWRA4_I</attrlabl>
+        <attrdef>Internal feature identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ALT_NAME2</attrlabl>
+        <attrdef>Name given to the system</attrdef>
+        <attrdefs>Cape Cod Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GROUPING</attrlabl>
+        <attrdef>Embayment or System</attrdef>
+        <attrdefs>Cape Cod Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Digitized area in feet divided by 43560</attrdef>
+        <attrdefs>Cape Cod Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO3DONE</attrlabl>
+        <attrdef>Nitrogen loading calculations completed</attrdef>
+        <attrdefs>Cape Cod Commission</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>MWRA</edomv>
+            <edomvd>MassachusettsWater Resources Authority</edomvd>
+            <edomvds>Cape Cod Commission</edomvds>
+          </edom>
+          <edom>
+            <edomv>Coastline</edomv>
+            <edomvd>Coastline</edomvd>
+            <edomvds>Cape cod Commission</edomvds>
+          </edom>
+          <edom>
+            <edomv>Subwatershed</edomv>
+          </edom>
+          <edom>
+            <edomv>Countyline</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WATER</attrlabl>
+        <attrdef>field used to ID land or water portion</attrdef>
+        <attrdefs>Cape Cod Commission</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20010907</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

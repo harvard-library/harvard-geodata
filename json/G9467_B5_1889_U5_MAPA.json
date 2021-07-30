@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9467-b5-1889-u5-mapa",
+  "dc_title_s": "Rongerik Atoll, Marshall Islands, 1841 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of a portion of the historic paper map entitled: Bigini or Pescadores Island ; Radogala and Korsakoff Islands, by the U.S. Ex.Ex. 1841. Ed. of March 1889. It was published by Hydrographic Office in [1889]. This dataset is georeferenced for the map entitled: Bigini or Pescadores Island. Scale [ca. 1:87,000]. Covers the Rongerik Atoll, Marshall Islands.The original map contains multiple maps on one sheet. Because the map images are non-contiguous and possibly at differing scales, each map image was georeferenced separately. Please see the 'cross references' section for other maps on this sheet.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any ancillary maps, inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows shoreline features such as islets, sand banks, entrances, and more.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9467_B5_1889_U5_MAPA.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9467_B5_1889_U5_MAPA",
+  "layer_slug_s": "harvard-g9467-b5-1889-u5-mapa",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-02-13T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "United States. Hydrographic Office.",
+    "United States Exploring Expedition (1838-1842)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Islands",
+    "Coral reefs and islands",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Marshall Islands",
+    "Ralik Chain",
+    "Rongerik Atoll"
+  ],
+  "dct_issued_s": "2009-02",
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "solr_geom": "ENVELOPE(167.221969, 167.668189, 11.54011, 11.213914)",
+  "solr_year_i": 1841,
+  "harvard_collectionID_sm": [
+    "990115166020203941"
+  ]
+}

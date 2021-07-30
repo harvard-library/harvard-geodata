@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9084-d8-1896-w5",
+  "dc_title_s": "Real Property, Dunedin, New Zealand, 1896 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: The Survey Districts of North Harbour & Blueskin, Lower Harbour West, North East Valley, Upper Harbour West, Tomahawk, Sawyers Bay, Andersons Bay, Portobello Bay, Otago Peninsula & Upper Harbour East, drawn by G.P. Wilson, April 1896. It was published by N.Z. Lands and Survey in 1896. Covers the Dunedin region, New Zealand. Scale [ca. 1:63,360]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM Zone 59S, meters, WGS 1984) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as property lot and block numbers, boundaries of survey districts and blocks, boroughs, townships and estates, drainage, selected roads, railroads and stations, selected buildings and industry locations, cemeteries, shoreline features, docks and wharves, and more. Relief shown by spot heights.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9084_D8_1896_W5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9084_D8_1896_W5",
+  "layer_slug_s": "harvard-g9084-d8-1896-w5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-05-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Wilson, G. P.",
+    "New Zealand. Dept. of Lands and Survey."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Cadastral maps",
+    "Real property",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "planningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "New Zealand",
+    "Dunedin",
+    "Otago Harbour"
+  ],
+  "dct_issued_s": "2012-04",
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "solr_geom": "ENVELOPE(170.454449, 170.76977, -45.688591, -45.932279)",
+  "solr_year_i": 1896,
+  "harvard_collectionID_sm": [
+    "990126099180203941"
+  ]
+}

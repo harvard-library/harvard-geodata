@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6812-c49-1716-h6",
+  "dc_title_s": "Corfu, Greece, 1716 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan du siège de Corfou : par terre et par mer avec la situation de deux Flottes Vénitienne et Ottomane, depuis le jour le l'entrée de celle des Ottomans dans le Canal, le 5me de Juillet jusqu'au 26 d'Août 1716, jour de sa retraite / par Jean Baptiste Homann, Geographe de Sa Maj.te Imperiale. It was published by Jean Baptiste Homann in 1716. Scale [ca. 1:50,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also cartouche with mythological figures, battle legends, and insets depicting details of the siege. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6812_C49_1716_H6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6812_C49_1716_H6",
+  "layer_slug_s": "harvard-g6812-c49-1716-h6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-11-15T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Homann, Johann Baptist, 1663-1724."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Naval battles",
+    "Siege warfare",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "structure"
+  ],
+  "dct_spatial_sm": [
+    "Greece",
+    "Corfu"
+  ],
+  "dct_issued_s": "2013-11",
+  "dct_temporal_sm": [
+    "1716"
+  ],
+  "solr_geom": "ENVELOPE(19.669826, 20.173164, 39.912155, 39.479395)",
+  "solr_year_i": 1716,
+  "harvard_collectionID_sm": [
+    "990133240780203941"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3721-p3-1850-m6",
+  "dc_title_s": "European and North American Railway, New England and Eastern Canada, 1850 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the European and North American Railway : showing its connection with the railways of the United States & Canada, [by] A.C. Morton, engineer. It was published in 1850 by Bowen & Co. Scale [ca. 1:1,625,000]. Covers New England, eastern New York, and the Maritime Provinces. The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as completed, in progress, and proposed railroads, selected towns, drainage, state boundaries, and more. Includes inset: Map showing the plan for shortening the transit between New York & London. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3721_P3_1850_M6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3721_P3_1850_M6",
+  "layer_slug_s": "harvard-g3721-p3-1850-m6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-03-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Morton, A. C., engineer.",
+    "Bowen & Co."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Railroads",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island",
+    "Vermont",
+    "New Hampshire",
+    "Maine",
+    "New York",
+    "Canada",
+    "Quebec",
+    "New Brunswick",
+    "Prince Edward Island",
+    "Nova Scotia",
+    "New England",
+    "Canada, Eastern"
+  ],
+  "dct_issued_s": "2007-03",
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "solr_geom": "ENVELOPE(-78.633802, -53.97719, 53.231443, 36.583022)",
+  "solr_year_i": 1850,
+  "harvard_collectionID_sm": [
+    "990095214610203941"
+  ]
+}

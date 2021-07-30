@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-meadeath95",
+  "dc_title_s": "Massachusetts Deaths by Town, 1995",
+  "dc_description_s": "This datalayer is a polygon coverage which represents the number of deaths per town in Massachusetts in 1995 and a breakdown of the major causes of death. These statistics were originally compiled and published by the Massachusetts Department of Public Health: Division of Research and Epidemiology under the title, 'Selected Causes of Death by Municipality in Massachusetts: 1995.' This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MEADEATH95.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MEADEATH95",
+  "layer_slug_s": "harvard-meadeath95",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2004-03-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection",
+    "U.S. Department of Commerce, Bureau of the Census",
+    "Massachusetts Institute for Social and Economic Research, University of Massachusetts",
+    "Massachusetts Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "health",
+    "Demography",
+    "Population statistics",
+    "Vital statistics",
+    "Mortality"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2001-07",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "solr_geom": "ENVELOPE(-73.50824, -69.927802, 42.886818, 41.237962)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990073828550203941"
+  ]
+}

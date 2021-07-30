@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3824-p5-1893-s6",
+  "dc_title_s": "Philadelphia, Pennsylvania, 1893 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: New map of the city of Philadelphia :from the latest city surveys : prepared for Gopsill's directories 1893. It was published by J.L. Smith in 1893. Scale [ca.1:21,500]. Covers Philadelphia and a portion of surrounding cities. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Pennsylvania South State Plane Coordinate System NAD83 (in Feet) (Fipszone 3702). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, selected public buildings, cemeteries, parks, city wards, and more. Includes three indices: Street directory -- Statistical notes -- Elevation of the highest recorded points above high tides in the Delaware River. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3824_P5_1893_S6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3824_P5_1893_S6",
+  "layer_slug_s": "harvard-g3824-p5-1893-s6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-12-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Smith, J. L.",
+    "Gopsill, J. (James)"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Philadelphia",
+    "Lower Merion",
+    "Springfield",
+    "Cheltenham",
+    "New Jersey",
+    "Camden"
+  ],
+  "dct_issued_s": "2007-12",
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "solr_geom": "ENVELOPE(-75.283029, -75.042533, 40.097447, 39.861145)",
+  "solr_year_i": 1893,
+  "harvard_collectionID_sm": [
+    "990099601130203941"
+  ]
+}

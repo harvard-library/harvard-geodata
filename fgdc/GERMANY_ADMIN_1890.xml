@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Kashin, Konstantin</origin>
+        <origin>Ziblatt, Daniel, 1972-</origin>
+        <pubdate>2012</pubdate>
+        <title>Administrative District Boundaries, Germany, 1890s</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>Harvard Geospatial Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-germany-admin-1890</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Administrative district boundary polygons for the German Empire as they existed in the 1890s. Source map was specifically drawn in 1894 and 1895. The specific nomenclature of the administrative units are state-dependent: kreise in Prussia, Baden, and other states; Amtshauptmannschaften in Saxony, Oberamter in Wurttemberg, etc. In addition to identifying the administrative boundary, the map provides additional information on the state, province, and other geopolitical structures to which the administrative unit belonged.Boundary data digitized from the source maps: Vogel, C. Karte Des Deutschen Reichs Im Massstab 1:500000. Gotha: J. Perthes, [c. 1907].</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1890</begdate>
+          <enddate>1900</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>4.489494</westbc>
+        <eastbc>23.162756</eastbc>
+        <northbc>56.001963</northbc>
+        <southbc>47.039759</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>administrative districts</themekey>
+        <themekey>historic</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Germany</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For non-commercial, academic use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Konstantin Kashin</cntper>
+          <cntorg>Harvard University - Institute for Quantitative Social Science</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University</address>
+          <address>Institute for Quantitative Social Science</address>
+          <address>1737 Cambridge Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntemail>kkashin@fas.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>ESRI ArcGIS 10.x</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>None</logic>
+    <complete>None</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Vogel, C., 1828-1897.</origin>
+            <origin>Justus Perthes (Firm : Gotha, Germany)</origin>
+            <pubdate>1907</pubdate>
+            <title>Karte des Deutschen Reichs im Massstab 1:500000</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Gotha</pubplace>
+              <publish>J. Perthes</publish>
+            </pubinfo>
+            <othercit>27 maps : col. ; 32 x 40 cm. folded to 20 x 12 cm. in case 22 x 18 cm.For full citation: https://catalyst.library.jhu.edu/catalog/bib_2263023</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>50000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1890</begdate>
+              <enddate>1900</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>maps</srccitea>
+        <srccontr>Source maps from which boundaries were digitized</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The inputs into the process were 27 scanned raster maps from the original source. Using ArcGIS 10, we georeferenced each map using lines of latitude and longitude available on the map, which we keyed in relative to the Greenwich meridian. As a result we obtained detailed coverage of the entire German Empire. Using the "Feature Construction" tool bar within ArcGIS, we traced the administrative boundaries using lines. We relied upon the legend accompanying the map for designation of administrative areas. We traced the lowest available administrative divisions on the map, denoted by dotted lines (the nomenclature and legal status of the lowest administrative divisions vary by state, and according to the source are Kreise in Preussen, Hessen, etc., Bezirksamter in Bayern, Amtshauptmannschaften in Sachen, and Oberamter in Wurttemberg). For smaller states, the administrative nomenclature differs and is fully specified in the attribute table of the shapefile (see below). At times where the border designation was ambiguous, we relied upon external sources, in particular the less detailed map available on www.gemeindeverzeichnis.de, to help isolate the proper administrative boundary. After tracing of the administrative boundaries, we used the "Feature to Polygon" command available within the "Data Management Tools - Features" division of the Toolbox to convert the layer of administrative borders to polygons. Any polygons that were improperly created due to "overshoots" or "undershoots" of borders were edited by hand. We then populated the attribute table for the resulting layer of polygons. Specifically, polygons were identified and fully labeled using the following fields: "div1", "div2", "div2type", "div3", "div3type", "admin_unit", "admin_type", "Exclave_du", "feat_name", and "feat_type". All fields are of type Text, except for "Exclave_du" which is Short Integer. Note that "feat_name" is the name that identifies each polygon uniquely (except for several small unnamed polygons in our dataset corresponding to small villages, described more below). Not every polygon (feature) on the map corresponds one-to-one to an administrative unit. Due to the structure of the administrative organization, a single administrative unit (a political, not purely geographic concept) could consist of non-contiguous geographic areas. One example of this is the presence of territorial exclaves or communities of administrative unit A within the territory of administrative unit B. We chose to maintain the dataset at the level of contiguous territories, and thus at times multiple features comprise a single administrative unit. The field "feat_type" provides the categorization of the feature (type of administrative unit or community / municipality / gemeinde). Note that not all features have names - in rare instances, the original map did not provide a name for a small community or exclave and we were unable to identify it through external sources, although we were able to ascertain to which administrative unit it reported. Specifically, there are 14 features that are unnamed.The name of the administrative unit is recorded in the field "admin_unit", whereas the type of administrative division (legal nomenclature used by different states of the German Empire) is recorded in "admin_type". "Exclave_du" is a binary variable taking the value "1" if a feature is an exclave and "0" otherwise. All exclaves have "feat_type" equal to "Gemeinde". That is, "Gemeinde" encompasses exclaves, but is also a broader category. For the subset of features where "feat_type" is not equal to "Gemeinde", the "admin_unit" and "admin_type" fields match the "feat_name" and "feat_type" fields, respectively (there are 5 features that are exceptions to this rule: Darmstadt (Stadt), Braunschweig (Stadt), Lubeck (Stadt), Schwartau, and Ahrensbock).Finally, we nest each administrative unit within the federal structure of the German Empire. Specifically, "div1" denotes the state to which administrative unit belonged (i.e. Saxony, Prussia, Bavaria, etc.). The field "div2" denotes a second-layer classification, which varied by state (identified by "div2type") or didn't exist for some states at all, in which case we left the field blank. For example, for Prussia, "div2" contains the names of the provinces, and "div2type" is populated with "Provinz". The same logic applies to the fields "div3" and "div3type", to the extent that it is appropriate for a given state. Throughout the creation of the map, we attempted to be as thorough as possible in reporting the organization structure of the German Empire. Source map georeferencing, topology editing, line to polygon conversion, and polygon attribute identification performed by the research team of Konstantin Kashin (kkashin@fas.harvard.edu; Institute for Quantitative Social Science, Harvard University, 1737 Cambridge St., Cambridge, MA 02138) and Daniel Ziblatt (dziblatt@fas.harvard.edu; Center for European Studies, Harvard University, 27 Kirkland St., Cambridge, MA, 02138).</procdesc>
+        <srcused>maps</srcused>
+        <procdate>2012</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Konstantin Kashin</cntper>
+              <cntorg>Harvard University - Institute for Quantitative Social Science</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University</address>
+              <address>Institute for Quantitative Social Science</address>
+              <address>1737 Cambridge Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntemail>kkashin@fas.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1230</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>33</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>15.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000100</absres>
+            <ordres>0.000100</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>GERMANY_ADMIN_1890</enttypl>
+        <enttypd>Administrative District Boundaries, Germany, 1890s</enttypd>
+        <enttypds>Harvard University</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIV1</attrlabl>
+        <attrdef>State to which administrative unit belonged</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIV2</attrlabl>
+        <attrdef>Second level administrative unit division name, if applicable</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIV2TYPE</attrlabl>
+        <attrdef>Second level administrative unit division type, if applicable</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIV3</attrlabl>
+        <attrdef>Third level administrative unit division name, if applicable</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIV3TYPE</attrlabl>
+        <attrdef>Third level administrative unit division type, if applicable</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_UNIT</attrlabl>
+        <attrdef>Name of the administrative unit</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_TYPE</attrlabl>
+        <attrdef>Type of administrative division</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>EXCLAVE_DU</attrlabl>
+        <attrdef>Enclave designation</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Not an Enclave</edomvd>
+            <edomvds>Harvard Geospatial Library</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Enclave</edomvd>
+            <edomvds>Harvard Geospatial Library</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEAT_NAME</attrlabl>
+        <attrdef>Name that identifies each polygon uniquely</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEAT_TYPE</attrlabl>
+        <attrdef>Categorization of the feature (type of administrative unit or community / municipality / gemeinde)</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120924</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

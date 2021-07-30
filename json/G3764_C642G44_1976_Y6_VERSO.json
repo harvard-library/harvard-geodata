@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3764-c642g44-1976-y6-verso",
+  "dc_title_s": "Flood Plain and Watershed Protection District, Cohasset, Massachusetts, 1975 (Image 2 of 2) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Cohasset Flood Plain and Watershed Proection District : January 1975 / Richardson and Kalishes Planning Consultants. It was published in 1975. Scale [ca. 1:14,000]. This layer is image 2 (verso) of 2 total images of the two-sided source map, representing flood plain and watershed protection districts. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Includes also data sources list, revision dates and notes, signature of land surveyor, legend showing elevation, water supply protection buffers, and flood plain and watershed protection districts. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3764_C642G44_1976_Y6_VERSO.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3764_C642G44_1976_Y6_VERSO",
+  "layer_slug_s": "harvard-g3764-c642g44-1976-y6-verso",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-02-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Young, Edwin A."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Watersheds",
+    "Floodplain management",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cohasset"
+  ],
+  "dct_issued_s": "2014-03",
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "solr_geom": "ENVELOPE(-70.862445, -70.768321, 42.272694, 42.18339)",
+  "solr_year_i": 1975,
+  "harvard_collectionID_sm": [
+    "990137381710203941"
+  ]
+}

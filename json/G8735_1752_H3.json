@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8735-1752-h3",
+  "dc_title_s": "West & Central Africa, ca. 1752 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Guinea propria : nec non Nigritiae vel terrae Nigrorum maxima pars : Geographis hodiernis dicta utraque Aethiopia Inferior, & huius quidem pars australis ex delineationibus Anvillianis itineri Guineensi D. de Marchais insertis secundum Leges proiectionis stereographicae Hasianae, designata & edita studio & labore Homannianorum Heredum A. 1743 = Guinee de meme que la plus grande parties du pais des Negres : appellees par les geographes modernes Ethiopie inferieure et meridionale, tirees des morceaux geographiques de Mr. d'Anville, qu'il a inseres au voyage du Chev. de Marchais, & puis dessinees suivant les loix de la nouvelle projection de feu Mr. le prof. Has, par les Heritiers d'Homan. A 1743. It was published by edita studio & labore Homannianorum Heredum ca. 1752. Scale [ca. 1:7,400,000]. Covers portions of West and Central Africa. Map in Latin.The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Miller Cylindrical projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also notes.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8735_1752_H3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8735_1752_H3",
+  "layer_slug_s": "harvard-g8735-1752-h3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-02-09T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Hase, Johann Matthias, 1684-1742.",
+    "Homann Erben (Firm)",
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Angola",
+    "Benin",
+    "Burkina Faso",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Congo, Democratic Republic of the",
+    "Congo, Republic of the",
+    "Cote d'Ivoire",
+    "Equatorial Guinea",
+    "Gabon",
+    "Gambia, The",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Liberia",
+    "Libya",
+    "Mali",
+    "Mauritania",
+    "Niger",
+    "Nigeria",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Sierra Leone",
+    "Togo",
+    "Western Sahara",
+    "Africa, West",
+    "Africa, Central"
+  ],
+  "dct_issued_s": "2012-02",
+  "dct_temporal_sm": [
+    "1752"
+  ],
+  "solr_geom": "ENVELOPE(-25.132813, 24.884738, 27.377093, -10.486139)",
+  "solr_year_i": 1752,
+  "harvard_collectionID_sm": [
+    "990126964180203941"
+  ]
+}

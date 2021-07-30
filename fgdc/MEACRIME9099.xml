@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection</origin>
+        <origin>U.S. Department of Commerce, Bureau of the Census</origin>
+        <origin>Massachusetts Institute for Social and Economic Research, University of Massachusetts</origin>
+        <origin>Massachusetts Office of Geographic and Environmental Information (MassGIS)</origin>
+        <pubdate>200107</pubdate>
+        <title>Massachusetts Crime Statistics, 1990-1999</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-meacrime9099</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage representing Massachusetts towns with associated tabular data on aggregate crime statistics per town for each year between 1990 and 1999.
+These crime summary data were reported to the Massachusetts State Police from Massachusetts cities and towns, campus police departments, and other reporting agencies. Not all towns in the Commonwealth report their crime statistics. 
+This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. For more information on this layer please read the "Supplemental Information" section which follows.
+The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning, socio-economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>The Crime Reporting Unit (CRU) is the contact point between state, local, and campus police departments and the FBI. It is charged with the responsibility of collecting, maintaining, analyzing, and reporting crime data for the Commonwealth.
+CRU is a part of the Criminal Information Section of the Massachusetts State Police Division of Investigative Services
+
+All crime statistic attributes (Numbers of Murders in Year, Numbers of Robberies in Year, etc..) are defined for YEAR(1990) and YEAR9 (1999) in this metadata record.  The pattern is consistent for all other statistical years displayed here (YEAR1[1991] through YEAR8 [1998]).
+
+Crime Definitions used in this layer are as follows:
+Aggravated Assault:
+An unlawful attack by one person upon another for the purpose of inflicting severe or aggravated bodily injury.  The use of a weapon in an attack, even if no injury results, makes an assault 'aggravated'.
+Burglary:
+The unlawful entry of a structure to commit a felony or a theft.  Note that for this offense, the 'structure' does not have to be a dwelling.   
+ Larceny:
+The unlawful taking, carrying, leading, or riding away of property from the possession or constructive possession of another.  
+Motor Vehicle Theft:
+The theft or attempted theft of a motor vehicle.  
+Murder:
+"Murder" is defined as the willing killing of one person by another.  
+Property Crimes:
+"Property Crimes" include burglary, larceny, and motor vehicle theft.  
+Rape:
+"Rape" is the carnel knowledge of a female, forcibly and against her will.  
+Rate:
+
+Rate is calculated by dividing the number of offenses by the population. Since these figures account for changes in population, it is more meaningful to compare rates.  
+Robbery:
+"Robbery" is the taking or attempting to take anything of value from the care or control of another by force or threat of force.  
+Total Crimes:
+"Total Crimes" include the sum of all index offenses:  murder, rape, robbery, aggregated assault, burglary, larceny, and motor vehicle theft.  
+Violent Crimes:
+"Violent Crimes" include murder, rape, robbery, and aggravated assault.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1980</begdate>
+          <enddate>1989</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.508240</westbc>
+        <eastbc>-69.927802</eastbc>
+        <northbc>42.886818</northbc>
+        <southbc>41.237962</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Crime</themekey>
+        <themekey>Criminal Statistics</themekey>
+      </theme>
+      <place>
+        <placekt>United States Geological Survey (USGS) Geographic Names Information System (GNIS)</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed  by the Harvard Map Collection and its partners, no warranty expressed or implied is made by the producers as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the producers in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Map Collection</address>
+          <address>Pusey Library</address>
+          <address>Harvard University</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Massachusetts Electronic Atlas dataset was a joint project of Douglas Carnahan, formerly of the Metropolitan Area Planning Council (MAPC), Richard Gelpke of the Earth and Geographic Sciences Department of the University of Massachusetts at Boston, and David Cobb, Bonnie Burns, Martin von Wyss, and Arlene Olivero of the Harvard Map Collection.  Valuable technical assistance and support has been provided by Environmental Systems Research Institute (ESRI), Peter Girard of ESRI, and the Harvard College Library.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Topological Properties
+The attribute accuracy of these files is as precise as the source used during the creation or update of the Massachusetts Electronic Atlas (MEA) database. No specific field tests for attribute accuracy have been conducted on the files.
+
+Towns with missing crime statistics are noted in the table with the entry "999999999".</attraccr>
+    </attracc>
+    <complete>Data completeness of the Massachusetts Electronic Atlas (MEA) files reflects the contents of the database at the time the files were created. Data for a given category contain attribute codes that reflect the information portrayed on the original source.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Massachusetts Electronic Atlas' (MEA) mission to profile the Commonwealth's people and institutions did not require the highest level of positional accuracy.  Coordinates in these files are in decimal degrees and have six implied decimal places.  The six-decimal place precision is useful when producing maps as it allows you to place features that are next to each other on the ground in the correct position, relative to each other, on the map without overlap.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Criminal Information Section of the Massachusetts State Police Division of Investigative Services</origin>
+            <title>CRU Crime Data</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1990</begdate>
+              <enddate>1999</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>CRU</srccitea>
+        <srccontr>Crime statistics per town</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>See Citation information for this datalayer</origin>
+            <pubdate>200107</pubdate>
+            <title>Massachusetts Electronic Atlas</title>
+            <geoform>tabular digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200107</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MEA Database</srccitea>
+        <srccontr>Town boundaries and Attribute tabular data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Tabular attribute data compiled and edited from Criminal Information Section of the Massachusetts State Police Division of Investigative Services, Crime Reporting Unit.</procdesc>
+        <srcused>CRU</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The files were processed to shapefile format using the TGR2SHP.exe software program from GIS Tools (version 4.0). The shape file was then imported to an ArcSDE Layer.</procdesc>
+        <srcused>MEA Database</srcused>
+        <procdate>2003</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.MEACRIME9099">
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>607</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed Name="TIM.MEACRIME9099">
+      <enttyp>
+        <enttypl>Massachusetts Crime Statistics by Town</enttypl>
+        <enttypd>Polygons represent town boundaries with associated attribute crime data</enttypd>
+        <enttypds>MEA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TOWN</attrlabl>
+        <attrdef>Town Name</attrdef>
+        <attrdefs>MEA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YEAR</attrlabl>
+        <attrdef>1990</attrdef>
+        <attrdefs>MEA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS</attrlabl>
+        <attrdef>Number of months in year with reported statistics</attrdef>
+        <attrdefs>MEA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL</attrlabl>
+        <attrdef>Total number of Crimes committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT</attrlabl>
+        <attrdef>Number of Violent Crimes committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY</attrlabl>
+        <attrdef>Numer of Property Crimes committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MURDER</attrlabl>
+        <attrdef>Number of Murders committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAPE</attrlabl>
+        <attrdef>Number of Rapes committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY</attrlabl>
+        <attrdef>Number of Robberies committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT</attrlabl>
+        <attrdef>Number of Aggravated Assaults committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY</attrlabl>
+        <attrdef>Number of Burglaries committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY</attrlabl>
+        <attrdef>Number of Larcenies committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT</attrlabl>
+        <attrdef>Motor Vehicle Thefts committed in town in 1990</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YEAR1</attrlabl>
+        <attrdef>1991</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR2</attrlabl>
+        <attrdef>1992</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR3</attrlabl>
+        <attrdef>1993</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR4</attrlabl>
+        <attrdef>1994</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR5</attrlabl>
+        <attrdef>1995</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT5</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR6</attrlabl>
+        <attrdef>1996</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT6</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR7</attrlabl>
+        <attrdef>1997</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT7</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR8</attrlabl>
+        <attrdef>1998</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MURDER8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RAPE8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT8</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YEAR9</attrlabl>
+        <attrdef>1999</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONTHS9</attrlabl>
+        <attrdef>Number of months in year with reported statistics</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL9</attrlabl>
+        <attrdef>Total number of Crimes committed in town in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>VIOLENT9</attrlabl>
+        <attrdef>Total Number of Violent Crimes committed in town in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PROPERTY9</attrlabl>
+        <attrdef>Total number of Property Crimes committed in town in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>MURDER9</attrlabl>
+        <attrdef>Number of Murders committed in town in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>RAPE9</attrlabl>
+        <attrdef>Number of Rapes committed in town in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ROBBERY9</attrlabl>
+        <attrdef>Number of Robberies committed in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>AGG_ASLT9</attrlabl>
+        <attrdef>Number of Aggravated Assaults committed in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>BURGLARY9</attrlabl>
+        <attrdef>Number of Burglaries committed in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LARCENY9</attrlabl>
+        <attrdef>Number of Larcenies committed in town in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>MVTHEFT9</attrlabl>
+        <attrdef>Motor Vehicle Thefts committed in town in  1999</attrdef>
+        <attrdefs>CRU</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Polygon area in square map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Polyline length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20040511</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Areas of Critical Environmental Concern Program (Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Management</origin>
+        <origin>Massachusetts Coastal Zone Management Office</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts areas of critical environmental concern (July 2000)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgisacecsp2</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Areas of Critical Environmental Concern (ACEC) datalayer shows the location of areas that have been designated ACECs by the Secretary of Environmental Affairs. ACEC designation requires greater environmental review of certain kinds of proposed development under state jurisdiction within the ACEC boundaries. 
+The ACEC Program is administered by the Department of Environmental Management (DEM) on behalf of the Secretary of Environmental Affairs. The Massachusetts Coastal Zone Management (MCZM) Office managed the original Coastal ACEC Program from 1978 to 1993, and continues to play a key role in monitoring coastal ACECs. Procedures for ACEC designation and the general policies governing the effects of designation are contained in the ACEC regulations (301 CMR 12.00). For more information about the ACEC datalayer or about the effects of ACEC designation, contact the ACEC Program at (617) 626-1394. 
+
+The ACEC datalayer has been compiled by MCZM and DEM and includes both coastal and inland areas. New ACEC polygons are added periodically (1 - 2 per year) because the program continues to evaluate and designate new ACECs. This datalayer contains 25 ACECs.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200007</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.510369</westbc>
+        <eastbc>-69.896443</eastbc>
+        <northbc>42.808886</northbc>
+        <southbc>41.533555</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Environmentally sensitive areas</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Executive Office of Environmental Affairs</address>
+          <address>251 Causeway St, Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-626-1000</cntvoice>
+        <cntfax>617-626-1249</cntfax>
+        <hours>9 AM - 5 PM</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <logic>Boundaries were snapped to roads, drainage basins, trails, etc. depending on the item defining the edge. Where the snapcover is at a lower resolution than the USGS quad (roads, streams, etc.), data were changed to provide "relative visual accuracy."</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>USGS Quads, 1:25,000</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>unknown ed./dates</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS Quads</srccitea>
+        <srccontr>Source of feature data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>Unknown</pubdate>
+            <title>1:5,000 orthophotos</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>unknown ed./dates</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>photo</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>orthophotos</srccitea>
+        <srccontr>Source of feature data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Polygons are compiled from 1:25,000 USGS quad sheets, 1:5,000 orthophotos, or other MassGIS datalayers and digitized. Boundaries were snapped to roads, drainage basins, trails, etc. depending on the item defining the edge. Where the snapcover is at a lower resolution than the USGS quad (roads, streams, etc.), data were changed to provide "relative visual accuracy."</procdesc>
+        <srcused>USGS Quads</srcused>
+        <srcused>orthophotos</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Office of Geographic and Environmental Information (MassGIS)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>251 Causeway Street, Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(617) 626-1000</cntvoice>
+            <cntfax>617-626-1249</cntfax>
+            <hours>9 AM - 5 PM</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>142</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000172</absres>
+            <ordres>0.000172</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISACECSP2</enttypl>
+        <enttypd>Areas of critical environmental concern</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ACECID</attrlabl>
+        <attrdef>Unique identifier of each area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>WESTBORO CEDAR SWAMP</edomvd>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>SANDY NECK/BARNSTABLE HARBOR</edomvd>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>PARKER RIVER/ESSEX BAY</edomvd>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>WAQUOIT BAY</edomvd>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>ELLISVILLE HARBOR</edomvd>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>POCASSET RIVER</edomvd>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>WEYMOUTH/HINGHAM BACK RIVER</edomvd>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>CRANBERRY BROOK</edomvd>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>INNER CAPE COD BAY</edomvd>
+          </edom>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>WEIR RIVER</edomvd>
+          </edom>
+          <edom>
+            <edomv>11</edomv>
+            <edomvd>PLEASANT BAY</edomvd>
+          </edom>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>GOLDEN HILLS</edomvd>
+          </edom>
+          <edom>
+            <edomv>13</edomv>
+            <edomvd>RUMNEY MARSHES</edomvd>
+          </edom>
+          <edom>
+            <edomv>14</edomv>
+            <edomvd>BOURNE BACK RIVER</edomvd>
+          </edom>
+          <edom>
+            <edomv>15</edomv>
+            <edomvd>WELLFLEET HARBOR</edomvd>
+          </edom>
+          <edom>
+            <edomv>16</edomv>
+            <edomvd>HOCKOMOCK SWAMP</edomvd>
+          </edom>
+          <edom>
+            <edomv>17</edomv>
+            <edomvd>SCHENOB BROOK</edomvd>
+          </edom>
+          <edom>
+            <edomv>18</edomv>
+            <edomvd>CANOE RIVER AQUIFER</edomvd>
+          </edom>
+          <edom>
+            <edomv>19</edomv>
+            <edomvd>HERRING RIVER WATERSHED</edomvd>
+          </edom>
+          <edom>
+            <edomv>20</edomv>
+            <edomvd>HINSDALE FLATS WATERSHED</edomvd>
+          </edom>
+          <edom>
+            <edomv>21</edomv>
+            <edomvd>KARNER BROOK WATERSHED</edomvd>
+          </edom>
+          <edom>
+            <edomv>22</edomv>
+            <edomvd>FOWL MEADOW/PONKAPOAG BOG</edomvd>
+          </edom>
+          <edom>
+            <edomv>23</edomv>
+            <edomvd>NEPONSET RIVER ESTUARY</edomvd>
+          </edom>
+          <edom>
+            <edomv>24</edomv>
+            <edomvd>KAMPOOSA BOG</edomvd>
+          </edom>
+          <edom>
+            <edomv>25</edomv>
+            <edomvd>CENTRAL NASHUA RIVER VALLEY</edomvd>
+          </edom>
+          <edom>
+            <edomv>25</edomv>
+            <edomvd>MISCOE, WARREN AND WHITEHALL WATERS</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The name of the ACEC area</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DES_DATE</attrlabl>
+        <attrdef>The date the EOEA Secretary signed the designation</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SECRETARY</attrlabl>
+        <attrdef>The name of the Secretary who signed the designation</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AREA_ACRES</attrlabl>
+        <attrdef>Acreage of each polygon</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25500.5</rdommax>
+            <attrunit>acres</attrunit>
+            <attrmres>.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_BY</attrlabl>
+        <attrdef>Agency responsible for the ACEC</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REGION</attrlabl>
+        <attrdef>Coastal or inland - DEP Wetlands Protection Regulations have different performance standards for coastal and inland ACECs</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>INLAND</edomv>
+            <edomvd>Inland ACEC</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>COASTAL</edomv>
+            <edomvd>Coastal ACEC</edomvd>
+            <edomvds>MassGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA_1</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MGISACECSP2.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http:\\hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <availabl>
+      <timeinfo>
+        <sngdate>
+          <caldate>1997</caldate>
+        </sngdate>
+      </timeinfo>
+    </availabl>
+  </distinfo>
+  <metainfo>
+    <metd>20060614</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-am-ams-nc2904l",
+  "dc_title_s": "Bougouni region, Mali, 1956, Army Map Service (AMS) NC 29-4 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the Army Map Service (AMS) Series G504, West Africa, 1:250,000 AMS Series sheet map entitled: Bougouni. Compilation date: 1956. Printed in: 1964. Covers portions of Bougouni region, Mali. Map quadrangle number: NC 29-4. Edition statement: Ed. 2 - AMS. Compiled in 1956 from Africa 1:200,000, ie Service Geographique de l'Afrique Occidentale Francaise, Sheets NC 29-XXIII, 1953; NC 29-XXIV, 1952. The image inside the map neatline is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. All map collar information is also available as part of the raster image. Series source sheets are of varying compilation dates (1952-1963) and editions, published by the Army Map Service. AMS Series G504 maps are in English. Each source map in the series is printed in color at a scale of 1:250,000. The source map was selected and downloaded from the University of Texas Libraries Web site by the Harvard University Center for Geographic Analysis (CGA) and georeferenced for the CGA's AfricaMap project by East View Cartographic. Individual AMS sheets covering a small portion of Africa (146 sheets in total) were selected from AMS series of: North Africa (P502), West Africa (G504), and South Africa (Z501). AMS Series maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. They also identify the principal works of humans, such as roads, railroads, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 20 meters, with some sheets having supplemental meter contours, form lines, hachures, shading, and/or spot heights. Depths shown by bathymetric isolines. Please pay close attention to map collar information on projections, spheroid, planimetric revision methods and dates, and keys to grid numbering and other numbers which appear inside the neatline.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AM_AMS_NC2904L.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:AM_AMS_NC2904L",
+  "layer_slug_s": "harvard-am-ams-nc2904l",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-09-23T00:00:00Z",
+  "dc_creator_sm": [
+    "United States. Army Map Service",
+    "Harvard University. Center for Geographic Analysis.",
+    "East View Cartographic, Inc."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Mali",
+    "Bougouni"
+  ],
+  "dct_issued_s": "2009",
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "solr_geom": "ENVELOPE(-7.619819, -5.892881, 12.100089, 10.808033)",
+  "solr_year_i": 1956,
+  "harvard_collectionID_sm": [
+    "990094028840203941"
+  ]
+}

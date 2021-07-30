@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g1059-w57-1654-pf-sh10",
+  "dc_title_s": "Southwest Coast of Africa, 1654 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Pascaerte van Guinea, en Angola, van R. de Gambia tot Cabo de Bona Esperanca, from the Frederik de Wit's untitled Dutch Sea Atlas. It was published by Frederick de Widt, inde Calverstraat by den Dam, inde 3 Crabben in 1654. Scale [ca. 1:10,000,000]. Covers the southwest coast of Africa. Map in Dutch.The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Geodetic System 1984 (WGS 84) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as cities and towns, and other points of interest. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G1059_W57_1654_PF_SH10.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G1059_W57_1654_PF_SH10",
+  "layer_slug_s": "harvard-g1059-w57-1654-pf-sh10",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-04-22T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Jacobsz, Theunis, 1632?-1679."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "imageryBaseMapsEarthCover",
+    "transportation",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Atlantic Ocean",
+    "Senegal",
+    "Gambia, The",
+    "Guinea-Bissau",
+    "Guinea",
+    "Sierra Leone",
+    "Liberia",
+    "Cote d?Ivoire",
+    "Ghana",
+    "Togo",
+    "Benin",
+    "Nigeria",
+    "Cameroon",
+    "Equatorial Guinea",
+    "Sao Tome and Principe",
+    "Gabon",
+    "Congo, Democratic Republic of the",
+    "Congo, Republic of the",
+    "Angola",
+    "Namibia",
+    "South Africa",
+    "Saint Helena, Ascension, and Tristan da Cunha",
+    "Africa"
+  ],
+  "dct_issued_s": "2014-04",
+  "dct_temporal_sm": [
+    "1654"
+  ],
+  "solr_geom": "ENVELOPE(-21.018196, 22.556637, 15.154832, -37.993832)",
+  "solr_year_i": 1654,
+  "harvard_collectionID_sm": [
+    "990094213090203941"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgispwsdepx2-1",
+  "dc_title_s": "MassGIS 2003 Massachusetts Public Water Supplies (March 2003)",
+  "dc_description_s": "The Public Water Supply (PWS) datalayer contains points representing the locations of Massachusetts public community surface and groundwater supply sources and public non-community supply sources as defined in 310 CMR 22.00. The public water supply systems represented in this datalayer are based primarily on information in the Massachusetts Department of Environmental Protection's (DEP) Water Quality Testing System (WQTS) database. The WQTS database is the Department's central database for tracking water supply data. The PWS datalayer also contains the locations of proposed wells that have a defined DEP approved wellhead protection area (Zone IIs). Proposed sources are not currently tracked in WQTS. Massachusetts Drinking Water Regulations (310 CMR 22.00) As stated in 310 CMR 22.02, a Public Water System means a system for the provision to the public of piped water for human consumption if such system has at least 15 service connections or regularly serves an average of at least 25 individuals daily at least 60 days of the year. Such term includes (1) any collection, treatment, storage and distribution facilities under control of the operator of such a system and used primarily in connection with such system, and (2) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system. A public water system is either a 'community water system' or a 'non-community water system.' (a) Community water system means a public water system which serves at least 15 service connections used by year-round residents or regularly serves at least 25 year-round residents. (b) Non-community water system means a public water system that is not a community water system. 1. Non-transient non-community water system or 'NTNC' means a public water systems that is not a community water system and that regularly serves at least 25 of the same persons or more approximately four or more days per week, more that six months or 180 days per year, such as a workplace providing water to it's employees. 2. Transient non-community water system or 'TNC' means a public water system that is not a community water system or a non-transient non-community water system but is a public water system which serves water to 25 different persons at least 60 days of the year. Some examples of these types of systems are: restaurants, motels, camp grounds, parks, golf courses, ski areas and community centers.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISPWSDEPX2_1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISPWSDEPX2_1",
+  "layer_slug_s": "harvard-mgispwsdepx2-1",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2006-07-21T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Dept. of Environmental Protection.",
+    "Drinking Water Program (Mass.)"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Water-supply",
+    "Drinking water",
+    "Groundwater",
+    "Emergency water supply",
+    "environment",
+    "inlandWaters",
+    "utilitiesCommunication"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.498075, -69.921971, 42.886149, 41.235989)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

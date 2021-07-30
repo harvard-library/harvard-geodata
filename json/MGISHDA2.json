@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgishda2",
+  "dc_title_s": "MassGIS 2003 Massachusetts Hydrography (1:25,000) (Arcs) (March 2003)",
+  "dc_description_s": "The MassGIS 1:25,000 Hydrography datalayer represents hydrographic (water-related) features, including surface water (lakes, ponds, reservoirs), wetlands, bogs, flats, rivers, streams, and others (see attributes section below). MassGIS has edited and modified the USGS 1:25,000 Hydrography Digital Line Graph (DLG) quadrangle files and the USGS 1:100,000 Hydrography DLG files and digitized hydrographic features from the USGS 1:25,000 Topographic Quadrangles to produce a hybrid 1:25,000 Massachusetts Hydrography Datalayer. The 1:100,000 DLG features were enhanced by digitizing those streams and ponds from the USGS quadrangles that were not part of the 1:100,000 data. MassGIS has also scanned USGS mylar separates to begin replacing the 1:100,000 enhanced data with 1:25,000 features.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISHDA2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:MGISHDA2",
+  "layer_slug_s": "harvard-mgishda2",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2006-06-28T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Dept. of Environmental Protection"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Hydrography",
+    "Bodies of water",
+    "inlandWaters",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.535624, -69.826032, 43.002511, 41.109537)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

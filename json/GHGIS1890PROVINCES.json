@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ghgis1890provinces",
+  "dc_title_s": "Germany Provincial Boundaries, 1890, German Historical GIS",
+  "dc_description_s": "These polygons represent 14 provinces existing in the German Empire in 1890. Since only Prussia used provinces as administrative units, the provincial dataset as a layer likewise represents the territorial extension of the Kingdom of Prussia in 1890. Two changes have occurred as compared to 1871: The province of Prussia has again been split into the two provinces of East- and West Prussia, and the capital city of Berlin has been created as a province in its own jurisdiction.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1890PROVINCES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:GHGIS1890PROVINCES",
+  "layer_slug_s": "harvard-ghgis1890provinces",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2011-08-08T00:00:00Z",
+  "dc_creator_sm": [
+    "HGIS Germany (Andreas Kunz, Leonhard Dietze)",
+    "IEG-Maps / Berlin Data Pool (Andreas Kunz, Robert Moeschl)",
+    "Institut fur Europaische Geschichte (Mainz, Rhineland-Palatinate, Germany)",
+    "Fachhochschule Mainz (Mainz, Rhineland-Palatinate, Germany)"
+  ],
+  "dc_publisher_s": [
+    "HGIS Germany"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "boundaries",
+    "Boundaries",
+    "Administrative and political divisions",
+    "Population Statistics"
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "Lithuania"
+  ],
+  "dct_issued_s": "2007",
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 47.401637)",
+  "solr_year_i": 1890,
+  "harvard_collectionID_sm": [
+    "990126902100203941"
+  ]
+}

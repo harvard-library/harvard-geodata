@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-matwn-3764-w9-1829-p5",
+  "dc_title_s": "Worcester Center, Massachusetts, 1829 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the village of Worcester, by Ed. E. Phelps, M.D., civ. eng'r. It was published by Clarendon Harris in the Worcester village directory, July 1829. Scale [1:3,960]. Covers the central area of the City of Worcester, Massachusetts, Main Street to Summer Street, Belmont Street to Franklin Street. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, drainage, residences, businesses, cemeteries, and more. Buildings are shown with keyed numbers that correspond to entries in the Worcester village directory. The map includes illustrations of: New Unitarian Church -- Court House -- Town Hall -- South Meeting House -- Antiquarian Hall. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MATWN_3764_W9_1829_P5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MATWN_3764_W9_1829_P5",
+  "layer_slug_s": "harvard-matwn-3764-w9-1829-p5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-04-18T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Phelps, Edward E. (Edward Elisha), 1803-1880.",
+    "Harris, Clarendon, 1800-1884"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Worcester",
+    "Worcester Center"
+  ],
+  "dct_issued_s": "2006-04",
+  "dct_temporal_sm": [
+    "1829"
+  ],
+  "solr_geom": "ENVELOPE(-71.813419, -71.78159, 42.277003, 42.249532)",
+  "solr_year_i": 1829,
+  "harvard_collectionID_sm": [
+    "990095044310203941"
+  ]
+}

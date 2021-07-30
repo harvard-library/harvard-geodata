@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>American Geological Institute</origin>
+        <origin>Geological Survey (U.S.). National Mapping Division.</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : United States gazetteer, populated places</title>
+        <geoform>vector digital data</geoform>
+        <serinfo/>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-gazusa</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is point coverage gazetteer representing populated places in the United States and its territories.  It contains official names and locations of populated places (PPL) as defined by the U.S. Board on Geographic Names.  It is derived from the Geographic Names Information System (GNIS) and was published as part of the USGS Global GIS : global coverage database (2003). 
+
+The Geographic Names Information System (GNIS), developed by the U.S. Geological Survey in cooperation with the U.S. Board on Geographic Names (BGN), contains information about physical and cultural geographic features in the United States and associated areas, both current and historical, but not including roads and highways. The database also contains geographic names in Antarctica. The database holds the Federally recognized name of each feature and defines the location of the feature by state, county, USGS topographic map, and geographic coordinates. Other feature attributes include names or spellings other than the official name, feature designations, feature class, historical and descriptive information, and for some categories of features the geometric boundaries. The database assigns a unique feature identifier, a random number, that is a key for accessing, integrating, or reconciling GNIS data with other data sets. The GNIS is our Nation's official repository of domestic geographic feature names information.
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This layer is a general purpose United States populated places gazetteer datalayer intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.  This layer may be used to find locations by their proper names anywhere in the United States.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2003</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-176.658060</westbc>
+        <eastbc>173.175560</eastbc>
+        <northbc>71.298060</northbc>
+        <southbc>-21.908060</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Names, Geographical</themekey>
+        <themekey>Gazetteers</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Human settlements</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Populated places</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Board on Geographic Names</cntorg>
+          <cntper>Roger L. Payne</cntper>
+        </cntorgp>
+        <cntpos>Executive Secretary</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>U.S. Geological Survey</address>
+          <address>12201 Sunrise Valley Drive, MS 523</address>
+          <city>Reston</city>
+          <state>Virginia</state>
+          <postal>20192-0523</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(703) 648-4544</cntvoice>
+        <cntfax>(703) 648-4549</cntfax>
+        <cntemail>BGNEXEC@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Geographic Names Information System was developed by the U.S. Geological Survey in cooperation with the U.S. Board on Geographic Names.</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>During Phase I data compilation, a random sample of 10% of the entries in the system were visually verified against the compilation source data (large-scale USGS topographic maps) to ensure an accuracy rate of at least 95%. Subsequent data compilation and input processes ensure accuracy with programmed validation checks for format and content, visual examination, and spot checks of data.</attraccr>
+    </attracc>
+    <logic>During Phase I data compilation, a random sample of 10% of the entries in the system were visually verified against the compilation source data (large-scale USGS topographic maps) to ensure logical consistency of locative references (geographic coordinates, topographic map, and county. Subsequent data compilation and input processes include programmed validation checks for logical consistency, visual examination, and spot checks of data.</logic>
+    <complete>This dataset contains information about physical and cultural geographic features identified by a proper name and location, with the exception of most roads and highways.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Accuracy of these digital data is based upon the use of source graphics which are compiled to meet National Map Accuracy Standards. Comparison to the graphic source is used as control to assess digital positional accuracy.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:24,000-scale topographic maps</title>
+            <geoform>Map</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>unknown</begdate>
+              <enddate>present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS</srccitea>
+        <srccontr>Feature names and attribute data.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>Unpublished material</pubdate>
+            <title>Records of the U.S. Board on Geographic Names</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>card, paper, and electronic files</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1890</begdate>
+              <enddate>present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Creation date</srccurr>
+        </srctime>
+        <srccitea>USBGN</srccitea>
+        <srccontr>Feature names and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Forest Service</origin>
+            <pubdate>Unknown</pubdate>
+            <title>U.S. Forest Service 1:24,000-scale topographic maps and visitor maps</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>Unknown</begdate>
+              <enddate>Present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>USFS</srccitea>
+        <srccontr>Feature names and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Ocean Service</origin>
+            <pubdate>Unknown</pubdate>
+            <title>National Ocean Service charts</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>Unknown</begdate>
+              <enddate>Present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>NOAA/NOS</srccitea>
+        <srccontr>Feature names and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>State Names Authorities</origin>
+            <origin>Council of Geographic Names Authorities (COGNA)</origin>
+            <origin>National Park Service (NPS)</origin>
+            <origin>Federal, state and local agencies</origin>
+            <origin>Public</origin>
+            <origin>Other sources</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Unknown</title>
+            <othercit>GNIS accepts data or data changes for consideration from any source, and upon validation by the Board on Geographic Names or the appropriate Federal or state agency, will enter the data into the database.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>Multiple electronic or text media types.</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>unknown</begdate>
+              <enddate>unknown</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Unknown</srccurr>
+        </srctime>
+        <srccitea>Various</srccitea>
+        <srccontr>Feature names and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Geological Survey (U.S.). National Mapping Division.</origin>
+            <pubdate>1995</pubdate>
+            <title>Geographic Names Information System</title>
+            <geoform>database</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>http://purl.access.gpo.gov/GPO/LPS1507</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1995</begdate>
+              <enddate>present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GNIS</srccitea>
+        <srccontr>Used to compile features for Global GIS version</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>GNIS Phase I data compilation and edit - Feature name and attribute data were collected from the largest-scale USGS topographic maps available. These data are compared to the records of the U.S. Board on Geographic Names.</procdesc>
+        <srcused>USGS</srcused>
+        <srcused>USBGN</srcused>
+        <procdate>198105</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Board on Geographic Names</cntorg>
+              <cntper>Roger L. Payne</cntper>
+            </cntorgp>
+            <cntpos>Executive Secretary</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>U.S. Geological Survey</address>
+              <address>12201 Sunrise Valley Drive, MS 523</address>
+              <city>Reston</city>
+              <state>Virginia</state>
+              <postal>20192-0523</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(703) 648-4544</cntvoice>
+            <cntfax>(703) 648-4549</cntfax>
+            <cntemail>BGNEXEC@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>GNIS Phase II data compilation and edit - Feature name and attribute data are collected from official state and local sources and other approved sources including historical maps and documents.</procdesc>
+        <srcused>USGS</srcused>
+        <srcused>USBGN</srcused>
+        <procdate>Not complete</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Louis A. Yost</cntper>
+              <cntorg>U.S. Geological Survey</cntorg>
+            </cntperp>
+            <cntpos>Chief, Geographic Names Information Section</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>523 National Center</address>
+              <city>Reston</city>
+              <state>Virginia</state>
+              <postal>20192</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>703 648 4552</cntvoice>
+            <cntemail>lyost@usgs.gov</cntemail>
+            <hours>0900-1700 Eastern time</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>GNIS Maintenance program - Federal and state maintenance cooperators submit new and corrected data in conjunction with their mapping and geographical information system data maintenance programs. Data is submitted using web data entry and edit forms and batch file processes. Agencies interested in participating in this program should contact the individual specified below.</procdesc>
+        <srcused>USGS</srcused>
+        <srcused>USBGN</srcused>
+        <srcused>USFS</srcused>
+        <srcused>Various</srcused>
+        <srcused>NOAA/NOS</srcused>
+        <procdate>Not complete</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Robin D. Worcester</cntper>
+              <cntorg>U.S. Geological Survey</cntorg>
+            </cntperp>
+            <cntpos>Chief, Geographic Names Information Section</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>523 National Center</address>
+              <city>Reston</city>
+              <state>Virginia</state>
+              <postal>20192</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>703 648 4551</cntvoice>
+            <cntemail>rworcest@usgs.gov</cntemail>
+            <hours>0900-1700 Eastern time</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>National Map partnerships - As part of The USGS National Map program, the Geographic Names Office enters into partnerships with state names authorities and state and local GIS agencies to integrate vertically name, location, and attribute data in the GNIS with state and local datasets. These partnerships utilize GIS and web technology to automate and simplify data maintenance, ensure data consistency, integrity, and accuracy, and meet the goals of the Board on Geographic Names for national names standardization. Agencies interested in participating in this program should contact the individual specified below.</procdesc>
+        <procdate>Not complete</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Board on Geographic Names</cntorg>
+              <cntper>Roger L. Payne</cntper>
+            </cntorgp>
+            <cntpos>Executive Secretary</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>U.S. Geological Survey</address>
+              <address>12201 Sunrise Valley Drive, MS 523</address>
+              <city>Reston</city>
+              <state>Virginia</state>
+              <postal>20192-0523</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(703) 648-4544</cntvoice>
+            <cntfax>(703) 648-4549</cntfax>
+            <cntemail>BGNEXEC@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041104</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>163364</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MARC.GLB_GAZUSA</enttypl>
+        <enttypd>Global GIS United States Gazetteer Populated Places</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>FIPS state/territory Alphabetic Code</attrdef>
+        <attrdefs>GNIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions (FIPS PUB 10-4).</codesetn>
+            <codesets>National Institute of Standards and Technology (NIST)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FULL_NAME</attrlabl>
+        <attrdef>Feature name. A geographic feature name and its written form and application approved or recognized as official by the United States Board on Geographic Names for use throughout the Federal Government. The official name is established either by policy or by decision of the Board on Geographic Names. A geographic feature may have only one official name.</attrdef>
+        <attrdefs>Principles, Policies, and Procedures: Domestic Geographic Names, By Donald J. Orth, Executive Secretary, Domestic Geographic Names (emeritus) and Roger L. Payne, Executive Secretary, United States Board on Geographic Names and Domestic Geographic Names, Third printing (revised), 1997 and  Online Edition, 2003 (&lt;http://geonames.usgs.gov/pppdgn.html&gt;)</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Principles, Policies, and Procedures: Domestic Geographic Names</codesetn>
+            <codesets>Principles, Policies, and Procedures: Domestic Geographic Names, By Donald J. Orth, Executive Secretary, Domestic Geographic Names (emeritus) and Roger L. Payne, Executive Secretary, United States Board on Geographic Names and Domestic Geographic Names, Third printing (revised), 1997 and  Online Edition, 2003 (&lt;http://geonames.usgs.gov/pppdgn.html&gt;)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE_DE</attrlabl>
+        <attrdef>Feature Designation. A feature designation is assigned to a feature or group of features to further define and classify feature functions, purpose, and attributes. A feature may have more than one designation. Designations and their definitions may be added as needed.</attrdef>
+        <attrdefs>Geographic Names Office, USGS, 523 National Center, Reston, VA 20192-0523.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>PPL</edomv>
+            <edomvd>Populated place; city, settlement, town, village.</edomvd>
+            <edomvds>GNIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAT</attrlabl>
+        <attrdef>Latitude of feature in decimal degrees</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-21.90806</rdommin>
+            <rdommax>71.29806</rdommax>
+            <attrunit>degrees</attrunit>
+            <attrmres>.00001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LON</attrlabl>
+        <attrdef>Longitude of feature in decimal degrees</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-176.65806</rdommin>
+            <rdommax>173.17556</rdommax>
+            <attrunit>degrees</attrunit>
+            <attrmres>.00001</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_GAZUSA.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060314</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

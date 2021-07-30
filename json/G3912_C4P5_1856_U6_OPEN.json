@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g3912-c4p5-1856-u6-open",
+  "dc_title_s": "Charleston Harbor, South Carolina, 1856 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper nautical chart entitled: Preliminary chart of Charleston harbor and its approaches. A trigonometrical survey under the direction of A.D. Bache, superintendent of the Survey of the Coast of the United States ; triangulation by C.O. Boutelle ; topography by S.A. Gilbert ; hydrography by the party under the command of J.N. Maffitt ; engd. by F. Danworth, J. Knight, E. Yeager & G. Mc Coy. It was published by U.S. Coast Survey Office in 1856. Scale 1:30,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the South Carolina State Plane NAD 1983 coordinate system (Fipszone 3900). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, built-up areas and selected buildings, docks, wharves, shoreline features (rocks, shoals, anchorage points, ports, inlets, etc.), and more. Relief shown by hachures; depths shown by contours and soundings. Includes 2 views, notes, sailing directions, tides' table, table of currents, list of buoys and of beacons. Images includes manuscript additions and newspaper clippings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3912_C4P5_1856_U6_OPEN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G3912_C4P5_1856_U6_OPEN",
+  "layer_slug_s": "harvard-g3912-c4p5-1856-u6-open",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2013-10-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "United States Coast Survey, cartographer, publisher.",
+    "Mc Coy, G., engraver.",
+    "Yeager, E. (Edward), engraver.",
+    "Knight, J., engraver.",
+    "Danforth, F., engraver.",
+    "Maffitt, John Newland, 1819-1886, surveyor.",
+    "Gilbert, S. A., surveyor.",
+    "Boutelle, C. O. (Charles Otis), surveyor.",
+    "Bache, A. D. (Alexander Dallas), 1806-1867, surveyor."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "American Civil War (1861-1865)",
+    "imageryBaseMapsEarthCover",
+    "inlandWaters",
+    "oceans",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "Charleston Harbor",
+    "Charleston"
+  ],
+  "dct_issued_s": "2013-10",
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "solr_geom": "ENVELOPE(-80.034041, -79.707048, 32.844834, 32.614138)",
+  "solr_year_i": 1856,
+  "harvard_collectionID_sm": [
+    "990137015540203941"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-usgs-es-san-salvador-ppp",
+  "dc_title_s": "Small Populated Places, San Salvador Region, El Salvador, 1988",
+  "dc_description_s": "Small populated places for the San Salvador region, El Salvador. This layer was vectorized from original hard copy 1:50,000 topographic maps produced by the Instituto Geogra?fico Nacional of the Republic of El Salvador from the early 1970s to the mid 1980s. Hurricane Mitch devastated Central America during the months of October-November of 1998. From 1998 to 2001 the US Geological Survey was involved along with other federal agencies in the reconstruction effort. The source CD consists of a compilation of GIS data layers and computer applications focused on hazard prevention and useful in municipal planning. Each dataset includes layers for a base area of one hundred square kilometers around the urban center of each municipality in the Hurricane Mitch project.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/USGS_ES_SAN_SALVADOR_PPP.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:USGS_ES_SAN_SALVADOR_PPP",
+  "layer_slug_s": "harvard-usgs-es-san-salvador-ppp",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2011-02-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Chirico, Pete.",
+    "United States. Agency for International Development"
+  ],
+  "dc_publisher_s": [
+    "US Geological Survey, Hurricane Mitch Program"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Human settlements",
+    "Villages",
+    "Farms",
+    "location"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador",
+    "San Salvador, Departamento de",
+    "La Libertad, Departamento de",
+    "San Salvador"
+  ],
+  "dct_issued_s": "2002-04-09",
+  "dct_temporal_sm": [
+    "1976-1988"
+  ],
+  "dct_isPartOf_sm": [
+    "Municipal GIS database of El Salvador",
+    "U.S. Geological Survey open-file report"
+  ],
+  "solr_geom": "ENVELOPE(-89.265674, -89.114339, 13.754183, 13.64829)",
+  "solr_year_i": 1976,
+  "harvard_collectionID_sm": [
+    "990129561930203941"
+  ]
+}

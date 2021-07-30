@@ -1,0 +1,75 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8735-1655-s3",
+  "dc_title_s": "North & West Africa, 1655 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: L'Afrique, ou Lybie ulterieure : ou sont le Saara, ou desert, le pays des Negres, la Guinee, et les pays circonv. tiree en partie de Sanut, et de l'Arabe de Nubie, en partie de diverses cartes veues jusques a present par le S. Sanson d'Abbeville, geog. ordre. du Roy ; I. Somer Pruthenus, sculp. It was published by Chez Pierre Mariette, rue St. Iacques a l'Esperance in 1655. Scale [ca. 1:10,500,000]. Covers portions of North and West Africa. Map in French.The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Miller Cylindrical projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8735_1655_S3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8735_1655_S3",
+  "layer_slug_s": "harvard-g8735-1655-s3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-02-08T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Sanson, Nicolas, 1600-1667.",
+    "Blommaert, Samuel, 1590-ca.1670.",
+    "Somer, Jean."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Benin",
+    "Burkina Faso",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Cote d'Ivoire",
+    "Egypt",
+    "Equatorial Guinea",
+    "Gabon",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Liberia",
+    "Libya",
+    "Mali",
+    "Mauritania",
+    "Morocco",
+    "Niger",
+    "Nigeria",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Sierra Leone",
+    "Spain",
+    "Sudan",
+    "Gambia, The",
+    "Togo",
+    "Tunisia",
+    "Western Sahara",
+    "Africa, North",
+    "Africa, West"
+  ],
+  "dct_issued_s": "2012-02",
+  "dct_temporal_sm": [
+    "1655"
+  ],
+  "solr_geom": "ENVELOPE(-23.621002, 31.517602, 40.373889, -9.620668999999999)",
+  "solr_year_i": 1655,
+  "harvard_collectionID_sm": [
+    "990126962600203941"
+  ]
+}

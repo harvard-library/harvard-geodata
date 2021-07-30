@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>American Geological Institute</origin>
+        <origin>Alaska. Division of Geological and Geophysical Surveys.</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Alaska Geology</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-ak-geo</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>American Geological Institute</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polygon coverage with associated attributes representing geologic regions of Alaska.  It is a digital version of the geology features of the 1980 Geologic Map of Alaska compiled by Helen M. Beikman, and prepared in cooperation with State of Alaska, Department of Natural Resources, Division of Geological and Geophysical Surveys.  It was published by the U.S. Geological Survey.  This version of the datalayer was published as part of the USGS Global GIS : global coverage database (2003). 
+
+The map is a regional summary of geologic formations and units that can be shown cartographically at 1:2,500,000.  This digital dataset includes all (184) map units from the original map.  182 are geologic units; the others are polygons for large glaciers and lakes. This coverage is not intended to be a complete representation of the printed geologic map.  It does NOT include the following features: faults, locations of volcanoes or volcanic vents, the map explanation, correlation charts or description of map units.
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This coverage is intended to provide digital features (polygons) representing generalized geologic units in Alaska for use in small-scale spatial analysis (statewide) with other coverages such as vegetation types, soils, geochemical values, etc.
+
+It is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political analysis, environmental planning or resource use, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Another digital version of the geology features from Beikman's Geologic map of Alaska (1980) exists under the title: Polygon Data from 1980 "Geologic Map of Alaska" (1997).  It is available for download as an ArcInfo Interchange (.e00) file from the USGS Alaska Geospatial Data Clearinghouse (AGDC) Web site: http://agdc.usgs.gov/data/usgs/geology/index.html</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1980</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.142214</westbc>
+        <eastbc>-129.993750</eastbc>
+        <northbc>71.392025</northbc>
+        <southbc>51.217292</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Geology</themekey>
+        <themekey>Physiographic provinces</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Alaska</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>This coverage should not be copied or distributed without its associated metadata file.  Intended use is at small scales (e.g. statewide, 1:2,500,000 etc.) only; enlargements of this data to scales greater than that at which they were originally compiled can lead to misinterpretation of data.  The U.S. Geological Survey (Dept.  of Interior) should be acknowledged as the data source in products derived from these data.  Use of these data is not restricted; however, organizations, agencies, units of government or other users are responsible for its appropriate application.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Section, Mineral Resource Surveys Program, Geologic Division</cntorg>
+        </cntorgp>
+        <cntpos>GIS Support Staff</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>4200 University Dr.</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508-4667</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(907) 786-7495</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>None</sechandl>
+    </secinfo>
+    <native>Unknown</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown.</attraccr>
+    </attracc>
+    <logic>Unknown.</logic>
+    <complete>Unknown.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Beikman, Helen M.</origin>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Alaska. Division of Geological and Geophysical Surveys</origin>
+            <pubdate>1980</pubdate>
+            <title>Geologic map of Alaska</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Includes "Index map showing principal sources of geological data" and text.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2500000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1980</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Beikman 1980</srccitea>
+        <srccontr>Source map from which digital version is derived.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Dataset</srcused>
+        <procdate>20041102</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>4475</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Alaska Geology</enttypl>
+        <enttypd>Geological map of Alaska</enttypd>
+        <enttypds>American Geological Institute</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>GLB_AK_GEO.AREA</attrlabl>
+        <attrdef>Feature area in square coverage units</attrdef>
+        <attrdefs>Calculated</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature perimeter in coverage units</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BEIKMANGEN</attrlabl>
+        <attrdef>Unknown ; field not populated</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GENERALIZE</attrlabl>
+        <attrdef>Generalized geology code ; corresponds to values in DESC_ field</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DESC_</attrlabl>
+        <attrdef>Description of generalized geology</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIOD</attrlabl>
+        <attrdef>Geologic Period</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature rea in coverage units squared</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in coverage units</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Map unit delineations are polygons that are generalized combinations of
+geologic Formations and Groups, and include both bedrock and surficial deposit units.</eaover>
+      <eadetcit>Not Available</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070411</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metuc>Acknowledgement of the Harvard Geospatial Library, Harvard University would be appreciated in future use or publication of this metadata record.</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

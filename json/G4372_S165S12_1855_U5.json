@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4372-s165s12-1855-u5",
+  "dc_title_s": "Zaliv Lavrentiya, Russia, 1855 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: St. Lawrence Bay showing Lutke's Harbor, by the U.S. Ship Vincennes, Lieutenant John Rodgers ; produced by E.R. Knorr, draughtsman ; sketches by Wm. Brenton Boggs, purser U.S.N. ; engr. by Selmar Siebert ; reduced for engraving by Louis Waldecker. It was published by U.S. Navy Hydrographic Office in 1855. Scale [ca. 1:200,000]. Covers Zaliv Lavrentiya, Russia. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, human settlements, shoreline features, bays, harbors, inlets, points, shoals, anchorage points and bottom types, and more. Relief shown by contours and spot heights. Depths shown by soundings. Includes note on Lutke's Harbor and 2 inset profile views. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4372_S165S12_1855_U5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4372_S165S12_1855_U5",
+  "layer_slug_s": "harvard-g4372-s165s12-1855-u5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-11-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "United States. Hydrographic Office.",
+    "Rodgers, John, 1812-1882.",
+    "Boggs, William Brenton, 1809-1875.",
+    "Knorr, E. R. (Ernest Rudolph)",
+    "Waldecker, Louis.",
+    "Siebert, Selmar."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Human settlements",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Harbors",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Russia",
+    "Lavrentiya, Zaliv"
+  ],
+  "dct_issued_s": "2009-11",
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "solr_geom": "ENVELOPE(-171.996942, -169.274478, 65.929885, 65.094732)",
+  "solr_year_i": 1855,
+  "harvard_collectionID_sm": [
+    "990115391150203941"
+  ]
+}

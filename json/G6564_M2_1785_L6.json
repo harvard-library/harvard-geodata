@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g6564-m2-1785-l6",
+  "dc_title_s": "Madrid, Spain, 1785 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plano geom?trico de Madrid : dedicado y presentado al rey nuestro Se?or Don Carlos III por mano del excelentisimo Se?or Conde de Floridablanca, su autor Don Tomas Lopez, geografico de S.M. de las Reales Academias de la Historia, de San Fernando, de la de Bueans Letras de Sevilla y de las Sociedades Bascongada y Asturzias. It was published by [Tomas Lopez] in 1785. Scale [ca. 1:16,700]. Map in Spanish. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, UTM Zone 30N coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map.This map shows features such as roads, drainage, built-up areas and selected buildings, ground cover, and more. Relief is shown by hachures. Includes text, index, and inset: Des de la Puerta de Toledo ...This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G6564_M2_1785_L6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G6564_M2_1785_L6",
+  "layer_slug_s": "harvard-g6564-m2-1785-l6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-10-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "L?pez de Vargas Machuca, Tom?s, 1731-1802"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Spain",
+    "Madrid"
+  ],
+  "dct_issued_s": "2008-10",
+  "dct_temporal_sm": [
+    "1785"
+  ],
+  "solr_geom": "ENVELOPE(-3.734882, -3.665699, 40.436028, 40.395845)",
+  "solr_year_i": 1785,
+  "harvard_collectionID_sm": [
+    "990113645430203941"
+  ]
+}

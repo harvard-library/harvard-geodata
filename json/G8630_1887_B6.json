@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g8630-1887-b6",
+  "dc_title_s": "Central & Eastern Africa, 1887 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Central Africa : on a scale of 1:10,000,000, By Dr. F. Boas. It was published by Hart & Von Arx in 1887. Scale 1:10,000,000 The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Sinusoidal projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, shoreline features, and more. Relief shown by shading. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G8630_1887_B6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G8630_1887_B6",
+  "layer_slug_s": "harvard-g8630-1887-b6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-10-17T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Boas, Franz, 1858-1942.",
+    "Hart & Von Arx."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Angola",
+    "Burundi",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Congo, Democratic Republic of the",
+    "Congo, Republic of the",
+    "Equatorial Guinea",
+    "Ethiopia",
+    "Gabon",
+    "Kenya",
+    "Malawi",
+    "Mozambique",
+    "Namibia",
+    "Nigeria",
+    "Rwanda",
+    "Somalia",
+    "South Sudan",
+    "Tanzania",
+    "Uganda",
+    "Zambia",
+    "Africa, Central",
+    "Africa, Eastern"
+  ],
+  "dct_issued_s": "2012-04",
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "solr_geom": "ENVELOPE(4.154408, 47.753976, 13.189906, -18.343992)",
+  "solr_year_i": 1887,
+  "harvard_collectionID_sm": [
+    "990127098780203941"
+  ]
+}

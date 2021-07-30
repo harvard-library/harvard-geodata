@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g9251-s12-1773-w4",
+  "dc_title_s": "Oceania and Australasia, 1773 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chart of part of the South Sea, shewing the tracts & discoveries made by His Majestys Ships Dolphin, Commodore Byron & Tamer, Capn. Mouat, 1765, Dolphin, Capn. Wallis, & Swallow, Capn. Carteret, 1767, and Endeavour, Lieutenant Cooke, 1769 ; engraved by W. Whitchurch. It was published by W. Strahan & T. Cadell in 1773. Scale [ca. 1: 50,000,000]. Covers Oceania and Australasia.The image inside the map neatline is georeferenced to the surface of the earth and fit to a non-standard 'Mercator' projection with the central meridian at 160.0000 degrees west. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. Note: The central meridian of this map is not the same as the Prime Meridian and may wrap the International Date Line or overlap itself when displayed in GIS software.This map shows features such as drainage, cities and other human settlements, tracks of exploration voyages (the Dolphin by Samuel Wallis & John Byron, the Tamer (i.e. Tamar) by Patrick Mouat, the Swallow by Philip Carteret, and the Endeavor by James Cook), shoreline features, and more. Includes note. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G9251_S12_1773_W4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G9251_S12_1773_W4",
+  "layer_slug_s": "harvard-g9251-s12-1773-w4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-05-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "Whitchurch, William.",
+    "W. Strahan and T. Cadell (Firm)",
+    "Hawkesworth, John, 1715?-1773."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Discovery and exploration",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover",
+    "oceans",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Southern Hemisphere",
+    "Australia",
+    "Australasia",
+    "Oceania",
+    "Pacific Ocean"
+  ],
+  "dct_issued_s": "2009-05",
+  "dct_temporal_sm": [
+    "1773"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 47.08386, -70.929153)",
+  "solr_year_i": 1773,
+  "harvard_collectionID_sm": [
+    "990115215990203941"
+  ]
+}

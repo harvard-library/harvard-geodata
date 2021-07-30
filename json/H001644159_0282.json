@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-h001644159-0282",
+  "dc_title_s": "North Sea, Southwest Coast of Norway, 1625 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of a map plate entitled: Pascaarte van Noorweghen, vertoonende de Zee-custen geleghen tusschen der Neus en Berghen, met alle hare wonderlycke clippen rudsen en menichte van Eylanden aende selfde custen geleghen, gestelt op zijne rechte streckingen en distantien van mijlen, from the Willem Blaeu atlas entitled: Het licht der see-vaert : daerinne claerlijck beschreven ende afghebeeldet werde, alle de custen ende havenen vande Westersche, Noordsche, Oostersche ende Middelandsche zeen. It was published by Jan Janszoon, 1623-1625. This image covers the North Sea, southwest coast of Norway. Scale ca. 1:650,000. Map in Dutch and French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Geodetic System 1984 (WGS 84) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as roads, cities and towns, and other points of interest. Shows relief with hachures. Depths shown by shading and soundings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/H001644159_0282.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:H001644159_0282",
+  "layer_slug_s": "harvard-h001644159-0282",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-04-07T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Blaeu, Willem Janszoon, 1571-1638."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "imageryBaseMapsEarthCover",
+    "transportation",
+    "oceans"
+  ],
+  "dct_spatial_sm": [
+    "North Sea",
+    "Norway",
+    "Vest-Agder",
+    "Rogaland",
+    "Hordaland",
+    "Sogn og Fjordane"
+  ],
+  "dct_issued_s": "2014-04",
+  "dct_temporal_sm": [
+    "1625"
+  ],
+  "solr_geom": "ENVELOPE(3.473962, 7.063842, 61.292279, 57.415716)",
+  "solr_year_i": 1625,
+  "harvard_collectionID_sm": [
+    "990016441590203941"
+  ]
+}

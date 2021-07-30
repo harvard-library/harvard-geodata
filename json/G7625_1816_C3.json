@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7625-1816-c3",
+  "dc_title_s": "Indus River Region, India, Pakistan, and Afghanistan, 1816 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Sindetic Hindoostan or the countries occupied by the Sinde or Indus and its branches, by John Cary. It was published by J. Cary June 1, 1816. Scale [ca. 1:7,000,000]. Covers the Indus River region including portions of Northwest India, Pakistan, Afghanistan and Kashmir. The image inside the map neatline is georeferenced to the surface of the earth and fit to a modified 'Asia North Lambert Conformal Conic' projection with a central meridian of 72 degrees East. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, territorial boundaries, shoreline features, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection as part of the Open Collections Program at Harvard University project: Islamic Heritage Project. Maps selected for the project represent a range of regions, originators, ground condition dates, scales, and purposes. The Islamic Heritage Project consists of over 100,000 digitized pages from Harvard's collections of Islamic manuscripts and published materials. Supported by Prince Alwaleed Bin Talal and developed in association with the Prince Alwaleed Bin Talal Islamic Studies Program at Harvard University.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7625_1816_C3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7625_1816_C3",
+  "layer_slug_s": "harvard-g7625-1816-c3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-01-06T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Harvard University. Library. Open Collections Program",
+    "Cary, John, ca. 1754-1835."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "India",
+    "Indus Valley",
+    "Pakistan",
+    "Indus River",
+    "Indus Delta",
+    "Afghanistan"
+  ],
+  "dct_issued_s": "2010-01",
+  "dct_temporal_sm": [
+    "1816"
+  ],
+  "solr_geom": "ENVELOPE(60.580276, 83.842893, 39.717807, 18.52208)",
+  "solr_year_i": 1816,
+  "harvard_collectionID_sm": [
+    "990119619720203941"
+  ]
+}

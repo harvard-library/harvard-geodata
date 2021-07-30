@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>American Geological Institute</origin>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Mineral Resource Data System (MRDS) data in ArcView Shape File Format, for Spacial Data Delivery Project, 1999</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-us-ore</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing metallic and non-metallic mineral resources worldwide. This data was derived from the Mineral Resource Data System (MRDS) data in ArcView Shape File Format, for Spatial Data Delivery Project, 1999 (Edition: Version 1.1) and was published as part of the USGS Global GIS : global coverage database (2003).
+
+MRDS contains variable-length records of metallic and nonmetallic mineral resources of the world. A record contains descriptive information about mineral deposits and mineral commodities. The types of information in the data base include deposit name, location, commodity, deposit description, geologic characteristics, production, reserves, potential resources, and references. The Mineral Resource Data System master database is not accessible via the WWW. The large number of multi-valued fields make it difficult to import all the fields into a data format that can be utilized by the ArcView Internet Map Server Software. This dataset contains all MRDS locations, but only 44 of the possible 226 fields. A data structure was created in Access 97. Data was imported into the file structure and then processed into Arc View, where it was transformed into shape files that are used by the IMS software to serve the MRDS data and permit access via the www.
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This layer will provide a basemap for layers related to socio-economic and political analysis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1972</begdate>
+          <enddate>1998</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>The data was created from a "pull" of the master MRDS</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Will update two to three times a year to reflect currentness of the master database.</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-176.729722</westbc>
+        <eastbc>179.549167</eastbc>
+        <northbc>78.380556</northbc>
+        <southbc>-73.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Geology</themekey>
+        <themekey>Mines and mineral resources</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For educational non-commercial use only.  Any hardcopies utilizing this data set shall clearly indicate its source. If the user has modified the data in any way they are obliged to describe the types of modifications they have performed on the hardcopy map. User specifically agrees not to misrepresent this data set, nor to imply that changes they made were approved by the U.S. Geological Survey.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Paul G Schruben</cntper>
+          <cntorg>USGS ER GD</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>12201 Sunrise Valley Drive</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192-0002</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>703-648-6142</cntvoice>
+        <cntfax>703-648-6383</cntfax>
+        <cntemail>pschrube@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The data came from many different sources and there has been no consistent program to verify the accuracy of the information.</attraccr>
+    </attracc>
+    <logic>Because the data come from multiple sources, terminology varies and similar characteristics may be described differently.</logic>
+    <complete>Although the dataset is global in extent, coverage varies from country to country and state to state because the data  collection was contingent upon formal scientific collaboration or research programs being established by USGS in those areas.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Positional accuracy is variable among records in the database because the data came from multiple sources and no consistent program has been implemented to verify the accuracy of the positional information.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Mineral Resources Data System</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Virginia</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>http://tin.er.usgs.gov/mrds/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MRDS</srccitea>
+        <srccontr>Dataset from which layer is derived</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>A data pull from the master MRDS database was performed for all MRDS locations, but only 44 of the possible 226 fields. A data structure was created in Access 97 and then the MRDS data was imported into this file structure. The Access database was imported into ESRI ArcView software via an SQL connection where it was processed. In ArcView it was transformed into a shape file. This shape file was used by the IMS software to serve the MRDS data and permit access via the www.</procdesc>
+        <procdate>1999</procdate>
+        <srcprod>Global GIS Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Paul G Schruben</cntper>
+              <cntorg>USGS ER GD</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>12201 Sunrise Valley Drive</address>
+              <city>Reston</city>
+              <state>VA</state>
+              <postal>20192-0002</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>703-648-6142</cntvoice>
+            <cntfax>703-648-6383</cntfax>
+            <cntemail>pschrube@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data</srcused>
+        <procdate>20041101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>GIS Technician</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>109018</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>Please see the following MRDS USGS Web site for detailed attribute field codes and definitions
+http://tin.er.usgs.gov/mrds/about.php  Attribute field names may differ between the Global GIS dataset and the original MRDS field names shown on the USGS Web site.</eaover>
+      <eadetcit>United States Geological Survey. (2006)  Database fields, all categories. http://tin.er.usgs.gov/mrds/about.php Accessed 20 March 2006.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060320</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Acknowledgement of the Harvard Geospatial Library, Harvard University would be appreciated in future use or publication of this metadata record.</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

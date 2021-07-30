@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5754-l7-1830-g7-sh6",
+  "dc_title_s": "London, England, 1830 (Image 6 of 6) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of London : made from an actual survey in the years 1824, 1825, & 1826, by C. & J. Greenwood, extended and comprising the various improvements to 1830 ; engraved by Josiah Neele. It was published by C. & J. Greenwood August 31st, 1830. Scale [ca. 1: 63,360]. This layer is image 6 of 6 total images of the six sheet source map, representing the southeast portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the British National Grid coordinate system (British National Grid, Airy Spheroid OSGB (1936) Datum). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, selected buildings, industry locations (e.g. mills, factories, etc.), docks, parks, cemeteries, ground cover, windmills, city district boundaries, and more. Relief is shown by hachures. Includes view of St. Paul's Cathedral, 'Explanation' table for points of interest & 'References to the Parishes &c.' This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5754_L7_1830_G7_SH6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5754_L7_1830_G7_SH6",
+  "layer_slug_s": "harvard-g5754-l7-1830-g7-sh6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-05-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "C. & J. Greenwood.",
+    "Neele, Josiah.",
+    "Greenwood, C. (Christopher), 1786-1855.",
+    "Greenwood, J. (John), 1791-1867."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Buildings",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "London",
+    "Greenwich",
+    "Lewisham",
+    "Southwark",
+    "Tower Hamlets"
+  ],
+  "dct_issued_s": "2008-05",
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "solr_geom": "ENVELOPE(-0.061299, 0.021776, 51.51137, 51.456287)",
+  "solr_year_i": 1830,
+  "harvard_collectionID_sm": [
+    "990102029440203941"
+  ]
+}

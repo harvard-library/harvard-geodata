@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5834-d9-1706-s4",
+  "dc_title_s": "Duinkerken, in Vlaanderen, aande Noord zee, 1706-1710 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Duinkerken, in Vlaanderen, aande Noord zee : de Spaansche entnoomen 1658, door de Engelsche aan de Fransche verkocht, 1661 : haar gesicht is in ons Stede boek = Dunkerka, Flandriae, ad oceanum Germanicum : Hispanis erepta 1858, Gallis vendita 1661 : eins conspectus in Hecatompoli. It was published by: Schenk exc between 1706 and 1710. Scale not given. Map in Dutch. The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 31N (EPSG: 32631) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5834_D9_1706_S4.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5834_D9_1706_S4",
+  "layer_slug_s": "harvard-g5834-d9-1706-s4",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2019-02-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Schenk, Peter, 1661-1711"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Fortification",
+    "Early maps",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Dunkerque (France)"
+  ],
+  "dct_issued_s": "2019-02",
+  "dct_temporal_sm": [
+    "1706-1710"
+  ],
+  "solr_geom": "ENVELOPE(2.324628, 2.410645, 51.061256, 51.00933)",
+  "solr_year_i": 1706,
+  "harvard_collectionID_sm": [
+    "990138713760203941"
+  ]
+}

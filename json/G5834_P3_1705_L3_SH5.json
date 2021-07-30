@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5834-p3-1705-l3-sh5",
+  "dc_title_s": "Paris, France, 1367-1383 (Time Series Map 5 of 8) (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image from the historic paper map series entitled: Lutece ... plan de la ville de Paris ..., par M.L.C.D.L.M. ; A. Coquart, delineavit et sculp. It was published by Jean & Pierre Cot in 1705. Scale [ca. 1:10,000]. This image is of map 5 entitled: Cinquieme plan de la ville de Paris son accroissement et sa quatrieme cloture commancee sous Charles V. l'an 1367 et finie sous Charles VI. l'an 1383: tire des devis et marchez faits avec le ouvriers, des procez verbaux de toisez et receptions des ouvrages des comptes rendus par ceux qui en eurent la conduite, de la chronique m.s. de St. Denis et d'autres titres et manuscrits qui sont conservez en la Chambre des Comptes et dans Biblioteques. The map represents Paris, 1367 to 1383. Map in French.The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, towns and villages, roads, built-up areas and selected buildings, fortification, ground cover, and more. Relief shown by hachures. Includes index, text, and notes.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5834_P3_1705_L3_SH5.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5834_P3_1705_L3_SH5",
+  "layer_slug_s": "harvard-g5834-p3-1705-l3-sh5",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2014-10-03T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "La Mare, Nicolas de, 1639-1723.",
+    "Bacon, Edmund N., donor.",
+    "Fer, Nicolas de, 1646-1720.",
+    "Coquart, A.",
+    "Jean & Pierre Cot."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "Paris"
+  ],
+  "dct_issued_s": "2014-10",
+  "dct_temporal_sm": [
+    "1367-1383"
+  ],
+  "solr_geom": "ENVELOPE(2.267148, 2.426479, 48.903282, 48.809697)",
+  "solr_year_i": 1367,
+  "harvard_collectionID_sm": [
+    "990110698130203941"
+  ]
+}

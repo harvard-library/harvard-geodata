@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g4364-s5p24-1927-o8",
+  "dc_title_s": "Twin Peaks Tunnel assessment map, San Francisco, California 1927 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the City and County of San Francisco : Twin Peaks Tunnel assessment map, prepared by the Board of Public Works; M.M. O'Shaughnessy, City Engineer, 1927. It was published by Board of Public Works in 1927. Scale [ca. 1:35,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the California Zone III State Plane Coordinate System NAD83 (in Feet) (Fipszone 0403). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, tunnels, drainage, selected public buildings, city block numbers, land assessment figures, cemeteries, parks, and more. Relief is shown by hachures. Includes inset: Map showing the boundaries of the city and county of San Francisco. Includes monetary assessment for cost of tunnel. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G4364_S5P24_1927_O8.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G4364_S5P24_1927_O8",
+  "layer_slug_s": "harvard-g4364-s5p24-1927-o8",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-01-10T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "O'Shaughnessy, M. M. (Michael Maurice), 1864-1934."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Tunnels",
+    "imageryBaseMapsEarthCover",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Francisco",
+    "Twin Peaks Tunnel"
+  ],
+  "dct_issued_s": "2008-01",
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "solr_geom": "ENVELOPE(-122.536822, -122.345211, 37.820547, 37.699441)",
+  "solr_year_i": 1927,
+  "harvard_collectionID_sm": [
+    "990102197590203941"
+  ]
+}

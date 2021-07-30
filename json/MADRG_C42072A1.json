@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-madrg-c42072a1",
+  "dc_title_s": "Albany, New York, 1974 (USGS 1- by 2-degree Quadrangle DRG)",
+  "dc_description_s": "This layer is a digital raster graphic of the 1- by 2-degree USGS topographic map of the Albany, New York quadrangle (NK 18-6), 1974, covering portions of New Hampshire, Vermont, New York, Connecticut, and a large portion of western Massachusetts. Scale 1:250,000. It is part of the Eastern United States 1:250,000 series (V501) (1- by 2-degree quadrangles) produced by the U.S. Geological Survey. The DRG was published in 1996. A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The source paper map was prepared by the U.S. Army Topographic Command (RMND), and published by the United States Geological Survey. Compiled in 1954 from United States quadrangles, 1:25,000, 1:31,680, 1:50,000, 1:62,500, 1889-1951. Planimetry revised in part from aerial photographs taken 1952-1953. Map field checked 1956. Revised in 1974 by the U.S. Geological Survey from aerial photographs taken 1973. The names and numbers of the quadrangles which neighbor this one appear in a location diagram on the map collar in their respective positions (N,S,E,W) in relation to this map.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MADRG_C42072A1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:MADRG_C42072A1",
+  "layer_slug_s": "harvard-madrg-c42072a1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2006-11-29T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)",
+    "United States. Army Topographic Command."
+  ],
+  "dc_publisher_s": [
+    "United States Geological Survey"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "New Hampshire",
+    "Vermont",
+    "New York",
+    "Connecticut",
+    "Albany"
+  ],
+  "dct_issued_s": "1996-02-06",
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "solr_geom": "ENVELOPE(-74.094988, -71.861957, 43.094949, 41.776483)",
+  "solr_year_i": 1974,
+  "harvard_collectionID_sm": [
+    "990072954620203941"
+  ]
+}

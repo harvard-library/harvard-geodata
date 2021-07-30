@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-africover-drc-landcover-ge",
+  "dc_title_s": "Democratic Republic of the Congo Landcover",
+  "dc_description_s": "The Democratic Republic of the Congo landcover from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:200,000. The land cover has been produced from visual interpretation of digitally enhanced LANDSAT TM images (Bands 4,3,2) acquired mainly in the year 2000-2001. The land cover classes have been developed using the FAO/UNEP international standard LCCS classification system.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AFRICOVER_DRC_LANDCOVER_GE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "vector_public:AFRICOVER_DRC_LANDCOVER_GE",
+  "layer_slug_s": "harvard-africover-drc-landcover-ge",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2008-04-14T00:00:00Z",
+  "dc_creator_sm": [
+    "Food and Agriculture Organization of the United Nations",
+    "Di Gregorio, Antonio",
+    "Congo (Democratic Republic). Ministere de l'environnement. Service Permanent d'Inventaire et d'Amenagement Forestier",
+    "Yobwa, Joseph Ipalaka"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Land use",
+    "Vegetation mapping",
+    "Earth Surface",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Congo"
+  ],
+  "dct_issued_s": "2003-10-01",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "solr_geom": "ENVELOPE(12.20663, 31.30591, 5.386098, -13.45568)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990115092200203941"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7650-1821-b3",
+  "dc_title_s": "India & South Asia, 1821 (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Hindoostan, J. & G. Menzies sculp. It was published by Baldwin, Cradock & Joy in 1821. Scale [1: 7,000,000]. Covers India, Bangladesh, Nepal, Bhutan, and portions of Afghanistan, Pakistan, China, Sri Lanka, and Maldives.The image inside the map neatline is georeferenced to the surface of the earth and fit to the Kalianpur 1975 India Zone III projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial and administrative boundaries, shoreline features, and more. Relief shown by hachures. Includes inset: 'Isle of Ceylon' ; scale [ca. 1: 4,500,000].This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G7650_1821_B3.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G7650_1821_B3",
+  "layer_slug_s": "harvard-g7650-1821-b3",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-10-31T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Baldwin, Cradock, and Joy.",
+    "John Thomson & Co.",
+    "J. & G. Menzies."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard College Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan",
+    "Bangladesh",
+    "Bhutan",
+    "China",
+    "India",
+    "Maldives",
+    "Nepal",
+    "Pakistan",
+    "Sri Lanka",
+    "South Asia"
+  ],
+  "dct_issued_s": "2011-10",
+  "dct_temporal_sm": [
+    "1821"
+  ],
+  "solr_geom": "ENVELOPE(58.602718, 98.731428, 44.329006, -2.09786)",
+  "solr_year_i": 1821,
+  "harvard_collectionID_sm": [
+    "990125925670203941"
+  ]
+}
