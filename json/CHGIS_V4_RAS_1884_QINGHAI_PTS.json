@@ -5,7 +5,7 @@
   "dc_description_s": "point features showing towns, mountains, & lakes in Qinghai and Xinjiang from Qinghai Lake west across the Altun Shan Range to Khotan; digitized from H.M. Prezhavalsky 'Map of Central Asia' 1884 CHGIS V4 also provides supplemental datasets, including points derived from Russian Historical Maps, and other features that have been developed or processed from publicly available sources for use with CHGIS layers. -- text from CHGIS v4 CD-ROM.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CHGIS_V4_RAS_1884_QINGHAI_PTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CHGIS_V4_RAS_1884_QINGHAI_PTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:CHGIS_V4_RAS_1884_QINGHAI_PTS",
   "layer_slug_s": "harvard-chgis-v4-ras-1884-qinghai-pts",
   "layer_geom_type_s": "Point",
