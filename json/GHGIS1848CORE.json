@@ -5,7 +5,7 @@
   "dc_description_s": "In 1848 revolution swept through Europe. The dataset shows the German States and territories in this year of revolution. The eastern boundary of the German confederation has changed, moving further east to encompass nearly all of Prussia. As a consequence, the eastern provinces and districts of Prussia now belonged to the German Confederation. This situation lasted until 1852. In 1853 the eastern boundary moved back to the pre-1848 (1834) position. [changes as compared to 1834]",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1848CORE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1848CORE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:GHGIS1848CORE",
   "layer_slug_s": "harvard-ghgis1848core",
   "layer_geom_type_s": "Polygon",

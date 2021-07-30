@@ -5,7 +5,7 @@
   "dc_description_s": "The Fish Traps (weirs) datalayer contains the point locations of fish trap permit holders' traps. These permit holders are licensed by the town in which the traps reside as well as by the MA Division of Marine Fisheries (DMF). Not all locations are active, and attributes in the PAT file reflect which trap was active each year from 1990 through 1998 based on catch reports submitted monthly by the permit holders.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISFSHTRPX1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISFSHTRPX1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:MGISFSHTRPX1",
   "layer_slug_s": "harvard-mgisfshtrpx1",
   "layer_geom_type_s": "Point",

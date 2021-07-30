@@ -5,7 +5,7 @@
   "dc_description_s": "MassGIS derived coverage of point landmarks from the 1990 U.S. Census TIGER Line files database. This datalayer includes the locations of: airports or airfields; bus terminals; campgrounds; cemeteries; convents or monasteries; educational institutions; hospitals; federal penitentiaries, state prisons or prison farms; golf courses; government centers; jail or detention centers; lookout towers; marinas; marine terminals; office Parks; religious institutions; state or local parks or forests; train stations.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISLANDMAX1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/MGISLANDMAX1.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:MGISLANDMAX1",
   "layer_slug_s": "harvard-mgislandmax1",
   "layer_geom_type_s": "Point",

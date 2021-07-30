@@ -5,7 +5,7 @@
   "dc_description_s": "These lines represent the boundary of the German Confederation (Deutscher Bund) in 1853. The confederation boundary extends beyond 'core Germany' and includes portions of the Habsburg Empire and Luxembourg. Missing segments indicate bodies water (Lake Constance) in which boundaries were not fixed at the time or which did not connect to 'core Germany' (Adriatic Sea). The boundary in the east has moved westward again to exclude the eastern provinces of Prussia.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1853GERMANCONFED.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1853GERMANCONFED.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:GHGIS1853GERMANCONFED",
   "layer_slug_s": "harvard-ghgis1853germanconfed",
   "layer_geom_type_s": "Line",

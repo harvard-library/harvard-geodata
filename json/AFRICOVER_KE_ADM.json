@@ -5,7 +5,7 @@
   "dc_description_s": "Kenya administrative boundaries from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:100,000. The national and administrative boundaries have been provided by the National Focal Point Institution (NFPI).",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AFRICOVER_KE_ADM.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/AFRICOVER_KE_ADM.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:AFRICOVER_KE_ADM",
   "layer_slug_s": "harvard-africover-ke-adm",
   "layer_geom_type_s": "Polygon",

@@ -5,7 +5,7 @@
   "dc_description_s": "point features showing towns & mountains from the Mongolian steppe southward across Inner Mongolia, Qinghai and Kham; digitized from P.K. Kozlov 'Map of Mongolia and Kham' 1899-1901 CHGIS V4 also provides supplemental datasets, including points derived from Russian Historical Maps, and other features that have been developed or processed from publicly available sources for use with CHGIS layers. -- text from CHGIS v4 CD-ROM.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CHGIS_V4_RAS_1899_MK_PTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/CHGIS_V4_RAS_1899_MK_PTS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_public:CHGIS_V4_RAS_1899_MK_PTS",
   "layer_slug_s": "harvard-chgis-v4-ras-1899-mk-pts",
   "layer_geom_type_s": "Point",

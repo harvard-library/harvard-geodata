@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g5833-p6-1584-r6",
+  "dc_title_s": "Poictou, (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Poictou : Pictonum Vicinarumque Regionum Fidiss. Descriptio. It was published by: Auctoris aere & cura impressum, absbolutumque apud Christophorum Plantinum. Scale approximately 1:600,000, 15 Milliaria Pictonica communia et magna [= 10,4 cm]. Map in Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 30N (EPSG: 32630) coordinate system. All map features and collar and inset information are shown as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of geographies, originators, ground condition dates, scales, and map purposes.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G5833_P6_1584_R6.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "mapimages_public:G5833_P6_1584_R6",
+  "layer_slug_s": "harvard-g5833-p6-1584-r6",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2019-04-30T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard Library",
+    "Rogier, Pierre, ca. 1555-1587",
+    "Plantin, Christophe, approximately 1520-1589"
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection, Harvard Library"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Early maps",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Poitou-Charentes (France)",
+    "Poitou (France)"
+  ],
+  "dct_issued_s": "2019-04",
+  "dct_temporal_sm": [
+    "1584"
+  ],
+  "solr_geom": "ENVELOPE(-2.384645, 2.583279, 47.951456, 44.730429)",
+  "solr_year_i": 1584,
+  "harvard_collectionID_sm": [
+    "990140265720203941"
+  ]
+}

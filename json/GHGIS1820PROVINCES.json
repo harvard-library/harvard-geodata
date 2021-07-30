@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ghgis1820provinces",
+  "dc_title_s": "Germany Provincial Boundaries, 1820, German Historical GIS",
+  "dc_description_s": "These polygons represent 10 provinces existing in the sovereign states of the German Confederation (the Deutscher Bund) in 1820, which were located within the (future) boundaries of the German Empire that would be founded in 1871 ('core Germany'). Since in 1820 only Prussia had provinces as administrative units, the provincial dataset as a layer likewise represents the territorial extension of Kingdom of Prussia in 1820.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/GHGIS1820PROVINCES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:GHGIS1820PROVINCES",
+  "layer_slug_s": "harvard-ghgis1820provinces",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2011-02-09T00:00:00Z",
+  "dc_creator_sm": [
+    "HGIS Germany (Andreas Kunz, Leonhard Dietze)",
+    "IEG-Maps / Berlin Data Pool (Andreas Kunz, Robert Moeschl)",
+    "Institut fur Europaische Geschichte (Mainz, Rhineland-Palatinate, Germany)",
+    "Fachhochschule Mainz (Mainz, Rhineland-Palatinate, Germany)"
+  ],
+  "dc_publisher_s": [
+    "HGIS Germany"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "boundaries",
+    "Boundaries",
+    "Administrative and political divisions",
+    "Population Statistics"
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Lithuania"
+  ],
+  "dct_issued_s": "2007",
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 49.055261)",
+  "solr_year_i": 1820,
+  "harvard_collectionID_sm": [
+    "990126902100203941"
+  ]
+}
