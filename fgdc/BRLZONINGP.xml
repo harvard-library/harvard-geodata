@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Brookline GIS, Information Technologies Department</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Zoning Areas (Town of Brookline)</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-brlzoningp</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The zoning polygon layer is a generalized zoning coverage for the town of Brookline's current zoning ordinance. Layer features represent contiguous zoning districts as adopted in the zoning ordinance.
+The coverage is digitized from data collected from the existing zoning map from the Town's Planning Department, Boston Edison Company's street centerline datalayer, and the parcels datalayer.
+Zoning data includes polygons and labels representing the boundaries for specific zoning codes as defined by the Zoning Code.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data such as an overlay for the parcel coverage, aiding in the initial determination of a parcel or plan's zoning or zonings.
+The purpose of this layer is to identify the zoning classification of individual properties that fall within zoning districts. This layer may also be used to select all properties that share a particular zoning classification, or more generally, to view zoning districts as they appear in the zoning ordinance. 
+More advanced user applications may focus on decision-making for urban and town planning, transportation planning, public works, or utilities purposes (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output).</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>unknown</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.178832</westbc>
+        <eastbc>-71.105581</eastbc>
+        <northbc>42.351762</northbc>
+        <southbc>42.294587</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Zoning</themekey>
+        <themekey>City Planning</themekey>
+        <themekey>Urban land use</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Brookline</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational non-commercial use only. The Town of Brookline makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished by the Town, including the implied validity of any uses of such data</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Information Technologies Department</cntorg>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Town Hall, 3rd Floor</address>
+          <address>333 Washington Street</address>
+          <city>Brookline</city>
+          <state>MA</state>
+          <postal>02445</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-730-2005</cntvoice>
+        <cntfax>617-739-7571</cntfax>
+        <cntemail>feng_yang@town.brookline.ma.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by the Town of Brookline</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Dataset copied and  imported to an ArcSDE Layer.</procdesc>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited.</procdesc>
+        <procdate>20020911</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>183</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Brookline Zoning Areas</enttypl>
+        <enttypd>ESRI Shapefile.  Polygons describe town zoning areas</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONING_</attrlabl>
+        <attrdef>Internal Feature Identifier.</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONING_ID</attrlabl>
+        <attrdef>Internal Feature Identifier.</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONETYPE</attrlabl>
+        <attrdef>Code for Zoning Type</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>I-1.0</edomv>
+            <edomvd>Industrial services</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-2.0</edomv>
+            <edomvd>Business and professional offices</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-1.0</edomv>
+            <edomvd>Business and professional offices</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>G-1.75</edomv>
+            <edomvd>General business</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>G-2.0</edomv>
+            <edomvd>General business</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>G-1.0</edomv>
+            <edomvd>General business</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>L-1.0</edomv>
+            <edomvd>Local business</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>L-0.5</edomv>
+            <edomvd>Local business</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-2.5</edomv>
+            <edomvd>Apartment house</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-2.0</edomv>
+            <edomvd>Apartment house</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-1.5</edomv>
+            <edomvd>Apartment house</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-1.0</edomv>
+            <edomvd>Apartment house</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-0.5</edomv>
+            <edomvd>Apartment house</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>T-5</edomv>
+            <edomvd>Two-family &amp; attached single-family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>T-6</edomv>
+            <edomvd>Two-family &amp; attached single-family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SC-10</edomv>
+            <edomvd>Single family &amp; converted for two-family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SC-7</edomv>
+            <edomvd>Single family &amp; converted for two-family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>S-0.75p</edomv>
+            <edomvd>Single family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>S-7</edomv>
+            <edomvd>Single family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>S-10</edomv>
+            <edomvd>Single family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>S-15</edomv>
+            <edomvd>Single family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>S-25</edomv>
+            <edomvd>Single family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>S-40</edomv>
+            <edomvd>Single family</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SYMBOL</attrlabl>
+        <attrdef>Numeric Code matching Zoning Description</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Local Business</edomvd>
+          </edom>
+          <edom>
+            <edomv>16</edomv>
+            <edomvd>S-O.5P Special District</edomvd>
+          </edom>
+          <edom>
+            <edomv>17</edomv>
+            <edomvd>Single Family &amp; Converted for Two-Family</edomvd>
+          </edom>
+          <edom>
+            <edomv>20</edomv>
+            <edomvd>Two-Family &amp; Attached Single Family</edomvd>
+          </edom>
+          <edom>
+            <edomv>134</edomv>
+            <edomvd>Apartment House</edomvd>
+          </edom>
+          <edom>
+            <edomv>349</edomv>
+            <edomvd>Business &amp; Professional Office</edomvd>
+          </edom>
+          <edom>
+            <edomv>352</edomv>
+            <edomvd>General Business</edomvd>
+          </edom>
+          <edom>
+            <edomv>477</edomv>
+            <edomvd>Industrial Services</edomvd>
+          </edom>
+          <edom>
+            <edomv>757</edomv>
+            <edomvd>Single Family</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZONEDESC</attrlabl>
+        <attrdef>Descriptive text of zoning matches SYMBOL attribute</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CASE1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CASE2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute defines the vector data as either a point, polyline, or polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Polygon</edomv>
+            <edomvd>A polygon is an area feature comprised of points and line segments.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated feature length in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <cntinst>Monday - Friday, 9:00am-4:00pm EST</cntinst>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>none</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020925</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

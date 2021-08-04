@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri07wldadmin-ln",
+  "dc_title_s": "World Administrative Unit Boundaries : ESRI Data & Maps 2007",
+  "dc_description_s": "World Administrative Unit Boundaries represents the boundary lines for the first-level administrative units of the world.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI07WLDADMIN_LN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI07WLDADMIN_LN",
+  "layer_slug_s": "harvard-esri07wldadmin-ln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2008-02-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Administrative and political divisions",
+    "Partition, Territorial",
+    "Boundaries",
+    "Territory, National",
+    "boundaries",
+    "line",
+    "administrative boundaries",
+    "international boundaries",
+    "coastlines"
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America",
+    "Polar Regions"
+  ],
+  "dct_issued_s": "2007-05-01",
+  "dct_temporal_sm": [
+    "1996",
+    "2000",
+    "1999",
+    "2007"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 83.623596, -85.470291)",
+  "solr_year_i": 1996,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

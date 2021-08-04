@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnfemafldpy",
+  "dc_title_s": "FEMA Floodplain Boundaries - City of Newton",
+  "dc_description_s": "This layer shows the Federal Emergency Management Agency (FEMA) floodplain boundaries for Newton, Massachusetts. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to the earths surface using the geographic projection and the decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNFEMAFLDPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNFEMAFLDPY",
+  "layer_slug_s": "harvard-nwtnfemafldpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-17T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "utilitiesCommunication",
+    "Municipal",
+    "Insurance",
+    "Floodplain management",
+    "Flood control",
+    "Federal Emergency Management Administration (FEMA)"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_geom": "ENVELOPE(-71.270496, -71.156784, 42.367999, 42.282877)",
+  "solr_year_i": 1996,
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

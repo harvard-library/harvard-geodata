@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part A: Tables L1-1 to L1-9)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ch2000-l-a</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer includes China county boundary with 2000 population Census data from 9.5% Long Form data.  This layer is one (Part A) of seven layers (see also Parts B-G) covering the entire Long Form data; this layer covers Long Form tables L1-1 to L1-9: 
+
+L1-1:  Family households, population and sex ratio by region;
+L1-2:  Employed population by sex and industries;
+L1-3:  Employed population by sex and occupation;
+L1-4:  Non-working population by sex and type;
+L1-5 : Employment and Unemployment by Sex;
+L1-6:  Population aged 15 and over by sex and marital status;
+L1-7:  Births by sex and birth order;
+L1-8:  Number of Women (15-50) with Living Births;
+L1-9  Number of Women (15-50) with Surviving Births.
+ 
+This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003).  The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts.  Source scale: 1:1,000,000.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20001101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>73.446960</westbc>
+        <eastbc>135.085831</eastbc>
+        <northbc>53.557926</northbc>
+        <southbc>6.318641</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Vital statistics</themekey>
+        <themekey>Industrial statistics</themekey>
+        <themekey>Family</themekey>
+        <themekey>Households</themekey>
+        <themekey>Occupations</themekey>
+        <themekey>Employment (Economic theory)</themekey>
+        <themekey>Unemployment</themekey>
+        <themekey>Sex Statistics</themekey>
+        <themekey>Marital status Statistics</themekey>
+        <themekey>Childbirth Statistics</themekey>
+        <themekey>Counties</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>No part of this data product is allowed to be reproduced or re-distributed to any other parties without permission.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>University of Michigan</address>
+          <address>1080 S. University</address>
+          <address>Suite 3630</address>
+          <city>Ann Arbor</city>
+          <state>MI</state>
+          <postal>48109</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>734-647-9610</cntvoice>
+        <cntfax>734-764-5540</cntfax>
+        <cntemail>chinadata@umich.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part B: Table L4-1 categories 1-171)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part C: Table L4-1 categories 172-324)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part D: Tables L4-2 to L6-9)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part E: Tables L7-1 to L7-3)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part F: Tables L7-4 to L7-8)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part G: Tables L8-1 to L8-6)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>There are no population attribute values (zeros) for Taiwan, Hong Kong, Macau, South China Sea islands, and for some counties of China.  This is consistent with the original data source.</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Geomatics Center of China</origin>
+            <pubdate>Unknown</pubdate>
+            <title>National Geomatics Center of China (NGCC) data</title>
+            <geoform>Unknown</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>National Geomatics Center of China</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NGCC</srccitea>
+        <srccontr>Cited as source in distributor's dataset metadata; contribution unknown.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: ChinaL1.
+
+Distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2003</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shape</srccitea>
+        <srccontr>Original source of datalayer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was downloaded from the CD.  A copy of the attribute table was made and opened as an external data source in Microsoft Excel 2002.  The original DBF file contained more than the number of columns allowed by SDE, so SQL statements were used to select a subset of fewer than 250 columns.  This subset of columns was written out to a new DBF file.  The original shape file was opened in ArcMap and edited to remove all of the census demographic variables.  The new, smaller DBF file was joined to the existing shapes using the GB_CNTY (County ID code) as a primary key.  The resulting file was exported to a new shape file.  The new shape file was loaded into SDE using the shp2sde command.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200609</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3765</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CH2000_L_A</enttypl>
+        <enttypd>County boundary with 2000 population Census data from 9.5% Long Form data (Part A)</enttypd>
+        <enttypds>China Data Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>CH2000_L_A.AREA</attrlabl>
+        <attrdef>Feature area in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GBCITY</attrlabl>
+        <attrdef>Four digit GB (Guo Biao -- National Standard) code of City</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBPROV</attrlabl>
+        <attrdef>Two digit GB (Guo Biao -- National Standard) code of Province</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBCNTY</attrlabl>
+        <attrdef>Six digit GB (Guo Biao -- National Standard) code of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNAME</attrlabl>
+        <attrdef>Chinese name of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text [Unicode].</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ENAME</attrlabl>
+        <attrdef>English name of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L101001</attrlabl>
+        <attrdef>Total H (Households)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101002</attrlabl>
+        <attrdef>Total Family H</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101003</attrlabl>
+        <attrdef>Total Collective H</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101004</attrlabl>
+        <attrdef>Total P (Population)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101005</attrlabl>
+        <attrdef>Total M (Male)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101006</attrlabl>
+        <attrdef>Total F (Female)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101007</attrlabl>
+        <attrdef>Total P Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101008</attrlabl>
+        <attrdef>P Family Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101009</attrlabl>
+        <attrdef>M Family Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101010</attrlabl>
+        <attrdef>F Family Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101011</attrlabl>
+        <attrdef>P Sex Ratio Family Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101012</attrlabl>
+        <attrdef>P Collective Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101013</attrlabl>
+        <attrdef>M Collective Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101014</attrlabl>
+        <attrdef>F Collective Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101015</attrlabl>
+        <attrdef>P Sex Ratio Collective Households</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L101016</attrlabl>
+        <attrdef>P Average Family</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102001</attrlabl>
+        <attrdef>Total employed population by sex and industries</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102002</attrlabl>
+        <attrdef>Employed male population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102003</attrlabl>
+        <attrdef>Employed female population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102004</attrlabl>
+        <attrdef>Total P for Farming, Forestry, Animal Husbandry and Fishery</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102005</attrlabl>
+        <attrdef>Male P for Farming,Forestry,Animal Husbandry and Fishery</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102006</attrlabl>
+        <attrdef>Female P for Farming,Forestry,Animal Husbandry and Fishery</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102007</attrlabl>
+        <attrdef>Total P for Mining and Quarrying</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102008</attrlabl>
+        <attrdef>Male P  for Mining and Quarrying</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102009</attrlabl>
+        <attrdef>Female P  for Mining and Quarrying</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102010</attrlabl>
+        <attrdef>Total P for Manufacturing</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102011</attrlabl>
+        <attrdef>Male P for Manufacturing</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102012</attrlabl>
+        <attrdef>Female P for Manufacturing</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102013</attrlabl>
+        <attrdef>Total P for Electric Power,Gas and Water Production and Supply</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102014</attrlabl>
+        <attrdef>Male P for Electric Power,Gas and Water Production and Supply</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102015</attrlabl>
+        <attrdef>Female P for Electric Power,Gas and Water Production and Supply</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102016</attrlabl>
+        <attrdef>Total P for Construction</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102017</attrlabl>
+        <attrdef>Male P for Construction</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102018</attrlabl>
+        <attrdef>Female P for Construction</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102019</attrlabl>
+        <attrdef>Total P for Geological Prospecting and Water Conservancy</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102020</attrlabl>
+        <attrdef>Male P for Geological Prospecting and Water Conservancy</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102021</attrlabl>
+        <attrdef>Female P for Geological Prospecting and Water Conservancy</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102022</attrlabl>
+        <attrdef>Total P for Transportation,Storage,Postal and Telecommunications Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102023</attrlabl>
+        <attrdef>Male P for Transportation,Storage,Postal and Telecommunications Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102024</attrlabl>
+        <attrdef>Female P for Transportation,Storage,Postal and Telecommunications Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102025</attrlabl>
+        <attrdef>Total P for Wholesale and Retail Trade,Catering Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102026</attrlabl>
+        <attrdef>Male P for Wholesale and Retail Trade,Catering Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102027</attrlabl>
+        <attrdef>Female P for Wholesale and Retail Trade,Catering Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102028</attrlabl>
+        <attrdef>Total P for Banking and Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102029</attrlabl>
+        <attrdef>Male P for Banking and Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102030</attrlabl>
+        <attrdef>Female P for Banking and Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102031</attrlabl>
+        <attrdef>Total P for Real Estate Management</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102032</attrlabl>
+        <attrdef>Male P for Real Estate Management</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102033</attrlabl>
+        <attrdef>Female P for Real Estate Management</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102034</attrlabl>
+        <attrdef>Total P for Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102035</attrlabl>
+        <attrdef>Male P for Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102036</attrlabl>
+        <attrdef>Female P for Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102037</attrlabl>
+        <attrdef>Total P for Health Care, Sport and Social Welfare</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102038</attrlabl>
+        <attrdef>Male P for Health Care, Sport and Social Welfare</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102039</attrlabl>
+        <attrdef>Female P for Health Care, Sport and Social Welfare</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102040</attrlabl>
+        <attrdef>Total P for Education, Culture and Arts,Radio,Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102041</attrlabl>
+        <attrdef>Male P for Education, Culture and Arts,Radio,Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102042</attrlabl>
+        <attrdef>Female P for Education, Culture and Arts,Radio,Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102043</attrlabl>
+        <attrdef>Total P for Scientific Research and Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102044</attrlabl>
+        <attrdef>Male P for Scientific Research and Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102045</attrlabl>
+        <attrdef>Female P for Scientific Research and Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102046</attrlabl>
+        <attrdef>Total P for Government Agencies, Party Agencies and Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102047</attrlabl>
+        <attrdef>Male P for Government Agencies, Party Agencies and Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102048</attrlabl>
+        <attrdef>Female P for Government Agencies, Party Agencies and Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102049</attrlabl>
+        <attrdef>Total P for Other Sectors</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102050</attrlabl>
+        <attrdef>Male P for Other Sectors</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L102051</attrlabl>
+        <attrdef>Female P for Other Sectors</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103001</attrlabl>
+        <attrdef>Total Employed population by sex and occupation</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103002</attrlabl>
+        <attrdef>Employed male population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103003</attrlabl>
+        <attrdef>Employed female population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103004</attrlabl>
+        <attrdef>Total P for Government Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103005</attrlabl>
+        <attrdef>Male P for Government Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103006</attrlabl>
+        <attrdef>Female P for Government Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103007</attrlabl>
+        <attrdef>Total P for Professional/Technical</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103008</attrlabl>
+        <attrdef>Male P for Professional/Technical</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103009</attrlabl>
+        <attrdef>Female P for Professional/Technical</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103010</attrlabl>
+        <attrdef>Total P for Clerical &amp; Related Workers</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103011</attrlabl>
+        <attrdef>Male P for Clerical &amp; Related Workers</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103012</attrlabl>
+        <attrdef>Female P for Clerical &amp; Related Workers</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103013</attrlabl>
+        <attrdef>Total P for Sales and Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103014</attrlabl>
+        <attrdef>Male P for Sales and Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103015</attrlabl>
+        <attrdef>Female P for Sales and Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103016</attrlabl>
+        <attrdef>Total P for Farming, Forestry, Husbandry, Fishery and Water Conservancy</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103017</attrlabl>
+        <attrdef>Male P for Farming, Forestry, Husbandry, Fishery and Water Conservancy</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103018</attrlabl>
+        <attrdef>Female P for Farming, Forestry, Husbandry, Fishery and Water Conservancy</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103019</attrlabl>
+        <attrdef>Total P for Production &amp; Transportation Facility</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103020</attrlabl>
+        <attrdef>Male P for Production &amp; Transportation Facility</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103021</attrlabl>
+        <attrdef>Female P for Production &amp; Transportation Facility</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103022</attrlabl>
+        <attrdef>Total P for Others</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103023</attrlabl>
+        <attrdef>Male P for Others</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L103024</attrlabl>
+        <attrdef>Female P for Others</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104001</attrlabl>
+        <attrdef>Total unemployed population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104002</attrlabl>
+        <attrdef>Male unemployed population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104003</attrlabl>
+        <attrdef>Female unemployed population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104004</attrlabl>
+        <attrdef>Total P for Current Students</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104005</attrlabl>
+        <attrdef>Male P for Current Students</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104006</attrlabl>
+        <attrdef>Female P for Current Students</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104007</attrlabl>
+        <attrdef>Total P for Housework</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104008</attrlabl>
+        <attrdef>Male P for Housework</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104009</attrlabl>
+        <attrdef>Female P for Housework</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104010</attrlabl>
+        <attrdef>Total Retired Population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104011</attrlabl>
+        <attrdef>Retired Male Population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104012</attrlabl>
+        <attrdef>Retired Female Population</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104013</attrlabl>
+        <attrdef>Total P Lost the Ability to Work</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104014</attrlabl>
+        <attrdef>Male P Lost the Ability to Work</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104015</attrlabl>
+        <attrdef>Female P Lost the Ability to Work</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104016</attrlabl>
+        <attrdef>Total P, Have Never Worked and Looking for A Job</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104017</attrlabl>
+        <attrdef>Male P,Have Never Worked and Looking for A Job</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104018</attrlabl>
+        <attrdef>Female P, Have Never Worked and Looking for A Job</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104019</attrlabl>
+        <attrdef>Total P, Lose Job and Looking for A Job</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104020</attrlabl>
+        <attrdef>Male P, Lose Job and Looking for A Job</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104021</attrlabl>
+        <attrdef>Female P, Lose Job and Looking for A Job</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104022</attrlabl>
+        <attrdef>Total P (Other)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104023</attrlabl>
+        <attrdef>Male P (Other)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L104024</attrlabl>
+        <attrdef>Female P (Other)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105001</attrlabl>
+        <attrdef>Total P at 15 and over</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105002</attrlabl>
+        <attrdef>Total male P at 15 and over</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105003</attrlabl>
+        <attrdef>Total female P at 16 and over</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105004</attrlabl>
+        <attrdef>Total P of Employment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105005</attrlabl>
+        <attrdef>Total male P of Employment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105006</attrlabl>
+        <attrdef>Total female P of Employment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105007</attrlabl>
+        <attrdef>Total P of Unemployment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105008</attrlabl>
+        <attrdef>Total male P of Unemployment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105009</attrlabl>
+        <attrdef>Total female P of Unemployment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105010</attrlabl>
+        <attrdef>Total Unemployment Rate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105011</attrlabl>
+        <attrdef>Total male Unemployment Rate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L105012</attrlabl>
+        <attrdef>Total female Unemployment Rate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106001</attrlabl>
+        <attrdef>Total Population aged 15+</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106002</attrlabl>
+        <attrdef>Total Male Population aged 15+</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106003</attrlabl>
+        <attrdef>Total Female Population aged 15+</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106004</attrlabl>
+        <attrdef>Total Population, Never Married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106005</attrlabl>
+        <attrdef>Total Male Population, Never Married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106006</attrlabl>
+        <attrdef>Total Female Population, Never Married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106007</attrlabl>
+        <attrdef>Total Population, First Married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106008</attrlabl>
+        <attrdef>Total Male Population, First Married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106009</attrlabl>
+        <attrdef>Total Female Population, First Married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106010</attrlabl>
+        <attrdef>Total Population, Re-married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106011</attrlabl>
+        <attrdef>Total Male Population, Re-married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106012</attrlabl>
+        <attrdef>Total Female Population, Re-married</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106013</attrlabl>
+        <attrdef>Total Population, Divorced</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106014</attrlabl>
+        <attrdef>Total Male Population, Divorced</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106015</attrlabl>
+        <attrdef>Total Female Population, Divorced</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106016</attrlabl>
+        <attrdef>Total Population, Widowed</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106017</attrlabl>
+        <attrdef>Total Male Population, Widowed</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L106018</attrlabl>
+        <attrdef>Total Female Population, Widowed</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107001</attrlabl>
+        <attrdef>Total Number of Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107002</attrlabl>
+        <attrdef>Number of Male Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107003</attrlabl>
+        <attrdef>Number of Female Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107004</attrlabl>
+        <attrdef>Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107005</attrlabl>
+        <attrdef>Total Number of 1st Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107006</attrlabl>
+        <attrdef>Male Number of 1st Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107007</attrlabl>
+        <attrdef>Female Number of 1st Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107008</attrlabl>
+        <attrdef>Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107009</attrlabl>
+        <attrdef>Total Number of 2nd Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107010</attrlabl>
+        <attrdef>Male Number of 2nd Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107011</attrlabl>
+        <attrdef>Female Number of 2nd Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107012</attrlabl>
+        <attrdef>Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107013</attrlabl>
+        <attrdef>Total Number of 3rd Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107014</attrlabl>
+        <attrdef>Male Number of 3rd Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107015</attrlabl>
+        <attrdef>Female Number of 3rd Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107016</attrlabl>
+        <attrdef>Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107017</attrlabl>
+        <attrdef>Total Number of 4th Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107018</attrlabl>
+        <attrdef>Male Number of 4th Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107019</attrlabl>
+        <attrdef>Female Number of 4th Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107020</attrlabl>
+        <attrdef>Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107021</attrlabl>
+        <attrdef>Total Number of 5th Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107022</attrlabl>
+        <attrdef>Male Number of 5th Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107023</attrlabl>
+        <attrdef>Female Number of 5th Birth</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L107024</attrlabl>
+        <attrdef>Sex Ratio</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108001</attrlabl>
+        <attrdef>Number of Women (15-50) with Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108002</attrlabl>
+        <attrdef>0 Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108003</attrlabl>
+        <attrdef>1 Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108004</attrlabl>
+        <attrdef>2 Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108005</attrlabl>
+        <attrdef>3 Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108006</attrlabl>
+        <attrdef>4 Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108007</attrlabl>
+        <attrdef>5 and over Living Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L108008</attrlabl>
+        <attrdef>Average Number of Living Births Per Women</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109001</attrlabl>
+        <attrdef>Number of Women (15-50) with Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109002</attrlabl>
+        <attrdef>0 Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109003</attrlabl>
+        <attrdef>1 Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109004</attrlabl>
+        <attrdef>2 Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109005</attrlabl>
+        <attrdef>3 Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109006</attrlabl>
+        <attrdef>4 Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109007</attrlabl>
+        <attrdef>5 and over Surviving Births</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L109008</attrlabl>
+        <attrdef>Average Number of Surviving Births Per Women</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Notes on China 2000 Population Census Data
+
+In order to guide you to use the data correctly, provide you some explanations as follows:
+
+(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census.
+
+(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place.
+
+The following persons should be enumerated in their permanent residing place: 
+
+a) Those who reside in the townships, towns and street communities and have their permanent household registration there. 
+b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. 
+c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. 
+d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. 
+e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc.  According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census. 
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army. 
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics, which was based on the advance tabulation. 
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration. 
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%. 
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
+
+(5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</eaover>
+      <eadetcit>Overview from: 2000 China County Population Census Data with County Maps. Version III. Harvard University Library Site license readme.htm file.  University of Michigan. China Data Center</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20061019</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

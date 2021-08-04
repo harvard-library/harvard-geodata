@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri03uscd107",
+  "dc_title_s": "ESRI Data & Maps 2003 : U.S. 107th Congressional Districts",
+  "dc_description_s": "U.S. 107th Congressional Districts represents political boundaries for the U.S. 107th Congressional Districts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI03USCD107.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI03USCD107",
+  "layer_slug_s": "harvard-esri03uscd107",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-08-21T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Census Bureau. Geography Division",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Census",
+    "Boundaries",
+    "Legislators",
+    "United States Congress",
+    "Administrative and political divisions",
+    "Election districts",
+    "boundaries",
+    "polygon",
+    "Congressional Districts",
+    "Congress",
+    "House of Representatives",
+    "society",
+    "political divisions"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "2002-12-01",
+  "dct_temporal_sm": [
+    "2001-2003"
+  ],
+  "solr_geom": "ENVELOPE(-179.14734, 179.77847, 71.35256, 17.884813)",
+  "solr_year_i": 2001,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

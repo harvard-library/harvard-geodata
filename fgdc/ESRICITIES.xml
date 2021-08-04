@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Rand McNally and ESRI</origin>
+        <pubdate>1996</pubdate>
+        <title>ESRI Cities Geodata Set</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esricities</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>World Cities contains locations of major cities around the world. The cities include national capitals for each of the countries in World Countries 1998 as well as major population centers and landmark cities. World Cities was derived from ESRI's ArcWorld database and supplemented with other data from the Rand McNally New International Atlas</abstract>
+      <purpose>606 points, 4 descriptive fields. Describes major world cities.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1996</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-165.270004</westbc>
+        <eastbc>177.130188</eastbc>
+        <northbc>78.199997</northbc>
+        <southbc>-53.150002</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>city</themekt>
+        <themekey>cities</themekey>
+      </theme>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>unknown</cntper>
+          <cntorg>unknown</cntorg>
+        </cntperp>
+        <cntpos>unknown</cntpos>
+        <cntvoice>555-1212</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>ESRI</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.0.570</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>no report available</attraccr>
+      <qattracc>
+        <attraccv>1000000</attraccv>
+        <attracce>no report available</attracce>
+      </qattracc>
+    </attracc>
+    <logic>no report available</logic>
+    <complete>no report available</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>no report available</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>no report available</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>ESRI</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>20000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccontr>no report available</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>no report available</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>606</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>cities</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The city name. Spellings are based on Board of Geographic Names standards and commercial atlases.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTRY</attrlabl>
+        <attrdef>An abbreviated country name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>POPULATION</attrlabl>
+        <attrdef>Total population for the entire metropolitan area. Values are from recent census or estimates.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CAPITAL</attrlabl>
+        <attrdef>Indicates whether a city is a national capital (Y/N).</attrdef>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>none</eaover>
+      <eadetcit>none</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <transize>0.080</transize>
+        </digtinfo>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20010509</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>unknown</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <city>unknown</city>
+          <state>unknown</state>
+          <postal>00000</postal>
+        </cntaddr>
+        <cntvoice>555-1212</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

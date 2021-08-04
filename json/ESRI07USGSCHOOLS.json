@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri07usgschools",
+  "dc_title_s": "U.S. Geographic Names Information System Schools : ESRI Data & Maps 2007",
+  "dc_description_s": "U.S. Geographic Names Information System Schools represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI07USGSCHOOLS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI07USGSCHOOLS",
+  "layer_slug_s": "harvard-esri07usgschools",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2008-02-12T00:00:00Z",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Schools",
+    "society",
+    "point",
+    "school",
+    "place name",
+    "geographic feature"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "2007-05-01",
+  "dct_temporal_sm": [
+    "1981",
+    "2007",
+    "1974",
+    "2007"
+  ],
+  "solr_geom": "ENVELOPE(-170.834167, 167.737222, 64.871815, -14.363056)",
+  "solr_year_i": 1981,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

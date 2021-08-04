@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri06canrurcities",
+  "dc_title_s": "ESRI Data & Maps 2006 : Canada Rural Cities",
+  "dc_description_s": "Canada Rural Cities represents the locations of rural cities within Canada. A rural city is a sparsely populated place outside of an urbanized area with less than 1,000 persons and a population density of less than 400 persons per square kilometer.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI06CANRURCITIES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI06CANRURCITIES",
+  "layer_slug_s": "harvard-esri06canrurcities",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2007-05-22T00:00:00Z",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Human settlements",
+    "location",
+    "point",
+    "rural cities",
+    "cities",
+    "ville"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_issued_s": "2006-10-01",
+  "dct_temporal_sm": [
+    "2005",
+    "2001"
+  ],
+  "solr_geom": "ENVELOPE(-139.430255, -52.68644, 68.354382, 42.099739)",
+  "solr_year_i": 2005,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

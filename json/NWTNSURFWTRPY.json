@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnsurfwtrpy",
+  "dc_title_s": "Surface Water Features - City of Newton",
+  "dc_description_s": "This data layer contains rivers and ponds that occur in Newton. Boston Edison (now known as NSTAR) provided the original version of this data layer. Some editing was done based on the 2000 Orthophotography by the GIS Administrator.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNSURFWTRPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNSURFWTRPY",
+  "layer_slug_s": "harvard-nwtnsurfwtrpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-15T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS",
+    "Boston Edison Co. (BECo.)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "Municipal",
+    "Ponds",
+    "Streams",
+    "Rivers"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "solr_geom": "ENVELOPE(-71.270736, -71.167016, 42.36812, 42.282462)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

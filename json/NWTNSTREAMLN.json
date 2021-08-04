@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnstreamln",
+  "dc_title_s": "Streams - City of Newton",
+  "dc_description_s": "This data layer contains perennial and intermittent streams in Newton. Data supplied to Newton by Boston Edison Co. (now known as NSTAR). Although Boston Edison provided the original version of this data layer, the streams have since been updated to include missing stream features. The city's retired conservation planner who has a lifetime of field experience in Newton identified these missing features",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNSTREAMLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNSTREAMLN",
+  "layer_slug_s": "harvard-nwtnstreamln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-10-15T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS",
+    "Boston Edison Co. (BECo.)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "Municipal",
+    "Streams",
+    "Hydrology"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(-71.252123, -71.166239, 42.364931, 42.2862)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

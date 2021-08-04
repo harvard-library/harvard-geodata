@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Netherlands. Topografische Dienst Kadaster</origin>
+        <pubdate>2011</pubdate>
+        <title>Railway Section Points, Amsterdam (East), Netherlands, 2008-2010</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Apeldoorn, Netherlands</pubplace>
+          <publish>Kadaster</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nld-amst6202rd-spoorbnd-pnt</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer contains points representing railway section features for Amsterdam (East), Netherlands, 2008-2010. It is part of the TOP10NL data set published by Kadaster, the Dutch Land Registry. Data is at a scale of 1:10,000.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2008</begdate>
+          <enddate>2010</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>4.874342</westbc>
+        <eastbc>5.159446</eastbc>
+        <northbc>52.390975</northbc>
+        <southbc>52.275867</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Transportation</themekey>
+        <themekey>Railroads</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Netherlands</placekey>
+        <placekey>Amsterdam</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Klantcontactcenter Kadaster/GEO-informatie</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Postbus 9046</address>
+          <city>Apeldoorn</city>
+          <postal>7300 GH</postal>
+          <country>Netherlands</country>
+        </cntaddr>
+        <cntvoice>(088) 183 22 00</cntvoice>
+        <cntfax>(088) 183 20 50</cntfax>
+        <cntemail>Klantcontactcenter.TD@kadaster.nl</cntemail>
+        <hours>09:00 - 17:00</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native>
+    <crossref>
+      <citeinfo>
+        <origin>Netherlands. Topografische Dienst Kadaster</origin>
+        <pubdate>2011</pubdate>
+        <title>Railway Section Lines, Amsterdam (East), Netherlands, 2008-2010</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Apeldoorn, Netherlands</pubplace>
+          <publish>Kadaster</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Netherlands. Topografische Dienst Kadaster</origin>
+        <pubdate>2011</pubdate>
+        <title>Railway Section Points, Amsterdam (West), Netherlands, 2008-2010</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Apeldoorn, Netherlands</pubplace>
+          <publish>Kadaster</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>None</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Netherlands. Topografische Dienst Kadaster</origin>
+            <pubdate>2011</pubdate>
+            <title>Netherlands : 10k GIS data</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Apeldoorn, Netherlands</pubplace>
+              <publish>Kadaster</publish>
+            </pubinfo>
+            <othercit>amsterdam\6202\native SPOORBND_PUNT.shp</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>10000</srcscale>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2011</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Top10NL</srccitea>
+        <srccontr>Source datasets</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This shapefile was loaded into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" ArcCatalog tool.</procdesc>
+        <srcused>Top10NL</srcused>
+        <procdate>201111</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>306</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Dutch National Grid (RD_New)</mapprojn>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000100</absres>
+            <ordres>0.000100</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Amersfoort</horizdn>
+        <ellips>Bessel_1841</ellips>
+        <semiaxis>6377397.155000</semiaxis>
+        <denflat>299.152813</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NLD_AMST6202RD_SPOORBND_PNT</enttypl>
+        <enttypd>Railway Section Points, Amsterdam (East), Netherlands</enttypd>
+        <enttypds>Kadaster</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IDENT</attrlabl>
+        <attrdef>Object identifier for Top10NL</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPEINFRAS</attrlabl>
+        <attrdef>Type of Infrastructure</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>verbinding</edomv>
+            <edomvd>connection</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>kruising</edomv>
+            <edomvd>crossing</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPESPOORB</attrlabl>
+        <attrdef>Type of track</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>trein</edomv>
+            <edomvd>train</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>tram</edomv>
+            <edomvd>tram</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>metro</edomv>
+            <edomvd>subway</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>gemengd</edomv>
+            <edomvd>mixed</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FYSIEKVOOR</attrlabl>
+        <attrdef>Physical occurance</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>op vast deel van brug</edomv>
+            <edomvd>on a fixed part of bridge</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>op beweegbaar deel van brug</edomv>
+            <edomvd>on a movable part of bridge</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>overkluisd</edomv>
+            <edomvd>covered</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in tunnel</edomv>
+            <edomvd>in tunnel</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SPOORBREED</attrlabl>
+        <attrdef>track width</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>normaalspoor</edomv>
+            <edomvd>standard gauge</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>smalspoor</edomv>
+            <edomvd>small gauge</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>gemengd</edomv>
+            <edomvd>mixed gauge</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AANTALSPOR</attrlabl>
+        <attrdef>number of tracks</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VERVOERFUN</attrlabl>
+        <attrdef>transportation function</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>gemengd gebruik</edomv>
+            <edomvd>mixed use</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>personenvervoer</edomv>
+            <edomvd>passenger</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>goederenvervoer</edomv>
+            <edomvd>freight</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>museumlijn</edomv>
+            <edomvd>museum line</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ELEKTRIFIC</attrlabl>
+        <attrdef>Electrification</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>geelektrificeerd</edomv>
+            <edomvd>electrified</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>niet geelektrificeerd</edomv>
+            <edomvd>not electrified</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>gemengd</edomv>
+            <edomvd>mixed</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attrdef>Status</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>realisatie: nog niet in uitvoering</edomv>
+            <edomvd>Realization: not yet in progress</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>realisatie: in uitvoering</edomv>
+            <edomvd>Realization: in progress</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in gebruik</edomv>
+            <edomvd>In use</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>buiten gebruik</edomv>
+            <edomvd>Outdoor use</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>onbekend</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BRUGNAAM</attrlabl>
+        <attrdef>Bridge name</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TUNNELNAAM</attrlabl>
+        <attrdef>Tunnel name</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BAANVAKNAA</attrlabl>
+        <attrdef>Section name</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOOGTENIVE</attrlabl>
+        <attrdef>Height level</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GEOMSOORT</attrlabl>
+        <attrdef>Geometry type</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJ_BEGIN</attrlabl>
+        <attrdef>Object begin date - the date of the first time the object is stored in the database of the TDN</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJ_EIND</attrlabl>
+        <attrdef>Object end date</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VER_BEGIN</attrlabl>
+        <attrdef>Version begin date - The start date of the cur</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VER_EIND</attrlabl>
+        <attrdef>Version end date</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONTYPE</attrlabl>
+        <attrdef>Type of source</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONDATUM</attrlabl>
+        <attrdef>Source date</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONNAUWK</attrlabl>
+        <attrdef>Precision of source</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONBESCHR</attrlabl>
+        <attrdef>Source description</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIMENSIE</attrlabl>
+        <attrdef>Dimension</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120105</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

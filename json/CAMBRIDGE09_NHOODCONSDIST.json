@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cambridge09-nhoodconsdist",
+  "dc_title_s": "Neighborhood Conservation Districts, Cambridge, Massachusetts, 2007",
+  "dc_description_s": "This layer contains five polygons representing the city's Neighborhood Conservation Districts (NCDs). Conservation districts are groups of buildings and their surroundings that are architecturally and historically distinctive. Exterior changes to buildings within NCDs are subject to review by NCD commissions made up of residents appointed by the City Manager.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//CAMBRIDGE09_NHOODCONSDIST.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:CAMBRIDGE09_NHOODCONSDIST",
+  "layer_slug_s": "harvard-cambridge09-nhoodconsdist",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2010-04-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_publisher_s": [
+    "City of Cambridge, GIS Dept."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Municipal",
+    "Historic districts",
+    "Administrative and political divisions",
+    "City planning",
+    "Neighborhood planning",
+    "boundaries",
+    "planningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2007",
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_geom": "ENVELOPE(-71.13405, -71.099268, 42.388156, 42.366734)",
+  "solr_year_i": 2007,
+  "harvard_collectionID_sm": [
+    "990125155600203941"
+  ]
+}

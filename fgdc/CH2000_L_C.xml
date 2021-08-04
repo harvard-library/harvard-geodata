@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part C: Table L4-1 categories 172-324)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ch2000-l-c</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer includes China county boundary with 2000 population Census data from 9.5% Long Form data.  This layer is one (Part C) of seven layers (see also Parts A-B and D-G) covering the entire Long Form data; this layer covers Long Form table L4-1 categories 172-324: L4-1: Employed population by sex and two digits classification of industry and by region. [NOTE: Due to the high number of attributes, table L4-1 has been split into two separate datalayers; see also: China county boundary with 2000 population Census data from 9.5% Long Form data (Part B: Table L4-1 categories 1-172)].
+ 
+This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003).  The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts.  Source scale: 1:1,000,000.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20001101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>73.446960</westbc>
+        <eastbc>135.085831</eastbc>
+        <northbc>53.557926</northbc>
+        <southbc>6.318641</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Industrial statistics</themekey>
+        <themekey>Employment (Economic theory)</themekey>
+        <themekey>Sex Statistics</themekey>
+        <themekey>Counties</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>No part of this data product is allowed to be reproduced or re-distributed to any other parties without permission.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>University of Michigan</address>
+          <address>1080 S. University</address>
+          <address>Suite 3630</address>
+          <city>Ann Arbor</city>
+          <state>MI</state>
+          <postal>48109</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>734-647-9610</cntvoice>
+        <cntfax>734-764-5540</cntfax>
+        <cntemail>chinadata@umich.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part A: Tables L1-1 to L1-9)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part B: Table L4-1 categories 1-171)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part D: Tables L4-2 to L6-9)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part E: Tables L7-1 to L7-3)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part F: Tables L7-4 to L7-8)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 9.5% Long Form data (Part G: Tables L8-1 to L8-6)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>There are no population attribute values (zeros) for Taiwan, Hong Kong, Macau, South China Sea islands, and for some counties of China.  This is consistent with the original data source.</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Geomatics Center of China</origin>
+            <pubdate>Unknown</pubdate>
+            <title>National Geomatics Center of China (NGCC) data</title>
+            <geoform>Unknown</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>National Geomatics Center of China</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NGCC</srccitea>
+        <srccontr>Cited as source in distributor's dataset metadata; contribution unknown.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: ChinaL1.
+
+Distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2003</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shape</srccitea>
+        <srccontr>Original source of datalayer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was downloaded from the CD.  A copy of the attribute table was made and opened as an external data source in Microsoft Excel 2002.  The original DBF file contained more than the number of columns allowed by SDE, so SQL statements were used to select a subset of fewer than 250 columns.  This subset of columns was written out to a new DBF file.  The original shape file was opened in ArcMap and edited to remove all of the census demographic variables.  The new, smaller DBF file was joined to the existing shapes using the GB_CNTY (County ID code) as a primary key.  The resulting file was exported to a new shape file.  The new shape file was loaded into SDE using the shp2sde command.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200609</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3765</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CH2000_L_C</enttypl>
+        <enttypd>County boundary with 2000 population Census data from 9.5% Long Form data (Part C)</enttypd>
+        <enttypds>China Data Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>CH2000_L_C.AREA</attrlabl>
+        <attrdef>Feature area in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GBCITY</attrlabl>
+        <attrdef>Four digit GB (Guo Biao -- National Standard) code of City</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBPROV</attrlabl>
+        <attrdef>Two digit GB (Guo Biao -- National Standard) code of Province</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBCNTY</attrlabl>
+        <attrdef>Six digit GB (Guo Biao -- National Standard) code of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNAME</attrlabl>
+        <attrdef>Chinese name of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text [Unicode].</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ENAME</attrlabl>
+        <attrdef>English name of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L401172</attrlabl>
+        <attrdef>P Transport, Storage, Postal and Telecommunication Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401173</attrlabl>
+        <attrdef>M Transport, Storage, Postal and Telecommunication Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401174</attrlabl>
+        <attrdef>F Transport, Storage, Postal and Telecommunication Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401175</attrlabl>
+        <attrdef>P Railway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401176</attrlabl>
+        <attrdef>M Railway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401177</attrlabl>
+        <attrdef>F Railway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401178</attrlabl>
+        <attrdef>P Highway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401179</attrlabl>
+        <attrdef>M Highway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401180</attrlabl>
+        <attrdef>F Highway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401181</attrlabl>
+        <attrdef>P Pipeline Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401182</attrlabl>
+        <attrdef>M Pipeline Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401183</attrlabl>
+        <attrdef>F Pipeline Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401184</attrlabl>
+        <attrdef>P Waterway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401185</attrlabl>
+        <attrdef>M Waterway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401186</attrlabl>
+        <attrdef>F Waterway Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401187</attrlabl>
+        <attrdef>P Air Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401188</attrlabl>
+        <attrdef>M Air Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401189</attrlabl>
+        <attrdef>F Air Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401190</attrlabl>
+        <attrdef>P Transport Subsidiary Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401191</attrlabl>
+        <attrdef>M Transport Subsidiary Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401192</attrlabl>
+        <attrdef>F Transport Subsidiary Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401193</attrlabl>
+        <attrdef>P Other Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401194</attrlabl>
+        <attrdef>M Other Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401195</attrlabl>
+        <attrdef>F Other Transport</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401196</attrlabl>
+        <attrdef>P Storage</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401197</attrlabl>
+        <attrdef>M Storage</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401198</attrlabl>
+        <attrdef>F Storage</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401199</attrlabl>
+        <attrdef>P Postal and Telecommunications Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401200</attrlabl>
+        <attrdef>M Postal and Telecommunications Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401201</attrlabl>
+        <attrdef>F Postal and Telecommunications Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401202</attrlabl>
+        <attrdef>P Wholesale &amp; Retail Trade and Catering Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401203</attrlabl>
+        <attrdef>M Wholesale &amp; Retail Trade and Catering Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401204</attrlabl>
+        <attrdef>F Wholesale &amp; Retail Trade and Catering Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401205</attrlabl>
+        <attrdef>P Wholesale Trade of Food, Beverage, Tobacco and Household Articles</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401206</attrlabl>
+        <attrdef>M Wholesale Trade of Food, Beverage, Tobacco and Household Articles</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401207</attrlabl>
+        <attrdef>F Wholesale Trade of Food, Beverage, Tobacco and Household Articles</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401208</attrlabl>
+        <attrdef>P Wholesale Trade of Energy, Materials and Electronic Equipment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401209</attrlabl>
+        <attrdef>M Wholesale Trade of Energy, Materials and Electronic Equipment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401210</attrlabl>
+        <attrdef>F Wholesale Trade of Energy, Materials and Electronic Equipment</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401211</attrlabl>
+        <attrdef>P Other Wholesale Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401212</attrlabl>
+        <attrdef>M Other Wholesale Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401213</attrlabl>
+        <attrdef>F Other Wholesale Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401214</attrlabl>
+        <attrdef>P Retail Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401215</attrlabl>
+        <attrdef>M Retail Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401216</attrlabl>
+        <attrdef>F Retail Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401217</attrlabl>
+        <attrdef>P Commercial Brokerage and Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401218</attrlabl>
+        <attrdef>M Commercial Brokerage and Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401219</attrlabl>
+        <attrdef>F Commercial Brokerage and Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401220</attrlabl>
+        <attrdef>P Catering Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401221</attrlabl>
+        <attrdef>M Catering Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401222</attrlabl>
+        <attrdef>F Catering Trade</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401223</attrlabl>
+        <attrdef>P Finance and Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401224</attrlabl>
+        <attrdef>M Finance and Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401225</attrlabl>
+        <attrdef>F Finance and Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401226</attrlabl>
+        <attrdef>P Finance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401227</attrlabl>
+        <attrdef>M Finance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401228</attrlabl>
+        <attrdef>F Finance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401229</attrlabl>
+        <attrdef>P Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401230</attrlabl>
+        <attrdef>M Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401231</attrlabl>
+        <attrdef>F Insurance</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401232</attrlabl>
+        <attrdef>P Real Estate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401233</attrlabl>
+        <attrdef>M Real Estate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401234</attrlabl>
+        <attrdef>F Real Estate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401235</attrlabl>
+        <attrdef>P Real Estate Development and Operation</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401236</attrlabl>
+        <attrdef>M Real Estate Development and Operation</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401237</attrlabl>
+        <attrdef>F Real Estate Development and Operation</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401238</attrlabl>
+        <attrdef>P Real Estate Management</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401239</attrlabl>
+        <attrdef>M Real Estate Management</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401240</attrlabl>
+        <attrdef>F Real Estate Management</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401241</attrlabl>
+        <attrdef>P Real Estate Brokerage and Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401242</attrlabl>
+        <attrdef>M Real Estate Brokerage and Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401243</attrlabl>
+        <attrdef>F Real Estate Brokerage and Agencies</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401244</attrlabl>
+        <attrdef>P Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401245</attrlabl>
+        <attrdef>M Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401246</attrlabl>
+        <attrdef>F Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401247</attrlabl>
+        <attrdef>P Public Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401248</attrlabl>
+        <attrdef>M Public Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401249</attrlabl>
+        <attrdef>F Public Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401250</attrlabl>
+        <attrdef>P Resident Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401251</attrlabl>
+        <attrdef>M Resident Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401252</attrlabl>
+        <attrdef>F Resident Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401253</attrlabl>
+        <attrdef>P Hotels</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401254</attrlabl>
+        <attrdef>M Hotels</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401255</attrlabl>
+        <attrdef>F Hotels</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401256</attrlabl>
+        <attrdef>P Leasing Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401257</attrlabl>
+        <attrdef>M Leasing Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401258</attrlabl>
+        <attrdef>F Leasing Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401259</attrlabl>
+        <attrdef>P Tourism</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401260</attrlabl>
+        <attrdef>M Tourism</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401261</attrlabl>
+        <attrdef>F Tourism</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401262</attrlabl>
+        <attrdef>P Recreational Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401263</attrlabl>
+        <attrdef>M Recreational Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401264</attrlabl>
+        <attrdef>F Recreational Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401265</attrlabl>
+        <attrdef>P Information and Consultative Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401266</attrlabl>
+        <attrdef>M Information and Consultative Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401267</attrlabl>
+        <attrdef>F Information and Consultative Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401268</attrlabl>
+        <attrdef>P Computer Application Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401269</attrlabl>
+        <attrdef>M Computer Application Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401270</attrlabl>
+        <attrdef>F Computer Application Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401271</attrlabl>
+        <attrdef>P Other Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401272</attrlabl>
+        <attrdef>M Other Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401273</attrlabl>
+        <attrdef>F Other Social Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401274</attrlabl>
+        <attrdef>P Health Care, Sports and Social Welfare</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401275</attrlabl>
+        <attrdef>M Health Care, Sports and Social Welfare</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401276</attrlabl>
+        <attrdef>F Health Care, Sports and Social Welfare</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401277</attrlabl>
+        <attrdef>P Health Care</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401278</attrlabl>
+        <attrdef>M Health Care</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401279</attrlabl>
+        <attrdef>F Health Care</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401280</attrlabl>
+        <attrdef>P Sports</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401281</attrlabl>
+        <attrdef>M Sports</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401282</attrlabl>
+        <attrdef>F Sports</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401283</attrlabl>
+        <attrdef>P Social Welfare and Social Security</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401284</attrlabl>
+        <attrdef>M Social Welfare and Social Security</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401285</attrlabl>
+        <attrdef>F Social Welfare and Social Security</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401286</attrlabl>
+        <attrdef>P Education, Culture and Arts, Radio, Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401287</attrlabl>
+        <attrdef>M Education, Culture and Arts, Radio, Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401288</attrlabl>
+        <attrdef>F Education, Culture and Arts, Radio, Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401289</attrlabl>
+        <attrdef>P Education</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401290</attrlabl>
+        <attrdef>M Education</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401291</attrlabl>
+        <attrdef>F Education</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401292</attrlabl>
+        <attrdef>P Culture and Arts</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401293</attrlabl>
+        <attrdef>M Culture and Arts</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401294</attrlabl>
+        <attrdef>F Culture and Arts</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401295</attrlabl>
+        <attrdef>P Radio, Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401296</attrlabl>
+        <attrdef>M Radio, Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401297</attrlabl>
+        <attrdef>F Radio, Film and Television</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401298</attrlabl>
+        <attrdef>P Scientific Research and Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401299</attrlabl>
+        <attrdef>M Scientific Research and Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401300</attrlabl>
+        <attrdef>F Scientific Research and Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401301</attrlabl>
+        <attrdef>P Scientific Research</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401302</attrlabl>
+        <attrdef>M Scientific Research</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401303</attrlabl>
+        <attrdef>F Scientific Research</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401304</attrlabl>
+        <attrdef>P Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401305</attrlabl>
+        <attrdef>M Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401306</attrlabl>
+        <attrdef>F Polytechnic Services</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401307</attrlabl>
+        <attrdef>P Governments Agencies, Party agencies and Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401308</attrlabl>
+        <attrdef>M Governments Agencies, Party agencies and Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401309</attrlabl>
+        <attrdef>F Governments Agencies, Party agencies and Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401310</attrlabl>
+        <attrdef>P Governments</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401311</attrlabl>
+        <attrdef>M Governments</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401312</attrlabl>
+        <attrdef>F Governments</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401313</attrlabl>
+        <attrdef>P Party</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401314</attrlabl>
+        <attrdef>M Party</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401315</attrlabl>
+        <attrdef>F Party</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401316</attrlabl>
+        <attrdef>P Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401317</attrlabl>
+        <attrdef>M Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401318</attrlabl>
+        <attrdef>F Social Organizations</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401319</attrlabl>
+        <attrdef>P Self-discipline organization of masses at the basic level</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401320</attrlabl>
+        <attrdef>M Self-discipline organization of masses at the basic level</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401321</attrlabl>
+        <attrdef>F Self-discipline organization of masses at the basic level</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401322</attrlabl>
+        <attrdef>P Others</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401323</attrlabl>
+        <attrdef>M Others</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>L401324</attrlabl>
+        <attrdef>F Others</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Notes on China 2000 Population Census Data
+
+In order to guide you to use the data correctly, provide you some explanations as follows:
+
+(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census.
+
+(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place.
+
+The following persons should be enumerated in their permanent residing place: 
+
+a) Those who reside in the townships, towns and street communities and have their permanent household registration there. 
+b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. 
+c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. 
+d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. 
+e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc.  According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census. 
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army. 
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics, which was based on the advance tabulation. 
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration. 
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%. 
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
+
+(5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</eaover>
+      <eadetcit>Overview from: 2000 China County Population Census Data with County Maps. Version III. Harvard University Library Site license readme.htm file.  University of Michigan. China Data Center</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20061020</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

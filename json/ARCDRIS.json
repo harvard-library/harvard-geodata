@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcdris",
+  "dc_title_s": "Atlanta Regional Commission Development Impact Areas",
+  "dc_description_s": "This point datalayer depicts locations of future development (DRIs or Developments of Regional Impact) within the Atlanta Region that would likely impact areas outside of the jurisdiction in which they were proposed. This Theme was developed by ARC's Land Use Planning Division to identify and review those developments.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCDRIS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCDRIS",
+  "layer_slug_s": "harvard-arcdris",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "planningCadastre",
+    "Municipal",
+    "Urbanization",
+    "Metropolitan areas",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1990-1999"
+  ],
+  "solr_geom": "ENVELOPE(-84.809174, -83.848518, 34.308464, 33.359043)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

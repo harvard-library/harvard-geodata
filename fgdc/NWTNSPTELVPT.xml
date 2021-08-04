@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Newton GIS</origin>
+        <pubdate>1998?</pubdate>
+        <title>Spot Elevations - City of Newton</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nwtnsptelvpt</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data layer contains spot elevations for the City of Newton.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+This layer will provide a basemap for layers related to land use and urban planning, surveying and cartography as well as more advanced user applications which may focus on public works, or utilities purposes (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.)</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998?</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.269908</westbc>
+        <eastbc>-71.157473</eastbc>
+        <northbc>42.366541</northbc>
+        <southbc>42.283899</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Altitudes</themekey>
+        <themekey>Cartography</themekey>
+        <themekey>Surveying</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Newton</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Newton GIS</cntorg>
+        </cntorgp>
+        <cntpos>GIS Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Information Technology Department</address>
+          <address>City Hall  Room 107</address>
+          <address>1000 Commonwealth Avenue</address>
+          <city>Newton Center</city>
+          <state>MA</state>
+          <postal>02459-1400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-796-1180</cntvoice>
+        <cntvoice>617-796-1000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by City of Newton GIS.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc/>
+    <logic>For layers containing line or polygon features, Newton's data layers are "topologically clean". This was verified with Arc/Info software version 7.x in 1998 and is an ongoing part of data maintenance for the relevant data layers.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>The aerial photographs used for making the photography were scanned at 600 dots per inch, yielding a pixel size of one foot.
+The information below is from the J. W. Sewall Co. Proposal Documents
+Scale of Photography: 1:7200
+Forward Overlap: 60% average within 5 feet.
+Side Overlap: 30% average within 10 feet
+Tilt: Not to exceed 3 degrees - 4 degrees between flight lines
+Crab: Not to exceed 3 degrees relative to flight line
+Contact Prints: 9" x 9" received from company.
+Ground Control: Primary - 12 permanent control markers set - 36" concrete monuments. GPS network of 50 stations with three horizontal and nine vertical ties to grid. Network tied to MSPCS NAD83 datum and NGVD29 datum by occupying Mass. Highway Department control points.
+Block Adjustment Accuracy: Horizontal: second order class I; Vertical: third order 
+Model: ALBANY-Lite
+Final Pixel Size: 12 inches
+Final Horizontal Accuracy: Approximately +/- 5 feet.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>James W. Sewall Co.</origin>
+            <pubdate>Unknown</pubdate>
+            <title>James W. Sewall Co. Aerial Photography</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>7200</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19940415</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Sewall94</srccitea>
+        <srccontr>Sewall placed spot elevations, "...on hilltops, in saddles, at the bottom of depressions, at the intersection of well traveled roads, on railroads, on highways, and on the centerlines at each end of bridges" (p. 14 of their bid document). The aerial photographs were taken on April 15, 1994.  The photographs were produced at a scale of 1" = 600' at an approximate altitude above datum of 3,600 feet.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>These elevations were compiled photogrammetrically from the aerial photography flown in April 1994 to produce ortho-photographs.   
+James.W. Sewall Co., Old Town Maine, compiled the contours photogrammetrically from aerial photography taken in April 1994; the direct compilation scale was 1:1000.  Sewall converted the files from the format created by their Kern stereoplotter to AutoCAD drawing exchange file (.DXF) format.  As required by their contract, these files were then converted to Arc/Info coverages using the Arc dxfarc command.  They were delivered to Newton as 168 coverages, one for each Assessor's 1:1000 scale map sheets.
+
+Quality Assurance
+
+The GIS Administrator performed the data quality checks described below.
+1. The Arc frequency command, when run on the elevation attribute, revealed some incorrect elevation values (e.g., 19.2 vs. 19, 138.2 vs. 138, 0, 111.0, 103.0).  Sewall shipped the corrected files.
+2. Visual evaluation of the contours, particularly at map sheet boundaries, revealed incorrectly compiled contours.  Sewall shipped corrected files.
+3. A small number of the check-plots delivered by Sewall were checked in the field to see if the contours looked like the surface relief in the areas they represented.  This revealed no problems.
+The completeness of this data layer has not been systematically reviewed.  However, a TIN developed using elevation values from the contours has been used to create a "hill shading" model of Newton.  This was plotted as a map.  City staff familiar with Newton's terrain and storm drain network found the model very accurate.  In particular, the hill shade model correctly showed drainage ditches and other small but sharply delineated features. 
+These features were delivered as points in the same Arc/Info coverage as the Contours layer.  There were pulled into a separate coverage because the coverage containing all the contours was, and still is even without these points, huge.  As with the contours lines, unnecessary attributes created by the conversion from .DXF files were dropped.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Newton GIS</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200208</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <procdate>20021008</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>12144</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000476</absres>
+            <ordres>0.000476</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Spot Elevations</enttypl>
+        <enttypd>ESRI Shapefile. Points represent spot elevations</enttypd>
+        <enttypds>ESRI, Newton GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NWTNSPTELVPT.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>Value will always be zero</attrva>
+          <attrvae>Point features have no area</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>Value will always be zero</attrva>
+          <attrvae>Point features have no area</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>SPOTELEV_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SPOTELEV_I</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ELEVATION</attrlabl>
+        <attrdef>Elevation of point location in feet</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWTNSPTELVPT.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021011</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-295-12417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

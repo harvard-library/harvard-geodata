@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>United States. National Imagery and Mapping Agency</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : Smaller rivers and streams</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-wtrstr</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a polyline coverage representing smaller rivers and streams worldwide and was published as part of the USGS Global GIS : global coverage database. It was originally produced by the National Imagery and Mapping Agency (NIMA, now the Nation Geospatial-Intelligence Agency (NGA)) for the Vector Map (VMap) Level 0 database (1997). 
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas. 
+
+The Vector Map (VMap) Level 0 database represents the third edition of the Digital Chart of the World. The second edition was a limited release item published 1995 09. The product is dual named to show its lineage to the original DCW, published in 1992, while positioning the revised product within a broader emerging-family of VMap products. VMap Level 0 is a comprehensive 1:1,000,000 scale vector basemap of the world. It consists of cartographic, attribute, and textual data stored on compact disc read only memory (CD-ROM). The primary source for the database is the National Imagery and Mapping Agency's (NIMA) Operational Navigation Chart (ONC) series. This is the largest scale unclassified map series in existence that provides consistent, continuous global coverage of essential basemap features. The database contains more than 1,900 megabytes of vector data and is organized into 10 thematic layers. The data includes major road and rail networks, major hydrologic drainage systems, major utility networks (cross-country pipelines and communication lines), all major airports, elevation contours (1000 foot(ft), with 500ft and 250ft supplemental contours), coastlines, international boundaries and populated places. The database can be accessed directly from the four optical CD-ROMs that store the database or can be transferred to a magnetic media.</abstract>
+      <purpose>This data is a general purpose global smaller rivers and streams datalayer designed to support Geographic Information Systems applications.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199701</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Continually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.999420</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>83.623047</northbc>
+        <southbc>-55.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Rivers</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Hydrography</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>Cite National Imagery and Mapping Agency. For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity, the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>United States. National Geospatial-Intelligence Agency</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Corporate Relations</address>
+          <address>Public Affairs Division, MS D-54</address>
+          <address>4600 Sangamore Road</address>
+          <city>Bethesda</city>
+          <state>MD</state>
+          <postal>20816-5003</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>800-455-0899</cntvoice>
+        <cntemail>chdesk@nga.mil</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National Imagery and Mapping Agency (now known as National Geospatial-Intelligence Agency).</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>100 percent of attribute codes were reviewed against the source manuscripts. No formal effort was undertaken to develop a quantitative attribute accuracy statement.</attraccr>
+    </attracc>
+    <logic>All data were found to be topologically correct. No duplicate features are present. All areas are completely described as depicted on the source manuscripts. No undershoots or overshoots are present. All data were consistently captured using the rules described in the narrative associated with the Data Quality Table and in the various feature table narrative files present at the coverage level within the library.</logic>
+    <complete>100 percent of features depicted on the ONC source materials have been captured. 100 percent of the features have valid attribute codes assigned to them.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Horizontal Positional Accuracy Value represents overall accuracy. Source chart-specific accuracies are available as area feature attributes in the VMap-0 data quality coverage. The primary accuracy analysis was performed on one chart only in the prototyping phase of the DCW project. Horizontal Positional Accuracy is expressed in meters. Detailed horzontal accuracy figures were developed by comparing the positions of well-defined points in the roads, railroads, utility lines, and drainage coverages against sources of higher accuracy, measuring the offsets, and expressing differences as a Circular Map Accuracy figure at a 90% confidence interval. This figure was independently verified by adding known production errors to source chart accuracies in a root sum square calculation.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>This figure represents overall accuracy. Source chart-specific accuracies are available as area feature attributes in the V-Map 0 data quality coverage. Vertical Positional Accuracy is expressed in meters. Vertical accuracy figures were developed by comparing elevation contour locations on 1:24,000 scale maps to elevation values at the same location within the digital database. Some manual interpolation was necessary to complete this test. The analysis results are expressed as linear error at a 90% confidence interval.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Imagery and Mapping Agency</origin>
+            <pubdate>199701</pubdate>
+            <title>VMAP_1V10 - Vector Map Level 0 (Digital Chart of the World)</title>
+            <edition>3</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Fairfax, VA</pubplace>
+              <publish>National Imagery and Mapping Agency</publish>
+            </pubinfo>
+            <othercit>Smaller Rivers and Streams layer (WATRCRSL)</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199701</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>VMAP 0</srccitea>
+        <srccontr>Originally published data set</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Imagery and Mapping Agency</origin>
+            <pubdate>1994</pubdate>
+            <title>Operational navigational chart</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>St. Louis, MO</pubplace>
+              <publish>National Imagery and Mapping Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1974</begdate>
+              <enddate>1994</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication dates</srccurr>
+        </srctime>
+        <srccitea>ONC</srccitea>
+        <srccontr>All information found on the source with the exception of aeronautical data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041103</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>960033</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Smaller Rivers and Streams</enttypl>
+        <enttypd>Lines representing rivers and streams worldwide</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>F_CODE</attrlabl>
+        <attrdef>Feature and Attribute Coding (FACC) feature code</attrdef>
+        <attrdefs>Digital Geographic Information Exchange Standard (DIGEST) ed. 2.1 (2000)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BH140</edomv>
+            <edomvd>River/Stream. A natural flowing watercourse.</edomvd>
+            <edomvds>DIGEST Part 4 -- Annex A</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>F_CODE_DES</attrlabl>
+        <attrdef>Text description of F_CODE value</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>River/Stream</edomv>
+            <edomvd>River/Stream</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DWC_ID</attrlabl>
+        <attrdef>Feature Code for Hydrological Category Description</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Non-Perennial/Intermittent/Fluctuating</edomvd>
+            <edomvds>American Geological Institute online Global GIS datasets metadata</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Perennial/Permanent</edomvd>
+            <edomvds>American Geological Institute online Global GIS datasets metadata</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in internal units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Entities (features) and Attributes for DCW are fully described in: Department of Defense, 1992, Military Specification Digital Chart of the World (MIL-D-89009): Philadelphia, Department of Defense, Defense Printing Service Detachment Office. VMap-0 is described in: Department of Defense, Military Specification, Vector Map (VMap) Level 0 (MIL-V-89039), 9 Feb 1995.</eaover>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060117</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

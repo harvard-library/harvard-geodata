@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arclu",
+  "dc_title_s": "Atlanta Regional Commission Future Land Use",
+  "dc_description_s": "This polygon datalayer depicts future land use areas with associated attribute data for the Atlanta Regional Commission's (ARC) 10-county region. ARC documentation states that: This map was created from the future land use maps of municipal and county comprehensive plans within the Atlanta Regional Commission (ARC) area in 1996. The local government source documents were originally compiled at various scales, with varying enhancements to a common classification system, and for differing time frames (target planning years ranged from 2000 to 2020). Where necessary, land use categories were first converted back to the basic land use classification system of the Georgia Department of Community Affairs' (DCA) Minimum Planning Standards. In order for these data to be useful at a regional level, the source documents were then generalized, based on a 50 acre minimum mapping unit, and digitized for relative consistency in detail and edge-matching. As local governments routinely adopt amendments to their future land use maps, it is recommended that interested parties contact individual counties or municipalities directly to get accurate, up-to-date future land use information. Although ARC does not guarantee absolute accuracy and completeness of information, this dataset is believed to be a reasonable representation of land use plans in the Atlanta Region, as defined by DCA and submitted by our local governments.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCLU.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCLU",
+  "layer_slug_s": "harvard-arclu",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "planningCadastre",
+    "Municipal",
+    "Land use",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_geom": "ENVELOPE(-84.911057, -83.798904, 34.41259, 33.256512)",
+  "solr_year_i": 1996,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

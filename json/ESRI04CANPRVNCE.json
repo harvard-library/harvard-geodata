@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri04canprvnce",
+  "dc_title_s": "ESRI Data & Maps 2004 : Canada Provinces",
+  "dc_description_s": "Canada Provinces represents the Canadian provinces and territories as well as coastline, international boundaries, provincial boundaries, and demographics. The boundaries are digitized from CanMap.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI04CANPRVNCE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI04CANPRVNCE",
+  "layer_slug_s": "harvard-esri04canprvnce",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-08-24T00:00:00Z",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Canadian provinces",
+    "Administrative and political divisions",
+    "Population Statistics",
+    "Housing Statistics",
+    "Boundaries",
+    "boundaries",
+    "society",
+    "polygon",
+    "provinces",
+    "territories",
+    "population",
+    "dwellings",
+    "area"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_issued_s": "2004-03-01",
+  "dct_temporal_sm": [
+    "2002",
+    "1996"
+  ],
+  "solr_geom": "ENVELOPE(-141.002118, -52.619173, 83.115063, 41.687973)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

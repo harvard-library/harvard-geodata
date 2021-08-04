@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MaconUSA (Firm)</origin>
+        <pubdate>1996</pubdate>
+        <title>Arizona Census Tract Demographics, 1995, MaconUSA</title>
+        <edition>1996</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Allston, MA</pubplace>
+          <publish>MaconUSA</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-macon95-azdem-tract</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset is a polygon layer providing boundary and demographic statistical data for Census tracts for Arizona, 1995.  The demographic data set includes attributes covering: age and sex distribution, ethnicity and ancestry, education, income, industry employment, household size, type of housing unit, home ownership, home value, and mortgage statistics, automobile ownership, and home heating fuel types.    Individual demographic and marketing datasets for all 50 states plus the District of Columbia at both the Census tract and ZIP code level were derived from MaconUSA's 'Maps and Data for Microsoft Office 95', published in 1996.  State and county-level demographic and marketing layers were also derived from the "Maps and data" dataset. Original dataset sources include: the Claritas Update, the U.S. Bureau of Labor Statistics, the U.S. Census Bureau, various other federal, state, and local governmental agencies, and businesses.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>data currency date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-114.815798</westbc>
+        <eastbc>-109.044563</eastbc>
+        <northbc>37.003725</northbc>
+        <southbc>31.332139</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census districts</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Census</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Vital statistics</themekey>
+        <themekey>Age distribution (Demography)</themekey>
+        <themekey>Sex distribution (Demography)</themekey>
+        <themekey>Ethnic groups Statistics</themekey>
+        <themekey>Education Statistics</themekey>
+        <themekey>Labor supply Statistics</themekey>
+        <themekey>Occupations Statistics</themekey>
+        <themekey>Income Statistics</themekey>
+        <themekey>Households Statistics</themekey>
+        <themekey>Housing Statistics</themekey>
+        <themekey>Heating Statistics</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Arizona</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>GfK GeoMarketing GmbH</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Werner-von-Siemens-Str. 9</address>
+          <address>Building 6508</address>
+          <city>Bruchsal</city>
+          <state>Baden-W?rttemberg</state>
+          <postal>76646</postal>
+          <country>Germany</country>
+        </cntaddr>
+        <cntvoice>+49 (0)7251 9295100</cntvoice>
+        <cntfax>+49 (0)7251 9295290</cntfax>
+        <cntemail>info(at)gfk-geomarketing.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Originally produced for Microsoft Office 95 (Windows 95) as MapInfo TAB files; converted to ArcSDE 9.1 layers using ArcGIS 9.3</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Data may be missing for some Census tracts. Missing Census tracts data is represented by the attribute value '-9999'</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MaconUSA (Firm)</origin>
+            <pubdate>1996</pubdate>
+            <title>Maps and data : for Microsoft Office 95</title>
+            <edition>1996</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Allston, MA</pubplace>
+              <publish>MaconUSA</publish>
+            </pubinfo>
+            <othercit>1 CD-ROM ; 4 3/4 in.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>data currency date</srccurr>
+        </srctime>
+        <srccitea>MaconUSA CD-ROM</srccitea>
+        <srccontr>Source data disc.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was created from the following file that was downloaded from the "MaconUSA Maps and Data for Microsoft Office 95" compact disc:  AZTRACT.tab.  This file was translated from MapInfo TAB file format to ESRI shapefile format using Safe Software's 2009 FME Universal Translator.  Using ESRI ArcMap 9.3 software this shapefile was then joined to the following Excel spreadsheets located on the MaconUSA CD: "AZDEM1TR.xls" and "AZDEM2TR.xls".   The joined data was exported in ArcMap and saved as a new shapefile called "AZDEM_tract".  ArcCatalog 9.3 was utilized to import the shapefile into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" import tool.</procdesc>
+        <srcused>MaconUSA CD-ROM</srcused>
+        <procdate>2010</procdate>
+        <srcprod>SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>810</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MACON95_AZDEM_TRACT</enttypl>
+        <enttypd>Arizona Census Tract Demographics 1995</enttypd>
+        <enttypds>MaconUSA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GEOTRACTAZ</attrlabl>
+        <attrdef>Census State-County-Tract code</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>County Name; Unique only within a State</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTLPERSNS</attrlabl>
+        <attrdef>Total Persons</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTLFAMLIES</attrlabl>
+        <attrdef>Total Families</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTLHHOLDS</attrlabl>
+        <attrdef>Total Households</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TMALES</attrlabl>
+        <attrdef>Total Males</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TFEMALES</attrlabl>
+        <attrdef>Total Females</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WHITES</attrlabl>
+        <attrdef>Total Whites</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLACKS</attrlabl>
+        <attrdef>Total African Americans</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AIEAS</attrlabl>
+        <attrdef>Native Americans or Eskimos</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APISLANDER</attrlabl>
+        <attrdef>Asian or Pacific Island Americans</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OTHERRACE</attrlabl>
+        <attrdef>Americans of other Racial Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTHISPORPO</attrlabl>
+        <attrdef>Hispanic Americans</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGEUND1Y</attrlabl>
+        <attrdef>Age under 1 Year</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE1_2Y</attrlabl>
+        <attrdef>Age 1 to 2 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE3_4Y</attrlabl>
+        <attrdef>Age 3 to 4 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE5Y</attrlabl>
+        <attrdef>Age 5 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE6Y</attrlabl>
+        <attrdef>Age 6 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE7_9Y</attrlabl>
+        <attrdef>Age 7 to 9 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE10_11Y</attrlabl>
+        <attrdef>Age 10 to 11 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE12_13Y</attrlabl>
+        <attrdef>Age 12 to 13 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE14Y</attrlabl>
+        <attrdef>Age 14 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE15Y</attrlabl>
+        <attrdef>Age 15 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE16Y</attrlabl>
+        <attrdef>Age 16 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE17Y</attrlabl>
+        <attrdef>Age 17 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE18Y</attrlabl>
+        <attrdef>Age 18 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE19Y</attrlabl>
+        <attrdef>Age 19 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE20Y</attrlabl>
+        <attrdef>Age 20 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE21Y</attrlabl>
+        <attrdef>Age 21 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE22_24Y</attrlabl>
+        <attrdef>Age 22 to 24 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE25_29Y</attrlabl>
+        <attrdef>Age 25 to 29 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE30_34Y</attrlabl>
+        <attrdef>Age 30 to 34 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE35_39Y</attrlabl>
+        <attrdef>Age 35 to 39 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE40_44Y</attrlabl>
+        <attrdef>Age 40 to 44 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE45_49Y</attrlabl>
+        <attrdef>Age 45 to 49 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE50_54Y</attrlabl>
+        <attrdef>Age 50 to 54 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE55_59Y</attrlabl>
+        <attrdef>Age 55 to 59 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE60_61Y</attrlabl>
+        <attrdef>Age 60 to 61 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE62_64Y</attrlabl>
+        <attrdef>Age 62 to 64 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE65_69Y</attrlabl>
+        <attrdef>Age 65 to 69 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE70_74Y</attrlabl>
+        <attrdef>Age 70 to 74 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE75_79Y</attrlabl>
+        <attrdef>Age 75 to 79 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE80_84Y</attrlabl>
+        <attrdef>Age 80 to 84 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AGE85PLUS</attrlabl>
+        <attrdef>Age over 85 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1ARAB</attrlabl>
+        <attrdef>Arabic Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1AUSTRN</attrlabl>
+        <attrdef>Austrian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1BELGIA</attrlabl>
+        <attrdef>Belgian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1CANADA</attrlabl>
+        <attrdef>Canadian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1CZECH</attrlabl>
+        <attrdef>Czechoslavakian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1DANISH</attrlabl>
+        <attrdef>Danish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1DUTCH</attrlabl>
+        <attrdef>Dutch Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1ENGLSH</attrlabl>
+        <attrdef>English Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1FINNSH</attrlabl>
+        <attrdef>Finnish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1FRENCH</attrlabl>
+        <attrdef>French Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1FRCANA</attrlabl>
+        <attrdef>French Canadian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1GERMAN</attrlabl>
+        <attrdef>German Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1GREEK</attrlabl>
+        <attrdef>Greek Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1HUNGAR</attrlabl>
+        <attrdef>Hungarian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1IRISH</attrlabl>
+        <attrdef>Irish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1ITALIA</attrlabl>
+        <attrdef>Italian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1LITHU</attrlabl>
+        <attrdef>Lithuanian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1NORWEG</attrlabl>
+        <attrdef>Norwegian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1POLISH</attrlabl>
+        <attrdef>Polish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1PORTUG</attrlabl>
+        <attrdef>Portuguese Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1ROMANI</attrlabl>
+        <attrdef>Romanian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1RUSSIA</attrlabl>
+        <attrdef>Russian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1SCIRSH</attrlabl>
+        <attrdef>Scottish and Irish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1SCOTT</attrlabl>
+        <attrdef>Scottish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1SLOVAK</attrlabl>
+        <attrdef>Slovakian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1AFRICA</attrlabl>
+        <attrdef>African Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1SWEDSH</attrlabl>
+        <attrdef>Swedish Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1SWISS</attrlabl>
+        <attrdef>Swiss Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1UKRAIN</attrlabl>
+        <attrdef>Ukrainian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1US</attrlabl>
+        <attrdef>U.S. Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1WELSH</attrlabl>
+        <attrdef>Welsh Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1WINDIA</attrlabl>
+        <attrdef>West Indian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1YUGOSL</attrlabl>
+        <attrdef>Yugoslavian Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1HISPAN</attrlabl>
+        <attrdef>Hispanic Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1OTHER</attrlabl>
+        <attrdef>All other Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ANC1UNREPO</attrlabl>
+        <attrdef>Unreported Ancestry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BORNABROAD</attrlabl>
+        <attrdef>Persons Born Abroad</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SCHHIPRE</attrlabl>
+        <attrdef>Persons in Preschool</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SCHHIELH</attrlabl>
+        <attrdef>Persons in Elementary School or High School</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SCHHICOLL</attrlabl>
+        <attrdef>Persons in College</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SCHHINOT</attrlabl>
+        <attrdef>Persons of School age not Enrolled in School</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDUND9</attrlabl>
+        <attrdef>Persons 21 years or older with less then a Ninth Grade Education</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ED912</attrlabl>
+        <attrdef>Persons 21 years or older with a 9-12 Grade Education</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDHIGHS</attrlabl>
+        <attrdef>Persons 21 years or older with a High School Education</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDSOMCOL</attrlabl>
+        <attrdef>Persons 21 years or older with some College Education</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDASSOC</attrlabl>
+        <attrdef>Persons 21 years or older with an Associates Degree</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDBACHL</attrlabl>
+        <attrdef>Persons 21 years or older with an Bachelors Degree</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDGRAD</attrlabl>
+        <attrdef>Persons 21 years or older with an Graduate Degree</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MEDHHLDINC</attrlabl>
+        <attrdef>Median Household Income for the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INCWHITE</attrlabl>
+        <attrdef>Income of White Americans for the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INCBLACK</attrlabl>
+        <attrdef>Income of African Americans for the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INCAMIND</attrlabl>
+        <attrdef>Income of Native Americans for the area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INCASIAN</attrlabl>
+        <attrdef>Income of Asian Americans for the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INCOTHER</attrlabl>
+        <attrdef>Income of all other Ethnicities for the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDAGRI</attrlabl>
+        <attrdef>Persons working in Agricultural Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDMINING</attrlabl>
+        <attrdef>Persons working in Mining Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDCONSTR</attrlabl>
+        <attrdef>Persons working in Construction Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDMANNOD</attrlabl>
+        <attrdef>Persons working for Industries Producing Non-Durable Goods</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDMANDUR</attrlabl>
+        <attrdef>Persons working for Industries Manufacturing Durable Goods</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDTRANS</attrlabl>
+        <attrdef>Persons working in Transportation Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDCOMM</attrlabl>
+        <attrdef>Persons working in Communication Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDWHOLE</attrlabl>
+        <attrdef>Persons working in Wholesale Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDRETAIL</attrlabl>
+        <attrdef>Persons working in Retail Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDFINANC</attrlabl>
+        <attrdef>Persons working in Financial Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDBUSI</attrlabl>
+        <attrdef>Persons working in Business</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDPERSNL</attrlabl>
+        <attrdef>Persons working in Personnel Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDENTERT</attrlabl>
+        <attrdef>Persons working in Entertainment Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDHEALTH</attrlabl>
+        <attrdef>Persons working in Healthcare Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDEDUCAT</attrlabl>
+        <attrdef>Persons working in Education Sector</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDPROFES</attrlabl>
+        <attrdef>Persons working as Professionals (ie. Attorneys, Architects,  etc)</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INDPUBLIC</attrlabl>
+        <attrdef>Persons working in the Public Sector</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCMANEXEC</attrlabl>
+        <attrdef>Persons working in Management as Executives</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCMANPROF</attrlabl>
+        <attrdef>Persons working in Management as Professionals (i.e., Corporate Attorneys, Accountants, etc.)</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCTECH</attrlabl>
+        <attrdef>Persons working as Technicians</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCTECHSAL</attrlabl>
+        <attrdef>Persons working in Technical Sales</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCTECHADM</attrlabl>
+        <attrdef>Persons working in Technical Administration</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCSRVPRIV</attrlabl>
+        <attrdef>Persons working as Private Service Workers (Maids, etc)</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCSRVPROT</attrlabl>
+        <attrdef>Persons working in Protective Services as Guards, Investigators, etc.)</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCSRVOTHR</attrlabl>
+        <attrdef>Persons working in other Services</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCFARMING</attrlabl>
+        <attrdef>Persons working as Farmers</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCREPAIR</attrlabl>
+        <attrdef>Persons working as Repair People</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCOPMACH</attrlabl>
+        <attrdef>Persons working as Machinists</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCOPTRANS</attrlabl>
+        <attrdef>Persons working as Operators/Drivers/Attendants in Transportation Industry</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCOPLABOR</attrlabl>
+        <attrdef>Persons working as Manual Laborers</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTL_HHLDS</attrlabl>
+        <attrdef>Total Households in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OCCUPIED90</attrlabl>
+        <attrdef>Number of Occupied Dwellings in the Area as of 1990</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VACANT90</attrlabl>
+        <attrdef>Number of Vacant Dwellings in the Area as of 1990</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_1</attrlabl>
+        <attrdef>Number of Single Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_2</attrlabl>
+        <attrdef>Number of Two Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_3</attrlabl>
+        <attrdef>Number of Three Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_4</attrlabl>
+        <attrdef>Number of Four Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_5</attrlabl>
+        <attrdef>Number of Five Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_6</attrlabl>
+        <attrdef>Number of Six Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_7</attrlabl>
+        <attrdef>Number of Seven Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_8</attrlabl>
+        <attrdef>Number of Eight Room Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RMS_9PLUS</attrlabl>
+        <attrdef>Number of Dwellings with Nine or more Rooms in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS1_DET</attrlabl>
+        <attrdef>Number of One Unit Detached Dwellings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS1_ATT</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with One Attached Unit</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS2</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with Two Attached Units</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS3OR4</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with Three to Four Attached Units </attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS5TO9</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with Five to Nine Attached Units</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS10_19</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with 10 to 19 Attached Units</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS20_49</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with 20 to 49 Attached Units in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITS50PLU</attrlabl>
+        <attrdef>Number of Multi Unit Complexes with 50 or more Attached Units</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MOBILHOME</attrlabl>
+        <attrdef>Number of Mobile Homes in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITSOTHER</attrlabl>
+        <attrdef>Number of Unclassified Units</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MEDYR_BUIL</attrlabl>
+        <attrdef>Median Year of Construction for Buildings in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH0OWNOCC</attrlabl>
+        <attrdef>Home Owners who do not own a Vehicle </attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH1OWNOCC</attrlabl>
+        <attrdef>Home Owners with One Vehicle </attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH2OWNOCC</attrlabl>
+        <attrdef>Home Owners with Two Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH3OWNOCC</attrlabl>
+        <attrdef>Home Owners with Three Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH4OWNOCC</attrlabl>
+        <attrdef>Home Owners with Four Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH5OWNOCC</attrlabl>
+        <attrdef>Home Owners with 5 Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH0RENTER</attrlabl>
+        <attrdef>Tenants with no Vehicle</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH1RENTER</attrlabl>
+        <attrdef>Tenants with One Vehicle</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH2RENTER</attrlabl>
+        <attrdef>Tenants with Two Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH3RENTER</attrlabl>
+        <attrdef>Tenants with Three Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH4RENTER</attrlabl>
+        <attrdef>Tenants with Four Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEH5RENTER</attrlabl>
+        <attrdef>Tenants with Five Vehicles</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MEDGR_RENT</attrlabl>
+        <attrdef>Median Rent in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MED_HOMVAL</attrlabl>
+        <attrdef>Median Home Value in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VAL_MORTGG</attrlabl>
+        <attrdef>Total Mortgage Value in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VAL_NOMORT</attrlabl>
+        <attrdef>Total Non Mortgage Value in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UTILITYGAS</attrlabl>
+        <attrdef>Households using Natural Gas via Utilities for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BTTLD_GGAS</attrlabl>
+        <attrdef>Households using Bottled Gas for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ELECTRIC</attrlabl>
+        <attrdef>Households using Electricity for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OIL_OR_KER</attrlabl>
+        <attrdef>Households using Oil or Kerosine for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COAL_COKE</attrlabl>
+        <attrdef>Households using Coal or Coke for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WOOD</attrlabl>
+        <attrdef>Households using Wood for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SOLAR</attrlabl>
+        <attrdef>Households using Solar Power for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OTHERFUEL</attrlabl>
+        <attrdef>Households using Other Fuels for Heat in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NOFUEL</attrlabl>
+        <attrdef>Unheated Households in the Area</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20100713</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

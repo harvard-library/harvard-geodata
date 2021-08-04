@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Newton GIS</origin>
+        <pubdate>1998?</pubdate>
+        <title>Open Space Parcels - City of Newton</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nwtnopnspcpy</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data layer contains open space parcels in Newton, Massachusetts, that are portions of larger parcels where only part of the parcel is considered open space.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+This layer will provide a basemap for layers related to real property as well as more advanced user applications that may focus on urban planning and policy, public works, zoning or utilities purposes (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.)</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998?</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.270311</westbc>
+        <eastbc>-71.163091</eastbc>
+        <northbc>42.367840</northbc>
+        <southbc>42.284089</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Open spaces</themekey>
+        <themekey>Greenbelts</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Recreation areas</themekey>
+        <themekey>City planning</themekey>
+        <themekey>Zoning</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Newton</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Newton GIS</cntorg>
+        </cntorgp>
+        <cntpos>GIS Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Information Technology Department</address>
+          <address>City Hall  Room 107</address>
+          <address>1000 Commonwealth Avenue</address>
+          <city>Newton Center</city>
+          <state>MA</state>
+          <postal>02459-1400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-796-1180</cntvoice>
+        <cntvoice>617-796-1000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by City of Newton GIS.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>SBL-ID Attribute
+While no systematic checking has been completed, the SBL-ID attribute contains the correct SBL for over 95% of all properties.  Condominiums are the source of most of the remaining inaccuracies.  This is because the Assessor's CAMA database structure has no means (in 1998) for correctly modeling the one-to-many relationship between the land of the parcel and its condominium units.  This has often resulted in the SBL being modified with a letter extension, one for each of the condominium units.  This has sometimes eliminated the SBL for the original lot all together, leaving the CAMA database unsynchronized with the Assessor's maps.
+Note that most Section/block/lot (SBL) IDs have a space between the block and the lot.  This space is occasionally filled by a letter extension to the block (e.g. 23023 0004 vs. 23023A0004).  Note also that SBLs with a section of 99 and a block of 099 are "dummy" SBLs.  These are created as placeholders for polygons such as ponds and median strips that must have a centroid to preserve topology but are not property parcels.  A dummy SBL was assigned to avoid confusion.  These "dummy" SBLs do not appear in the Assessors CAMA database.</attraccr>
+    </attracc>
+    <logic>For layers containing line or polygon features, Newton's data layers are "topologically clean". This was verified with Arc/Info software version 7.x in 1998 and is an ongoing part of data maintenance for the relevant data layers.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>From: PARCELS Datalayer Horizontal Accuracy Report
+Points fall within their respective property boundaries. 
+No systematic and quantitative review of property boundary accuracy has ever been conducted.  However, several qualitative observations based on experience using the data are possible.  The street right-of-way lines overlay the orthophoto base map very well, falling on or close to the apparent back-of-sidewalk visible on the photos.The edge-of-pavement data layer was compiled from aerial photography for Boston Edison to an absolute accuracy specification of +/- 2.5 feet.  Again, the right-of-way lines match up well in this comparison.  Less is known about the accuracy of the internal property boundaries.  Casual observations suggest they are sometimes as accurate as the right-of-way lines and sometimes much less.  Some observations of boundary line discrepancies relative to property boundary lines such as fences and hedges visible on the orthophotos indicate that internal property boundaries may be off by at least +/- 5 feet.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>City of Newton GIS</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Newton GIS Parcels Layer</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000</srcscale>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1992?</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>PARCELS</srccitea>
+        <srccontr>Some Attribute information for this layer were derived from the PARCELS datalayer.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Newton Assessor's office</origin>
+            <pubdate>1998?</pubdate>
+            <title>Assessor's Computer Assisted Mass Appraisal (CAMA) Database</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998?</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>CAMA</srccitea>
+        <srccontr>Attributes derived from this database</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The boundaries are those of the source parcel, with a break in the parcel delineating open space from non-open space. Data derived from the PARCELS datalayer.
+
+From PARCELS Datalayer Process Steps:
+In 1979, Newton awarded a contract to Burger Associates from Ohio to develop new maps at a uniform scale.  Burger Associates took aerial photographs of the city and used them to produce orthophotographs and a planimetric base map.  The base map included topographic contours with a two-foot contour interval.  The new parcel maps were compiled by photo reducing or enlarging the existing maps (most of which were at 1:480 scale) to the 1:1000 compilation scale.  The maps were adjusted to fit features such as the apparent back-of-sidewalk on the planimetric base map, and then property boundaries were traced onto the planimetric base map.  These property lines were then digitized using computer assisted drafting (CAD) software.   Two map sets were delivered, one at 1:1000 (1" = 83.3') scale (a metric scale produced to satisfy the requirements of the state funding involved) and one at 1:480 scale (1" = 40').
+
+In late 1991, Newton contracted with Applied Geographics, Inc. (Boston, MA) for development of an Arc/Info version of its property parcels.  This was accomplished by converting the 168 CAD files (one each per 1:1000 scale sheet) provided by Burger Associates to Arc/Info format.  Once the CAD files were converted to Arc/Info, additional processing included:
+
+Closing parcels bordering the Charles River; they were not closed after the DXF to Arc conversion because the river boundary in the DXF file was stored as a dashed line.  A replacement line was digitized from the 1:1000 scale assessor map sheets
+
+Property boundaries in the DXF files usually did not create closed polygons; this was corrected through a combination of automated procedures and interactive editing.
+Boundaries crossing CAD file limits had to be edge-matched
+In many instances rounded parcel corners collapsed (becoming straight or jagged) when the DXF files were converted to Arc format.  Many, but not all of these were corrected.  Some additional work has been completed on this, but the problem persists.
+A polygon label point was created for each parcel and the correct section/block/lot identifier added.
+The property splits and mergers from 1979 to April 1992 were incorporated.
+
+This is a very complete record of property boundaries as it has been the focus of a lot of checking and other work that has reduced errors.  Remaining problems involve tiny sliver parcels at the edge of the city, which may or may not be real.  More work checking these situations needs to be performed.  In addition, there are instances of cul-de-sacs where the properties on each side at the end were not actually separate topologically because of a tiny sliver between the end of the cul-de-sac and the property line against which it terminates.  This issue is further complicated because some of these situations correctly depict the property shape!  These problems notwithstanding, this data layer records over 99.9% of all properties in the city.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Newton GIS</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200208</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <procdate>20021008</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>464</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000476</absres>
+            <ordres>0.000476</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Open Space Parcels</enttypl>
+        <enttypd>ESRI Shapefile. Polygons represent parcels</enttypd>
+        <enttypds>ESRI, Newton GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NWTNOPNSPCPY.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OPNSPACE_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OPNSPACE_I</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SBL_ID</attrlabl>
+        <attrdef>Unique property id in form Section/block/lot</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADDNUM1</attrlabl>
+        <attrdef>Low address used by Arc/Info geocoding</attrdef>
+        <attrdefs>Newton Assessor's CAMA Database (CAMA)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADDNUM2</attrlabl>
+        <attrdef>High address</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STREET</attrlabl>
+        <attrdef>Street name used by Arc/Info geocoding</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LAND_USE</attrlabl>
+        <attrdef>Assessors land use code</attrdef>
+        <attrdefs>CAMA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>13</edomv>
+            <edomvd>Mixed Use</edomvd>
+          </edom>
+          <edom>
+            <edomv>101</edomv>
+            <edomvd>Single Family</edomvd>
+          </edom>
+          <edom>
+            <edomv>102</edomv>
+            <edomvd>Condominium</edomvd>
+          </edom>
+          <edom>
+            <edomv>104</edomv>
+            <edomvd>Two Family</edomvd>
+          </edom>
+          <edom>
+            <edomv>112</edomv>
+            <edomvd>Apartment (9-99 Units)</edomvd>
+          </edom>
+          <edom>
+            <edomv>130</edomv>
+            <edomvd>Developable Land</edomvd>
+          </edom>
+          <edom>
+            <edomv>132</edomv>
+            <edomvd>Developable Land</edomvd>
+          </edom>
+          <edom>
+            <edomv>323</edomv>
+            <edomvd>Shopping Center-Mall</edomvd>
+          </edom>
+          <edom>
+            <edomv>337</edomv>
+            <edomvd>Parking Lot</edomvd>
+          </edom>
+          <edom>
+            <edomv>340</edomv>
+            <edomvd>General Office Building</edomvd>
+          </edom>
+          <edom>
+            <edomv>392</edomv>
+            <edomvd>Undevelopable-Adjacent Commercial</edomvd>
+          </edom>
+          <edom>
+            <edomv>433</edomv>
+            <edomvd>Radio-TV Transmission</edomvd>
+          </edom>
+          <edom>
+            <edomv>805</edomv>
+            <edomvd>Golf (Chapter 61B Land)</edomvd>
+          </edom>
+          <edom>
+            <edomv>900</edomv>
+            <edomvd>Federal Government Owned</edomvd>
+          </edom>
+          <edom>
+            <edomv>901</edomv>
+            <edomvd>State Government Owned</edomvd>
+          </edom>
+          <edom>
+            <edomv>903</edomv>
+            <edomvd>Municipal Land</edomvd>
+          </edom>
+          <edom>
+            <edomv>904</edomv>
+            <edomvd>Private College-School</edomvd>
+          </edom>
+          <edom>
+            <edomv>905</edomv>
+            <edomvd>Charitable Organization</edomvd>
+          </edom>
+          <edom>
+            <edomv>906</edomv>
+            <edomvd>Church-Synagogue-Temple</edomvd>
+          </edom>
+          <edom>
+            <edomv>908</edomv>
+            <edomvd>Housing Authority</edomvd>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrva>Occasional custom numbers adopted by the Newton Assessor</attrva>
+          <attrvae>Most codes are the same as those used by the Massachusetts Department of Revenue</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>ZONING</attrlabl>
+        <attrdef>Zoning district codes</attrdef>
+        <attrdefs>Newton Assessor</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BU1 - BU5</edomv>
+            <edomvd>Business 1 - Business 5</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>LMD</edomv>
+            <edomvd>Limited Manufacturing</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>MAN</edomv>
+            <edomvd>Manufacturing</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>MR1 - MR4</edomv>
+            <edomvd>Multi-Residence 1 - Multi-Residence 4</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>MU1 - MU2</edomv>
+            <edomvd>Mixed Use 1 or Mixed Use 2</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>ORD</edomv>
+            <edomvd>Open Space/Recreation</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUB</edomv>
+            <edomvd>Public Use</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>SR1-SR3</edomv>
+            <edomvd>Single Residence 1 - Single Residence 3</edomvd>
+            <edomvds>Newton Assessor</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEED_BOOK</attrlabl>
+        <attrdef>The deed book number, as recorded in the Assessor's CAMA database</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEED_PAGE</attrlabl>
+        <attrdef>The deed book page, as recorded in the Assessor's CAMA database</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_1</attrlabl>
+        <attrdef>Name of the first listed property owner</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNERSHIP</attrlabl>
+        <attrdef>Subordinate Ownership Information</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name (if any) of the Parcel/Open Space</attrdef>
+        <attrdefs>CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWTNOPNSPCPY.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated feature length in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021010</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-295-12417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

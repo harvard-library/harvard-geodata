@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Health Forum (Organization)</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20040301</pubdate>
+        <title>ESRI Data &amp; Maps 2004 : U.S. Hospitals</title>
+        <edition>2004</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2004</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2004 \usa\landmarks</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri04ushospital</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. Hospitals represents the locations and selected attributes for hospitals included in the FY2001 edition of the American Hospital Association (AHA) Annual Survey Database.</abstract>
+      <purpose>U.S. Hospitals provides locations and extensive information about hospitals such as description, type, name, and address; number of beds, employees, patients, and emergency room visits.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>20000701-20030930</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200311</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition: 20000701-20030930; publication date: 200311</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Matches software update releases</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-162.296245</westbc>
+        <eastbc>-67.269000</eastbc>
+        <northbc>71.284073</northbc>
+        <southbc>19.199518</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Hospitals</themekey>
+        <themekey>Medical care</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>health</themekey>
+        <themekey>structure</themekey>
+        <themekey>society</themekey>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>point</themekey>
+        <themekey>hospital</themekey>
+        <themekey>place name</themekey>
+        <themekey>geographic feature</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000-2003</tempkey>
+        <tempkey>2003</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Affiliates for use on Harvard owned computers.  
+
+The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Internal Use Only. No redistribution rights are granted by the data vendor, and the data is for the end user's own internal use only.
+
+ESRI (End Users) shall not use the Health Forum, L.L.C. Data to rank hospitals in a report card context, or be used for regulatory purposes to determine compliance, claims acceptance, or claims verification.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States:
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States:
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 9.0.0.532</native>
+  </idinfo>
+  <dataqual>
+    <logic>No duplicate features are present. The shapefile is converted to SDC (Smart Data Compression) format in ArcSDE. This verifies and validates the geometry.</logic>
+    <complete>Hospitals report data for a complete fiscal year.
+
+Average response rate has been 82% for the past 5 years.
+
+Data is estimated for non-reporting hospitals and incomplete responses based on their most recent information, computed from statistical models, or derived from data supplied by similar hospitals.
+
+
+After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Health Forum (Organization)</origin>
+            <pubdate>2003</pubdate>
+            <title>American Hospital Association Annual Survey Database</title>
+            <edition>Fiscal Year 2001</edition>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>American Hospital Association Annual Survey Database</sername>
+              <issue>FY2001 Edition</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Chicago, Illinois, USA</pubplace>
+              <publish>Health Forum, L.L.C.</publish>
+            </pubinfo>
+            <othercit>Hospital Facilities Only - Exclude all Hospital Based Nursing Home Data.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20000701</begdate>
+              <enddate>20030930</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Health Forum FY2001</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Group 1 Software, Inc.</origin>
+            <pubdate>200311</pubdate>
+            <title>Centrus Desktop 4.0 (Geographic Data Technologies (GDT) version)</title>
+            <serinfo>
+              <sername>Centrus Desktop</sername>
+              <issue>4.0</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Boulder, Colorado, USA</pubplace>
+              <publish>Group 1 Software, Inc.</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200311</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Centrus Desktop 4.0</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>
+          American Hospital Association (AHA) Annual Survey of Hospitals
+          <srcprod>SDC</srcprod><proccont><cntinfo><cntorgp><cntorg>ESRI</cntorg><cntper>Data Team</cntper></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>380 New York Street</address><city>Redlands</city><state>California</state><postal>92373-8100</postal><country>USA</country></cntaddr><cntvoice>909-793-2853</cntvoice><cntfax>909-793-5953</cntfax><cntemail>info@esri.com</cntemail><hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours><cntinst>In the United States:
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States:
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst></cntinfo></proccont>
+          The latest version (Fiscal Year 2001) of the AHA Annual Survey of Hospitals is the primary source of hospital data for research data lists and healthcare profiles. Each year the American Hospital Association and Health Forum survey all the hospitals in the U.S., collecting more than 600 pieces of information on more than 6,000 hospitals.
+        </procdesc>
+        <procdate>2003</procdate>
+        <srcprod>Health Forum FY2001</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Received an Excel file from Health Forum, L.L.C. Assigned attribute names to the Excel columns, and output a text file. Converted the text file to dBASE (.dbf) in ArcView GIS 3. Used Centrus Desktop to geocode the file using the address information included. Created a point shapefile by: 1) using the geocoded latitude/longitude values if the street address could be geocoded, and 2) using the latitude/longitude values included in the original Excel file if the address could only be geocoded using the ZIP Code value. Deleted five records that did not match a street address and did not have latitude/longitude values. Added description values for ADMIN_DESC and TYPE_DESC attributes using the American Hospital Association Annual Survey Database documentation. Converted the data set to SDC. Created the projection file (.prj) and spatial indices.</procdesc>
+        <srcused>Health Forum FY2001</srcused>
+        <srcused>Centrus Desktop 4.0</srcused>
+        <procdate>20040317</procdate>
+        <srcprod>SDC</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the ESRI Data and Maps 2004 DVD.  The file was stored in an SDC (Smart Data Compression) format on the DVD.  ArcCatalog 9.1 was utilized to export the SDC file into an ArcSDE 9.1 database using the "Feature Class to Feature Class" export tool</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>20060313</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>5944</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000009</latres>
+        <longres>0.000009</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI04USHOSPITAL</enttypl>
+        <enttypd>The points represent locations and selected attributes for hospitals included in the FY2001 edition of the American Hospital Association (AHA) Annual Survey Database.</enttypd>
+        <enttypds>Health Forum, L.L.C.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AHA_ID</attrlabl>
+        <attrdef>The American Hospital Association (AHA) identification number. The AHA region code is in position 2, AHA state code in position 2-3, and hospital number in position 4 on.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>AHA Identification Number</codesetn>
+            <codesets>American Hospital Association</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>START_DATE</attrlabl>
+        <attrdef>The beginning of the reporting period [MM\DD\YY].</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>END_DATE</attrlabl>
+        <attrdef>The end of the reporting period [MM\DD\YY].</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_CODE</attrlabl>
+        <attrdef>The control code for the type of organization responsible for establishing policy concerning overall operation of the hospitals.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>State.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>13</edomv>
+            <edomvd>County.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>14</edomv>
+            <edomvd>City.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>15</edomv>
+            <edomvd>City-County.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>16</edomv>
+            <edomvd>Hospital district or authority.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>21</edomv>
+            <edomvd>Church operated.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>23</edomv>
+            <edomvd>Other not-for-profit.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>31</edomv>
+            <edomvd>Individual.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>32</edomv>
+            <edomvd>Partnership.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>33</edomv>
+            <edomvd>Corporation.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>41</edomv>
+            <edomvd>Air Force.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>42</edomv>
+            <edomvd>Army.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>43</edomv>
+            <edomvd>Navy.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>44</edomv>
+            <edomvd>Public Health Service other than 47.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>45</edomv>
+            <edomvd>Veterans Affairs.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>46</edomv>
+            <edomvd>Federal other than 41-45, 47-48.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>47</edomv>
+            <edomvd>Public Health Service Indian Service.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>48</edomv>
+            <edomvd>Department of Justice.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_DESC</attrlabl>
+        <attrdef>The control code description for the type of organization responsible for establishing policy concerning overall operation of the hospitals.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Government, Nonfederal: State, County, City, City-county, Hospital district or authority. Nongovernment, not-for-profit: Church operated, Other not-for-profit. Investor-owned (for-profit): Individual, Partnership, Corporation. Government, federal: Air Force, Army, Navy, Public Health Service other than Public Health Service Indian Service, Veterans Affairs, Public Health Service Indian Service, Department of Justice, Federal other than any of the above.</edomv>
+            <edomvd>The control code description for the type of organization responsible for establishing policy concerning overall operation of the hospitals.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE_CODE</attrlabl>
+        <attrdef>The service code for the category best describing the type of service provided to the majority of admissions.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>General medical and surgical.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>11</edomv>
+            <edomvd>Hospital unit of an institution (prison hospital, college infirmary).</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>Hospital unit within an institution for the mentally retarded.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>22</edomv>
+            <edomvd>Psychiatric.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>33</edomv>
+            <edomvd>Tuberculosis and other respiratory diseases.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>41</edomv>
+            <edomvd>Cancer.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>42</edomv>
+            <edomvd>Heart.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>44</edomv>
+            <edomvd>Obstetrics and gynecology.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>45</edomv>
+            <edomvd>Eye, ear, nose and throat.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>46</edomv>
+            <edomvd>Rehabilitation.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>47</edomv>
+            <edomvd>Orthopedic.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>48</edomv>
+            <edomvd>Chronic disease.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>49</edomv>
+            <edomvd>Other specialty treatment.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>50</edomv>
+            <edomvd>Children's general medical and surgical.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>51</edomv>
+            <edomvd>Children's hospital unit of an institution.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>52</edomv>
+            <edomvd>Children's psychiatric.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>53</edomv>
+            <edomvd>Children's tuberculosis and other respiratory diseases.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>55</edomv>
+            <edomvd>Children's eye, ear, nose and throat.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>56</edomv>
+            <edomvd>Children's rehabilitation.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>57</edomv>
+            <edomvd>Children's orthopedic.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>58</edomv>
+            <edomvd>Children's chronic disease.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>59</edomv>
+            <edomvd>Children's other specialty.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>62</edomv>
+            <edomvd>Institution for mental retardation.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>80</edomv>
+            <edomvd>Acute long-term care.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>82</edomv>
+            <edomvd>Alcoholism and other chemical dependency.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+          <edom>
+            <edomv>90</edomv>
+            <edomvd>Children's acute long-term care.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE_DESC</attrlabl>
+        <attrdef>The service code description for the category best describing the type of service provided to the majority of admissions.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>The service code description.</edomv>
+            <edomvd>The service code description for the category best describing the type of service provided to the majority of admissions.</edomvd>
+            <edomvds>Health Forum, L.L.C.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BEDS</attrlabl>
+        <attrdef>The calculated hospital unit beds set up and staffed (total beds).</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>EMPLOYEES</attrlabl>
+        <attrdef>The full time personnel or calculated full time equivalent. [All full time equivalent personnel values are calculated by adding full time personnel to 0.5 multiplied by the related part time personnel.]</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The hospital name.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADDRESS</attrlabl>
+        <attrdef>The street address.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Addresses for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CITY</attrlabl>
+        <attrdef>The city name.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST_ABREV</attrlabl>
+        <attrdef>The two-letter abbreviation for the state.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards 5?2</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZIP_CODE</attrlabl>
+        <attrdef>The ZIP Code.</attrdef>
+        <attrdefs>United States Postal Service</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>USPS National 5-Digit ZIP + 4 Code and Post Office Directory</codesetn>
+            <codesets>United States Postal Service</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MEDICARE</attrlabl>
+        <attrdef>The Medicare Provider Identifier, a 6-digit number to match Health Care Financing Administration (HCFA) files.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Codes for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SYS_CODE</attrlabl>
+        <attrdef>The system identifier from membership.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Codes for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SYS_NAME</attrlabl>
+        <attrdef>The system name from membership.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSA_CODE</attrlabl>
+        <attrdef>The Health Service Area (HSA) code and Name Description Local health care markets for community-based inpatient care. Derived by researchers at Dartmouth Medical School for the Dartmouth Atlas of Health Care from a national patient origin study. Each HSA is a cluster of contiguous Zip Codes, the residents of which predominantly use one or more hospitals within the HSA. 3,436 discrete HSAs have been defined.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Dartmouth Atlas of Health Care</codesetn>
+            <codesets>Dartmouth Medical School</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HRR_CODE</attrlabl>
+        <attrdef>The Health Referral Region (HRR) code and Name Description Regional health care markets for tertiary medical care. Hospital referral regions were defined in the Dartmouth Atlas of Health Care by documenting where residents of hospital service areas received major cardiovascular surgical procedures and neurosurgery. Using these two services as markers for tertiary care, the 3,436 hospital service areas were aggregated into 306 hospital referral regions.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Dartmouth Atlas of Health Care</codesetn>
+            <codesets>Dartmouth Medical School</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL_ADM</attrlabl>
+        <attrdef>The total facility (hospital) admissions.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INPATIENTS</attrlabl>
+        <attrdef>The total inpatient (hospital) admissions.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OUTPATIENT</attrlabl>
+        <attrdef>The total outpatient (hospital) visits.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>EMERG_RM</attrlabl>
+        <attrdef>The total emergency room (hospital) visits.</attrdef>
+        <attrdefs>Health Forum, L.L.C.</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metd>20060915</metd>
+  </metainfo>
+</metadata>

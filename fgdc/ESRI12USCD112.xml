@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Census Bureau. Geography Division</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20120301</pubdate>
+        <title>U.S. 112th Congressional Districts : Esri Data &amp; Maps 2012</title>
+        <edition>2012</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>Data &amp; Maps for ArcGIS</sername>
+          <issue>2012 - World, Europe, and United States</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Esri</publish>
+        </pubinfo>
+        <othercit>Location: Data &amp; Maps for ArcGIS 2012 \usa\census</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri12uscd112</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. 112th Congressional Districts represents the political boundaries for the U.S. 112th congressional districts. The official membership is current as of February 7, 2012.</abstract>
+      <purpose>U.S. 112th Congressional Districts provides the locations of congressional districts, primarily for national planning applications.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>201101-201301</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200901-200905</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20010508</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20101209</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20100504</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20110915</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20120207</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition: 201101-201301; publication date: 200901-200905, 20010508, 20101209, 20100504, 20110915, 20120207</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.342100</westbc>
+        <eastbc>-65.221110</eastbc>
+        <northbc>71.352561</northbc>
+        <southbc>17.884813</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Legislators</themekey>
+        <themekey>United States Congress</themekey>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Election districts</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>congressional districts</themekey>
+        <themekey>Congress</themekey>
+        <themekey>House of Representatives</themekey>
+        <themekey>population</themekey>
+        <themekey>society</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>congressional districts</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2011-2013</tempkey>
+        <tempkey>2009</tempkey>
+        <tempkey>2001</tempkey>
+        <tempkey>2010</tempkey>
+        <tempkey>2011</tempkey>
+        <tempkey>2012</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License. These data must be used in compliance with the Site License. This means that the data are only available for Harvard Affiliates for use on Harvard owned computers.The data are provided by multiple, third party data vendors under license to Esri for inclusion on Data &amp; Maps for ArcGIS for use with Esri software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by Esri Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).The terms and conditions below apply to all the data sets provided on Data &amp; Maps.Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of Esri and its licensor(s). The Data and Related Materials are owned by Esri and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.Limited Warranty and Disclaimer: Esri warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. Esri DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. Esri IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.HIGH RISK ACTIVITIES: (A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). Esri SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD Esri, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.Exclusive Remedy and Limitation of Liability: The entire liability of Esri or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to Esri with a copy of Licensee's invoice/receipt and Esri returning the license fees paid to Licensee.IN NO EVENT SHALL Esri AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT Esri OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.Third Party Beneficiary: Esri's licensor(s) has (have) authorized Esri to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the Esri licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to Esri.In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, Esri has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Esri</cntorg>
+          <cntper>ArcGIS Content Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded. Outside the United States-Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.  For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Esri ArcGIS 10.1</native>
+  </idinfo>
+  <dataqual>
+    <logic>The shapefile is converted to SDC (Smart Data Compression) format using tools in ArcGIS.  The SDC data set is then imported into a file geodatabase to verify, validate, and if needed repair the geometry.The Census Bureau performed automated tests to ensure logical consistency and limits of shapefiles and performed spatial data tests for logical consistency of the codes during the compilation of the original Census MAF/TIGER database files.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.[Applies to the coastline only - Line simplification and smoothing was performed with a tolerance of 0.005 decimal degrees and a coordinate reduction using the Douglas-Peucker method with a tolerance of 0.0003 decimal degrees. Very small polygons were eliminated when the combination of geographic codes existed elsewhere.]</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy is unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Census Bureau. Geography Division</origin>
+            <pubdate>200901-200905; 20010508</pubdate>
+            <title>2009 TIGER/Line Shapefiles; Census 2000: State and State Equivalent Areas</title>
+            <edition>2009; 2000</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>TIGER/Line Shapefiles; Census State and State Equivalent Areas</sername>
+              <issue>2009; 2000</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>U.S. Census Bureau, Geography Division</publish>
+            </pubinfo>
+            <othercit>The TIGER/Line Shapefiles are an extract of selected geographic and cartographic information from the Census MAF/TIGER database. The Census MAF/TIGER database represents a seamless national file with no overlaps or gaps between parts.</othercit>
+            <onlink>http://www2.census.gov/cgi-bin/shapefiles2009/national-files</onlink>
+            <onlink>http://www.census.gov/geo/www/cob/st2000.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>200901-200905</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>20010508</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>U.S. Census Bureau, Geography Division</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Congress. House. Office of the Clerk</origin>
+            <pubdate>20101209; 20110915; 20120207</pubdate>
+            <title>UNOFFICIAL LIST OF MEMBERS; OFFICIAL LIST OF MEMBERS</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>Clerk of the U.S. House of Representatives</publish>
+            </pubinfo>
+            <onlink>http://clerk.house.gov/member_info/unofficial-list-by-state-112.pdf</onlink>
+            <onlink>http://clerk.house.gov/member_info/olm-112.pdf</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>20101209</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>20110915</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>20120207</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>http://clerk.house.gov/</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>20100504</pubdate>
+            <title>Esri Data - Updated Demographics</title>
+            <edition>2010</edition>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>Esri Data - Updated Demographics</sername>
+              <issue>2010</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>Esri</publish>
+            </pubinfo>
+            <othercit>Provides the POP2010 attribute.</othercit>
+            <onlink>http://www.esri.com/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20100504</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Esri Data - Updated Demographics</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by Esri: Copied the latest Esri Data &amp; Maps U.S. 111th Congressional Districts dataset. Downloaded the most current list of members from http://clerk.house.gov/member_info/unofficial-list-by-state-112.pdf and updated fields NAME and PARTY. Converted the data set to SDC. Created projection file (.prj) and spatial indices.</procdesc>
+        <srcused>U.S. Census Bureau, Geography Division</srcused>
+        <srcused>http://clerk.house.gov/</srcused>
+        <srcused>Esri Data - Updated Demographics</srcused>
+        <procdate>20101229</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by Esri: Copied the latest Esri Data &amp; Maps U.S. 112th Congressional Districts dataset. Downloaded the most current list of members from http://clerk.house.gov/member_info/olm-112.pdf and updated fields NAME and PARTY. Converted the data set to SDC. Created projection file (.prj) and spatial indices.</procdesc>
+        <srcused>http://clerk.house.gov/</srcused>
+        <procdate>20111004</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by Esri: Copied the latest Data &amp; Maps U.S. 112th Congressional Districts dataset. Downloaded the most current list of members from http://clerk.house.gov/member_info/olm-112.pdf and updated fields NAME and PARTY. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>http://clerk.house.gov/</srcused>
+        <procdate>20120216</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was downloaded from the Esri Data and Maps 10.1 DVD.  The layer was originally stored in an SDC (Smart Data Compression) format.  ArcCatalog 10.1 was utilized to export the SDC file into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>201209</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>437</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI12USCD112</enttypl>
+        <enttypd>An area established by state officials or the courts for the purpose of electing a person to the U.S. House of Representatives. Within each state, these areas must contain, as nearly as possible, an equal number of inhabitants. The number of congressional districts in each state may change after each decennial census, and the boundaries may be changed more than once during a decade.</enttypd>
+        <enttypds>Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The name of the representative for the congressional district.</attrdef>
+        <attrdefs>Clerk of the U.S. House of Representatives</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PARTY</attrlabl>
+        <attrdef>The political party of the representative for the congressional district.</attrdef>
+        <attrdefs>Clerk of the U.S. House of Representatives</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Democrat</edomv>
+            <edomvd>The representative is a Democrat.</edomvd>
+            <edomvds>Esri</edomvds>
+          </edom>
+          <edom>
+            <edomv>Independent</edomv>
+            <edomvd>The representative is an Independent.</edomvd>
+            <edomvds>Esri</edomvds>
+          </edom>
+          <edom>
+            <edomv>Republican</edomv>
+            <edomvd>The representative is a Republican.</edomvd>
+            <edomvds>Esri</edomvds>
+          </edom>
+          <edom>
+            <edomv>Vacant</edomv>
+            <edomvd>The representative has resigned, died, or declined to serve.</edomvd>
+            <edomvds>Esri</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DISTRICTID</attrlabl>
+        <attrdef>The congressional district code (four-digit number).</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards (PUB 9-1)</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STFIPS</attrlabl>
+        <attrdef>The FIPS code (two-digit number) for the state in which the congressional district is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE_ABBR</attrlabl>
+        <attrdef>The two-letter abbreviation for the state in which the congressional district is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards 5-2</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2010</attrlabl>
+        <attrdef>The 2010 estimated population of the congressional district.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SQMI</attrlabl>
+        <attrdef>The area of the congressional district in square miles.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Calculated areas for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120926</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

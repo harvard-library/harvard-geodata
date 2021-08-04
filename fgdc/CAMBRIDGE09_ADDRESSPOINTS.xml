@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Cambridge (Mass.). Geographic Information Systems</origin>
+        <pubdate>2007</pubdate>
+        <title>Building Address Points, Cambridge, Massachusetts, December 2007</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>City of Cambridge, GIS Dept.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-cambridge09-addresspoints</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This point layer contains all building centroid points within the City of Cambridge and addresses associated with each building from the Master Address database. For buildings with more than one address, address points are stacked on top of one another at the centroid point. Buildings with no associated address (such as garages, sheds, and warehouses) have address points at their centroid but contain null addresses.</abstract>
+      <purpose>This layer was created for address geocoding and general mapping purposes, both for internal and external use.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200712</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.160131</westbc>
+        <eastbc>-71.068504</eastbc>
+        <northbc>42.403536</northbc>
+        <southbc>42.353105</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Street addresses</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Address points, building addresses</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Cambridge</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. 
+
+The City of Cambridge provides Geographic Information Systems ("GIS") data in good faith. The City makes no warranty in regard to the data whatsoever, including, but not limited to, a warranty of the accuracy of the data. The party requesting the data agrees that the City has no liability arising from any incomplete, incorrect, inaccurate or misleading data provided.
+
+This layer does not represent an officially exhaustive list of addresses within Cambridge, and is to be used for reference purposes only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>GIS Manager</cntper>
+          <cntorg>City of Cambridge GIS</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>831 Massachusetts Ave., 2nd Floor</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02139</postal>
+        </cntaddr>
+        <cntvoice>617-349-4140</cntvoice>
+        <cntfax>617-349-6165</cntfax>
+        <cntemail>gis@cambridgema.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Original buildings data from the flyover were compiled using photogrammetric methods to meet ASPRS Class 1 accuracy standards for 1" = 100' scale mapping. The Buildings layer has been manually updated with major footprint changes through 2007 from georeferenced building plans. Master addresses compiled from ECC address list, Post Office address list, and field verified by Cambridge GIS in 2003-2004. Newer address changes made from CRS requests via DPW and ECC, and field verified by Cambridge GIS in 2007.</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Cambridge (Mass.). Geographic Information Systems</origin>
+            <pubdate>20091027</pubdate>
+            <title>Citywide vector data</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Cambridge, MA</pubplace>
+              <publish>City of Cambridge GIS Department</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM ; 4 3/4 in.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20091027</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Cambridge GIS DVD</srccitea>
+        <srccontr>Source data disc.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This ESRI shapefile was downloaded off of a DVD provided by the City of Cambridge, Massachusetts.  ArcCatalog 9.3 was utilized to import the shapefile into an ArcSDE 9.1 database using the "Feature Class to Feature Class" import tool.</procdesc>
+        <srcused>Cambridge GIS DVD</srcused>
+        <procdate>201002</procdate>
+        <srcprod>SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>21459</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000012</absres>
+            <ordres>0.000012</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>AddressPoints</enttypl>
+        <enttypd>Building Address Points</enttypd>
+        <enttypds>Cambridge GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>address_id</attrlabl>
+        <attrdef>Unique address ID</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>street_id</attrlabl>
+        <attrdef>Street ID - relates to Centerline layer street ID</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>street_num</attrlabl>
+        <attrdef>Street number of the address</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>street_n_1</attrlabl>
+        <attrdef>Street number suffix</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>street_sho</attrlabl>
+        <attrdef>Full street name</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZIP</attrlabl>
+        <attrdef>ZIP code for the address</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>address_st</attrlabl>
+        <attrdef>Address status ("Active" or Null)</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>is_mailing</attrlabl>
+        <attrdef>Mailing address designation (1=mailing address, 0=not a mailing address)</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>not a mailing address</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Mailing address</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>concateid</attrlabl>
+        <attrdef>Unique building ID - relates to Buildings layer and Master Address database</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>poi_name</attrlabl>
+        <attrdef>Point of interest name for the address</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ml</attrlabl>
+        <attrdef>Parcel ID (map-lot)</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>StNm</attrlabl>
+        <attrdef>Concatenation of street_num and street_n_1</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ROOFELEV</attrlabl>
+        <attrdef>Elevation above sea level, in feet, of the roofline</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HIGHELEV</attrlabl>
+        <attrdef>Elevation above sea level, in feet, of the highest point of the building</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLOCK</attrlabl>
+        <attrdef>Master Address block</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAPID</attrlabl>
+        <attrdef>Building ID</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GROUNDHIGH</attrlabl>
+        <attrdef>Estimated height (in feet) from the ground to the highest point of the building</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GROUNDROOF</attrlabl>
+        <attrdef>Estimated height (in feet) from the ground to the building roofline</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ELEVGROUND</attrlabl>
+        <attrdef>Estimated elevation above sea level (in feet) of the ground</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord_1</attrlabl>
+        <attrdef>X coordinate of the building centroid</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord_1</attrlabl>
+        <attrdef>Y coordinate of the building centroid</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Full_Addr</attrlabl>
+        <attrdef>Full address</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Std_Addr</attrlabl>
+        <attrdef>Full address in all caps for geocoding purposes</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TrashDistr</attrlabl>
+        <attrdef>Trash district / pick-up day</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1Monday</edomv>
+            <edomvd>Monday trash pick-up</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2Tuesday</edomv>
+            <edomvd>Tuesday trash pick-up</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3Wednesday</edomv>
+            <edomvd>Wednesday trash pick-up</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4Thursday</edomv>
+            <edomvd>Thursday trash pick-up</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>5Friday</edomv>
+            <edomvd>Friday trash pick-up</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TreeDistr</attrlabl>
+        <attrdef>Tree district (same as CDD Neighborhood number)</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20100323</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

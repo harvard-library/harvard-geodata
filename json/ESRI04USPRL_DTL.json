@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri04usprl-dtl",
+  "dc_title_s": "ESRI Data & Maps 2004 : U.S. GDT Park Landmarks",
+  "dc_description_s": "U.S. GDT Park Landmarks represents parks and forests within United States at National, State, and local levels.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI04USPRL_DTL.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI04USPRL_DTL",
+  "layer_slug_s": "harvard-esri04usprl-dtl",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-09-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Parks",
+    "National parks and reserves",
+    "Forest reserves",
+    "environment",
+    "polygon",
+    "parks",
+    "national park or forest",
+    "state park or forest",
+    "local park or forest"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2004-03-01",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_geom": "ENVELOPE(-167.540445, -65.707418, 68.649982, 18.008555)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

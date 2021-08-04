@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Land Info (Firm)</origin>
+        <origin>Digital Globe Incorporated</origin>
+        <pubdate>2007</pubdate>
+        <title>Beijing, China : Street Centerlines, 2006</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Highlands Ranch, CO</pubplace>
+          <publish>LAND INFO Worldwide Mapping</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-li-beijing-rd</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Beijing, China street centerline vectors with road type attributes extracted from DigitalGlobe QuickBird CitySphere high-resolution (60cm) satellite imagery ortho mosaics.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic GIS applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>20060406</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20060214</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20050424</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20050306</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>116.140614</westbc>
+        <eastbc>116.513352</eastbc>
+        <northbc>40.015353</northbc>
+        <southbc>39.810942</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Transportation</themekey>
+        <themekey>Roads</themekey>
+        <themekey>Streets</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>China</placekey>
+        <placekey>Beijing</placekey>
+      </place>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>DATA LICENSE
+============
+All data is the copyrighted property of LAND INFO Worldwide Mapping, LLC.  Land Info grants customer a license to distribute data on an isolated non-commercial basis, or as Derived Works.  Derived works that include the source data must be merged with other value-added data in such a way that the derived work can't be converted back to the original source data format.  Other Derived Works that don't include the source data (vector extraction, classification etc.) have no restrictions on use and distribution.  An unlimited license is granted for media use, provided that the following citation is used:  "map data courtesy www.landinfo.com."</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>LAND INFO Worldwide Mapping, LLC</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>PO Box 631961</address>
+          <city>Highlands Ranch</city>
+          <state>CO</state>
+          <postal>80163-1961</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303-790-9730</cntvoice>
+        <cntfax>303-790-9734</cntfax>
+        <cntemail>sales@landinfo.com</cntemail>
+        <cntinst>http://www.landinfo.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Beijing_2007 DigitalGlobe QuickBird CitySphere
+604 sq. km.
+1:50,000 accuracy (11.8m RMS / 25m CE90)
+Catalog_ID	Acquisition_Date	Off_Nadir
+
+1010010004155C02	3/6/2005	19.91
+
+1010010004155C03	3/6/2005	19.53
+
+1010010004312101	4/24/2005	12.92
+
+1010010004CEEB02	2/14/2006	6.30
+
+1010010004CEEB03	2/14/2006	4.80
+
+1010010004312102	4/24/2005	12.10
+
+1010010004EE7902	4/22/2006	22.51
+
+1010010004EE7903	4/22/2006	21.54
+
+1010010004EE7904	4/22/2006	20.54</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Digital Globe Incorporated</origin>
+            <pubdate>2007</pubdate>
+            <title>Beijing 2007 DigitalGlobe QuickBird CitySphere orthophotos</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Longmont, CO</pubplace>
+              <publish>DigitalGlobe</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>50000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>20060406</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>20060214</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>20050424</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>20050306</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>orthophotos</srccitea>
+        <srccontr>Data from which street centerline features were extracted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Street center-line vectors were extracted from DigitalGlobe QuickBird CitySphere high-res (60cm) satellite imagery ortho mosaics.</procdesc>
+        <srcused>orthophotos</srcused>
+        <procdate>2007</procdate>
+        <srcprod>centerlines shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>LAND INFO Worldwide Mapping, LLC</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>PO Box 631961</address>
+              <city>Highlands Ranch</city>
+              <state>CO</state>
+              <postal>80163-1961</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>303-790-9730</cntvoice>
+            <cntfax>303-790-9734</cntfax>
+            <cntemail>sales@landinfo.com</cntemail>
+            <cntinst>http://www.landinfo.com</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the LandInfo Worldwide Mapping Street Centerlines CD-ROM as a shapefile. The shapefile was imported into SDE using ArcCatalog 9.2</procdesc>
+        <srcused>centerlines shapefile</srcused>
+        <procdate>200904</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>maps@harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>96789</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>50</utmzone>
+            <transmer>
+              <sfctrmer>0.999600</sfctrmer>
+              <longcm>117.000000</longcm>
+              <latprjo>0.000000</latprjo>
+              <feast>500000.000000</feast>
+              <fnorth>0.000000</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000015</absres>
+            <ordres>0.000015</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>LI_BEIJING_RD</enttypl>
+        <enttypd>Beijing Street Center-lines</enttypd>
+        <enttypds>LAND INFO</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID_1</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE</attrlabl>
+        <attrdef>Road type</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ACCESS RAMP ROAD</edomv>
+          </edom>
+          <edom>
+            <edomv>CITY STREET</edomv>
+          </edom>
+          <edom>
+            <edomv>MAIN ROAD PAVED</edomv>
+          </edom>
+          <edom>
+            <edomv>RAIL ROAD</edomv>
+          </edom>
+          <edom>
+            <edomv>SECONDARY ROAD PAVED</edomv>
+          </edom>
+          <edom>
+            <edomv>SECONDARY ROAD UNPAVED</edomv>
+          </edom>
+          <edom>
+            <edomv>UNPAVED ROAD</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ATTRIBUTE1</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>DIRT</edomv>
+          </edom>
+          <edom>
+            <edomv>DIVIDED</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ATTRIBUTE2</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>BRIDGE</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMENT_</attrlabl>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>DISCLAIMER
+==========
+LAND INFO Worldwide Mapping, LLC (Land Info) makes no guarantee or warranty on the products it sells beyond that provided by the manufacturer.  Any implied warranties including warranties of merchantability or fitness for a particular purpose are expressly disclaimed.  In no case shall Land Info or its agents be liable for any damages related to use of the products supplied by Land Info.  Client acknowledges and understands that the accuracy of the data is beyond the control of Land Info and that it is explicitly not guaranteed by Land Info.
+
+Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090414</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

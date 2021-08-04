@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esricities",
+  "dc_title_s": "ESRI Cities Geodata Set",
+  "dc_description_s": "World Cities contains locations of major cities around the world. The cities include national capitals for each of the countries in World Countries 1998 as well as major population centers and landmark cities. World Cities was derived from ESRI's ArcWorld database and supplemented with other data from the Rand McNally New International Atlas",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRICITIES",
+  "layer_slug_s": "-",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2001-05-09T00:00:00Z",
+  "dc_creator_sm": [
+    "Rand McNally and ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "society",
+    "cities"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_geom": "ENVELOPE(-165.270004, 177.130188, 78.199997, -53.150002)",
+  "solr_year_i": 1996,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>United States. Bureau of the Census</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <origin>Harvard Geospatial Library</origin>
+        <pubdate>20080401</pubdate>
+        <title>World Census IPC Demographics : ESRI Data &amp; Maps 2008</title>
+        <edition>2008</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2008 \world\data</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri08wldcntry-ipc</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon layer joins the ESRI World Census IPC Demographics attribute table to the ESRI Data &amp; Maps 2008 : World Countries datalayer, to enable spatial displaying of World Census IPC Demographics attributes.
+
+World Census IPC Demographics (table) represents a vast amount of recent demographic information for the countries recognized by the U.S. State Department.</abstract>
+      <purpose>World Census IPC Demographics (table) provides demographic and vital events factors for the countries of the world. To display Census IPC Demographics attributes on a map, join this table to a World Countries attribute table using FIPS_CNTRY or CNTRY_NAME as the common attribute.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>20060824</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20070501</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200703</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>83.604154</northbc>
+        <southbc>-90.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Demography</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Fertility, Human Statistics</themekey>
+        <themekey>Mortality Statistics</themekey>
+        <themekey>Life expectancy</themekey>
+        <themekey>Human beings Migrations</themekey>
+        <themekey>Age distribution (Demography)</themekey>
+        <themekey>HIV (viruses) Statistics</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Territory, National</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>table</themekey>
+        <themekey>countries</themekey>
+        <themekey>population</themekey>
+        <themekey>demographics</themekey>
+        <themekey>fertility</themekey>
+        <themekey>mortality</themekey>
+        <themekey>migration</themekey>
+        <themekey>society</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+        <placekey>Polar Regions</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>World</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2006</tempkey>
+        <tempkey>2007</tempkey>
+        <tempkey>2007</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only  available for Harvard Affiliates for use on Harvard owned computers. The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The attribute accuracy is unknown.</attraccr>
+    </attracc>
+    <logic>No duplicate features are present.</logic>
+    <complete>After processing, the data set is checked for number of records, attribute names, and values compared with source materials.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Bureau of the Census</origin>
+            <pubdate>20060824</pubdate>
+            <title>International Data Base (IDB)</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>U.S. Census Bureau, Population Division/International Programs Center</publish>
+            </pubinfo>
+            <onlink>http://www.census.gov/ipc/www/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20060824</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>U.S. Census IPC</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>20070501</pubdate>
+            <title>World Countries 2007</title>
+            <edition>2007</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>ESRI Data &amp; Maps</sername>
+              <issue>2007 World, Europe, United States, Canada, and Mexico</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>ESRI</publish>
+            </pubinfo>
+            <onlink>http://www.esri.com/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20070501</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI Data &amp; Maps 2007</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Central Intelligence Agency</origin>
+            <pubdate>200703</pubdate>
+            <title>The World Factbook 2007</title>
+            <edition>2007</edition>
+            <geoform>document</geoform>
+            <serinfo>
+              <sername>The World Factbook</sername>
+              <issue>2007</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>United States Central Intelligence Agency</publish>
+            </pubinfo>
+            <onlink>https://www.cia.gov/library/publications/the-world-factbook/index.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200703</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>CIA Factbook</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>20080401</pubdate>
+            <title>World Countries (Generalized)</title>
+            <edition>2008</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>ESRI Data &amp; Maps</sername>
+              <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>ESRI</publish>
+            </pubinfo>
+            <othercit>Location: ESRI data &amp; maps 2008 \world\data</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20080401</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Country Shapefile</srccitea>
+        <srccontr>Spatial/attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Started with the data set World Countries 2007 and removed all but the FIPS_CNTRY and CNTRY_NAME attributes. Compiled 30 attributes covering demographic and vital events factors from the U.S. Census Bureau, Population Division/International Programs Center and the CIA The World Factbook web sites. Removed unwanted attributes and sorted on FIPS_CNTRY. Converted the data set to a SDC table and created an ArcGIS layer file (.lyr).</procdesc>
+        <srcused>U.S. Census IPC</srcused>
+        <srcused>ESRI Data &amp; Maps 2007</srcused>
+        <srcused>CIA Factbook</srcused>
+        <procdate>20080404</procdate>
+        <srcprod>Pol Org table</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The 'World Census IPC Demographics' table was originally downloaded from the ESRI Data and Maps 9.3 (2008) DVD.  The table was then joined to the "World Countries" shapefile in ArcGIS 9.3 using the "Join" tool.  The joined data was saved as a new shapefile and then exported from ArcCatalog to an ArcSDE 9.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>Pol Org table</srcused>
+        <srcused>Country Shapefile</srcused>
+        <procdate>200803</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>249</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI08wldcntry_ipc</enttypl>
+        <enttypd>The table represents demographic information for the countries recognized by the U.S. State Department.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID_12</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNTRY</attrlabl>
+        <attrdef>The FIPS code (two-letter) for the country.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GMI_CNTRY</attrlabl>
+        <attrdef>The country code (three-letter) for the country from Global Mapping International.</attrdef>
+        <attrdefs>Global Mapping International</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Global Mapping International Codes</codesetn>
+            <codesets>Global Mapping International</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ISO_2DIGIT</attrlabl>
+        <attrdef>The country code (two-letter) for the country from the International Organization for Standardization.</attrdef>
+        <attrdefs>International Organization for Standardization</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>ISO 3166-1 Alpha-2 codes</codesetn>
+            <codesets>International Organization for Standardization</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ISO_3DIGIT</attrlabl>
+        <attrdef>The country code (three-letter) for the country from the International Organization for Standardization.</attrdef>
+        <attrdefs>International Organization for Standardization</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>ISO 3166-1 Alpha-3 codes</codesetn>
+            <codesets>International Organization for Standardization</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ISO_NUM</attrlabl>
+        <attrdef>The 3166-1-numeric-3 code for the country from the International Organization for Standardization.</attrdef>
+        <attrdefs>International Organization for Standardization</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>ISO 3166-1 Numeric-3 codes</codesetn>
+            <codesets>International Organization for Standardization</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attrdef>The country name.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONG_NAME</attrlabl>
+        <attrdef>The official country name.</attrdef>
+        <attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ISOSHRTNAM</attrlabl>
+        <attrdef>The short form of the country name from the International Organization for Standardization.</attrdef>
+        <attrdefs>International Organization for Standardization</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>ISO 3166-1 and ISO 3166-1-alpha-2 names</codesetn>
+            <codesets>International Organization for Standardization</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNSHRTNAM</attrlabl>
+        <attrdef>The short form of the country name from the United Nations Cartographic Section.</attrdef>
+        <attrdefs>United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>United Nations Cartographic Section names</codesetn>
+            <codesets>United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOCSHRTNAM</attrlabl>
+        <attrdef>The local short form country name. This name is displayed using an English character set. It is blank for countries with no local short form name.</attrdef>
+        <attrdefs>United States Central Intelligence Agency</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOCLNGNAM</attrlabl>
+        <attrdef>The local long form country name. This name is displayed using an English character set. It is blank for countries with no local long form name.</attrdef>
+        <attrdefs>United States Central Intelligence Agency</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attrdef>The United Nations political status of the political entity. This identifies whether the political entity is an independent United Nations member state, territory, occupied territory, dependency, etc.</attrdef>
+        <attrdefs>United Nations</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>United Nations Political Entity status</codesetn>
+            <codesets>United Nations</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2007</attrlabl>
+        <attrdef>The 2007 midyear estimated population for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SQKM</attrlabl>
+        <attrdef>The country area in square kilometers using an equal area projection.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Calculated areas for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SQMI</attrlabl>
+        <attrdef>The country area in square miles using an equal area projection.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Calculated areas for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAND_SQKM</attrlabl>
+        <attrdef>The country area in square kilometers which is land (The World Factbook).</attrdef>
+        <attrdefs>United States Central Intelligence Agency</attrdefs>
+        <attrdomv>
+          <udom>Areas for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COLORMAP</attrlabl>
+        <attrdef>The number allows the country to be shaded uniquely from its neighbors.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>8</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID_1</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNT_1</attrlabl>
+        <attrdef>The FIPS code (two-letter) for the country.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NA_1</attrlabl>
+        <attrdef>The country name.</attrdef>
+        <attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2007_1</attrlabl>
+        <attrdef>The 2007 midyear estimated population for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2015</attrlabl>
+        <attrdef>The 2015 midyear projected population for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2025</attrlabl>
+        <attrdef>The 2025 midyear projected population for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPC_0725</attrlabl>
+        <attrdef>The projected population change 2007 to 2025 (POP2025 - POP2007) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PPOPC_0725</attrlabl>
+        <attrdef>The projected percent population change 2007 to 2025 (POPC_0725 / POP2007 * 100) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CBR2007</attrlabl>
+        <attrdef>The crude birth rate 2007 (Births per 1,000 population) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CDR2007</attrlabl>
+        <attrdef>The crude death rate 2007 (Deaths per 1,000 population) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NMR2007</attrlabl>
+        <attrdef>The net migration rate 2007 (Per 1,000 population) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RNI2007</attrlabl>
+        <attrdef>The rate of natural increase 2007 (Births - deaths expressed as a percent) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GR2007</attrlabl>
+        <attrdef>The growth rate 2007 (Population increase or decrease expressed as a percent) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IMR2007</attrlabl>
+        <attrdef>The infant mortality rate 2007 (Infant deaths per 1,000 live births for both sexes) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IMRM2007</attrlabl>
+        <attrdef>The infant mortality rate, male 2007 (Infant deaths per 1,000 live births for males) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IMRF2007</attrlabl>
+        <attrdef>The infant mortality rate, female 2007 (Infant deaths per 1,000 live births for females) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LE2007</attrlabl>
+        <attrdef>The life expectancy at birth, both sexes 2007 (Years) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LEM2007</attrlabl>
+        <attrdef>The life expectancy at birth, males 2007 (Years) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LEF2007</attrlabl>
+        <attrdef>The life expectancy at birth, females 2007 (Years) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TFR2007</attrlabl>
+        <attrdef>The total fertility rate per woman, 2007 for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SRB2007</attrlabl>
+        <attrdef>The sex ratio at birth, 2007 (Number of male births per female births) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP014_07</attrlabl>
+        <attrdef>The population age 0-14, 2007 for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PPOP_014</attrlabl>
+        <attrdef>The percent of population age 0-14, 2007 for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP1564_07</attrlabl>
+        <attrdef>The population age 15-64, 2007 (Generally seen as the working age population) for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PPOP_1564</attrlabl>
+        <attrdef>The percent of population age 15-64, 2007 for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP65P_07</attrlabl>
+        <attrdef>The population age 65 and older, 2007 for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PPOP_65P</attrlabl>
+        <attrdef>The percent of population age 65 and older, 2007 for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIVADU_PRV</attrlabl>
+        <attrdef>The HIV/AIDS adult prevalence rate (Estimated percent of adults [aged 15-49] living with HIV/AIDS) for the country.</attrdef>
+        <attrdefs>United States Central Intelligence Agency</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIVADU_YR</attrlabl>
+        <attrdef>The year of estimate for the HIV/AIDS adult prevalence rate for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Years for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIVAIDSTOT</attrlabl>
+        <attrdef>The number of people (adults and children) living with HIV/AIDS for the country.</attrdef>
+        <attrdefs>United States Central Intelligence Agency</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIVAIDS_YR</attrlabl>
+        <attrdef>The year of estimate for HIV/AIDS population for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Years for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIVDTH</attrlabl>
+        <attrdef>The number of people (adults and children) who died of AIDS for the country.</attrdef>
+        <attrdefs>United States Central Intelligence Agency</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIVDTH_YR</attrlabl>
+        <attrdef>The year of estimate for AIDS deaths for the country.</attrdef>
+        <attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs>
+        <attrdomv>
+          <udom>Years for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None; See also use constraints.</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20090409</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

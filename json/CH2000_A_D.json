@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ch2000-a-d",
+  "dc_title_s": "China county boundary with 2000 population Census data from 100% Short Form data (Part D: Tables A3 to A6)",
+  "dc_description_s": "This polygon datalayer includes China county boundary with 2000 population Census data from 100% Short Form data. This layer is one (Part D) of five layers (see also Parts A, B, C, and E) covering the entire Short Form data; this layer covers Short Form tables A3-2 to A3-3; A5-2 to A5-6; A6-1 to A6-3: A3-2 Index of age composition by region (I); A3-3 Index of age composition by region (II); A5-2 Family households with only one member by age and sex and by region; A5-3 Family households with one or more than one nationalities by region; A5-4 Family households with persons aged 0-19 by region; A5-5 Family households with persons aged 60 and over by region; A5-6 Family households with persons aged 65 and over by region; A6-1 Deaths by sex, age and region (1999.11.1-2000.10.31); A6-2 Deaths aged 6 and over by sex, education attainment and by region (1999.11.1-2000.10.31); A6-3 Deaths aged 15 and over by sex, marital status and by region (1999.11.1-2000.10.31). This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//CH2000_A_D.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:CH2000_A_D",
+  "layer_slug_s": "harvard-ch2000-a-d",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-10-18T00:00:00Z",
+  "dc_creator_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+    "University of Michigan. China Data Center"
+  ],
+  "dc_publisher_s": [
+    "All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Census",
+    "Demography",
+    "Population Statistics",
+    "Vital statistics",
+    "Education Statistics",
+    "Housing Statistics",
+    "Age distribution (Demography)",
+    "Sex Statistics",
+    "Marital status Statistics",
+    "Households",
+    "Family",
+    "Mortality Statistics",
+    "Counties",
+    "Administrative and political divisions",
+    "society",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census"
+  ],
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 6.318641)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990098986290203941"
+  ]
+}

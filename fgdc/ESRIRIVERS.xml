@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ESRI, Inc.</origin>
+        <pubdate>1999</pubdate>
+        <title>World Rivers</title>
+        <edition>1</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esririvers</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>ESRI, Inc</origin>
+            <pubdate>1999</pubdate>
+            <title>ESRI Data and Maps</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Layer contains major rivers of the world.</abstract>
+      <purpose>Dataset was developed for use by GIS software in global or continental scale applications.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1999</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-164.624557</westbc>
+        <eastbc>161.065826</eastbc>
+        <northbc>72.234184</northbc>
+        <southbc>-36.904354</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWater</themekey>
+      </theme>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>rivers</themekey>
+        <themekey>streams</themekey>
+        <themekey>hydrography</themekey>
+      </theme>
+    </keywords>
+    <accconst>Data is licensed to Harvard University affiliates only.  Copyright held by ESRI, Inc.</accconst>
+    <useconst>Must be attributed to ESRI, Inc., Redlands, CA</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI, Inc</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <city>Redlands</city>
+          <state>CA</state>
+          <country>USA</country>
+        </cntaddr>
+        <cntinst>www.esri.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Environmental Research Systems Institute, Redlands, CA</datacred>
+    <secinfo>
+      <secsys>none</secsys>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attribute accuracy report not available</attraccr>
+    </attracc>
+    <logic>Logical consistency test descriptions not available</logic>
+    <complete>Layer contains major rivers.  Smaller rivers are not included</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Positional accuracy report not available</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Positional accuracy report not available</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ESRI</origin>
+            <pubdate>1999</pubdate>
+            <title>ArcWorld</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>3,000,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ESRI</origin>
+            <pubdate>1999</pubdate>
+            <title>ArcWorld</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>25,000,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+      </srcinfo>
+      <procstep>
+        <procdesc>The World Rivers GeoDataset was generalized from ESRI's ArcWorld 1:3,000,000 and 1:25,000,000 databases. Names of rivers were added from the Rand McNally New International Atlas, the Times Atlas of the World, and the Digital Chart of the World.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <city>Redlands</city>
+              <state>CA</state>
+            </cntaddr>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>98</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>rivers</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of the River</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SYSTEM</attrlabl>
+        <attrdef>Drainage system to which the river belongs</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Libraries</cntorg>
+          <cntper>Geodesy Project</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Pusey Library</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+        </cntaddr>
+        <cntemail>geodesy.harvard.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>none</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <formspec>ESRI Shape file, compressed</formspec>
+          <filedec>Unzip</filedec>
+          <transize>0.033</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>geodesy.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>NONE</fees>
+      <ordering>download from geodesy.harvard.edu</ordering>
+    </stdorder>
+    <custom>none</custom>
+    <techpreq>Internet Explorer 4 or better</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20010618</metd>
+    <metrd>none</metrd>
+    <metfrd>none</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Geodesy Project</cntorg>
+          <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+          <city>REQUIRED: The city of the address.</city>
+          <state>REQUIRED: The state or province of the address.</state>
+          <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+        </cntaddr>
+        <cntvoice>495-3724</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>none</metac>
+    <metuc>none</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

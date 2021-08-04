@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esricanmjcities",
+  "dc_title_s": "Canada Major Cities",
+  "dc_description_s": "Canada Major Cities represents locations of the largest cities within Canada. The major cities are based on the Canadian Geographic Names Database from Natural Resources Canada.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRICANMJCITIES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRICANMJCITIES",
+  "layer_slug_s": "harvard-esricanmjcities",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2000-12-08T00:00:00Z",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Harvard Geospatial Library",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "point",
+    "major cities",
+    "ville"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_geom": "ENVELOPE(-135.051874, -52.729022, 62.453498, 42.300042)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

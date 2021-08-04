@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ch2000-l-c",
+  "dc_title_s": "China county boundary with 2000 population Census data from 9.5% Long Form data (Part C: Table L4-1 categories 172-324)",
+  "dc_description_s": "This polygon datalayer includes China county boundary with 2000 population Census data from 9.5% Long Form data. This layer is one (Part C) of seven layers (see also Parts A-B and D-G) covering the entire Long Form data; this layer covers Long Form table L4-1 categories 172-324: L4-1: Employed population by sex and two digits classification of industry and by region. [NOTE: Due to the high number of attributes, table L4-1 has been split into two separate datalayers; see also: China county boundary with 2000 population Census data from 9.5% Long Form data (Part B: Table L4-1 categories 1-172)]. This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//CH2000_L_C.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:CH2000_L_C",
+  "layer_slug_s": "harvard-ch2000-l-c",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-10-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+    "University of Michigan. China Data Center"
+  ],
+  "dc_publisher_s": [
+    "All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Census",
+    "Population Statistics",
+    "Industrial statistics",
+    "Employment (Economic theory)",
+    "Sex Statistics",
+    "Counties",
+    "Administrative and political divisions",
+    "society",
+    "economy",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census"
+  ],
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 6.318641)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990098986290203941"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-macon95-kymkt-zip",
+  "dc_title_s": "Kentucky ZIP Code Market Data, 1995, MaconUSA",
+  "dc_description_s": "This dataset is a polygon layer providing boundary and marketing data for 5-digit ZIP code areas for Kentucky, 1995. The marketing data set includes attributes covering: population growth, population age and sex distribution, household age, income, and wealth, Claritas Consumer CLOUT expenditure data for alcoholic beverages, women's footwear, attorneys, bicycles, and vehicle supplies, Claritas Financial CLOUT expenditure data on first mortgages greater than $150,000, bank credit cards, and life insurance, PRIZM household type (Elite Suburbs, Working Towns), and workforce employed by the private sector. Individual demographic and marketing datasets for all 50 states plus the District of Columbia at both the Census tract and ZIP code level were derived from MaconUSA's 'Maps and Data for Microsoft Office 95', published in 1996. State and county-level demographic and marketing layers were also derived from the 'Maps and data' dataset. Original dataset sources include: the Claritas Update, Claritas Financial CLOUT database, Claritas Consumer CLOUT database, the U.S. Bureau of Labor Statistics, the U.S. Census Bureau, various other federal, state, and local governmental agencies, and businesses.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//MACON95_KYMKT_ZIP.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:MACON95_KYMKT_ZIP",
+  "layer_slug_s": "harvard-macon95-kymkt-zip",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2010-07-21T00:00:00Z",
+  "dc_creator_sm": [
+    "MaconUSA (Firm)"
+  ],
+  "dc_publisher_s": [
+    "MaconUSA"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Zip codes",
+    "Boundaries",
+    "Marketing",
+    "Consumers",
+    "Purchasing power",
+    "Shopping",
+    "Income Statistics",
+    "Demography",
+    "Census",
+    "Population Statistics",
+    "Age distribution (Demography)",
+    "Sex distribution (Demography)",
+    "Households Statistics",
+    "boundaries",
+    "economy",
+    "society"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "solr_geom": "ENVELOPE(-89.424598, -81.965156, 39.1482, 36.497081)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990072976940203941"
+  ]
+}

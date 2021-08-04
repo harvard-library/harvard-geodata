@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnstedgeln",
+  "dc_title_s": "Edge of Pavement - City of Newton",
+  "dc_description_s": "This data layer depicts the edge of Newton's paved roads, whether public or private. GIS data provided to Newton by Boston Edison Co. (now known as NSTAR).",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNSTEDGELN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNSTEDGELN",
+  "layer_slug_s": "harvard-nwtnstedgeln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-10-09T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS",
+    "Boston Edison Co. (BECo.)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "planningCadastre",
+    "transportation",
+    "Municipal",
+    "Streets",
+    "Roads",
+    "Transportations"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_issued_s": "1993",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(-71.268124, -71.15746, 42.366801, 42.288182)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Newton GIS</origin>
+        <pubdate>1998?</pubdate>
+        <title>FEMA Floodplain Boundaries - City of Newton</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nwtnfemafldpy</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer shows the Federal Emergency Management Agency (FEMA) floodplain boundaries for Newton, Massachusetts.
+The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to the earths surface using the geographic projection and the decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+This layer will provide a basemap for layers related to real property, floodplain management, mitigation, and insurance activities as well as disaster and emergency planning.
+
+More advanced user applications may focus on urban planning, policy and management, public works, or utilities purposes (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.
+
+The FIRM is the basis for floodplain management, mitigation, and insurance activities for the National Flood Insurance Program (NFIP). Insurance applications include enforcement of the mandatory purchase requirement of the Flood Disaster Protection Act, which "requires the purchase of flood insurance by property owners who are being assisted by Federal programs or by Federally supervised, regulated, or insured agencies or institutions in the acquisition or improvement of land facilities located or to be located in identified areas having special flood hazards" (Section 2 (b) (4) of the 1973 Flood Disaster Protection Act). In addition to the identification of Special Flood Hazard Areas (SFHAs), the risk zones shown on the FIRMs are the basis for the establishment of premium rates for flood insurance coverage offered through the NFIP. Q3 Flood Data files convey certain key features from the existing hard copy FIRM. Edge-matching errors, overlaps and deficiencies in coverage, and similar problems are not corrected during digitizing or post-processing. The Q3 Flood Data files are intended to provide users with automated flood risk data that may be used to locate SFHAs.</purpose>
+      <supplinf>The City of Newton does not maintain this information.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1996</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.270496</westbc>
+        <eastbc>-71.156784</eastbc>
+        <northbc>42.367999</northbc>
+        <southbc>42.282877</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWater</themekey>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Insurance</themekey>
+        <themekey>Floodplain management</themekey>
+        <themekey>Flood control</themekey>
+      </theme>
+      <theme>
+        <themekt>LCAF</themekt>
+        <themekey>Federal Emergency Management Administration (FEMA)</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Newton</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational or non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Newton GIS</cntorg>
+        </cntorgp>
+        <cntpos>GIS Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Information Technology Department</address>
+          <address>City Hall  Room 107</address>
+          <address>1000 Commonwealth Avenue</address>
+          <city>Newton Center</city>
+          <state>MA</state>
+          <postal>02459-1400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-796-1180</cntvoice>
+        <cntvoice>617-796-1000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by City of Newton GIS.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc/>
+    <logic>For layers containing line or polygon features, Newton's data layers are "topologically clean". This was verified with Arc/Info software version 7.x in 1998 and is an ongoing part of data maintenance for the relevant data layers.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>Because of the source maps, the FEMA data are considerably less accurate than all of Newton's database.  This means that EXTREME CAUTION should be exercised when using this data set in conjunction with Newton data.  A quick comparison in one area, showed that prominent upland locations ("holes" in the FEMA floodplain) were off by about 75 feet when compared to the apparent comparable location on Newton's topographic contours.
+
+Edge-matching errors, overlaps and underlaps in coverage, and similar problems are not corrected during digitizing or scanning and vectorizing. The hardcopy FIRMs from which the vector Q3 Flood Data are extracted contain no horizontal control. The specifications for the horizontal control of Q3 Flood Data vector data are consistent with those required for mapping at the scale of 1:24,000. The horizontal controlling of these data is typically performed by fitting the vectors to a georeferenced raster 7.5-minute quadrangle file. The raster files generated by scanning the hardcopy FIRMs are not georeferenced. SFHA boundary information conveyed by Q3 Flood Data files was developed to overlay USGS 7.5-minute topographic maps at a scale of 1:24,000. Thus, Q3 Flood Data cannot be assumed to have an accuracy of better than 40 feet. Due to other limitations, FIA recommends that determinations using GIS technology and Q3 Flood Data generally be made only when structures are located 250 or more feet outside an SFHA boundary. In cases where the structure is within 250 feet of the SFHA or inside the SFHA, data such as the Base Flood Elevation (BFE) determined from a FIS flood profile and the surveyed lowest adjacent grade and/or lowest floor elevation should be used to make a determination.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Federal Emergency Management Agency (FEMA)</origin>
+            <pubdate>1996</pubdate>
+            <title>FEMA National Flood Insurance Program Q3 Flood Data for Middlesex County</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>FEMA Q3</srccitea>
+        <srccontr>Data were extracted from the FEMA National Flood Insurance Program Q3 Flood Data for Middlesex County.
+The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to the earths surface using the geographic projection and the decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This data set was extracted from the FEMA National Flood Insurance Rate Maps (FIRMs) Q3 Flood Data for Middlesex County.  The CD-ROM from FEMA was dated September 1996.
+The data were projected into Massachusetts state plane, mainland zone, and then the Newton portion was extracted using the Arc/Info "clip" command.  The clipping coverage was the city boundary.  Then, working in Arcedit, the sheet boundaries included in the data as an artifact of FEMA's automation process were deleted, as were the extra label points created by this edit.  The coverage polygon topology was then restored with the Arc "build" command.</procdesc>
+        <srcused>FEMA Q3</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Newton GIS</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200208</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <procdate>20021004</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>219</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000015</absres>
+            <ordres>0.000015</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Floodplain zones</enttypl>
+        <enttypd>ESRI Shapefile. Polygons represent floodplain zones.</enttypd>
+        <enttypds>ESRI, Newton GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NWTNFEMAFLDPY.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMA_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMA_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>5-digit State and County FIPS code</attrdef>
+        <attrdefs>National Institute of Standards &amp; Technology (NIST)</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+            <codesets>National Institute of Standards &amp; Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMUNITY</attrlabl>
+        <attrdef>Four-digit community id number assigned by FEMA</attrdef>
+        <attrdefs>FEMA Flood Insurance Rate Maps (FIRM)</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIRM_PANEL</attrlabl>
+        <attrdef>11-digit FIRM panel number found in the title block of each FIRM panel</attrdef>
+        <attrdefs>FEMA FIRM</attrdefs>
+        <attrdomv>
+          <udom>Alpha-numeric sequence based on FIPS &amp; FEMA</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QUAD</attrlabl>
+        <attrdef>USGS 7.5-minute quadrangle identifier</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Unique sequence based on latitude and longitude</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZN</attrlabl>
+        <attrdef>Flood hazard zone designation</attrdef>
+        <attrdefs>FEMA FIRM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AE</edomv>
+            <edomvd>An area inundated by 1% annual chance flooding, for which Base Flood Elevations (BFEs) have been determined</edomvd>
+            <edomvds>FEMA Special Flood Hazard Areas (SFHA) Zone Definitions</edomvds>
+          </edom>
+          <edom>
+            <edomv>X</edomv>
+            <edomvd>An area that is determined to be outside the 1% and 0.2% annual chance floodplains. 1% Annual Chance Flood Discharge Contained in Channel</edomvd>
+            <edomvds>SFHA Zone Definitions</edomvds>
+          </edom>
+          <edom>
+            <edomv>X500</edomv>
+            <edomvd>An area inundated by 0.2% annual chance flooding; an area inundated by 1% annual chance flooding with average depths of less than 1 foot or with drainage areas less than 1 square mile; or an area protected by levees from 1% annual chance flooding.</edomvd>
+            <edomvds>SFHA Zone Definitions</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FLOODWAY</attrlabl>
+        <attrdef>Channel, river or watercourse reserved for flood discharge.</attrdef>
+        <attrdefs>FEMA FIRM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COBRA</attrlabl>
+        <attrdef>Undeveloped Coastal Barrier Area</attrdef>
+        <attrdefs>FEMA FIRM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SFHA</attrlabl>
+        <attrdef>Indicates whether area is in/out of the SFHA (Special Flood Hazard Area)</attrdef>
+        <attrdefs>FEMA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>IN</edomv>
+            <edomvd>Area is in an SFHA</edomvd>
+            <edomvds>FEMA</edomvds>
+          </edom>
+          <edom>
+            <edomv>OUT</edomv>
+            <edomvd>Area is not in an SFHA</edomvd>
+            <edomvds>FEMA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SMBOL</attrlabl>
+        <attrdef>Polygon shade symbols for graphic output</attrdef>
+        <attrdefs>FEMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PANEL_TYP</attrlabl>
+        <attrdef>Representation of the FIRM panel type</attrdef>
+        <attrdefs>FEMA FIRM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ST_FIPS</attrlabl>
+        <attrdef>Two-digit State FIPS code</attrdef>
+        <attrdefs>NIST</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+            <codesets>National Institute of Standards &amp; Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CO_FIPS</attrlabl>
+        <attrdef>Three-digit County Fips code</attrdef>
+        <attrdefs>NIST</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+            <codesets>National Institute of Standards &amp; Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>Component of FIRM panel number (contains the State FIPS code)</attrdef>
+        <attrdefs>NIST</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+            <codesets>National Institute of Standards &amp; Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PCOMM</attrlabl>
+        <attrdef>FIRM Community/County Identifier</attrdef>
+        <attrdefs>FIRM</attrdefs>
+        <attrdomv>
+          <udom>Unique alpha-numeric sequence</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PANEL</attrlabl>
+        <attrdef>FIRM Panel number and suffix</attrdef>
+        <attrdefs>FEMA FIRM</attrdefs>
+        <attrdomv>
+          <udom>Unique sequence based on FEMA FIRM</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAT</attrlabl>
+        <attrdef>Original latitude (degrees) of 7.5-minute quadrangle</attrdef>
+        <attrdefs>USGS Quadrangle Index</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LONG_</attrlabl>
+        <attrdef>Original longitude (degrees) of 7.5-minute quadrangle</attrdef>
+        <attrdefs>USGS Quadrangle Index</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>QUAD_UNIT</attrlabl>
+        <attrdef>The alphanumeric map sheet identifier used by USGS, A1 through H8</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <udom>Unique numeric sequence</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NWTNFEMAFLDPY.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated feature length in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021017</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-295-12417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

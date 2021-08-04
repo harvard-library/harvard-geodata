@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri09usinstitut",
+  "dc_title_s": "U.S. Institutions : ESRI Data & Maps 2009",
+  "dc_description_s": "U.S. Institutions represents point locations within the United States for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI09USINSTITUT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI09USINSTITUT",
+  "layer_slug_s": "harvard-esri09usinstitut",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2010-07-01T00:00:00Z",
+  "dc_creator_sm": [
+    "Tele Atlas North America, Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Hospitals",
+    "Medical centers",
+    "School facilities",
+    "Religious facilities",
+    "Municipal buildings",
+    "Cemeteries",
+    "structure",
+    "point",
+    "institutions",
+    "hospitals",
+    "educational institutions",
+    "religious institutions",
+    "government centers",
+    "cemeteries"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2009-06-01",
+  "dct_temporal_sm": [
+    "2009",
+    "2008"
+  ],
+  "solr_geom": "ENVELOPE(-165.450122, -65.91993, 71.292682, 17.996208)",
+  "solr_year_i": 2009,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

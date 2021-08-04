@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-gbhgis-ew1921-admcounties",
+  "dc_title_s": "Administrative Counties of England and Wales 1921",
+  "dc_description_s": "These are digital boundaries for the system of counties essentially created by the 1889 Local Government Act and continuing to exist until 1974. Their initial primary focus was the administration of education. During the twentieth century, they can be treated as aggregates of local government districts, although note that administratively County Boroughs were independent of the counties they were geographically part of. This file represents the system as it was used to report the 1921 Census of Population, and does not separately identify County Boroughs.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//GBHGIS_EW1921_ADMCOUNTIES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:GBHGIS_EW1921_ADMCOUNTIES",
+  "layer_slug_s": "harvard-gbhgis-ew1921-admcounties",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2020-03-04T00:00:00Z",
+  "dc_creator_sm": [
+    "Great Britain Historical Geographical Information System",
+    "Southall, Humphrey",
+    "Aucott, Paula"
+  ],
+  "dc_publisher_s": [
+    "University of Portsmouth"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Counties",
+    "boundaries",
+    "history",
+    "Administrative units",
+    "Administrative Counties"
+  ],
+  "dct_spatial_sm": [
+    "Great Britain"
+  ],
+  "dct_issued_s": "2009-09-30",
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "solr_geom": "ENVELOPE(-6.983857, 2.076794, 55.811185, 49.881199)",
+  "solr_year_i": 1921,
+  "harvard_collectionID_sm": [
+    "15033013"
+  ]
+}

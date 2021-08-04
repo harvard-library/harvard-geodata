@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML InfoMap (Firm)</origin>
+        <origin>Election Commission of India</origin>
+        <pubdate>2008</pubdate>
+        <title>Meghalaya, India : State Assembly Constituency Boundaries and Election Data, 1988-2003</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>New Delhi</pubplace>
+          <publish>ML InfoMap Pvt. Ltd.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-indiapoll-meghalaya</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer shows state Legislative Assembly constituency boundaries and data relating to the past four Assembly elections (1988, 1993, 1998, 2003) for the State of Meghalaya, India.  Includes attribute data on election parties, candidates, voters, and results.
+
+This layer is part of the PollMap of India dataset published by ML InfoMap which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past four national elections for each State of India. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of 
+India, Election Commission, etc. Scale 1:1,000,000.</abstract>
+      <purpose>This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties.   
+
+These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>1988</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1993</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1998</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2003</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>89.860970</westbc>
+        <eastbc>92.811195</eastbc>
+        <northbc>26.100006</northbc>
+        <southbc>25.023712</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Vidhan Sabha</themekey>
+        <themekey>Elections</themekey>
+        <themekey>Election districts</themekey>
+        <themekey>Voting</themekey>
+        <themekey>Political parties</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>India</placekey>
+        <placekey>Meghalaya</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ML InfoMap</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>124 - A Katwaria Sarai</address>
+          <city>New Delhi</city>
+          <postal>110 016</postal>
+          <country>India</country>
+        </cntaddr>
+        <cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+        <cntfax>+ 91 - 11 - 4168 8593</cntfax>
+        <cntemail>post@mlinfomap.com</cntemail>
+        <cntinst>www.mlinfomap.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>ArcCatalog 9.2 service pack 5</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1988</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of the Andhra Pradesh, Assam, Bihar, Gujarat, Himachal Pradesh, Karnataka, Madhya Pradesh, Maharashtra, Manipur, Orissa, Punjab, Rajasthan, Sikkim Tamil Nadu, Uttar Pradesh, Arunachal Pradesh, Goa, Daman &amp; Diu, and Pondicherry, 1984-85.</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+            <othercit>Vols. I-III.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1984</begdate>
+              <enddate>1985</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1984-85</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1988</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of the Haryana, Jammu &amp; Kashmir, Kerala, Mizoram, Nagaland and West Bengal, 1987 and detailed results of bye-elections held in 1986-1987.</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1986</begdate>
+              <enddate>1987</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1986-1987</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1989</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of Meghalaya and Tripura and on the Bye-Elections to the house of the people and Legislative Assemblies held in 1988</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1988</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1988</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1991</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of Anhra Pradesh, Arunachal Pradesh, Bihar Goa, Gujarat, Himichal Pradesh, Karnataka, Madhya Pradesh, Maharashtra, Manipur, Orissa, Rajasthan, Sikkim, Uttar Pradesh and Pondicherry, 1989-90, and Bye-Elections to the Legislative Assemblies held in 1989-90.</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+            <othercit>Vols. I-II</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1989</begdate>
+              <enddate>1990</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1989-90</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1990</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of Tamil Nadu, Mizoram and Nagaland and Bye-election to the Legislative Assembliesheld in 1989</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1989</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1989</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1992</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of Assam, Haryana, Kerala, Tamil Nadu, Uttar Pradesh, West Bengal and Pondicherry, 1991 and Bye-elections to the Legislative Assemblies held in 1991</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1991</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1991</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1993</pubdate>
+            <title>Report on the General election to the Legislative Assembly from Punjab State 1992</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1992</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI 1992</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>1995</pubdate>
+            <title>Report on the General Elections to the Legislative Assemblies of Delhi, Himachal Pradesh, Madhya Pradesh, Meghalya, Mizoram, Nagaland, Rajasthan, Tripura and Uttar Pradesh held in 1993 and Bye-elections to the Legislative Assemblies in 1993-94</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1993</begdate>
+              <enddate>1994</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>EDI 1993-94</srccitea>
+        <srccontr>Statistical</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ML InfoMap (Firm)</origin>
+            <pubdate>2008</pubdate>
+            <title>PollMap</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+            <othercit>IndiaMap includes socio-demographic and economic Census data for 2001 at the State, District, Sub-District, and Town levels.</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>ML InfoMap (Firm)</origin>
+                <pubdate>2008</pubdate>
+                <title>India GIS data in ESRI SHP format</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                  <pubplace>New Delhi</pubplace>
+                  <publish>ML InfoMap Pvt. Ltd.</publish>
+                </pubinfo>
+                <othercit>1 computer optical disc ; 4 3/4 in.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2001</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>PollMap</srccitea>
+        <srccontr>Dataset source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data was downloaded from the vendor's server as shape files with ZIP compression.  The files were uncompressed using WinZip and loaded into SDE using ArcCatalog 9.2 service pack 5.</procdesc>
+        <srcused>PollMap</srcused>
+        <procdate>200805</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>60</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>INDIAPOLL_MEGHALAYA</enttypl>
+        <enttypd>Assembly Elections of India : Meghalaya</enttypd>
+        <enttypds>ML Infomap</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MEGHA_ID</attrlabl>
+        <attrdef>Unique Identification Number</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Constituency name</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE_UT</attrlabl>
+        <attrdef>State or Union Territory</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CATEGORY</attrlabl>
+        <attrdef>Whether the Constituency belongs to SC (Scheduled Caste)/ ST (Schedule Tribe) or General</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ELCT_88</attrlabl>
+        <attrdef>Male electorates during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ELCT_88</attrlabl>
+        <attrdef>Female electorates during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_ELCT_88</attrlabl>
+        <attrdef>Total electorates during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_VT_PL_88</attrlabl>
+        <attrdef>Male votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_VT_PL_88</attrlabl>
+        <attrdef>Female votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_VT_PL_88</attrlabl>
+        <attrdef>Total votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VL_V_PL_88</attrlabl>
+        <attrdef>Valid vote polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VT_REJ_88</attrlabl>
+        <attrdef>Vote rejected during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_P_ST_88</attrlabl>
+        <attrdef>Number of polling stations during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_V_PLD_88</attrlabl>
+        <attrdef>Percentage votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_V_REJ_88</attrlabl>
+        <attrdef>Percentage votes rejected during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WN_PRTY_88</attrlabl>
+        <attrdef>Winner party during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AHL(A)</edomv>
+            <edomvd>ALL PARTY HILL LEADERS CONFERENCE (ARMISON MARAK GROUP)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPD</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPU</edomv>
+            <edomvd>HILL PEOPLE UNION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDC</edomv>
+            <edomvd>PUBLIC DEMANDS IMPLEMENTATION CONVENTION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WN_V_PL_88</attrlabl>
+        <attrdef>Winner party votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_WN_VT_88</attrlabl>
+        <attrdef>Percentage winner party votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SND_PRT_88</attrlabl>
+        <attrdef>Second party during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AHL(A)</edomv>
+            <edomvd>ALL PARTY HILL LEADERS CONFERENCE (ARMISON MARAK GROUP)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPD</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDC</edomv>
+            <edomvd>PUBLIC DEMANDS IMPLEMENTATION CONVENTION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_P_V_88</attrlabl>
+        <attrdef>Second party votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SND_V_88</attrlabl>
+        <attrdef>Percentage second party votes polled during the election year 1988</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ELCT_93</attrlabl>
+        <attrdef>Male electorates during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ELCT_93</attrlabl>
+        <attrdef>Female electorates during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_ELCT_93</attrlabl>
+        <attrdef>Total electorates during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_VT_PL_93</attrlabl>
+        <attrdef>Male votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_VT_PL_93</attrlabl>
+        <attrdef>Female votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_VT_PL_93</attrlabl>
+        <attrdef>Total votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VL_V_PL_93</attrlabl>
+        <attrdef>Valid vote polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VT_REJ_93</attrlabl>
+        <attrdef>Vote rejected during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_P_ST_93</attrlabl>
+        <attrdef>Number of polling stations during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_V_PLD_93</attrlabl>
+        <attrdef>Percentage votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_V_REJ_93</attrlabl>
+        <attrdef>Percentage votes rejected during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WN_PRTY_93</attrlabl>
+        <attrdef>Winner party during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AHLC(AM)</edomv>
+            <edomvd>ALL PARTY HILL LEADERS CONFERENCE (ARMISON MARAK GROUP)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPSD</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPU</edomv>
+            <edomvd>HILL PEOPLE UNION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>MPP</edomv>
+            <edomvd>MAHABHARAT PEOPLE'S PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDI</edomv>
+            <edomvd>PUBLIC DEMANDS IMPLEMENTATION CONVENTION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WN_V_PL_93</attrlabl>
+        <attrdef>Winner party votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_WN_VT_93</attrlabl>
+        <attrdef>Percentage winner party votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SND_PRT_93</attrlabl>
+        <attrdef>Second party during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AHLC(AM)</edomv>
+            <edomvd>ALL PARTY HILL LEADERS CONFERENCE (ARMISON MARAK GROUP)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPSD</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPU</edomv>
+            <edomvd>HILL PEOPLE UNION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>MPP</edomv>
+            <edomvd>MAHABHARAT PEOPLE'S PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_P_V_93</attrlabl>
+        <attrdef>Second party votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SND_V_93</attrlabl>
+        <attrdef>Percentage second party votes polled during the election year 1993</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ELCT_98</attrlabl>
+        <attrdef>Male electorates during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ELCT_98</attrlabl>
+        <attrdef>Female electorates during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ELC_98</attrlabl>
+        <attrdef>Total electorates during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_VOT_98</attrlabl>
+        <attrdef>Male votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_VOT_98</attrlabl>
+        <attrdef>Female votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VOT_98</attrlabl>
+        <attrdef>Total votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_V_PLD_98</attrlabl>
+        <attrdef>Percentage votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VLD_VT_98</attrlabl>
+        <attrdef>Valid votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VT_REJ_98</attrlabl>
+        <attrdef>Vote rejected during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_VT_RJ_98</attrlabl>
+        <attrdef>Percentage votes rejected during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MIS_VT_98</attrlabl>
+        <attrdef>Missing votes during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VT_TEN_98</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>N_P_ST_98</attrlabl>
+        <attrdef>Number of polling stations during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PS_AVG_98</attrlabl>
+        <attrdef>Average of polling stations during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRGN_1_2_9</attrlabl>
+        <attrdef>Vote margin between the first and the second candidates during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_M_1_2_98</attrlabl>
+        <attrdef>Percentage of vote margin between the first and the second candidates during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WN_CND_98</attrlabl>
+        <attrdef>Winner candidate name during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_CND_98</attrlabl>
+        <attrdef>Name of the candidate who appeared second during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRD_CND_98</attrlabl>
+        <attrdef>Name of the third party candidate during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FRT_CND_98</attrlabl>
+        <attrdef>Name of the fourth party candidate during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WN_PRT_98</attrlabl>
+        <attrdef>Winner party name during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>GNC</edomv>
+            <edomvd>GARO NATIONAL COUNCIL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPDP</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDM</edomv>
+            <edomvd>PEOPLE'S DEMOCRATIC MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>UDP</edomv>
+            <edomvd>UNITED DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>UPD</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_PRT_98</attrlabl>
+        <attrdef>Second party during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>GNC</edomv>
+            <edomvd>GARO NATIONAL COUNCIL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPDP</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>IN</edomv>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDM</edomv>
+            <edomvd>PEOPLE'S DEMOCRATIC MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>UDP</edomv>
+            <edomvd>UNITED DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRD_PRT_98</attrlabl>
+        <attrdef>Third party during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>GNC</edomv>
+            <edomvd>GARO NATIONAL COUNCIL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPDP</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HSP</edomv>
+            <edomvd>HINDU SAMAJ PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDM</edomv>
+            <edomvd>PEOPLE'S DEMOCRATIC MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RJD</edomv>
+            <edomvd>RASHTRIYA JANATA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>UDP</edomv>
+            <edomvd>UNITED DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FRT_PRT_98</attrlabl>
+        <attrdef>Fourth party during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>GNC</edomv>
+            <edomvd>GARO NATIONAL COUNCIL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPDP</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HSP</edomv>
+            <edomvd>HINDU SAMAJ PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDM</edomv>
+            <edomvd>PEOPLE'S DEMOCRATIC MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RJD</edomv>
+            <edomvd>RASHTRIYA JANATA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>SP</edomv>
+            <edomvd>SARVODAYA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>UDP</edomv>
+            <edomvd>UNITED DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>W_PT_VT_98</attrlabl>
+        <attrdef>Winner votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_PT_VT_98</attrlabl>
+        <attrdef>Second party votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_PT_VT_98</attrlabl>
+        <attrdef>Third party vote during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_PT_VT_98</attrlabl>
+        <attrdef>Fourth party vote during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_WN_VT_98</attrlabl>
+        <attrdef>Percentage winner party votes polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SN_VT_98</attrlabl>
+        <attrdef>Percentage second party votes during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_TD_VT_98</attrlabl>
+        <attrdef>Percentage third party vote polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_F_VT_98</attrlabl>
+        <attrdef>Percentage fourth party vote polled during the election year 1998</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ELCT_03</attrlabl>
+        <attrdef>Male electorates during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ELCT_03</attrlabl>
+        <attrdef>Female electorates during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_ELCT_03</attrlabl>
+        <attrdef>Total electorates during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_V_PL_03</attrlabl>
+        <attrdef>Male votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_V_PL_03</attrlabl>
+        <attrdef>Female votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_V_PL_03</attrlabl>
+        <attrdef>Total votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VL_V_P_03</attrlabl>
+        <attrdef>Valid votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VT_REJ_03</attrlabl>
+        <attrdef>Vote rejected during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_P_ST_03</attrlabl>
+        <attrdef>Number of polling stations during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WN_PRT_03</attrlabl>
+        <attrdef>Winner party name during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPDP</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>KHNAM</edomv>
+            <edomvd>KHUN HYNNIEUTRIP NATIONAL AWAKANING MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>MDP</edomv>
+            <edomvd>MEGHALAYA DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>NCP</edomv>
+            <edomvd>NATIONALIST CONGRESS PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>UDP</edomv>
+            <edomvd>UNITED DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WN_V_PL_03</attrlabl>
+        <attrdef>Winner party votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_WN_VT_03</attrlabl>
+        <attrdef>Percentage winner party votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SND_PRT_03</attrlabl>
+        <attrdef>Second party during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>GNC</edomv>
+            <edomvd>GARO NATIONAL COUNCIL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>HPDP</edomv>
+            <edomvd>HILL STATE PEOPLE'S DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>KHNAM</edomv>
+            <edomvd>KHUN HYNNIEUTRIP NATIONAL AWAKANING MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>MDP</edomv>
+            <edomvd>MEGHALAYA DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>NCP</edomv>
+            <edomvd>NATIONALIST CONGRESS PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDM</edomv>
+            <edomvd>PEOPLE'S DEMOCRATIC MOVEMENT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>UDP</edomv>
+            <edomvd>UNITED DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_P_V_03</attrlabl>
+        <attrdef>Second party votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SND_V_03</attrlabl>
+        <attrdef>Percentage second party votes polled during the election year 2003</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080714</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

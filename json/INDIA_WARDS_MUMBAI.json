@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-india-wards-mumbai",
+  "dc_title_s": "City Wards, Mumbai, India, 2001",
+  "dc_description_s": "This datalayer contains city ward boundaries linked to Census demographics for Mumbai, India, 2001. Includes city ward socio-demographic and economic Census attribute data such as total population, population by sex, rural/urban populations, household, literacy, and employment statistics. This layer is part of the Wards of Indian Cities dataset series which includes socio-demographic and economic Census data for 2001 for selected Indian cities at the City Ward level.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//INDIA_WARDS_MUMBAI.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:INDIA_WARDS_MUMBAI",
+  "layer_slug_s": "harvard-india-wards-mumbai",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2011-11-15T00:00:00Z",
+  "dc_creator_sm": [
+    "ML InfoMap (Firm)"
+  ],
+  "dc_publisher_s": [
+    "ML InfoMap Pvt. Ltd."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Administrative and political divisions",
+    "Census",
+    "Demography",
+    "Population Statistics",
+    "Sex Statistics",
+    "Housing Statistics",
+    "Labor supply",
+    "Literacy",
+    "Caste",
+    "boundaries",
+    "society",
+    "economy"
+  ],
+  "dct_spatial_sm": [
+    "India",
+    "Mumbai"
+  ],
+  "dct_issued_s": "2010",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_geom": "ENVELOPE(72.776718, 72.979569, 19.31164, 18.887279)",
+  "solr_year_i": 2001,
+  "harvard_collectionID_sm": [
+    "990128643920203941"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-camhydrop",
+  "dc_title_s": "Cambridge Hydrography Polygons",
+  "dc_description_s": "This data layer polygon coverage depicts hydrographic features (ponds, streams, reservoirs, lakes, swamps) in the City of Cambridge, Massachusetts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//CAMHYDROP.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:CAMHYDROP",
+  "layer_slug_s": "harvard-camhydrop",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2003-09-18T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Cambridge Geographic Information System (CGIS)"
+  ],
+  "dc_publisher_s": [
+    "City of Cambridge"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "Municipal",
+    "Water",
+    "Hydrography",
+    "Rivers",
+    "Reservoirs",
+    "Swamps",
+    "Hydrography Polygons"
+  ],
+  "dct_spatial_sm": [
+    "Cambridge",
+    "Massachusetts"
+  ],
+  "dct_issued_s": "1999",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_geom": "ENVELOPE(-71.158292, -71.062134, 42.404709, 42.351015)",
+  "solr_year_i": 1997,
+  "harvard_collectionID_sm": [
+    "990083556040203941"
+  ]
+}

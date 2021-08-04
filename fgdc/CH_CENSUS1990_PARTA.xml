@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2005</pubdate>
+        <title>China historical 1990 county population census data - Part A</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ch-census1990-parta</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2005</pubdate>
+            <title>Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer includes China county boundaries with 1990 population census data.  It is one (Part A) of two layers containing the entire 1990 population census data.
+
+The 1990 administrative maps were primarily based on the "The Administrative Maps of the People's Republic of China," published by China Map Press, and some other yearly administrative maps.
+
+This datalayer is part of the Historical county population census data with maps: 1953, 1964, 1982, 1990, 2000 data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2005).
+
+The historical county population Census data include population Census data for China at county level for 1953, 1964, 1980, 1990, and 2000, which are integrated with associated county GIS maps.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1990</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>73.446960</westbc>
+        <eastbc>135.085831</eastbc>
+        <northbc>53.557926</northbc>
+        <southbc>6.318641</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Vital statistics</themekey>
+        <themekey>Education Statistics</themekey>
+        <themekey>Industrial statistics</themekey>
+        <themekey>Housing Statistics</themekey>
+        <themekey>Economic statistics</themekey>
+        <themekey>Occupations</themekey>
+        <themekey>Age distribution (Demography)</themekey>
+        <themekey>Sex Statistics</themekey>
+        <themekey>Marital status Statistics</themekey>
+        <themekey>Childbirth Statistics</themekey>
+        <themekey>Mortality Statistics</themekey>
+        <themekey>Counties</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1990</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>No part of this data product is allowed to be reproduced or re-distributed to any other parties without permission.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>University of Michigan</address>
+          <address>1080 S. University</address>
+          <city>Ann Arbor</city>
+          <state>MI</state>
+          <postal>48109</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>734-647-9610</cntvoice>
+        <cntfax>734-763-0335</cntfax>
+        <cntemail>chinadata@umich.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2005</pubdate>
+        <title>China historical 1990 county population census data - Part B</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2005</pubdate>
+            <title>Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2005</pubdate>
+        <title>China historical 1990 province boundaries</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2005</pubdate>
+            <title>Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>There are no population attribute values for Taiwan, Hong Kong, Macau, South China Sea islands, and for some counties of China.  This is consistent with the original data source.</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Zhonghua di tu xue she.</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Administrative Maps of the People's Republic of China</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>[Shanghai, China]</pubplace>
+              <publish>China Map Press</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>Unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Admin maps</srccitea>
+        <srccontr>Boundary data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2005</pubdate>
+            <title>Historical county population census data with maps : 1953, 1964, 1982, 1990, 2000</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: china90a.
+
+Distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2005</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shape</srccitea>
+        <srccontr>Original source of datalayer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was downloaded from the CD and opened in ArcMap 9.1.  The projection was then defined in ArcMap to Krasovsky_1940, as stated in the "readme.htm" file that was included on the CD.  The layer was then imported to an ArcSDE 9.1 geodatabase via the command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200606</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3293</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CH_CENSUS1990_PARTA</enttypl>
+        <enttypd>County boundary with 1990 population Census data (Part A)</enttypd>
+        <enttypds>China Data Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>PROVGB</attrlabl>
+        <attrdef>Province GB (Guo Biao -- National Standard) Code</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CITYGB</attrlabl>
+        <attrdef>Prefecture City GB (Guo Biao -- National Standard) Code</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTYGB</attrlabl>
+        <attrdef>County GB (Guo Biao -- National Standard) Code</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>EPROV</attrlabl>
+        <attrdef>Province name in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ECNTY</attrlabl>
+        <attrdef>County name in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>A90001</attrlabl>
+        <attrdef>The number of households (Unit: household)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90002</attrlabl>
+        <attrdef>Total population (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90003</attrlabl>
+        <attrdef>Total male population (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90004</attrlabl>
+        <attrdef>Total female population (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90005</attrlabl>
+        <attrdef>Total population of households (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90006</attrlabl>
+        <attrdef>Total agriculture population (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90007</attrlabl>
+        <attrdef>Total male population of urban city (the first measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90008</attrlabl>
+        <attrdef>Total female population of urban city (the first measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90009</attrlabl>
+        <attrdef>Total male population of all towns (the first measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90010</attrlabl>
+        <attrdef>Total female population of all towns (the first measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90011</attrlabl>
+        <attrdef>Total male population of all townships (the first measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90012</attrlabl>
+        <attrdef>Total female population of all townships (the first measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90013</attrlabl>
+        <attrdef>Total male population of urban city (the second measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90014</attrlabl>
+        <attrdef>Total female population of urban city (the second measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90015</attrlabl>
+        <attrdef>Total male population of all street committees/Juweihui) (the second measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90016</attrlabl>
+        <attrdef>Total female population of all street committees/Juweihui (the second measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90017</attrlabl>
+        <attrdef>Total male population of all village committees/Xiangweihui (the second measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90018</attrlabl>
+        <attrdef>Total female population of all village committees/Xiangweihui (the second measurement) (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90019</attrlabl>
+        <attrdef>The male population aged 0-4 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90020</attrlabl>
+        <attrdef>The female population aged 0-4 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90021</attrlabl>
+        <attrdef>The male population aged 5-9 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90022</attrlabl>
+        <attrdef>The female population aged 5-9 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90023</attrlabl>
+        <attrdef>The male population aged 10-14 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90024</attrlabl>
+        <attrdef>The female population aged 10-14 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90025</attrlabl>
+        <attrdef>The male population aged 15-19 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90026</attrlabl>
+        <attrdef>The female population aged 15-19 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90027</attrlabl>
+        <attrdef>The male population aged 20-24 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90028</attrlabl>
+        <attrdef>The female population aged 20-24 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90029</attrlabl>
+        <attrdef>The male population aged 25-29 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90030</attrlabl>
+        <attrdef>The female population aged 25-29 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90031</attrlabl>
+        <attrdef>The male population aged 30-34 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90032</attrlabl>
+        <attrdef>The female population aged 30-34 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90033</attrlabl>
+        <attrdef>The male population aged 35-39 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90034</attrlabl>
+        <attrdef>The female population aged 35-39 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90035</attrlabl>
+        <attrdef>The male population aged 40-44 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90036</attrlabl>
+        <attrdef>The female population aged 40-44 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90037</attrlabl>
+        <attrdef>The male population aged 45-49 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90038</attrlabl>
+        <attrdef>The female population aged 45-49 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90039</attrlabl>
+        <attrdef>The male population aged 50-54 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90040</attrlabl>
+        <attrdef>The female population aged 50-54 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90041</attrlabl>
+        <attrdef>The male population aged 55-59 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90042</attrlabl>
+        <attrdef>The female population aged 55-59 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90043</attrlabl>
+        <attrdef>The male population aged 60-64 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90044</attrlabl>
+        <attrdef>The female population aged 60-64 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90045</attrlabl>
+        <attrdef>The male population aged 65-69 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90046</attrlabl>
+        <attrdef>The female population aged 65-69 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90047</attrlabl>
+        <attrdef>The male population aged 70-74 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90048</attrlabl>
+        <attrdef>The female population aged 70-74 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90049</attrlabl>
+        <attrdef>The male population aged 75-79 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90050</attrlabl>
+        <attrdef>The female population aged 75-79 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90051</attrlabl>
+        <attrdef>The male population aged 80-84 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90052</attrlabl>
+        <attrdef>The female population aged 80-84 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90053</attrlabl>
+        <attrdef>The male population aged 85-89 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90054</attrlabl>
+        <attrdef>The female population aged 85-89 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90055</attrlabl>
+        <attrdef>The male population aged 90-94 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90056</attrlabl>
+        <attrdef>The female population aged 90-94 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90057</attrlabl>
+        <attrdef>The male population aged 95-99 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90058</attrlabl>
+        <attrdef>The female population aged 95-99 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90059</attrlabl>
+        <attrdef>The male population aged over 100 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90060</attrlabl>
+        <attrdef>The female population aged above 100 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90061</attrlabl>
+        <attrdef>The male population aged 6 and above (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90062</attrlabl>
+        <attrdef>The female population aged 6 and above (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90063</attrlabl>
+        <attrdef>The male population with college degree (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90064</attrlabl>
+        <attrdef>The female population with college degree (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90065</attrlabl>
+        <attrdef>The male population with junior college degree (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90066</attrlabl>
+        <attrdef>The female population with junior college degree (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90067</attrlabl>
+        <attrdef>The male population with specialized secondary school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90068</attrlabl>
+        <attrdef>The female population with specialized secondary school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90069</attrlabl>
+        <attrdef>The male population with high school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90070</attrlabl>
+        <attrdef>The female population with high school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90071</attrlabl>
+        <attrdef>The male population with middle school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90072</attrlabl>
+        <attrdef>The female population with middle school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90073</attrlabl>
+        <attrdef>The male population with primary school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90074</attrlabl>
+        <attrdef>The female population with primary school education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90075</attrlabl>
+        <attrdef>The male population of illiterate (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90076</attrlabl>
+        <attrdef>The female population of illiterate (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90077</attrlabl>
+        <attrdef>The male population aged 15 and above (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90078</attrlabl>
+        <attrdef>The female population aged 15 and above (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90079</attrlabl>
+        <attrdef>The illiterate or semi-literate men aged 15 and above (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90080</attrlabl>
+        <attrdef>The illiterate or semi-literate women aged 15 and above (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90081</attrlabl>
+        <attrdef>Total employment (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90082</attrlabl>
+        <attrdef>Professional/Technical personnel (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90083</attrlabl>
+        <attrdef>Administrators for government agencies, political parties, social organizations and enterprises (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90084</attrlabl>
+        <attrdef>Staffs in offices (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90085</attrlabl>
+        <attrdef>Staffs in commerce (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90086</attrlabl>
+        <attrdef>Public service workers (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90087</attrlabl>
+        <attrdef>Workers in farming, forestry, animal husbandry and fishery (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90088</attrlabl>
+        <attrdef>Workers in production and transportation (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90089</attrlabl>
+        <attrdef>Other workers not categorized (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90090</attrlabl>
+        <attrdef>Boys in schools (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90091</attrlabl>
+        <attrdef>Girls in schools (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90092</attrlabl>
+        <attrdef>Male population stayed at home for housework (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90093</attrlabl>
+        <attrdef>Female population stayed at home for housework (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90094</attrlabl>
+        <attrdef>Male population waiting for admission by schools (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90095</attrlabl>
+        <attrdef>Male population waiting for admission by schools (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90096</attrlabl>
+        <attrdef>Unemployed men looking for jobs (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90097</attrlabl>
+        <attrdef>Unemployed women looking for jobs (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90098</attrlabl>
+        <attrdef>Male population retired (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90099</attrlabl>
+        <attrdef>Female population retired (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90100</attrlabl>
+        <attrdef>Disabled men (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90101</attrlabl>
+        <attrdef>Disabled women (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90102</attrlabl>
+        <attrdef>Other male population (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90103</attrlabl>
+        <attrdef>Other female population (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90104</attrlabl>
+        <attrdef>Unmarried men (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90105</attrlabl>
+        <attrdef>Unmarried women (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90106</attrlabl>
+        <attrdef>Married men (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90107</attrlabl>
+        <attrdef>Married women (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90108</attrlabl>
+        <attrdef>Widowed men (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90109</attrlabl>
+        <attrdef>Widowed women (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90110</attrlabl>
+        <attrdef>Divorced men (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90111</attrlabl>
+        <attrdef>Divorced women (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90112</attrlabl>
+        <attrdef>Boys born during the first half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90113</attrlabl>
+        <attrdef>Girls born during the first half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90114</attrlabl>
+        <attrdef>Boys born during the second half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90115</attrlabl>
+        <attrdef>Girls born during the second half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90116</attrlabl>
+        <attrdef>Boys born during the first half of 1990 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90117</attrlabl>
+        <attrdef>Girls born during the first half of 1990 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90118</attrlabl>
+        <attrdef>Women aged 15-64 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90119</attrlabl>
+        <attrdef>The average number of children born alive of each woman aged 15-64 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90120</attrlabl>
+        <attrdef>The average number of surviving children of each woman aged 15-64 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90121</attrlabl>
+        <attrdef>The male population died during the first half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90122</attrlabl>
+        <attrdef>The female population died during the first half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90123</attrlabl>
+        <attrdef>The male population died during the second half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90124</attrlabl>
+        <attrdef>The female population died during the second half of 1989 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90125</attrlabl>
+        <attrdef>The male population died during the first half of 1990 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90126</attrlabl>
+        <attrdef>The female population died during the first half of 1990 (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90127</attrlabl>
+        <attrdef>The immigration from the jie dao of other cities or counties of same province (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90128</attrlabl>
+        <attrdef>The immigration from the towns of other cities or counties of same province (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90129</attrlabl>
+        <attrdef>The immigration from the townships of other cities or counties of same province (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90130</attrlabl>
+        <attrdef>The immigration from the jie dao of other provinces (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90131</attrlabl>
+        <attrdef>The immigration from the towns of other provinces (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90132</attrlabl>
+        <attrdef>The immigration from the townships of other provinces (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90133</attrlabl>
+        <attrdef>The population by street committee in counties (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90134</attrlabl>
+        <attrdef>The population by village committee in counties (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90135</attrlabl>
+        <attrdef>Other population in towns not counted by street committee or village committee (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90136</attrlabl>
+        <attrdef>The employment in farming (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90137</attrlabl>
+        <attrdef>The employment in forestry (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90138</attrlabl>
+        <attrdef>The employment in animal husbandry (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90139</attrlabl>
+        <attrdef>The employment in fishery (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90140</attrlabl>
+        <attrdef>The employment in the water conservancy industry (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90141</attrlabl>
+        <attrdef>The employment in the service sector for farming, forestry, animal husbandry, fishery and water conservancy (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90142</attrlabl>
+        <attrdef>The employment in coal mining and dressing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90143</attrlabl>
+        <attrdef>The employment in petroleum and natural gas extraction (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90144</attrlabl>
+        <attrdef>The employment in ferrous ore mining and dressing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90145</attrlabl>
+        <attrdef>The employment in non-ferrous ore mining and dressing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90146</attrlabl>
+        <attrdef>The employment in building materials and other non-metallic ore mining and dressing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90147</attrlabl>
+        <attrdef>The employment in salt mining (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90148</attrlabl>
+        <attrdef>The employment in other ore mining and dressing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90149</attrlabl>
+        <attrdef>The employment in timber and bamboo logging and transportation (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90150</attrlabl>
+        <attrdef>The employment in production and supply of tap water (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90151</attrlabl>
+        <attrdef>The employment in food manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90152</attrlabl>
+        <attrdef>The employment in beverage manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90153</attrlabl>
+        <attrdef>The employment in tobacco processing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90154</attrlabl>
+        <attrdef>The employment in fodder (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90155</attrlabl>
+        <attrdef>The employment in textile (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90156</attrlabl>
+        <attrdef>The employment in sewing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90157</attrlabl>
+        <attrdef>The employment in leather, fur and its products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90158</attrlabl>
+        <attrdef>The employment in timber processing and bamboo, cane, coir and grass products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90159</attrlabl>
+        <attrdef>The employment in furniture manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90160</attrlabl>
+        <attrdef>The employment in paper-making, paper products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90161</attrlabl>
+        <attrdef>The employment in printing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90162</attrlabl>
+        <attrdef>The employment in cultural goods and sporting goods manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90163</attrlabl>
+        <attrdef>The employment in art and craft goods manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90164</attrlabl>
+        <attrdef>The employment in the production and supply of electric power, vapor and hot water (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90165</attrlabl>
+        <attrdef>The employment in the petroleum refining industry (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90166</attrlabl>
+        <attrdef>The employment in coking coal, coal gas and coal products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90167</attrlabl>
+        <attrdef>The employment in chemistry (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90168</attrlabl>
+        <attrdef>The employment in pharmaceutical manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90169</attrlabl>
+        <attrdef>The employment in chemical fiber (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90170</attrlabl>
+        <attrdef>The employment in rubber products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90171</attrlabl>
+        <attrdef>The employment in plastic products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90172</attrlabl>
+        <attrdef>The employment in building materials and other non-metallic ore products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90173</attrlabl>
+        <attrdef>The employment in the industry of ferrous metal melting and rolling (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90174</attrlabl>
+        <attrdef>The employment in non-ferrous metal melting and rolling (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90175</attrlabl>
+        <attrdef>The employment in metalwork manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90176</attrlabl>
+        <attrdef>The employment in machinery (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90177</attrlabl>
+        <attrdef>The employment in traffic and transportation equipment manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90178</attrlabl>
+        <attrdef>The employment in electric equipment manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90179</attrlabl>
+        <attrdef>The employment in electronic and telecommunication equipment manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90180</attrlabl>
+        <attrdef>The employment in measuring instruments, meters and other measuring products manufacturing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90181</attrlabl>
+        <attrdef>The employment in other manufacturing industries (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90182</attrlabl>
+        <attrdef>The employment in geological prospecting and exploration (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90183</attrlabl>
+        <attrdef>The employment in civil engineering construction (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90184</attrlabl>
+        <attrdef>The employment in installation of lines, pipelines and equipment (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90185</attrlabl>
+        <attrdef>The employment in exploring and surveying design (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90186</attrlabl>
+        <attrdef>The employment in transportation (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90187</attrlabl>
+        <attrdef>The employment in post and telecommunication (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90188</attrlabl>
+        <attrdef>The employment in commerce (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90189</attrlabl>
+        <attrdef>The employment in catering trade (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90190</attrlabl>
+        <attrdef>The employment in the supply and marketing of commodities (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90191</attrlabl>
+        <attrdef>The employment in the storage of commodities (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90192</attrlabl>
+        <attrdef>The employment in real estate management (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90193</attrlabl>
+        <attrdef>The employment in public facilities (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90194</attrlabl>
+        <attrdef>The employment in residential service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90195</attrlabl>
+        <attrdef>The employment in consulting service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90196</attrlabl>
+        <attrdef>The employment in public health service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90197</attrlabl>
+        <attrdef>The employment in sports (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90198</attrlabl>
+        <attrdef>The employment in social welfare service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90199</attrlabl>
+        <attrdef>The employment in education (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90200</attrlabl>
+        <attrdef>The employment in culture and art sector (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90201</attrlabl>
+        <attrdef>The employment in broadcast and television sector (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90202</attrlabl>
+        <attrdef>The employment in research agencies and institutions (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90203</attrlabl>
+        <attrdef>The employment in comprehensive technical service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90204</attrlabl>
+        <attrdef>The employment in financial service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90205</attrlabl>
+        <attrdef>The employment in insurance service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90206</attrlabl>
+        <attrdef>The employment in government agencies (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90207</attrlabl>
+        <attrdef>The employment in political party committees (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90208</attrlabl>
+        <attrdef>The employment in social organizations (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90209</attrlabl>
+        <attrdef>The employment in enterprise management (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90210</attrlabl>
+        <attrdef>The employment in other industries not categorized (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90211</attrlabl>
+        <attrdef>The personnel of scientific research (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90212</attrlabl>
+        <attrdef>The technical personnel of engineering and agriculture (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90213</attrlabl>
+        <attrdef>The personnel of aircraft and shipping technology (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90214</attrlabl>
+        <attrdef>The personnel of medical and health care (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90215</attrlabl>
+        <attrdef>The personnel of business marketing (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90216</attrlabl>
+        <attrdef>The personnel of legal affair (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90217</attrlabl>
+        <attrdef>The teachers (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90218</attrlabl>
+        <attrdef>The professionals of arts and sports (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90219</attrlabl>
+        <attrdef>The professionals for culture service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90220</attrlabl>
+        <attrdef>The professionals for religious service (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90221</attrlabl>
+        <attrdef>The workers in post and telecommunication (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90222</attrlabl>
+        <attrdef>The worker in construction (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90223</attrlabl>
+        <attrdef>The number of single-person households by city and county (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90224</attrlabl>
+        <attrdef>The number of single-couple households by city and county (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90225</attrlabl>
+        <attrdef>The number of 2 generation households by city and county (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90226</attrlabl>
+        <attrdef>The number of 3 generation households by city and county (Unit: person)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90227</attrlabl>
+        <attrdef>The number of domestic households with children aged 0-6 by city and county (Unit: househeld)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90228</attrlabl>
+        <attrdef>The number of domestic households with children aged 7-14 by city and county (Unit: househeld)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90229</attrlabl>
+        <attrdef>The number of domestic households with persons aged 60 and above by city and county (Unit: househeld)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A90330</attrlabl>
+        <attrdef>The number of domestic households with persons aged 65 and above by city and county (Unit: househeld)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CPROV</attrlabl>
+        <attrdef>Province name in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text [unicode].</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CCNTY</attrlabl>
+        <attrdef>County name in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text [unicode].</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20061013</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Newton GIS</origin>
+        <pubdate>1998?</pubdate>
+        <title>Storm Water Collection System Lines - City of Newton</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nwtndrainln</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polyline data layer contains pipes, ditches and line features comprising the storm water collection network for the city of Newton.
+Point and other features such as manholes and catch basins are contained in the Storm Water Collection System Points data layer.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers and planners for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+This layer may provide a basemap for layers related to urban planning, public works, or utilities purposes (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>This data layer is not presently being maintained; however, the Department of Public Works is attempting to start a project to field check the drain infrastructure and resolve some of the many discrepancies.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998?</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.268230</westbc>
+        <eastbc>-71.157366</eastbc>
+        <northbc>42.367306</northbc>
+        <southbc>42.287818</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Pipes</themekey>
+        <themekey>Catchments</themekey>
+        <themekey>Storm Sewers</themekey>
+        <themekey>Drainage pipes</themekey>
+        <themekey>Runoff</themekey>
+        <themekey>Municipal engineering</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Newton</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational or non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Newton GIS</cntorg>
+        </cntorgp>
+        <cntpos>GIS Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Information Technology Department</address>
+          <address>City Hall  Room 107</address>
+          <address>1000 Commonwealth Avenue</address>
+          <city>Newton Center</city>
+          <state>MA</state>
+          <postal>02459-1400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-796-1180</cntvoice>
+        <cntvoice>617-796-1000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by City of Newton GIS.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc/>
+    <logic>This data layer is known to contain errors in content and in the connections between features.  This data layer should be regarded as a draft and other sources, specifically the as-built construction drawings, should be consulted as appropriate.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>Manhole and catch basin locations mapped based on photogrammetric locations have an absolute accuracy of +/- 2.5 feet.  The accuracy of the other manhole and catch basin locations is unknown.  The accuracy of the pipe features is unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>James W. Sewall Co.</origin>
+            <title>James W. Sewall Co. Aerial Photography</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>7200</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19940415</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Sewall94</srccitea>
+        <srccontr>Mapping of water/sewer/drain infrastructure based on targets painted on the streets, conducted by the James W. Sewall Co. The aerial photographs were taken on April 15, 1994.  The photographs were produced at a scale of 1" = 600' at an approximate altitude above datum of 3,600 feet.
+The information below is from the J. W. Sewall Co. Proposal Documents
+Scale of Photography: 1:7200
+Forward Overlap: 60% average within 5 feet.
+Side Overlap: 30% average within 10 feet
+Tilt: Not to exceed 3 degrees - 4 degrees between flight lines
+Crab: Not to exceed 3 degrees relative to flight line
+Contact Prints: 9" x 9" received from company.
+Ground Control: Primary - 12 permanent control markers set - 36" concrete monuments. GPS network of 50 stations with three horizontal and nine vertical ties to grid. Network tied to MSPCS NAD83 datum and NGVD29 datum by occupying Mass. Highway Department control points.
+Block Adjustment Accuracy: Horizontal: second order class I; Vertical: third order 
+Model: ALBANY-Lite
+Final Pixel Size: 12 inches
+Final Horizontal Accuracy: Approximately +/- 5 feet.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Storm drain manholes and catch basins were photogrammetrically captured from the aerial photography referred to in the introduction to this document.  A field check of the area of four 1" = 40' scale Assessor's sheets showed that the capture rates for manholes and catch basins were, respectively, 95% and 90% correct.  The figures for the manholes are, however, somewhat misleading.  This is because at the time of the photography, the city was known to have instances of sewer manhole lids on storm drain manholes, and vice versa.
+
+Data layer development was completed under contract with Applied Geographics, Inc. (AGI) of Boston.  AGI was provided two kinds of source information:
+1) The existing 1" = 400' scale atlas maps.
+2) Storm drain catch basins and manhole locations mapped photogrammetrically from aerial photography taken in April 1994.
+
+This data layer was created "on screen" with a back-drop of the point features from the aerial photography and other appropriate features from the city's GIS database (e.g., street rights-of-way).  The contractor's staff then constructed the storm drain network while referencing both the on-screen features and features from the paper atlas.  Construction drawing ID's were taken from the existing atlas maps and added as an attribute of drain pipe segments..  This data layer is sufficient in most cases for providing a general idea as to the locations of these features on the ground.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Newton GIS</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200208</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <procdate>20021002</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>Geospatial Resources Cataloger</cntper>
+            </cntorgp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>22482</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000015</absres>
+            <ordres>0.000015</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NWTNDRAINLN</enttypl>
+        <enttypd>ESRI Shapefile. Lines represent pipes, drainage line features</enttypd>
+        <enttypds>ESRI, City of Newton GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Internal node number for the left polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Internal node number for the right polygon</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Internally calculated length of feature in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DRAIN_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DRAIN_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>This specifies the type of pipe (no explanation if self explanatory)</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CB-CONNECTOR</edomv>
+            <edomvd>Catch Basin Connector</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>MAIN LINE</edomv>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLEEDER</edomv>
+            <edomvd>Bleeder Line</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PAVED BROOK</edomv>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BROOK</edomv>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DITCH</edomv>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>DRYWELL CONNECT</edomv>
+            <edomvd>Connection to a dry well</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIAMETER1</attrlabl>
+        <attrdef>The pipe's first dimension.  If the pipe is round this dimension is the diameter.</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DIAMETER2</attrlabl>
+        <attrdef>The pipe's second dimension.  If there is a second dimension, the pipe is square.</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DRAWING_ID</attrlabl>
+        <attrdef>The identifier of the as-build drawing found in the Engineering Department</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DRAW_ID_2</attrlabl>
+        <attrdef>The identifier of the as-build drawing found in the Engineering Department</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ERROR</attrlabl>
+        <attrdef>This field contains comments on the information not available on the as-built drawings for this feature.</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EDIT_SOURC</attrlabl>
+        <attrdef>The source of an edit to this feature.</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>WC</edomv>
+            <edomvd>Woodard &amp; Curran, Inc</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AB</edomv>
+            <edomvd>As-built drawing</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MATERIAL</attrlabl>
+        <attrdef>The pipe material</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>RCP</edomv>
+            <edomvd>Reinforced concrete pipe</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>VCP</edomv>
+            <edomvd>Vitrified clay pipe</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CBL</edomv>
+            <edomvd>Circular brick pipe</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>RFC</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>Newton GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DRAWIT</attrlabl>
+        <attrdef>A concatenation of the attributes Type and Diameter1, used with a symbol look up table, identifies unique occurrences of pipe type and diameter.</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWTNDRAINLN.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated length of feature in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021011</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-295-12417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

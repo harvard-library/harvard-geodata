@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-massgis-half-mtr-ortho",
+  "dc_title_s": "Boston, Massachusetts Region 1:5,000 Color Ortho Imagery (1/2-meter Resolution), 2001",
+  "dc_description_s": "1/2-meter resolution 1:5,000 orthophoto image of the Boston region from April 2001. This datalayer is a subset (covering only the Boston region) of the Massachusetts statewide orthophoto image series available from MassGIS. It consists of 23 orthophoto quads mosaicked together (MassGIS orthophoto quad ID: 229890, 229894, 229898, 229902, 233886, 233890, 233894, 233898, 233902, 233906, 233910, 237890, 237894, 237898, 237902, 237906, 237910, 241890, 241894, 241898, 241902, 245898, 245902). These medium resolution true color images are considered the new 'basemap' for the Commonwealth by MassGIS and the Executive Office of Environmental Affairs (EOEA). MassGIS/EOEA and the Massachusetts Highway Department jointly funded the project. The photography for the mainland was captured in April 2001 when deciduous trees were mostly bare and the ground was generally free of snow. The geographic extent of this dataset is the same as that of the MassGIS dataset: Boston, Massachusetts Region LIDAR First Return Elevation Data, 2002 [see cross references].",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//MASSGIS_HALF_MTR_ORTHO.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "raster_restricted:MASSGIS_HALF_MTR_ORTHO",
+  "layer_slug_s": "harvard-massgis-half-mtr-ortho",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps",
+    "Orthophotography",
+    "imageryBaseMapsEarthCover",
+    "image",
+    "ortho",
+    "raster",
+    "orthophoto",
+    "color",
+    "Massachusetts",
+    "aerial photography"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston",
+    "Arlington",
+    "Belmont",
+    "Brookline",
+    "Cambridge",
+    "Canton",
+    "Chelsea",
+    "Dedham",
+    "Everett",
+    "Malden",
+    "Medford",
+    "Melrose",
+    "Milton",
+    "Needham",
+    "Newton",
+    "Quincy",
+    "Somerville",
+    "Stoneham",
+    "Wakefield",
+    "Watertown",
+    "Winchester",
+    "Winthrop",
+    "Woburn"
+  ],
+  "dct_issued_s": "2001-04",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_geom": "ENVELOPE(-71.197177, -70.952747, 42.476133, 42.223162)",
+  "solr_year_i": 2001,
+  "harvard_collectionID_sm": [
+    "990118261810203941"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnhydrntpt",
+  "dc_title_s": "Fire Hydrants - City of Newton",
+  "dc_description_s": "This data layer contains point locations representing all known locations of fire hydrants from the water mains data layer in Newton.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNHYDRNTPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNHYDRNTPT",
+  "layer_slug_s": "harvard-nwtnhydrntpt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-10-11T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "utilitiesCommunication",
+    "Municipal",
+    "Hydrants",
+    "Fire extinction",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(-71.265835, -71.159303, 42.366102, 42.288489)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

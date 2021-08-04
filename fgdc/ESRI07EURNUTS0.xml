@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Michael Bauer Research GmbH</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20070501</pubdate>
+        <title>Europe NUTS 0 Demographics : ESRI Data &amp; Maps 2007</title>
+        <edition>2007</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2007 World, Europe, United States, Canada, and Mexico</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2007 \europe\demography</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri07eurnuts0</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Europe NUTS 0 Demographics represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe.
+
+NUTS (Nomenclature des Unit?s Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://europa.eu.int/comm/eurostat/ramon/nuts/introduction_regions_en.html.</abstract>
+      <purpose>Europe NUTS 0 Demographics provides country-level demographic information for Europe.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:200,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>200703</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2005</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-31.268789</westbc>
+        <eastbc>69.068487</eastbc>
+        <northbc>81.860200</northbc>
+        <southbc>27.638029</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Demography</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Sex Statistics</themekey>
+        <themekey>Age distribution (Demography)</themekey>
+        <themekey>Households</themekey>
+        <themekey>Gross domestic product</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>countries</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>demographics</themekey>
+        <themekey>NUTS</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Europe</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2007</tempkey>
+        <tempkey>2005</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Affiliates for use on Harvard owned computers.  The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (for example, .gif, .jpeg,) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+[Applicable to AND International Publishers N.V. only]-Internal Use Only. No redistribution rights are granted by the data vendor and the data is for the end user's own internal use only.
+
+
+[Applicable to EuroGeographics only]-
+
+End User Licence Agreement
+
+between 
+ 		
+EuroGeographics Association,
+6-8, Avenue Blaise Pascal, Cit? Descartes, Champs-sur-Marne, F-77455 Marne-la-Vall?e Cedex 2, France
+Registration No. 435 131 842 00013
+VAT No. FR 9343513184200013
+Hereinafter referred to as the
+EuroGeographics	
+
+And
+
+Licensee of Data &amp; Maps
+Hereinafter referred to as the
+End User
+
+E1		Definitions
+End User is a single person, company or otherwise recognisable legal body who will have usage rights to EuroBoundaryMap, as supplied by ESRI within the their Data &amp; Maps cd-rom.
+Security Copy is a copy taken solely for the purpose of protecting against accidental loss or corruption.
+Product is EuroBoundaryMap. EuroBoundaryMap (formerly known as SABE - Seamless Administrative Boundaries of Europe) being a European wide structured digital geographic data base, derived from source data provided by the National Mapping Agencies of Europe.
+Reproduction includes any kind of reproduction of EuroBoundaryMap in any type or form, whether direct or indirect, permanent or intermediate, in analogue or digital form. It includes reproduction of value-added and derived products.
+Communication to the public includes distribution of physical products, and distribution by any other means or process, including wireless communication and broadcasting. It includes all instances of making accessible to the public, whether it is actually accessed or not.
+Usage rights are the rights to use for personal (if acquired by a person) or internal (if required by a legal person) use as defined in section E4. Employees shall not be entitled to usage rights for private purposes.
+
+E2		Intellectual Property and Reservation of Ownership
+EuroBoundaryMap is the intellectual property of the National Mapping Authorities providing information for it. All reproductions of EuroBoundaryMap must carry the acknowledgement as specified in section E3. All unauthorised reproduction and distribution infringe this joint property right and could lead to legal action. This Agreement does not transfer any rights except what is clearly stated in the Agreement.
+
+E3	Copyright and Trademark Acknowledgement Note
+Pursuant to the "Yes 1" classification in the Redistribution Rights Matrix, End User must show the appropriate copyright acknowledgement as detailed below on any hard copy renditions or static, electronic map images derived from EuroBoundaryMap. The acknowledgement that must be clearly shown is:
+
+EuroBoundaryMap includes data licensed from European National Mapping and Cadastral Agencies, 
+? EuroGeographics
+
+Or in case of insufficient space:
+
+? EuroGeographics
+
+Any use of the name EuroGeographics and any other trademark registered to, or claimed by, EuroGeographics must show the appropriate trademark notation and an appropriate trade mark acknowledgement note must be shown somewhere on the document. This note may be omitted on very small items where there is insufficient room but the trademark notations must always be shown.
+
+E4		Grant of Rights to End Users
+The End User acquires unlimited internal usage rights to EuroBoundaryMap on the following conditions:
+?	EuroBoundaryMap may be installed on an unlimited number of personal computers or workstations within End User?s organisation.
+?	The End User is authorised to make EuroBoundaryMap or images derived from EuroBoundaryMap available for viewing by the public in raster format on the domain address www.XXX of their World-Wide Web server and Intranet server only. Any presentation of EuroBoundaryMap (on screen or printed) must carry the acknowledgement as specified in section E3 (three).
+?	The End User acknowledges that the Intellectual Property Rights in and to EuroBoundaryMap and any trademarks or service marks relating thereto remain the property of the EuroGeographics and its suppliers.
+?	The End User is authorised to use reproductions of EuroBoundaryMap for reports and within presentations.
+?	The End User can make a security copy of the EuroBoundaryMap data, taking all reasonable precautions to ensure that the EuroBoundaryMap product held on its premises is physically secure.
+
+E5	Restrictions 
+?	At no stage will either the vector files of EuroBoundaryMap or the vector files derived from EuroBoundaryMap be made accessible to Internet users or to any other users outside of the End User organisation.
+?	EuroBoundaryMap may not be used to provide a bureau service for others or for the benefit of or on behalf of others. 
+?	EuroBoundaryMap may not be used for any commercial activities other than stated in clause E4 (four), including commercial web services, unless the End User has a signed marketing rights agreement for EuroBoundaryMap with EuroGeographics.
+?	The End User may not sell or onward sell the EuroBoundaryMap product.
+
+E6		Disclaimer of Warranty, Limitation of Liability, and Exclusive Remedy
+The nature of EuroBoundaryMap is such that EuroGeographics cannot warrant the accuracy of EuroBoundaryMap. EuroBoundaryMap is provided "AS-IS" without warranty of any kind.  EuroGeographics and any of the National Mapping and Cadastral Agencies are not inviting reliance on this Data, and End User should always verify actual Data.
+
+EUROGEOGRAPHICS AND ANY OF THE NATIONAL MAPPING AND CADASTRAL AGENCIES DISCLAIM ALL OTHER WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. EUROGEOGRAPHICS DOES NOT WARRANT THAT THE DATA WILL MEET END USER?S NEEDS, OR THAT END USER?S OPERATION OF THE SAME WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ALL NONCONFORMITIES CAN OR WILL BE CORRECTED.
+
+IN NO EVENT SHALL EUROGEOGRAPHICS AND ANY OF THE NATIONAL MAPPING AND CADASTRAL AGENCIES BE LIABLE TO END USER FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS; LOST SALES OR BUSINESS EXPENDITURES; INVESTMENTS; OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS, LOSS OF ANY GOODWILL, OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THIS LICENSE AGREEMENT OR USE OF THE DATA OR DOCUMENTATION, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT EUROGEOGRAPHICS AND ANY OF THE NATIONAL MAPPING AND CADASTRAL AGENCIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+The End User agrees that EuroGeographics? sole liability and the End Users sole remedy in respect of any breach of Agreement shall be for EuroGeographics to replace the EuroBoundaryMap product.
+
+E7 		Indemnity
+The End User shall keep harmless and indemnify EuroGeographics against all claims, actions, suits, damages, liabilities, losses, charges and proceedings that EuroGeographics may incur or be put to as a direct result of any breach of this Agreement by the End User or its contractors.
+
+E8	Dispute Resolution
+Before resorting to any external dispute resolution mechanism, the Parties shall attempt to settle by negotiation any dispute in relation to this Agreement. The Parties can decide to use a third person or institution as mediator in their negotiations. The Parties decide to what extent the mediator?s decisions will be binding. Disputes shall be handled by the courts of France or by arbitration if both Parties agree to it. 
+
+E9	Governing Law, Interpretation
+This Agreement shall be interpreted in all respects according to general principles of international contract law, as reflected in the UNIDROIT Principles of International Commercial Contracts, and be governed according to the law of France. Only the English language version of this Agreement shall be considered enforceable.
+
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+  </idinfo>
+  <dataqual>
+    <logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE to verify and validate the geometry.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The positional accuracy is unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Michael Bauer Research GmbH</origin>
+            <origin>EuroGeographics</origin>
+            <pubdate>200703</pubdate>
+            <title>[Custom package for ESRI Data &amp; Maps]</title>
+            <geoform>vector digital data and tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>N?rnberg, Germany; Champs-sur-Marne, France</pubplace>
+              <publish>Michael Bauer Research GmbH; EuroGeographics</publish>
+            </pubinfo>
+            <othercit>Michael Bauer Research GmbH provided the attribute data and boundary data.
+
+EuroGeographics was the primary source for the boundary data.
+
+The custom package included:
+MBR - Economic and Sociodemographic Data for Europe and EuroBoundaryMap boundary data from EuroGeographics in the NUTS 0, NUTS 1, NUTS 2, and NUTS 3 shapefiles and table.</othercit>
+            <onlink>http://www.mb-research.de</onlink>
+            <onlink>http://www.eurogeographics.org/eng/04_sabe.asp</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000 [EuroGeographics]</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200703</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>MBR and EuroGeographics</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>AND International Publishers N.V.</origin>
+            <origin>AND Products B.V.</origin>
+            <pubdate>2005</pubdate>
+            <title>AND Global Road Data</title>
+            <edition>2005-H2</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>AND Global Road Data</sername>
+              <issue>2005-H2</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Rotterdam, The Netherlands</pubplace>
+              <publish>AND International Publishers N.V.</publish>
+            </pubinfo>
+            <othercit>Provided boundaries for Arctic islands and the country of Armenia.</othercit>
+            <onlink>http://www.and.com</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>250000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2005</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>AND Global Road Data</srccitea>
+        <srccontr>Geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Michael Bauer Research GmbH established the data by reviewing relevant regional data and projecting the respective trends. For providing the most possible value to the user regarding comparability, all country results were projected by mathematical methods to the required geographical level, homogeneous base years, categories (e.g. age bands) and currency (Euro).
+
+Other remarks:
+ - For Azerbaijan only population data, gross domestic product, and employed persons are surveyed.
+ - For Georgia only population data, households, gross domestic product, and employed are surveyed.
+ - For Vatican City only population and population density are surveyed.
+ - For Andorra, Gibraltar, Liechtenstein and San Marino the number of dwellings and purchasing power growth rate are not surveyed.
+ - For Monaco the purchasing power growth rate is not surveyed.
+ - In Russia only the European part of the country is surveyed (in accordance with the maps).
+
+Michael Bauer Research GmbH provided ESRI with:
+MBR - Economic and Sociodemographic Data for Europe and EuroBoundaryMap boundary data from EuroGeographics in the NUTS 0, NUTS 1, NUTS 2, and NUTS 3 shapefiles and table.</procdesc>
+        <procdate>2007</procdate>
+        <srcprod>MBR and EuroGeographics</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Started with the data in the custom package from Michael Bauer Research GmbH and EuroGeographics. The data included the four NUTS shapefiles and an Excel file that contained data for each of the four NUTS shapefiles. Converted the Excel file into four dBASE (.dbf) files. Joined each .dbf file to its corresponding NUTS shapefile. Added the arctic islands of Russia and Svalbard and Jan Mayen and the country of Armenia from the AND Global Road Data to each of the four NUTS shapefiles. Coded their attributes with '-99' (null) values. For data sets NUTS 1, NUTS 2, and NUTS 3, added and coded the NUTS0 attribute. Added the SQKM attribute to each of the four data sets and calculated its values. Converted the data sets to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices for each data set.</procdesc>
+        <srcused>MBR and EuroGeographics</srcused>
+        <srcused>AND Global Road Data</srcused>
+        <procdate>20070430</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the ESRI Data and Maps 2007 Data Update DVD.  The file was stored in an SDC (Smart Data Compression) format on the DVD.  ArcCatalog 9.2 was utilized to export the SDC file into an ArcSDE 9.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>200712</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>51</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI07eurnuts0</enttypl>
+        <enttypd>The polygons represent areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NUTS</attrlabl>
+        <attrdef>The NUTS 0 code for the country.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Nomenclature of Territorial Units for Statistics (NUTS)</codesetn>
+            <codesets>Regulation of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The name of the country.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPULATION</attrlabl>
+        <attrdef>The population for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MALES</attrlabl>
+        <attrdef>The number of males for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEMALES</attrlabl>
+        <attrdef>The number of females for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOUSEHOLDS</attrlabl>
+        <attrdef>The number of households for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERS_HH</attrlabl>
+        <attrdef>The average number of persons per household for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_GROWTH</attrlabl>
+        <attrdef>The population growth rate for the country from 2002 to 2007 in percent.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_DENSIT</attrlabl>
+        <attrdef>The population per square kilometer for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Calculated populations per square kilometer for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DWELLINGS</attrlabl>
+        <attrdef>The number of dwellings for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_0_14</attrlabl>
+        <attrdef>The number of people 0 to 14 years of age for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_15_29</attrlabl>
+        <attrdef>The number of people 15 to 29 years of age for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_30_44</attrlabl>
+        <attrdef>The number of people 30 to 44 years of age for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_45_59</attrlabl>
+        <attrdef>The number of people 45 to 59 years of age for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_60_</attrlabl>
+        <attrdef>The number of people 60 years of age and over for the country in 2007.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PP_INCNTRY</attrlabl>
+        <attrdef>The yearly amount of purchasing power (i.e. disposable income) in Euro, in 2007, with ranges specific to each country.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Number ranges for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>blank</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PP_CATEGOR</attrlabl>
+        <attrdef>The yearly amount of purchasing power (i.e. disposable income) in Euro, in 2007, with ranges based on all European countries.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>blank</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>below 1,250</edomv>
+            <edomvd>Below 1,250 Euro.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+          <edom>
+            <edomv>1,250 - 2,499</edomv>
+            <edomvd>1,250 to 2,499 Euro.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+          <edom>
+            <edomv>2,500 - 4,999</edomv>
+            <edomvd>2,500 to 4,999 Euro.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+          <edom>
+            <edomv>5,000 - 9,999</edomv>
+            <edomvd>5,000 to 9,999 Euro.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+          <edom>
+            <edomv>10,000 - 14,999</edomv>
+            <edomvd>10,000 to 14,999 Euro.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+          <edom>
+            <edomv>15,000 - 19,999</edomv>
+            <edomvd>15,000 to 19,999 Euro.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+          <edom>
+            <edomv>20,000 and more</edomv>
+            <edomvd>20,000 Euro and above.</edomvd>
+            <edomvds>Michael Bauer Research GmbH</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PP_GROWTH</attrlabl>
+        <attrdef>The purchasing power growth rate for the country from 2002 to 2007 in percent ranges.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Number ranges for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>blank</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GDP</attrlabl>
+        <attrdef>The Gross Domestic Product in millions of Euro for the country in 2006.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>EMPLOYED</attrlabl>
+        <attrdef>The number of employed persons for the country in 2006.</attrdef>
+        <attrdefs>Michael Bauer Research GmbH</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SQKM</attrlabl>
+        <attrdef>The area of the country in square kilometers.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Calculated areas for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None; See also use constraints.</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20080211</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

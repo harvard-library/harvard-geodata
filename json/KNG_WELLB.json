@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-kng-wellb",
+  "dc_title_s": "King County, Washington : water supply wells, group B (2 to 14 connections)",
+  "dc_description_s": "Public Water System wells (group B) with 2 to 14 connections, as recorded by the Washington Department of Health. See also the related datasets: water supply wells, group A, and water supply wells, all datalayers.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//KNG_WELLB.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:KNG_WELLB",
+  "layer_slug_s": "harvard-kng-wellb",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2007-02-02T00:00:00Z",
+  "dc_creator_sm": [
+    "King County (Wash.)",
+    "Washington (State). Dept. of Health"
+  ],
+  "dc_publisher_s": [
+    "King County GIS Center"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Municipal",
+    "Water-supply",
+    "Wells",
+    "Groundwater",
+    "inlandWaters",
+    "utilitiesCommunication"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "King County"
+  ],
+  "dct_issued_s": "2003-06-30",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_geom": "ENVELOPE(-122.538048, -121.469098, 47.781061, 47.146468)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990091609430203941"
+  ]
+}

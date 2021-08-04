@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <origin>King County (Wash). Water and Land Resources Division.</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : Water Resource Inventory Area 9 salmon distribution</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-fsh9</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>King County, Washington distribution of 7 salmon species in Water Resource Inventory Area (WRIA) 9 streams, 5 presence classes.</abstract>
+      <purpose>This datalayer contains fish distribution information in Water Resource Inventory Area 9 for seven fish species: chinook (Oncorhynchus tshawytscha), coho (Oncorhynchus kisutch), sockeye (Oncorhynchus nerka), chum (Oncorhynchus keta), pink (Oncorhynchus gorbuscha), steelhead (Oncorhynchus mykiss), &amp; cutthroat trout (Oncorhynchus clarki). Please note the data limitations for this dataset discussed in the Use Constraints. See also cross references.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20010118</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source coverage publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.396166</westbc>
+        <eastbc>-121.305009</eastbc>
+        <northbc>47.598887</northbc>
+        <southbc>47.130918</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Oncorhynchus</themekey>
+        <themekey>Chinook Salmon</themekey>
+        <themekey>Chum salmon</themekey>
+        <themekey>Coho salmon</themekey>
+        <themekey>Cutthroat trout</themekey>
+        <themekey>Pink salmon</themekey>
+        <themekey>Sockeye salmon</themekey>
+        <themekey>Steelhead (Fish)</themekey>
+        <themekey>Fishes Habitat</themekey>
+        <themekey>Fish populations</themekey>
+        <themekey>Rivers</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>DISCLAIMER FOR WRIA 9 FISH GIS DATA
+
+This data depicts the known freshwater distribution in Water Resource Inventory Area (WRIA) 9 of seven species: chinook (Oncorhynchus tshawytscha), coho (Oncorhynchus kisutch), sockeye (Oncorhynchus nerka), chum (Oncorhynchus keta), pink (Oncorhynchus gorbuscha), steelhead (Oncorhynchus mykiss), and cutthroat trout (Oncorhynchus clarki). The depicted limits of known freshwater distribution of these species are based upon the collective personal knowledge of participants in the WRIA 9 mapping project and data they gathered from published and unpublished databases.
+
+This data may underestimate or overestimate the actual distribution of these species. Also, although this data was created from the standard King County hydrography layer, this data may inaccurately depict the location of water bodies. For example, some water bodies may be incorrectly located in this data. All users of this data should seek the assistance of qualified professionals such as surveyors, hydrologists, or fishery biologists as needed to ensure that such users possess complete, precise, and up to date information on fish species distribution and water body location.
+
+The information depicted in this data is current as of December 2000. This data may be revised at any time. Although the WRIA 9 Technical Committee intends to revise this data on an annual basis, the WRIA 9 Technical Committee cannot and does not guarantee that this data will be revised on an annual basis or at any other interval.
+
+No Express or Implied Warranties; No Warranty of Merchantability; No Warranty of Fitness for a Particular Purpose.
+
+There are no express or implied warranties for this dataset, the information it depicts, the data on which it is based, or any service furnished herein. There is no warranty of merchantability for this data's accuracy or its depiction of fish species distribution or water body location. This data is not warranted as fit for a particular purpose.  
+
+For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.  
+
+This dataset is not accurate enough to support parcel level analyses and mapping. It is suitable for watershed level uses only.
+
+This dataset is NOT suitable for verifying species ABSENCE. It is intended only as a compilation of available information on species PRESENCE.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>King Co. Water and Land Resources</cntorg>
+          <cntper>Collene Gaolach</cntper>
+        </cntorgp>
+        <cntpos>GIS Analyst</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>201 S. Jackson St. Suite 600</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98104</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 296-1933</cntvoice>
+        <cntemail>collene.gaolach@metrokc.gov</cntemail>
+        <hours>Tues. to Fri., 9:00 am - 7:00 pm -- PST USA</hours>
+        <cntinst>Email is best contact method</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Water Resource Inventory Area (WRIA) 9 Factors of Decline SubCommittee (King County Department of Natural Resources (DNR), Water and Land Resources Division (WLRD))</datacred>
+    <native>Unknown.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.).  GIS Center.</origin>
+            <origin>King County (Wash). Water and Land Resources Division.</origin>
+            <pubdate>20010118</pubdate>
+            <title>FISH9: WRIA 9 Salmon Distrib.</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: natres-fish9</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.)  GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20010118</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>source coverage date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1335</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000156</absres>
+            <ordres>0.000156</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_FSH9</enttypl>
+        <enttypd>King County WRIA 9 salmon distribution</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>From node</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>To node</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Left polygon</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>All values set to zero</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Right polygon</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>All values set to zero</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FISH9_</attrlabl>
+        <attrdef>Feature Identification Number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FISH9_ID</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WTR_NAME</attrlabl>
+        <attrdef>Stream names : common name of stream, if available</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CHINOOK</attrlabl>
+        <attrdef>Chinook presence.</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT species absence</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975)</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COHO</attrlabl>
+        <attrdef>Coho presence</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT species absence.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975)</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOCKEYE</attrlabl>
+        <attrdef>Sockeye presence</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT species absence</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975).</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CHUM</attrlabl>
+        <attrdef>Chum presence.</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT species absence.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975)</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PINK</attrlabl>
+        <attrdef>Pink presence</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT species absence</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975).</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STEELHEAD</attrlabl>
+        <attrdef>Steelhead presence.</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT species absence</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975)</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CUTTHROAT</attrlabl>
+        <attrdef>Cutthroat presence</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Indicates no available data, NOT</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Species is known to be present due to first-hand observations, or from electrofishing, spawner surveys, field reports, and other direct sources of data.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Species is thought to be present from second-hand observations and information.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Species should be present due to suitable habitat conditions, presence in adjacent waters, and absence of known barriers, though presence has not been observed.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Species should be present because of suitable habitat conditions, but is not because of artificial barrier</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Historical species record according to WDFW WRIA Catalog of Streams (Williams, 1975)</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ALL_SP</attrlabl>
+        <attrdef>The most reliable presence classes (1,2,and 5) are summed across all spp.</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>There is a code of 1, 2, or 5 in at least one of the species columns</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070108</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>
