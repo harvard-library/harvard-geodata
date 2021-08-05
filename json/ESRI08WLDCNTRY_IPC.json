@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon layer joins the ESRI World Census IPC Demographics attribute table to the ESRI Data & Maps 2008 : World Countries datalayer, to enable spatial displaying of World Census IPC Demographics attributes. World Census IPC Demographics (table) represents a vast amount of recent demographic information for the countries recognized by the U.S. State Department.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI08WLDCNTRY_IPC.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRI08WLDCNTRY_IPC.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_restricted:ESRI08WLDCNTRY_IPC",
   "layer_slug_s": "harvard-esri08wldcntry-ipc",
   "layer_geom_type_s": "Polygon",

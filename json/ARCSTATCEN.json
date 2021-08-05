@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon datalayer depicts Census Tracts, with associated attribute data, for tracts located within the 20 county Metropolitan Statistical Area (MSA) for the Atlanta Region. ARC documentation states that: This Theme is a subset of the ARC Census Tracts Theme (CEN_TRCT) which was derived from the U.S. Census Bureau. The geographic extent of this Theme includes ARC's 10 counties plus the counties of Pickens, Bartow, Forsyth, Barrow, Paulding, Walton, Carroll, Newton, Coweta, and Spalding.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCSTATCEN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ARCSTATCEN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_restricted:ARCSTATCEN",
   "layer_slug_s": "harvard-arcstatcen",
   "layer_geom_type_s": "Polygon",
