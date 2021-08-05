@@ -5,7 +5,7 @@
   "dc_description_s": "This datalayer contains city ward boundaries linked to Census demographics for Bangalore, India, 2001. Includes city ward socio-demographic and economic Census attribute data such as total population, population by sex, rural/urban populations, household, literacy, and employment statistics. This layer is part of the Wards of Indian Cities dataset series which includes socio-demographic and economic Census data for 2001 for selected Indian cities at the City Ward level.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//INDIA_WARDS_BANGALORE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/INDIA_WARDS_BANGALORE.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_restricted:INDIA_WARDS_BANGALORE",
   "layer_slug_s": "harvard-india-wards-bangalore",
   "layer_geom_type_s": "Polygon",
