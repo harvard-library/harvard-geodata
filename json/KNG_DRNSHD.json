@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-kng-drnshd",
+  "dc_title_s": "King County, Washington : watershed hydrological basin boundaries",
+  "dc_description_s": "King County, Washington major hydrological watershed boundaries as defined by King County Department of Natural Resources and Parks, Water and Land Resources Division. The third highest level of hydrological boundaries, subset of WRIA. WRIA > WATERSHED > HYDROBASIN > CATCHMENT(DRNBASIN). Covers also Snohomish and Pierce counties, and portions of other surrounding counties.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//KNG_DRNSHD.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:KNG_DRNSHD",
+  "layer_slug_s": "harvard-kng-drnshd",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-12-19T00:00:00Z",
+  "dc_creator_sm": [
+    "King County (Wash.). Water and Land Resources Division.",
+    "King County (Wash.)",
+    "Pierce County (Wash.)",
+    "Snohomish County (Wash.)"
+  ],
+  "dc_publisher_s": [
+    "King County GIS Center"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Municipal",
+    "Watersheds",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "King County",
+    "Chelan County",
+    "Kitsap County",
+    "Kittitas County",
+    "Lewis County",
+    "Mason County",
+    "Pierce County",
+    "Skagit County",
+    "Snohomish County",
+    "Thurston County",
+    "Yakima County"
+  ],
+  "dct_issued_s": "2003-06-30",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_geom": "ENVELOPE(-122.888416, -120.905212, 48.479267, 46.580925)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990091609430203941"
+  ]
+}

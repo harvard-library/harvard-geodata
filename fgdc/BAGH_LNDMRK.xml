@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>LeadDog Consulting, LLC.</origin>
+        <pubdate>[2003]</pubdate>
+        <title>Baghdad Landmarks, Points</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-bagh-lndmrk</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This point layer depicts cultural or man-made landmarks in and around Baghdad, the capital city of Iraq. Features shown here include: government buildings, hospitals, hotels, mosques, former palaces (now occupied by civilian or military authorities) and various transportation features like bus depots, bus stations and garages.
+Please note that this datalayer was produced before the start of armed conflict in Baghdad (March-April, 2003) so some of these features may have been destroyed or severely damaged since that period.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.
+The dataset originator (LeadDog Consulting, LLC.) states that their product is designed, "...for the vehicle tracking and routing industry. Designed to help post-war companies track their assets."</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030429</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>44.216848</westbc>
+        <eastbc>44.476167</eastbc>
+        <northbc>33.388501</northbc>
+        <southbc>33.219235</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+        <themekey>structure</themekey>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Hospitals</themekey>
+        <themekey>Hotels</themekey>
+        <themekey>Palaces</themekey>
+        <themekey>Bus terminals</themekey>
+        <themekey>Mosques</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Baghdad</placekey>
+        <placekey>Iraq</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>LeadDog Consulting, LLC</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>1462 Center Rd.</address>
+          <city>Corinth</city>
+          <state>VT</state>
+          <postal>05039</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>888-750-0309</cntvoice>
+        <cntvoice>802-439-5284 (International callers)</cntvoice>
+        <cntfax>888-750-0309</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>United States and Russian military maps.</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>40,000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <srccurr>Unknown  (pre-2003)</srccurr>
+        </srctime>
+        <srccitea>U.S. and Russian Maps</srccitea>
+        <srccontr>Vector data derived from maps</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>United States and Russian military maps</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>25,000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <srccurr>Unknown (pre-2003)</srccurr>
+        </srctime>
+        <srccitea>U.S. and Russian Maps</srccitea>
+        <srccontr>Vector data derived from maps</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>LeadDog Consulting transformed (vectorized) U.S. and Russian military maps of Baghdad and Basra and distributed these digital maps via CD-ROM.</procdesc>
+        <srcused>U.S. and Russian maps</srcused>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>LeadDog Consulting, LLC</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>1462 Center Rd.</address>
+              <city>Corinth</city>
+              <state>VT</state>
+              <postal>05039</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>888-750-0309</cntvoice>
+            <cntfax>888-750-0309</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Baghdad and Basra GIS data was obtained via CD-ROM. The data were in the format of ESRI Shapefiles and were imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <procdate>20041013</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>GIS Technician</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.BAGH_LNDMRK">
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>121</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>WGS84</horizdn>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed Name="TIM.BAGH_LNDMRK">
+      <enttyp>
+        <enttypl>Baghdad Landmarks</enttypl>
+        <enttypd>Points represent landmark features with associated attribute data</enttypd>
+        <enttypds>HGL</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Type of Feature</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Transportation</edomv>
+          </edom>
+          <edom>
+            <edomv>Palace</edomv>
+          </edom>
+          <edom>
+            <edomv>Hotel</edomv>
+          </edom>
+          <edom>
+            <edomv>Mosque</edomv>
+          </edom>
+          <edom>
+            <edomv>Hospital</edomv>
+          </edom>
+          <edom>
+            <edomv>Government Building or Facility</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NOMBRE</attrlabl>
+        <attrdef>Feature Name</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>None.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20041213</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA.</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

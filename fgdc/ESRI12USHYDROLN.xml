@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Atlas of the United States</origin>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20120301</pubdate>
+        <title>U.S. National Atlas Water Feature Lines : Esri Data &amp; Maps 2012</title>
+        <edition>2012</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>Data &amp; Maps for ArcGIS</sername>
+          <issue>2012 - World, Europe, and United States</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Esri</publish>
+        </pubinfo>
+        <othercit>Location: Data &amp; Maps for ArcGIS 2012 \usa\hydro</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri12ushydroln</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. National Atlas Water Feature Lines represents the linear water features (for example, aqueducts, canals, intracoastal waterways, and streams) of the United States.</abstract>
+      <purpose>U.S. National Atlas Water Feature Lines provides the linear water features for geographic display and analysis at regional and national levels.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:1,000,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>1995-2002</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200601</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2004</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition: 1995-2002; publication date: 200601, 2004</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.065720</westbc>
+        <eastbc>-65.387969</eastbc>
+        <northbc>71.222237</northbc>
+        <southbc>17.958974</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Bodies of water</themekey>
+        <themekey>Canals</themekey>
+        <themekey>Rivers</themekey>
+        <themekey>Aqueducts</themekey>
+        <themekey>Hydrography</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>line</themekey>
+        <themekey>hydrography</themekey>
+        <themekey>water</themekey>
+        <themekey>rivers</themekey>
+        <themekey>streams</themekey>
+        <themekey>canals</themekey>
+        <themekey>dams</themekey>
+        <themekey>falls</themekey>
+        <themekey>aqueducts</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>Virgin Islands of the United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1995-2002</tempkey>
+        <tempkey>2006</tempkey>
+        <tempkey>2004</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License. These data must be used in compliance with the Site License. This means that the data are only available for Harvard Affiliates for use on Harvard owned computers.The data are provided by multiple, third party data vendors under license to Esri for inclusion on Data &amp; Maps for ArcGIS for use with Esri software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.The redistribution rights for this data set: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.The terms and conditions below apply to all the data sets provided on Data &amp; Maps.Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of Esri and its licensor(s). The Data and Related Materials are owned by Esri and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.Limited Warranty and Disclaimer: Esri warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. Esri DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. Esri IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.HIGH RISK ACTIVITIES: (A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). Esri SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD Esri, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.Exclusive Remedy and Limitation of Liability: The entire liability of Esri or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to Esri with a copy of Licensee's invoice/receipt and Esri returning the license fees paid to Licensee.IN NO EVENT SHALL Esri AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT Esri OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.Third Party Beneficiary: Esri's licensor(s) has (have) authorized Esri to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the Esri licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to Esri.In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, Esri has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Esri</cntorg>
+          <cntper>ArcGIS Content Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded. Outside the United States-Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.  For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Esri ArcGIS 10.1</native>
+  </idinfo>
+  <dataqual>
+    <logic>The shapefile is converted to SDC (Smart Data Compression) format using tools in ArcGIS.  The SDC data set is then imported into a file geodatabase to verify, validate, and if needed repair the geometry.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials. Data completeness generally reflects the content of the original Digital Line Graph (DLG) files.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was originally extracted from the individual 1:2,000,000-scale State boundary Digital Line Graph (DLG) files produced by the U.S. Geological Survey which have a positional accuracy of 1,720 meters.  It was updated several times using various sources whose horizontal positional accuracies are unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Atlas of the United States</origin>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>200301</pubdate>
+            <title>Streams and Waterbodies of the United States</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Virginia, USA</pubplace>
+              <publish>United States Geological Survey</publish>
+            </pubinfo>
+            <onlink>http://www.nationalatlas.gov/atlasftp.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1995</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>National Atlas</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>TomTom North America, Inc.</origin>
+            <pubdate>200601</pubdate>
+            <title>Dynamap/Census Boundaries v. 7.0</title>
+            <edition>Version 7.0</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>TomTom Dynamap/Census Boundaries</sername>
+              <issue>Version 7.0</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Lebanon, New Hampshire, USA</pubplace>
+              <publish>TomTom North America, Inc.</publish>
+            </pubinfo>
+            <othercit>Provides the coastline that the water feature lines are clipped to.</othercit>
+            <onlink>http://www.tomtom.com/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200601</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Dynamap/Census Boundaries v. 7.0</srccitea>
+        <srccontr>Geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>United States. Environmental Protection Agency</origin>
+            <pubdate>2004</pubdate>
+            <title>National Hydrography Dataset</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Virginia, USA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>The tiles were downloaded in December 2004.This supplies the correct spelling of the Santiam River in Oregon.</othercit>
+            <onlink>http://nhd.usgs.gov/</onlink>
+            <onlink>ftp://nhdftp.usgs.gov/SubRegions/Medium/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2004</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NHD</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This file was originally digitized by the National Mapping Division based on the sectional maps contained in 'The National Atlas of the United States of America' published by the USGS in 1970.  The 1:2,000,000-scale Digital Line Graph (DLG) data were merged into a single national hydrography coverage. Where necessary to effect the merge, alignment changes were made.  The names were taken from the USGS Topographic 1:100,000-scale maps.  For Alaska, the names were taken from the USGS Topographic 1:250,000-scale maps.  State lines across water bodies were removed from the national coverage.  State attributes were assigned to the features.Some spatial features were added and corrected.  Some name attributes were added or corrected.  All occurrences of St. were changed to Saint.  Extra spaces were removed from the attributes.  Hydrographic features for Puerto Rico and the U.S. Virgin Islands were added. A minor adjustment was made to the shoreline in Galveston Bay, Texas. The linear water feature attribute value, Intercoastal waterway, was changed to Intracoastal waterway.</procdesc>
+        <procdate>200212</procdate>
+        <srcprod>National Atlas</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by Esri: Downloaded the compressed file from the National Atlas of the United States and extracted it. Removed unneeded attributes. Removed all records except those with FEATURE attribute types of "Aqueduct", "Braided Stream", "Canal", "Canal Intermittent", "Dam", "Falls", "Intracoastal Waterway", "Stream", and "Stream Intermittent". Reduced the attribute widths of FEATURE and NAME. Added attribute MILES and calculated its values. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>National Atlas</srcused>
+        <procdate>20050317</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by Esri: Removed Alaskan water feature lines west of 180 degrees longitude.  Clipped the water feature lines to the coastline of 2006 U.S. States using ArcGIS Intersect.  Dissolved on all attributes to restore connectivity across state boundaries since the Intersect cut the features there.  Converted the data set to SDC.  Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>Dynamap/Census Boundaries v. 7.0</srcused>
+        <procdate>20060415</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by Esri: Selected all occurrences of the Santiam River in Oregon and corrected it from 'Santium'. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>NHD</srcused>
+        <procdate>20090529</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was downloaded from the Esri Data and Maps 10.1 DVD.  The layer was originally stored in an SDC (Smart Data Compression) format.  ArcCatalog 10.1 was utilized to export the SDC file into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>201209</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>42036</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI12USHYDROLN</enttypl>
+        <enttypd>The lines represent the linear water features within the United States.</enttypd>
+        <enttypds>National Atlas of the United States and the United States Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE</attrlabl>
+        <attrdef>The type of water feature.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Aqueduct</edomv>
+            <edomvd>A structure designed to transport water from a supply source to a distribution point, often by gravity.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Braided Stream</edomv>
+            <edomvd>A stream or river that flows in an intricate network of interlacing channels.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Canal</edomv>
+            <edomvd>An artificial open waterway constructed to carry water, to irrigate or drain land, to connect two or more bodies of water, or to serve as a waterway for water craft.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Canal Intermittent</edomv>
+            <edomvd>An artificial open waterway, that contains water part of the year, constructed to carry water, to irrigate or drain land, to connect two or more bodies of water, or to serve as a waterway for water craft.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Dam</edomv>
+            <edomvd>A barrier constructed to control the flow or level of water.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Falls</edomv>
+            <edomvd>A vertical or near vertical descent of water over a step or ledge in the bed of the river.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Intracoastal Waterway</edomv>
+            <edomvd>A system of rivers, canals and designated channels along the northern border and the Atlantic and Gulf coasts of the United States.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Stream</edomv>
+            <edomvd>A body of water flowing in a channel or watercourse.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>Stream Intermittent</edomv>
+            <edomvd>A body of water flowing in a channel or watercourse for part of the year.</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The water feature name.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>The two-letter abbreviation for each state where the water feature is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards 5-2</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MILES</attrlabl>
+        <attrdef>The length of the water feature in miles.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Calculated lengths for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20121002</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML InfoMap (Firm)</origin>
+        <origin>Indian Council of Agricultural Research. National Bureau of Soil Survey and Land Use Planning.</origin>
+        <pubdate>2008</pubdate>
+        <title>India SoilMap</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>New Delhi</pubplace>
+          <publish>ML InfoMap Pvt. Ltd.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-indiasoilmap</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set contains soil data for the country of India.  Soil map of India includes all suborder, group and sub-group of soil, physiography, parent material, surface texture, soil depth, particle size and location attributes. 
+
+Physiographical divisions based on National Bureau of Soil Survey &amp; Land Use Planning data from the National atlas of India published by the National Atlas &amp; Thematic Mapping Organisation, India, 1981.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1981</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>68.196831</westbc>
+        <eastbc>97.409096</eastbc>
+        <northbc>37.121712</northbc>
+        <southbc>6.767454</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Soils</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>India</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ML InfoMap</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>124 - A Katwaria Sarai</address>
+          <city>New Delhi</city>
+          <postal>110 016</postal>
+          <country>India</country>
+        </cntaddr>
+        <cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+        <cntfax>+ 91 - 11 - 4168 8593</cntfax>
+        <cntemail>post@mlinfomap.com</cntemail>
+        <cntinst>www.mlinfomap.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>ArcCatalog 9.2 service pack 5</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Atlas &amp; Thematic Mapping Organisation (India)</origin>
+            <pubdate>1981</pubdate>
+            <title>National atlas of India</title>
+            <geoform>atlas</geoform>
+            <pubinfo>
+              <pubplace>Calcutta, India</pubplace>
+              <publish>National Atlas &amp; Thematic Mapping Organisation</publish>
+            </pubinfo>
+            <othercit>3 v. : col. ill. ; 56 cm.
+
+Soil map by National Bureau of Soil Survey &amp; Land Use Planning.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1981</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>National Atlas of India</srccitea>
+        <srccontr>Source paper map</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ML InfoMap (Firm)</origin>
+            <pubdate>2008</pubdate>
+            <title>SoilMap and SoilMap district level</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+            <othercit>1 computer optical disc ; 4 3/4 in.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2008</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>SoilMap</srccitea>
+        <srccontr>Dataset source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data was copied from source CD-ROM as a shapefile and loaded into SDE using ArcCatalog 9.2 service pack 5.</procdesc>
+        <srcused>SoilMap</srcused>
+        <procdate>200806</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>2618</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>INDIASOILMAP</enttypl>
+        <enttypd>India SoilMap</enttypd>
+        <enttypds>ML Infomap</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOILFIN_ID</attrlabl>
+        <attrdef>Unique identification number</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SOIL_CODE</attrlabl>
+        <attrdef>Soil code to enable thematic mapping of soil taxonomy groups with ease</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_T_ORDER</attrlabl>
+        <attrdef>Soil taxonomy major order</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_T_SUBORD</attrlabl>
+        <attrdef>Soil suborder subdivided from soil order</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_T_GROUP</attrlabl>
+        <attrdef>Soil taxonomy group subdivided from the soil suborder</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PHYS_CLASS</attrlabl>
+        <attrdef>Physiographic classes as hill, mountain, pediment, plain (old and recent) flood plain, active flood plain, delta, plateau etc. In totality there are 20 physical division.</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PHYS_S_DIV</attrlabl>
+        <attrdef>The subdivision of above physical feature which are 58 for all India</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_MATERIAL</attrlabl>
+        <attrdef>Parent material : Alluvium, colluvium, aeolian, sandstone/shales etc.</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_S_TEXTUR</attrlabl>
+        <attrdef>Soil surface texture : Sand, loamy sand, sandy loam, loam, clay loam, sandy clay, loam, silt, silt loam, silty clay, silty clay loam, sandy clay, clay etc.</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SST_CLAY</attrlabl>
+        <attrdef>Soil surface texture for clay in percentage</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SST_SAND</attrlabl>
+        <attrdef>Soil surface texture for sand in percentage</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SST_SILT</attrlabl>
+        <attrdef>Soil surface texture for silt in percentage</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SOIL_DEPTH</attrlabl>
+        <attrdef>Depth Classes</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>VERY DEEP</edomv>
+            <edomvd>more than 100 cm.</edomvd>
+          </edom>
+          <edom>
+            <edomv>DEEP</edomv>
+            <edomvd>50-100 cm.</edomvd>
+          </edom>
+          <edom>
+            <edomv>MODERATLEY DEEP</edomv>
+            <edomvd>25-50 cm.</edomvd>
+          </edom>
+          <edom>
+            <edomv>SHALLOW</edomv>
+            <edomvd>10-25 cm.</edomvd>
+          </edom>
+          <edom>
+            <edomv>VERY SHALLOW</edomv>
+            <edomvd>0-10 cm.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S_DEPTH_CM</attrlabl>
+        <attrdef>Soil Depth in centimeter ranges</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_P_SIZE</attrlabl>
+        <attrdef>Soil particle size: Fine textured soil, course, course loamy, fine silty, loamy-skeletal sandy etc.</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L_INDIA1</attrlabl>
+        <attrdef>Major location in India</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L_INDIA2</attrlabl>
+        <attrdef>Major location in India</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L_INDIA3</attrlabl>
+        <attrdef>Major location in India</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L_INDIA4</attrlabl>
+        <attrdef>Major location in India</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L_INDIA5</attrlabl>
+        <attrdef>Major location in India</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080926</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

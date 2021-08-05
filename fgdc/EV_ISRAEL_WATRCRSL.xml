@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>East View Cartographic, Inc.</origin>
+        <origin>Soviet Union. Sovetskai?a? Armii?a?. General?nyi? shtab</origin>
+        <pubdate>2003</pubdate>
+        <title>Watercourses (Lines), Israel, 1987</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Minneapolis, MN</pubplace>
+          <publish>East View Cartographic, Inc.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ev-israel-watrcrsl</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Watercourse line features for Israel. Feature vector data was extracted by East View Cartographic from 1:500,000 series Soviet military topographic source map sheets published in 1987.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1987</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>34.007082</westbc>
+        <eastbc>35.998783</eastbc>
+        <northbc>33.333300</northbc>
+        <southbc>29.539845</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Bodies of water</themekey>
+        <themekey>Rivers</themekey>
+        <themekey>River channels</themekey>
+        <themekey>Canals</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Israel</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>East View Cartographic, Inc.</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>3020 Harbor Lane North</address>
+          <city>Plymouth</city>
+          <state>MN</state>
+          <postal>55447</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>+1.763.550.0965</cntvoice>
+        <cnttdd>+1.800.477.1005</cnttdd>
+        <cntfax>+1.763.559.1931</cntfax>
+        <cntemail>maps@cartographic.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Where possible, attribute data were tested by creating symbolized digital displays or hardcopy plots, which were visually verified to digital and hard copy reference data. Attribute data that could not be verified in such a manner were interactively queried within the authoring software to check for anomalies such as duplication of data in fields requiring unique values and incorrect feature coding.</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Data completeness reflects the content of the original 1:500,000 scale Soviet mapping.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The data set meets the Soviet mapping accuracy standards for scale 1:500,000. The horizontal accuracy is +/- 250 meters at a ninety percent confidence level.</horizpar>
+        <qhorizpa>
+          <horizpav>250 meters</horizpav>
+          <horizpae>Unknown</horizpae>
+        </qhorizpa>
+      </horizpa>
+      <vertacc>
+        <vertaccr>The data set meets the Soviet mapping accuracy standards for 100-meter contours. The vertical accuracy is +/- 50 meters at a ninety percent confidence level.</vertaccr>
+        <qvertpa>
+          <vertaccv>50 meters</vertaccv>
+          <vertacce>Unknown</vertacce>
+        </qvertpa>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Soviet Union. Sovetskai?a? Armii?a?. General?nyi? shtab</origin>
+            <pubdate>1987</pubdate>
+            <title>1:500,000 scale Soviet military topographic maps</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>1:500,000 scale Soviet military topographic mapping</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Moscow</pubplace>
+              <publish>Soviet Military Topographic Directorate of the General Staff of the Ministry of Defense</publish>
+            </pubinfo>
+            <othercit>Sheets: H-36-2, I-36-4, H-36-4</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>500000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1987</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Soviet 500K maps</srccitea>
+        <srccontr>Source map from which features were digitized</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>East View Cartographic, Inc.</origin>
+            <pubdate>2003</pubdate>
+            <title>Israel vector 1:500,000</title>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>EVMAP5000</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Minneapolis, MN</pubplace>
+              <publish>East View Cartographic, Inc.</publish>
+            </pubinfo>
+            <othercit>Full GIS vector dataset extracted from 1:500,000 scale Soviet military topographic maps</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>500000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2003</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Vector data</srccitea>
+        <srccontr>CD-ROM source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Map features digitized.</procdesc>
+        <srcused>Soviet 500K maps</srcused>
+        <procdate>2003</procdate>
+        <srcprod>Vector data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>East View Cartographic, Inc.</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>3020 Harbor Lane North</address>
+              <city>Plymouth</city>
+              <state>MN</state>
+              <postal>55447</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>+1.763.550.0965</cntvoice>
+            <cnttdd>+1.800.477.1005</cnttdd>
+            <cntfax>+1.763.559.1931</cntfax>
+            <cntemail>maps@cartographic.com</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This shapefile was loaded into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" ArcCatalog tool.</procdesc>
+        <srcused>Vector data</srcused>
+        <procdate>201312</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1498</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>EV_ISRAEL_WATRCRSL</enttypl>
+        <enttypd>Watercourse Point Features</enttypd>
+        <enttypds>East View Cartographic</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WATRCRSL_I</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FCODE</attrlabl>
+        <attrdef>Feature code</attrdef>
+        <attrdefs>East View Cartographic</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>HY086</edomv>
+            <edomvd>Intermittent rivers (width less than 60 meters)</edomvd>
+            <edomvds>East View Cartographic</edomvds>
+          </edom>
+          <edom>
+            <edomv>HY091</edomv>
+            <edomvd>Rivers (width less than 60 meters) drawn with thin line</edomvd>
+            <edomvds>East View Cartographic</edomvds>
+          </edom>
+          <edom>
+            <edomv>HY087</edomv>
+            <edomvd>Non-navigable canals (width less than 20 meters)</edomvd>
+            <edomvds>East View Cartographic</edomvds>
+          </edom>
+          <edom>
+            <edomv>HY085</edomv>
+            <edomvd>Rivers (width from 60 to 300 meters)</edomvd>
+            <edomvds>East View Cartographic</edomvds>
+          </edom>
+          <edom>
+            <edomv>HY089</edomv>
+            <edomvd>Canals under construction (width less than 20 meters)</edomvd>
+            <edomvds>East View Cartographic</edomvds>
+          </edom>
+          <edom>
+            <edomv>HY095</edomv>
+            <edomvd>Intermittent rivers (width from 60 to 300 meters)</edomvd>
+            <edomvds>East View Cartographic</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FNAME</attrlabl>
+        <attrdef>Feature type name</attrdef>
+        <attrdefs>East View Cartographic</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Information Technology</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140110</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

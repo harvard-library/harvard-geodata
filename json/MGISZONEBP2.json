@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgiszonebp2",
+  "dc_title_s": "MassGIS 2003 Massachusetts Surface Water Supply Protection Areas (Zone B) (Polygons) (March 2003)",
+  "dc_description_s": "This datalayer consists of polygons representing Massachusetts Surface Water Supply Protection Zones (Zone B). (See also the Surface Water Supply Protection Zones (Zone B) (Region Polygons) datalayer.) Three datalayers (ZONE A, ZONE B, ZONE C) delineate those areas included in 310 CMR 22.00, the Massachusetts Drinking Water Regulations, as Surface Water Supply Protection Zones: ZONE A: represents a) the land area between the surface water source and the upper boundary of the bank; b) the land area within a 400 foot lateral distance from the upper boundary of the bank of a Class A surface water source, as defined in 314 CMR 4.05(3)(a); and c) the land area within a 200 foot lateral distance from the upper boundary of the bank of a tributary or associated surface water body. ZONE B: represents the land area within one-half mile of the upper boundary of the bank of a Class A surface water source, as defined in 314 CMR 4.05(3)(a), or edge of watershed, whichever is less. Zone B always includes the land area within a 400 ft lateral distance from the upper boundary of the bank of the Class A surface water source. ZONE C: represents the land area not designated as Zone A or B within the watershed of a Class A surface water source, as defined in 314 CMR 4.05(3)(a). All known surface water supplies have zones delineated, but some may be covered by other legislation. Areas with a status value of M are included for reference but are not covered by 310 CMR 22.00. Each area is delineated in a separate datalayer, Zone A, Zone B, and Zone C.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//MGISZONEBP2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:MGISZONEBP2",
+  "layer_slug_s": "harvard-mgiszonebp2",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-08-04T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Dept. of Environmental Protection"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Water-supply",
+    "Water districts",
+    "Natural resources conservation areas",
+    "environment",
+    "utilitiesCommunication",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.491574, -70.585851, 42.867644, 41.556872)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

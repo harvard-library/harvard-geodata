@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2005</pubdate>
+        <title>China 2000 railways</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ch2000-railway</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer contains lines representing China railroads/railways for 2000.  
+
+This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003).  The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts.  Source scale: 1:1,000,000.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20001101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>84.708039</westbc>
+        <eastbc>133.122650</eastbc>
+        <northbc>52.969341</northbc>
+        <southbc>18.222338</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Transportation</themekey>
+        <themekey>Railroads</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>No part of this data product is allowed to be reproduced or re-distributed to any other parties without permission.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>University of Michigan</address>
+          <address>1080 S. University</address>
+          <address>Suite 3630</address>
+          <city>Ann Arbor</city>
+          <state>MI</state>
+          <postal>48109</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>734-647-9610</cntvoice>
+        <cntfax>734-764-5540</cntfax>
+        <cntemail>chinadata@umich.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <logic>None.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Geomatics Center of China</origin>
+            <pubdate>Unknown</pubdate>
+            <title>National Geomatics Center of China (NGCC) data</title>
+            <geoform>Unknown</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>National Geomatics Center of China</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NGCC</srccitea>
+        <srccontr>Cited as source in distributor's dataset metadata; contribution unknown.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: rail.
+
+Distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2003</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shape</srccitea>
+        <srccontr>Original source of datalayer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was downloaded from the CD and opened in ArcMap 9.1.  The projection was then defined in ArcMap to Krasovsky_1940, as stated in the readme.htm file that was included on the CD.  The layer was then imported to an ArcSDE 9.1 geodatabase via the command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>20060712</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>547</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CH2000_RAILWAY</enttypl>
+        <enttypd>Railways</enttypd>
+        <enttypds>China Data Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>From node.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>To node.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Left polygon.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Right polygon.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of railway</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAIL_</attrlabl>
+        <attrdef>Arc/info Inter ID</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAIL_ID</attrlabl>
+        <attrdef>Arc/info User ID</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENAME</attrlabl>
+        <attrdef>Name of railway in Chinese pinyin</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of railway in Chinese characters</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text [Unicode]</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20061024</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

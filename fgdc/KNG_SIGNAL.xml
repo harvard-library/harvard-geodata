@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <origin>King County (Wash.). Transit Division.</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : traffic signals</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-signal</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>King County, Washington traffic signal points.</abstract>
+      <purpose>This data layer was developed to represent traffic signal locations in a GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030625</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source coverage publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.478714</westbc>
+        <eastbc>-121.753647</eastbc>
+        <northbc>47.817954</northbc>
+        <southbc>47.186369</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Traffic signs and signals</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>GIS group - Transit Infrastructure and Integration</cntorg>
+          <cntper>Tamara Davis</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Exchange Building</address>
+          <address>821 Second Ave., MS 150</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98014</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 684-2118</cntvoice>
+        <cntemail>tamara.davis@metrokc.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+    <crossref>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>SIGNALPAT.LXT</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <othercit>Item JURISDICTI in table SIGNALPAT.LXT relates on the right to JURISDICTI in SIGNAL.PATAT</othercit>
+        <lworkcit>
+          <citeinfo>
+            <origin>King County (Wash.). GIS Center</origin>
+            <pubdate>2003</pubdate>
+            <title>King County GIS data.</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>King County GIS Center</pubplace>
+              <publish>[Seattle, Wash.]</publish>
+            </pubinfo>
+            <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.). Transit Division.</origin>
+            <origin>King County (Wash.). GIS Center.</origin>
+            <origin>King County (Wash.)</origin>
+            <pubdate>20030625</pubdate>
+            <title>SIGNAL: Traffic Signals</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: transit-signal</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.). GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030625</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>2306</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000132</absres>
+            <ordres>0.000132</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_SIGNAL</enttypl>
+        <enttypd>King County Traffic Signals</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>KNG_SIGNAL.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIGNAL_</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SIGNAL_ID</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TPKEY</attrlabl>
+        <attrdef>Time Point Key - Unique id of the time point link the signal relates to</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAMKEY</attrlabl>
+        <attrdef>Ramkey : Unique id of the street link the signal relates to</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UFLAG</attrlabl>
+        <attrdef>U flag : Indicates if modified since last Oracle update</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>X_COORD</attrlabl>
+        <attrdef>The x coordinated identifying the location of the signal</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Y_COORD</attrlabl>
+        <attrdef>The Y coordinate identifying the location of the signal</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attrdef>The longitude of the signal</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE</attrlabl>
+        <attrdef>The latitude of the signal</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIGNAL</attrlabl>
+        <attrdef>Number of Signals</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DATEUP</attrlabl>
+        <attrdef>Date feature was updated</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CITY</attrlabl>
+        <attrdef>City code where the signals locate</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AL</edomv>
+            <edomvd>Algona</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>AU</edomv>
+            <edomvd>Auburn</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>BD</edomv>
+            <edomvd>Black Diamond</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>BE</edomv>
+            <edomvd>Bellevue</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>BO</edomv>
+            <edomvd>Bothell</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>BU</edomv>
+            <edomvd>Burien</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>CO</edomv>
+            <edomvd>Covington</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>DM</edomv>
+            <edomvd>Des Moines</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>DU</edomv>
+            <edomvd>Duvall</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>EN</edomv>
+            <edomvd>Enumclaw</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>FW</edomv>
+            <edomvd>Federal Way</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>IS</edomv>
+            <edomvd>Issaquah</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>KC</edomv>
+            <edomvd>King County</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>KE</edomv>
+            <edomvd>Kent</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>KI</edomv>
+            <edomvd>Kirkland</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>KM</edomv>
+            <edomvd>Kenmore</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>LF</edomv>
+            <edomvd>Lake Forest Park</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>ME</edomv>
+            <edomvd>Medina</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>MI</edomv>
+            <edomvd>Mercer Island</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>MV</edomv>
+            <edomvd>Maple Valley</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>NE</edomv>
+            <edomvd>Newcastle</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>NP</edomv>
+            <edomvd>Normandy Park</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>PA</edomv>
+            <edomvd>Pacific</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>RM</edomv>
+            <edomvd>Redmond</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>RN</edomv>
+            <edomvd>Renton</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>SE</edomv>
+            <edomvd>Seattle</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH</edomv>
+            <edomvd>Shoreline</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>SM</edomv>
+            <edomvd>Sammamish</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>ST</edomv>
+            <edomvd>Seatac</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>TU</edomv>
+            <edomvd>Tukwila</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>WO</edomv>
+            <edomvd>Woodinville</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JURISDICTI</attrlabl>
+        <attrdef>The owner of the signal</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAINTAINED</attrlabl>
+        <attrdef>Indicates who maintains the signals</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COORDINATI</attrlabl>
+        <attrdef>Indicates if signal timing coordinated</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Arterial</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Central</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Closed Loop</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Isolated</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Network</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>None</edomv>
+            <edomvd>Not Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Traffic Resp.</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Yes</edomv>
+            <edomvd>Coordinated</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AVI</attrlabl>
+        <attrdef>Automated Vehicle Identification has signal priority equipment</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MANUFACTUR</attrlabl>
+        <attrdef>Manufacturing : Indicates which company made the signal controller</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Type of the signals</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CABINET</attrlabl>
+        <attrdef>Indicates size &amp; configuration for the cabinets</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MASTERLOCA</attrlabl>
+        <attrdef>Master location : Intersection where the master controller coordinate system</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INTERCONNE</attrlabl>
+        <attrdef>Indicates how the signal is interconnected</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Aerial</edomv>
+            <edomvd>Aerial</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Bur.</edomv>
+            <edomvd>Buried</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Buried</edomv>
+            <edomvd>Buried</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Fiber</edomv>
+            <edomvd>Fiber</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>None</edomv>
+            <edomvd>None</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Phone-Bur.</edomv>
+            <edomvd>Phone buried</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Radio</edomv>
+            <edomvd>Radio</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>TBC</edomv>
+            <edomvd>Twisted pair cable</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Time Based</edomv>
+            <edomvd>Time Based</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>TwPr</edomv>
+            <edomvd>Twisted Pair</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>TwPr-Bur.</edomv>
+            <edomvd>Twisted Pair Buried</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>TwPr.-Bur.</edomv>
+            <edomvd>Twisted Pair Buried</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Wire</edomv>
+            <edomvd>Wire</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONTROL</attrlabl>
+        <attrdef>The signal control strategy</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONTROLLER</attrlabl>
+        <attrdef>Controller model number</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STREET_1</attrlabl>
+        <attrdef>The name of street where the signal is on</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STREET_2</attrlabl>
+        <attrdef>Name of the street where the signal is on</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070123</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

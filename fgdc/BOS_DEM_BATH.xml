@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>United States. National Oceanic and Atmospheric Administration</origin>
+        <origin>Harvard University. Graduate School of Design.</origin>
+        <pubdate>2009</pubdate>
+        <title>Boston, Massachusetts Region, Digital Elevation Model with Bathymetry</title>
+        <geoform>SDE raster digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-bos-dem-bath</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This raster layer represents surface elevation and bathymetry data for the Boston Region, Massachusetts. It was created by merging portions of MassGIS Digital Elevation Model 1:5,000 (2005) data with NOAA Estuarine Bathymetric Digital Elevation Models (30 m.) (1998). DEM data was derived from the digital terrain models that were produced as part of the MassGIS 1:5,000 Black and White Digital Orthophoto imagery project. Cellsize is 5 meters by 5 meters. Each cell has a floating point value, in meters, which represents its elevation above or below sea level.</abstract>
+      <purpose>Planning and surface (terrain) analysis and cartographic display</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>2005</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1998</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>source publication dates</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.205018</westbc>
+        <eastbc>-70.806082</eastbc>
+        <northbc>42.482320</northbc>
+        <southbc>42.229217</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Altitudes</themekey>
+        <themekey>Oceans</themekey>
+        <themekey>Bathymetric maps</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+        <themekey>oceans</themekey>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>digital elevation model</themekey>
+        <themekey>digital terrain model</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Boston</placekey>
+        <placekey>Boston Harbor</placekey>
+        <placekey>Arlington</placekey>
+        <placekey>Belmont</placekey>
+        <placekey>Braintree</placekey>
+        <placekey>Brookline</placekey>
+        <placekey>Burlington</placekey>
+        <placekey>Cambridge</placekey>
+        <placekey>Chelsea</placekey>
+        <placekey>Cohasset</placekey>
+        <placekey>Dedham</placekey>
+        <placekey>Everett</placekey>
+        <placekey>Hingham</placekey>
+        <placekey>Hull</placekey>
+        <placekey>Lexington</placekey>
+        <placekey>Lynn</placekey>
+        <placekey>Malden</placekey>
+        <placekey>Marblehead</placekey>
+        <placekey>Medford</placekey>
+        <placekey>Melrose</placekey>
+        <placekey>Milton</placekey>
+        <placekey>Nahant</placekey>
+        <placekey>Needham</placekey>
+        <placekey>Newton</placekey>
+        <placekey>Quincy</placekey>
+        <placekey>Revere</placekey>
+        <placekey>Saugus</placekey>
+        <placekey>Somerville</placekey>
+        <placekey>Stoneham</placekey>
+        <placekey>Swampscott</placekey>
+        <placekey>Wakefield</placekey>
+        <placekey>Waltham</placekey>
+        <placekey>Watertown</placekey>
+        <placekey>Westwood</placekey>
+        <placekey>Weymouth</placekey>
+        <placekey>Winchester</placekey>
+        <placekey>Winthrop</placekey>
+        <placekey>Woburn</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Paul Cote</cntper>
+          <cntorg>Harvard Graduate School of Design</cntorg>
+        </cntperp>
+        <cntpos>Geographic Information Systems Specialist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Gund Hall 520</address>
+          <address>48 Quincy St</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617.496.0546</cntvoice>
+        <cntfax>617.496.5866</cntfax>
+        <cntemail>pbcote@gsd.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Bathymetric data: The accuracy of a DEM is dependent upon the level of detail of the source soundings and the grid spacing used to sample that source. The primary limiting factor for the level of detail of the source is the scale of the source survey, the technology used to collect soundings, and the resolution of the source soundings. Additional complications in describing accuracy are the ages of the surveys used to collect sounding in a given area. Care was used to use the most recent surveys covering a given area but in some instances adjacent surveys may be decades apart in age. In some regions, the only source data were at fathom (6 feet) resolution. In general, most source surveys were certified to one foot or better by the National Ocean Service.</attraccr>
+    </attracc>
+    <logic>Bathymetric data: 
+
+The fidelity of the relationships encoded in the data structure of the DEM are automatically verified using a NOAA-NOS software program upon completion of the data production cycle. The test verifies full compliance to the DEM specification.</logic>
+    <complete>DEM Covers Boston Region.
+
+Bathymetric data :
+
+The DEM is visually inspected for completeness on a DEM view and edit system for the purpose of performing a final quality control and if necessary, edit of the DEM. The physical format of each DEM is validated for content completeness and logical consistency during production quality control.
+
+Due to the variable orientation of the 7 1/2 minute quadrilateral in relation to the Universal Transverse Mercator (UTM) projection grid, profiles that pass within the bounds of the DEM quadrilateral may be void of elevation grid points and are not represented in the DEM. This condition occurs infrequently and is always the first or last profile of the dataset.
+
+DEM's may contain void areas caused by elevations being above Mean High Water or on non-tidal land. Void elevations are assigned the value of -32,767. In addition, suspect elevation areas may exist in the DEM but are not specifically identified.
+
+Only available data digitized before 1997 were used in this project. Additional sounding information may exist for areas which have holes in the bathymetric data set, but was not available at the time this project was completed. No additional updates or error corrections are planned for this data set.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>DEM data: The source digital terrain model data were collected on analytical stereoplotters at a sufficient density to support generation of 3-meter contours conforming to the National Map Accuracy Standards (+ or - 1.5 meters) at the nominal scale of 1:5,000.
+
+Bathymetric data: The horizontal accuracy of the DEM is expressed as an estimated root mean square error (RMSE). The estimate of the RMSE is based upon horizontal accuracy tests of the source soundings used to generate the DEM. As a first approximation the locational accuracy of the source soundings are 0.0015 m at source "Smooth Sheet" scale (120 m @ 1:80,000 to 15 m @ 1:10,000). Smooth Sheets are maps generated as a principle product of each (historic) hydrographic survey with fully corrected soundings plotted on them.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Bathymetric data: The vertical RMSE statistic is used to describe the vertical accuracy of a DEM. It encompasses both random and systematic errors introduced during production of the data. The RMSE is encoded in element number 5 of record C of the DEM. This accuracy estimate includes components related to quantization of the source soundings (1.3 to 0.15 m), the systematic editing of the source data (1% or 0.10m), un-sampled bathymetric features (estimated at less than 5% of depth), time related changes (erosion, deposition, and seismic shifts), and dredging operations (cut and fill).
+
+It is estimated that the accuracy of the Bathymetric DEMs is 2% of depth or 1 meter for depths grater than 20 meters and 2 % of depth or 0.20 meters for depths shallower than 20 meters. THESE DEMs SHOULD NOT BE USED FOR NAVIGATION.
+
+There are three types of DEM vertical errors: blunder, systematic, and random. These errors are reduced in magnitude by editing but cannot be completely eliminated. Blunders are errors of major proportions and are easily identified and removed during interactive editing. Systematic errors follow some fixed pattern and are introduced by data collection procedures and systems. Systematic error artifacts include vertical unsampled elevation shifts, relative spacing of the source soundings, misinterpretation of terrain surface caused by softness or poor reflectivity and by the resolution of the collected soundings (feet, feet &amp; fractions, fathoms, fathoms &amp; fractions, meters, tenths of meters etc.). Random errors result from unknown or accidental causes. The 1 degree (DSQ) DEMs are generated from 30 m grids on UTM projection. The RMSE difference between these surfaces is an estimate of the vertical accuracy of the DSQ DEMs.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>200304</pubdate>
+            <title>Digital Terrain Model (DTM)</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200304</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DTM</srccitea>
+        <srccontr>Source Digital Terrain Model</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>200502</pubdate>
+            <title>Digital Elevation Model (1:5,000)</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>5000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200502</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DEM</srccitea>
+        <srccontr>Source of Digital Elevation Model</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Oceanic and Atmospheric Administration</origin>
+            <pubdate>19980606</pubdate>
+            <title>Estuarine Bathymetric Digital Elevation Models (30 meter resolution) Derived From Source Hydrographic Survey Soundings Collected by NOAA</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Silver Spring, MD</pubplace>
+              <publish>NOAA's Ocean Service, Special Projects (SP)</publish>
+            </pubinfo>
+            <onlink>http://estuarinebathymetry.noaa.gov</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1839</begdate>
+              <enddate>1989</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Bathymetry</srccitea>
+        <srccontr>Source of Bathymetry data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>MassGIS used ESRI's ArcInfo Workstation software to produce TINs (triangulated irregular networks) from each DTM file (based on the Orthophoto Quad index) using the CREATETIN command. Breakline and mass points as coded in the DTMs were incorporated into the TINs. Lattices -- raster surface models with a regular array of cells -- were created from the TINs with the TINLATTICE command. To produce a continuous coastline, the outermost breaklines from the Topographic Breaklines layer were appended and edited into polygon coverages, converted to Grids, and used the in the SELECTMASK () Grid function. This process allowed all off-shore areas to be coded as NODATA. The lattices were then merged into statewide datasets and imported into an ArcSDE raster dataset.</procdesc>
+        <srcused>DTM</srcused>
+        <procdate>2005</procdate>
+        <srcprod>DEM</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>EOEA - MassGIS</cntorg>
+              <cntper>Michael Trust</cntper>
+            </cntorgp>
+            <cntpos>Sr. Database Administrator</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>251 Causeway Street</address>
+              <address>Suite 500</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02114</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>(617) 626-1000</cntvoice>
+            <cntfax>(617) 626-1249</cntfax>
+            <cntemail>michael.trust@state.ma.us</cntemail>
+            <hours>9 AM - 5 PM</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The NOAA bathymetry data was 30m. A focal mean was run on the data with a cell-size of 5m and a circular neighborhood of 6 cells to smooth it out.  Then a conditional function was used to merge the bathymetry data with the MassGIS DEM wherever the latter had cell values of 0.00 (only for areas covered by the bathymetry).</procdesc>
+        <srcused>DEM</srcused>
+        <srcused>Bathymetry</srcused>
+        <procdate>2006</procdate>
+        <srcprod>ESRI Grid</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Paul Cote</cntper>
+              <cntorg>Harvard Graduate School of Design</cntorg>
+            </cntperp>
+            <cntpos>Geographic Information Systems Specialist</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Gund Hall 520</address>
+              <address>48 Quincy St</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617.496.0546</cntvoice>
+            <cntfax>617.496.5866</cntfax>
+            <cntemail>pbcote@gsd.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The data were copied and loaded into SDE using ArcCatalog 9.2.</procdesc>
+        <srcused>ESRI Grid</srcused>
+        <procdate>2008</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>5585</rowcount>
+      <colcount>6541</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>5.000000</absres>
+            <ordres>5.000000</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>North American Vertical Datum of 1988</altdatum>
+        <altres>0.001</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BOS_DEM_BATH</enttypl>
+        <enttypd>Boston, Massachusetts Region, Digital Elevation Model with Bathymetry</enttypd>
+        <enttypds>Harvard Geospatial Library</enttypds>
+      </enttyp>
+    </detailed>
+    <overview>
+      <eaover>Each cell has an integer value, in meters, which represents its elevation above or below sea level.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SDE Raster</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20090203</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

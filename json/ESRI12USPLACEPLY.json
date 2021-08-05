@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri12usplaceply",
+  "dc_title_s": "U.S. Populated Place Areas : Esri Data & Maps 2012",
+  "dc_description_s": "U.S. Populated Place Areas represents populated place areas within the United States that include both incorporated places and census designated places identified by the U.S. Census Bureau.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI12USPLACEPLY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI12USPLACEPLY",
+  "layer_slug_s": "harvard-esri12usplaceply",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2012-09-26T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Census Bureau",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "Esri"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Villages",
+    "Population Statistics",
+    "Housing Statistics",
+    "Boundaries",
+    "Human settlements",
+    "Census districts",
+    "boundaries",
+    "society",
+    "polygon",
+    "places",
+    "populated places",
+    "incorporated places",
+    "census designated places",
+    "cities",
+    "towns",
+    "villages",
+    "boroughs",
+    "demographics",
+    "housing units",
+    "boundaries",
+    "society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2012-03-01",
+  "dct_temporal_sm": [
+    "2010",
+    "2011",
+    "2011",
+    "2010",
+    "2011"
+  ],
+  "solr_geom": "ENVELOPE(-176.713098, -66.979932, 71.339871, 19.018485)",
+  "solr_year_i": 2010,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

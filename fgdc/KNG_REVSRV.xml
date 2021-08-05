@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : Metro revenue service footprint</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-revsrv</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>King County, Washington King County Metro route footprint. A portion of the scheduled operation of a transit vehicle that is advertised in public timetables as available for public transportation service. Includes Ride Free Area service.</abstract>
+      <purpose>Used by transit staff and systems to represent the scheduled path of transit routes in the system. This layer is used for planning and operations in a variety of information systems including vehicle location; passenger counting; customer information and service planning.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030625</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source coverage publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Daily</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.527169</westbc>
+        <eastbc>-121.778943</eastbc>
+        <northbc>47.939320</northbc>
+        <southbc>47.181952</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Local transit</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>GIS group - Transit Infrastructure and Integration</cntorg>
+          <cntper>Tamara Davis</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Exchange Building</address>
+          <address>821 Second Ave., MS 150</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98014</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 684-2118</cntvoice>
+        <cntemail>tamara.davis@metrokc.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+    <crossref>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>PATTERN.DAT:Pattern.dat</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Wash.]</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <othercit>Item TPI-ID in table PATTERN.DAT relates on the left to REVSERV_ID in REVSERV.AAT</othercit>
+        <lworkcit>
+          <citeinfo>
+            <origin>King County (Wash.)  GIS Center</origin>
+            <pubdate>2003</pubdate>
+            <title>King County GIS data.</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>King County GIS Center</pubplace>
+              <publish>[Seattle, Wash.]</publish>
+            </pubinfo>
+            <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.). GIS Center.</origin>
+            <pubdate>20030625</pubdate>
+            <title>REVSERV: Revenue Service</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: transit-revserv</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.). GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030625</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>2730</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000159</absres>
+            <ordres>0.000159</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_REVSRV</enttypl>
+        <enttypd>King County Metro's Revenue Service Footprint</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>From node.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>To node</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Left polygon</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Right polygon</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REVSERV_</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REVSERV_ID</attrlabl>
+        <attrdef>Unique identifier for revenue service</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FROMTP</attrlabl>
+        <attrdef>From transfer point</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTP</attrlabl>
+        <attrdef>To transfer point</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TROLLEY</attrlabl>
+        <attrdef>Trolley lines</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIGNUP</attrlabl>
+        <attrdef>Sign up for service change</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DATEACT</attrlabl>
+        <attrdef>Date activated</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>The MDYY of the most recent activation</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070119</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri12uslalndmrk",
+  "dc_title_s": "U.S. Large Area Landmarks : Esri Data & Maps 2012",
+  "dc_description_s": "U.S. Large Area Landmarks represents common landmark areas within the United States including military territories, hospitals, educational institutions, shopping centers, industrial areas, amusement parks, stadiums, golf courses, and cemeteries.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI12USLALNDMRK.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI12USLALNDMRK",
+  "layer_slug_s": "harvard-esri12uslalndmrk",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2012-10-02T00:00:00Z",
+  "dc_creator_sm": [
+    "TomTom North America, Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "Esri"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Military bases",
+    "Correctional institutions",
+    "Prisons",
+    "School facilities",
+    "Amusement parks",
+    "Municipal buildings",
+    "Stadiums",
+    "Centers for the performing arts",
+    "Golf courses",
+    "Cemeteries",
+    "society",
+    "structure",
+    "polygon",
+    "landmarks",
+    "military territories",
+    "hospitals",
+    "educational institutions",
+    "colleges/universities",
+    "primary/secondary schools",
+    "shopping centers",
+    "industrial areas",
+    "amusement parks",
+    "stadiums",
+    "golf courses",
+    "cemeteries",
+    "society",
+    "structure"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2012-03-01",
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_geom": "ENVELOPE(-176.810434, -65.62905, 68.87001, 17.989248)",
+  "solr_year_i": 2011,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

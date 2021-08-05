@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <origin>Geological Survey (U.S)</origin>
+        <origin>American Geological Institute</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : World cities (2000)</title>
+        <geoform>vector digital data</geoform>
+        <serinfo/>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-glb-esricty</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing cities worldwide and was produced by ESRI and published as part of the USGS Global GIS database.  It was originally issued as part of the ESRI Data &amp; Maps 2000 data set.
+
+Attribute data includes information on city size (population) and port status.
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>World cities provides a base map layer of the cities for the world. The cities include national capitals, provincial capitals, major population centers, and landmark cities.
+
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political analysis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20001101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-176.151566</westbc>
+        <eastbc>179.221893</eastbc>
+        <northbc>78.199997</northbc>
+        <southbc>-54.792000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Cities and towns</themekey>
+        <themekey>Capitals (Cities)</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity, the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.
+
+The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD-ROMs for use with ESRI??? software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD-ROMs. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes. 
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s). 
+
+The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD-ROMs. 
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions. 
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt. 
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA. 
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee. 
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY. 
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI. 
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+        </cntorgp>
+        <cntpos>Data Team</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>CA</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit &lt;http://support.esri.com&gt;; ESRI holidays excluded. 
+
+Outside the United States-- Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at &lt;http://gis.esri.com/intldist/contactint.cfm&gt;. 
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <logic>No duplicate features are present. The shapefile is created directly from a topologically correct ArcInfo coverage.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was extracted from the ArcWorld Supplement database. No detailed evaluation of the positional accuracy of the ArcWorld Supplement data has been made; knowledge of the source World Data Bank II (WDBII) data is insufficient to determine positional accuracy of data derived from the source.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>20001101</pubdate>
+            <title>World cities</title>
+            <edition>2000</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Redlands, Calif.</pubplace>
+              <publish>Environmental Systems Research Institute (Redlands, Calif.)</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+                <pubdate>20001101</pubdate>
+                <title>ESRI data &amp; maps</title>
+                <edition>2000</edition>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                  <pubplace>Redlands, California, USA</pubplace>
+                  <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+                </pubinfo>
+                <othercit>Location: ESRI Data &amp; Maps 2000 (CD 1) \world</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20001101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI data &amp; maps</srccitea>
+        <srccontr>Original publication source</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>1996</pubdate>
+            <title>ArcWorld Supplement</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>3000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ArcWorld Supplement</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Dept. of State. Bureau of Intelligence and Research.</origin>
+            <origin>United States. Dept. of State. Office of the Geographer.</origin>
+            <pubdate>1993</pubdate>
+            <title>Geographic and global issues quarterly</title>
+            <edition>Volume 3, Number 4; Winter 1993/1994</edition>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>Office of the Geographer, Bureau of Intelligence and Research, US Dept. of State</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1993</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Geographic and Global Issues</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Central Intelligence Agency</origin>
+            <pubdate>20000101</pubdate>
+            <title>World factbook 2000</title>
+            <edition>2000</edition>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>United States Central Intelligence Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20000101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>CIA Factbook</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Global Mapping International (Firm)</origin>
+            <pubdate>2000</pubdate>
+            <title>Missions database</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Colorado Springs, Colorado, USA</pubplace>
+              <publish>Global Mapping International</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GMI</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Imagery and Mapping Agency</origin>
+            <pubdate>2000</pubdate>
+            <title>World port index</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>U.S. National Imagery and Mapping Agency</publish>
+            </pubinfo>
+            <onlink>http://164.214.12.145/pubs/pubs%5Fj%5Fwpi%5Fsections.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NIMA - WPI</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Extracted the features from ArcWorld Supplement. Updated by adding/deleting features and changing attribute values, based on political changes and other factors. Created ArcGISlayer file (.lyr). Created ArcView legend file (.avl). Created projection file (.prj). Created spatial indices.</procdesc>
+        <srcused>ArcWorld Supplement</srcused>
+        <srcused>Geographic and Global Issues</srcused>
+        <srcused>CIA Factbook</srcused>
+        <srcused>GMI</srcused>
+        <srcused>NIMA-WPI</srcused>
+        <procdate>20010112</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Environmental Systems Research Institute (Redlands, Calif.)</cntorg>
+            </cntorgp>
+            <cntpos>Data Team</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>CA</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Dataset</srcused>
+        <procdate>20051104</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>2533</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI Cities</enttypl>
+        <enttypd>Points represent the locations of major cities of the world.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>CITY_NAME</attrlabl>
+        <attrdef>City Name</attrdef>
+        <attrdefs>ArcWorld Supplement</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GMI_ADMIN</attrlabl>
+        <attrdef>The administrative unit code (three-letter country code, three-letter administrative unit code) for the administrative unit in which the city is located.</attrdef>
+        <attrdefs>Global Mapping International</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Global Mapping International Codes</codesetn>
+            <codesets>Global Mapping International</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_NAME</attrlabl>
+        <attrdef>Name of the administrative unit in which the city is located.</attrdef>
+        <attrdefs>Global Mapping International</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Global Mapping International Names</codesetn>
+            <codesets>Global Mapping International</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNTRY</attrlabl>
+        <attrdef>The FIPS code (two-letter) for the country in which the city is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attrdef>Name for the country in which the city is located</attrdef>
+        <attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attrdef>Status of the City</attrdef>
+        <attrdefs>ArcWorld Supplement</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>National and provincial capital</edomv>
+            <edomvd>National and provincial capital</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>National capital</edomv>
+            <edomvd>National capital</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>National capital and provincial capital enclave</edomv>
+            <edomvd>National capital and provincial capital enclave</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>Provincial capital</edomv>
+            <edomvd>Provincial capital</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>Provincial capital enclave</edomv>
+            <edomvd>Provincial capital enclave</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>Other</edomv>
+            <edomvd>Other</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_RANK</attrlabl>
+        <attrdef>Rank of the population class for the city.</attrdef>
+        <attrdefs>ArcWorld Supplement</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>5,000,000 and greater.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>1,000,000 to 4,999,999</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>500,000 to 999,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>250,000 to 499,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>100,000 to 249,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>50,000 to 99,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Less than 50,000.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_CLASS</attrlabl>
+        <attrdef>Classification of the city based on its population</attrdef>
+        <attrdefs>ArcWorld Supplement</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>5,000,000 and greater, 1,000,000 to 4,999,999, 500,000 to 999,999, 250,000 to 499,999, 100,000 to 249,999, 50,000 to 99,999, less than 50,000.</edomv>
+            <edomvd>The list of population classifications.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PORT_ID</attrlabl>
+        <attrdef>Port Identification Number for the city.</attrdef>
+        <attrdefs>U.S. National Imagery and Mapping Agency</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>City is not a port</edomvd>
+            <edomvds>U.S. National Imagery and Mapping Agency</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060118</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>None</metac>
+    <metuc>Acknowledgement of the Harvard Geospatial Library, Harvard University would be appreciated in future use or publication of this metadata record.</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

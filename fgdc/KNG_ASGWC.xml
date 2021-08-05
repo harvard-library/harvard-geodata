@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : areas susceptible to groundwater contamination, 1995</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-asgwc</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>King County, Washington areas susceptible to groundwater contamination (ASGWC) 1995 version.</abstract>
+      <purpose>This data set was created to fulfill a requirement of the Growth Management Act: analyze and protect remaining areas of high aquifer susceptiblity to groundwater contamination.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.540841</westbc>
+        <eastbc>-121.695056</eastbc>
+        <northbc>47.780231</northbc>
+        <southbc>47.147743</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Groundwater</themekey>
+        <themekey>Water Pollution potential</themekey>
+        <themekey>Wellhead protection</themekey>
+        <themekey>Water-supply</themekey>
+        <themekey>Environmentally sensitive areas</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Paul McCombs</cntper>
+          <cntorg>GIS Section - King Co. DDES Department</cntorg>
+        </cntperp>
+        <cntpos>DDES GIS Data Team Lead</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>900 Oaksdale Ave. SW, MS 1B</address>
+          <city>Renton</city>
+          <state>WA</state>
+          <postal>98055</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 296-7258</cntvoice>
+        <cntemail>Paul.McCombs@metrokc.gov</cntemail>
+        <hours>8:30 am - 5:30 pm -- PST USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.)  GIS Center.</origin>
+            <pubdate>20010828</pubdate>
+            <title>King County 1995 ASGWC</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: enviro-asgwc95</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.)  GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>7083</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000132</absres>
+            <ordres>0.000132</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_ASGWC</enttypl>
+        <enttypd>Areas susceptible to groundwater contamination</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>KNG_ASGWC.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ASGWC95_</attrlabl>
+        <attrdef>Feature identification number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ASGWC95_ID</attrlabl>
+        <attrdef>Feature identification number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TEMP_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TEMP_ID</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GEO_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GEO_ID</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POT_G</attrlabl>
+        <attrdef>1 character code for the susceptibility as defined by geology type (High, Medium &amp; Low)</attrdef>
+        <attrdefs>King County</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>High as defined by geology type</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Medium as defined by geology type</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Low as defined by geology type</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POT_G_</attrlabl>
+        <attrdef>Number code for the POT_G code</attrdef>
+        <attrdefs>King County</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2.00</edomv>
+            <edomvd>High = 2.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>1.00</edomv>
+            <edomvd>Medium = 1.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>0.00</edomv>
+            <edomvd>Low = 0.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>D_GW_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>D_GW_ID</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POT_D</attrlabl>
+        <attrdef>1 character code for the susceptiblity as defined by depth to groundwater (High, Medium &amp; Low)</attrdef>
+        <attrdefs>King County</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>High = 2.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Medium = 1.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Low = 0.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POT_D_</attrlabl>
+        <attrdef>Number code for the POT_D code</attrdef>
+        <attrdefs>King County</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2.00</edomv>
+            <edomvd>High = 2.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>1.00</edomv>
+            <edomvd>Medium = 1.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>0.00</edomv>
+            <edomvd>Low = 0.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOIL_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SOIL_ID</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POT_S</attrlabl>
+        <attrdef>1 character code for the susceptiblilty as defined by soil type (High, Medium or Low).</attrdef>
+        <attrdefs>King County</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>High = 2.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Medium = 1.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Low = 0.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POT_S_</attrlabl>
+        <attrdef>Number code for the POT_S code</attrdef>
+        <attrdefs>King County</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2.00</edomv>
+            <edomvd>High = 2.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>1.00</edomv>
+            <edomvd>1.00 = Medium</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+          <edom>
+            <edomv>0.00</edomv>
+            <edomvd>Low = 0.00</edomvd>
+            <edomvds>King County</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RCH_SUM</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RECHARGE</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>KNG_ASGWC.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20061212</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

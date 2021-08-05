@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML InfoMap (Firm)</origin>
+        <origin>Election Commission of India</origin>
+        <pubdate>2012</pubdate>
+        <title>Bihar, India : State Assembly Constituency Boundaries and Election Data, 2010</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>New Delhi</pubplace>
+          <publish>ML InfoMap Pvt. Ltd.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-indiapoll-bihar-2010</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer shows state Legislative Assembly constituency boundaries and data relating to the 2010 Assembly elections for the State of Bihar, India. Includes attribute data on election parties, candidates, voters, and results.This layer is part of the PollMap of India dataset published by ML InfoMap which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past national elections for each State of India.</abstract>
+      <purpose>This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties.   These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2010</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>83.325867</westbc>
+        <eastbc>88.292755</eastbc>
+        <northbc>27.518854</northbc>
+        <southbc>24.285213</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Vidhan Sabha</themekey>
+        <themekey>Elections</themekey>
+        <themekey>Election districts</themekey>
+        <themekey>Voting</themekey>
+        <themekey>Political parties</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>India</placekey>
+        <placekey>Bihar</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ML InfoMap</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>124 - A Katwaria Sarai</address>
+          <city>New Delhi</city>
+          <postal>110 016</postal>
+          <country>India</country>
+        </cntaddr>
+        <cntvoice>+ 91 - 11 - 4168 8593</cntvoice>
+        <cntfax>+ 91 - 11 - 4168 8593</cntfax>
+        <cntemail>post@mlinfomap.com</cntemail>
+        <cntinst>www.mlinfomap.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>ArcGIS 9.3</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Election Commission of India</origin>
+            <pubdate>2010</pubdate>
+            <title>Election Commissioner of India data</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>Election Commission of India</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2010</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ECI data</srccitea>
+        <srccontr>Statistical data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ML InfoMap (Firm)</origin>
+            <pubdate>2012</pubdate>
+            <title>Bihar Assembly constituencies, elections 2010</title>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>PollMap: Post-delimitation state Assembly constituencies of Bihar</sername>
+              <issue>2010</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>Scale not given</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2010</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>PollMap</srccitea>
+        <srccontr>Dataset source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data was downloaded from the vendor's server as a shapefile with ZIP compression.  The file was uncompressed using WinZip and loaded into SDE using ArcCatalog 9.3.</procdesc>
+        <srcused>PollMap</srcused>
+        <procdate>201210</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>243</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>INDIAPOLL_BIHAR_2010</enttypl>
+        <enttypd>PollMap: Post-delimitation State Assembly Constituencies of Bihar</enttypd>
+        <enttypds>ML Infomap</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BIHAR_ID</attrlabl>
+        <attrdef>Identification number</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AC_NO</attrlabl>
+        <attrdef>Assembly number</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AC_NAME</attrlabl>
+        <attrdef>Constituency name</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CATEGORTY</attrlabl>
+        <attrdef>Category of constituency</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>GEN</edomv>
+            <edomvd>General</edomvd>
+            <edomvds>ML Infomap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SC</edomv>
+            <edomvd>Scheduled caste</edomvd>
+            <edomvds>ML Infomap</edomvds>
+          </edom>
+          <edom>
+            <edomv>ST</edomv>
+            <edomvd>Schedule Tribe</edomvd>
+            <edomvds>ML Infomap</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE_UT</attrlabl>
+        <attrdef>State or Union Territory</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ELCT_10</attrlabl>
+        <attrdef>Male electorates during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ELCT_10</attrlabl>
+        <attrdef>Female electorates during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_ELCT_10</attrlabl>
+        <attrdef>Total electorates during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>N_P_ST_10</attrlabl>
+        <attrdef>Number of polling stations during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_VT_PL_10</attrlabl>
+        <attrdef>Total votes polled during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VL_V_PL_10</attrlabl>
+        <attrdef>Valid votes polled during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VT_RJ_10</attrlabl>
+        <attrdef>Votes rejected during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WIN_CND_10</attrlabl>
+        <attrdef>Winner candidate during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WIN_PRT_10</attrlabl>
+        <attrdef>Winner party during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>W_PT_VT_10</attrlabl>
+        <attrdef>Win party vote during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SND_CND_10</attrlabl>
+        <attrdef>Runner-up candidate during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_PRT_10</attrlabl>
+        <attrdef>Runner-up party during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S_PT_VT_10</attrlabl>
+        <attrdef>Runner-up vote polled during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TRD_CND_10</attrlabl>
+        <attrdef>Second runner-up during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRD_PRT_10</attrlabl>
+        <attrdef>Second runner-up party during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>T_PT_VT_10</attrlabl>
+        <attrdef>Second runner-up vote polled during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRG_1_2_10</attrlabl>
+        <attrdef>Margin between first &amp; runner-up candidate during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_VL_V_10</attrlabl>
+        <attrdef>Percentage valid vote polled during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRG_1_3_10</attrlabl>
+        <attrdef>Margin between first &amp; second runner-up candidate during the election year</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Conventions used:-97 Missing data or data not available-98 Unit not included in source tabular data-99 Uncontested, countermanded and election withheld</eaover>
+      <eadetcit>ML Infomap</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20121120</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

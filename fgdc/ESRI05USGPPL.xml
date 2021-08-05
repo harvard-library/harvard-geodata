@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20050401</pubdate>
+        <title>ESRI Data &amp; Maps 2005 : U.S. Geographic Names Information System Populated Places</title>
+        <edition>2005</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2005</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2005 \usa\landmarks</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri05usgppl</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. Geographic Names Information System Populated Places represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.</abstract>
+      <purpose>Geographic Names Information System (GNIS), of which U.S. Geographic Names Information System Populated Places is a part, promotes geographic feature name standardization and serves as the Federal Government's repository of information regarding feature name spellings and applications for features in United States and its Territories. The names listed in the inventory can be published on Federal maps, charts, and in other documents.  The feature locative information has been used in emergency preparedness, marketing, site-selection and analysis, genealogical and historical research, and transportation routing applications.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>19810501</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2004</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200501</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200411</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>publication date: 19810501, 2004, 200501; ground condition: 200411</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Matches software update releases</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-176.660542</westbc>
+        <eastbc>178.874729</eastbc>
+        <northbc>71.297641</northbc>
+        <southbc>-14.361110</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Names, Geographical</themekey>
+        <themekey>Gazetteers</themekey>
+        <themekey>Cities and towns</themekey>
+        <themekey>Human settlements</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>point</themekey>
+        <themekey>populated place</themekey>
+        <themekey>place name</themekey>
+        <themekey>geographic feature</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>Virgin Islands of the United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1981</tempkey>
+        <tempkey>2004</tempkey>
+        <tempkey>2005</tempkey>
+        <tempkey>2004</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Affiliates for use on Harvard owned computers.  The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>United States Board on Geographic Names</datacred>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.706</native>
+  </idinfo>
+  <dataqual>
+    <logic>No duplicate features are present. The shapefile is converted to SDC (Smart Data Compression) format in ArcSDE. This verifies and validates the geometry.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was calculated from latitude/longitude coordinates accurate to within +/- 5 seconds of latitude or longitude. The horizontal positional accuracy is equal to or better than 500 feet.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>19810501</pubdate>
+            <title>Geographic Names Information System (GNIS)</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Reston, Virginia, USA</pubplace>
+              <publish>United States Geological Survey</publish>
+            </pubinfo>
+            <othercit>The data set was downloaded from the web site in 2005.</othercit>
+            <onlink>http://geonames.usgs.gov/stategaz/index.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>19810501</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>2004</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS - GNIS</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Tele Atlas North America, Inc.</origin>
+            <origin>Geographic Data Technology, Inc.</origin>
+            <pubdate>200501</pubdate>
+            <title>Dynamap/Display Landmarks</title>
+            <edition>Version 7.0</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Dynamap/Display</sername>
+              <issue>Version 7.0</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Lebanon, New Hampshire, USA</pubplace>
+              <publish>Tele Atlas North America, Inc./Geographic Data Technology, Inc.</publish>
+            </pubinfo>
+            <onlink>http://www.geographic.com/home/index.cfm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200411</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>TANA/GDT Dynamap/Display</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>GNIS was developed by the U.S. Geological Survey in cooperation with the U.S. Board on Geographic Names (BGN) to promote the standardization of feature names. GNIS is being compiled in phases.
+
+The first phase is complete for the entire United States, and entailed the collection of names from Federal sources including large-scale USGS topographic maps, Office of Coast Survey charts, U.S. Forest Service maps, and digital datasets distributed by the Federal Communications Commission, the Federal Aviation Administration, and the U.S. Army Corps of Engineers. These data are compared to the records of the U.S. Board on Geographic Names.
+
+The second phase of data collection is complete or in progress for about 80% of the United States, and captures names from State, locally, and other published current and historical maps, charts, and texts.
+
+GNIS Maintenance program - Federal and state maintenance cooperators submit new and corrected data in conjunction with their mapping and geographical information system data maintenance programs. Data is submitted using web data entry and edit forms and batch file processes.
+
+National Map partnerships - As part of The USGS National Map program, the Geographic Names Office enters into partnerships with state names authorities and state and local GIS agencies to integrate vertically name, location, and attribute data in the GNIS with state and local datasets. These partnerships utilize GIS and web technology to automate and simplify data maintenance, ensure data consistency, integrity, and accuracy, and meet the goals of the Board on Geographic Names for national names standardization.
+
+In both processes, a random sample of 10% of the entries in the system were visually verified against the compilation source data (large-scale USGS topographic maps) to ensure an attribute accuracy rate of at least 95%. Locative references (geographic coordinates, topographic map, and county) were crosschecked for logical consistency.</procdesc>
+        <procdate>Not complete</procdate>
+        <srcprod>USGS - GNIS</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Downloaded each tabular file from http://geonames.usgs.gov/stategaz/index.html, generated ArcInfo coverages from the latitude/longitude coordinate attributes, and assembled all into a nationwide coverage. Reselected the feature type from the TYPE attribute. Converted to North American Datum of 1983 (NAD83). Removed features with incorrect coordinates. Adjusted the width of the NAME attribute. Reformatted the attributes and removed unnecessary ones. Added the LABEL_FLAG attribute and calculated its values. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>USGS - GNIS</srcused>
+        <srcused>TANA/GDT Dynamap/Display</srcused>
+        <procdate>20050313</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the ESRI Data and Maps 2005 DVD.  The file was stored in an SDC (Smart Data Compression) format on the DVD.  ArcCatalog 9.2 was utilized to export the SDC file into an ArcSDE 9.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>200704</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>176905</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI05USGPPL</enttypl>
+        <enttypd>The points represent physical and cultural geographic features located throughout the United States and its Territories.</enttypd>
+        <enttypds>United States Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The name of the geographic feature.</attrdef>
+        <attrdefs>United States Geological Survey, United States Board on Geographic Names</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STCTYFIPS</attrlabl>
+        <attrdef>The combined state/territory and county FIPS code (five-digit number). The combined code uniquely identifies the county in which the geographic feature is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LABEL_FLAG</attrlabl>
+        <attrdef>The indicator that the geographic feature has a corresponding area in U.S. TANA/GDT Large Area Landmarks.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>The geographic feature does not have a corresponding area in U.S. TANA/GDT Large Area Landmarks.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>The geographic feature has a corresponding area in U.S. TANA/GDT Large Area Landmarks.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20070515</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

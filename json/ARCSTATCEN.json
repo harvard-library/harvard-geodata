@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcstatcen",
+  "dc_title_s": "Atlanta Regional Commission MSA Census Tracts",
+  "dc_description_s": "This polygon datalayer depicts Census Tracts, with associated attribute data, for tracts located within the 20 county Metropolitan Statistical Area (MSA) for the Atlanta Region. ARC documentation states that: This Theme is a subset of the ARC Census Tracts Theme (CEN_TRCT) which was derived from the U.S. Census Bureau. The geographic extent of this Theme includes ARC's 10 counties plus the counties of Pickens, Bartow, Forsyth, Barrow, Paulding, Walton, Carroll, Newton, Coweta, and Spalding.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCSTATCEN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCSTATCEN",
+  "layer_slug_s": "harvard-arcstatcen",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "society",
+    "Municipal",
+    "Boundaries",
+    "Census",
+    "Census districts",
+    "Administrative divisions",
+    "Census Tracts"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "solr_geom": "ENVELOPE(-85.338234, -83.50573, 34.563683, 33.178562)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

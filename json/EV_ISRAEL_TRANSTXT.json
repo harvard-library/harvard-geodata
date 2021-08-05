@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ev-israel-transtxt",
+  "dc_title_s": "Transportation Features Text Labels, Israel, 1987",
+  "dc_description_s": "Transportation text features for Israel. Feature vector data was extracted by East View Cartographic from 1:500,000 series Soviet military topographic source map sheets published in 1987.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//EV_ISRAEL_TRANSTXT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:EV_ISRAEL_TRANSTXT",
+  "layer_slug_s": "harvard-ev-israel-transtxt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2014-01-10T00:00:00Z",
+  "dc_creator_sm": [
+    "East View Cartographic, Inc.",
+    "Soviet Union. Sovetskai?a? Armii?a?. General?nyi? shtab"
+  ],
+  "dc_publisher_s": [
+    "East View Cartographic, Inc."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Transportation",
+    "Roads",
+    "Names (Geographical)",
+    "transportation",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Israel"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "solr_geom": "ENVELOPE(33.966802, 35.970914, 33.206382, 29.462755)",
+  "solr_year_i": 1987,
+  "harvard_collectionID_sm": [
+    "990101999130203941"
+  ]
+}

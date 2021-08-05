@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcexwy",
+  "dc_title_s": "Atlanta Regional Commission Expressways",
+  "dc_description_s": "This polyline datalayer depicts all interstate highways in the Atlanta Region and Georgia Highway 400. This Theme is a subset of ARC's street centerline database. The features included in this Theme were identified by ARC's Transportation Planning Division.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCEXWY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCEXWY",
+  "layer_slug_s": "harvard-arcexwy",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Municipal",
+    "Transportation",
+    "Roads",
+    "Express highways"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_geom": "ENVELOPE(-84.911362, -83.83287, 34.37347, 33.298332)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

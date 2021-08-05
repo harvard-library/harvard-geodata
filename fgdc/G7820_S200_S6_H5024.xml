@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Harvard Map Collection, Harvard College Library</origin>
+        <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+        <pubdate>200707</pubdate>
+        <title>China 1:200,000 : Sheet H-50-XXIV : Zhejiang Sheng Region (Raster Image)</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Map Collection</publish>
+        </pubinfo>
+        <othercit>[China 1:200,000] : Sheet H-50-XXIV</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-g7820-s200-s6-h5024</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image of the Soviet Army topographic sheet map covering a portion of the Zhejiang Sheng region, China (map quadrangle number: H-50-XXIV).  It is from a series of Soviet Army topographic maps of China 1:200,000. 
+
+The source map was published in 1979.
+
+The image inside the map neatline is georeferenced to the surface of the earth and fit to the Pulkovo 1942 GK Zone 20N projection.  Map collar information from the source map have been cropped and are not available as part of the raster image.
+
+China 1:200,000 topographic maps were prepared and printed by the Soviet Army General Headquarters, 1976-1991.   
+
+China 1:200,000 maps are in Russian.  Each source map in the series is printed in color. 
+
+China 1:200,000 maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc.  They also identify the principal works and structures of humans, such as roads, railroads, paths, walls, boundaries, transmission lines, major buildings, etc.  Relief is shown with standard contour intervals of 40 meters and/or spot heights.</abstract>
+      <purpose>This georeferenced image was produced along with along with 5 other adjoining, georeferenced sheet map images in order to vectorize road and town features for a research project on the Zhejiang Sheng region of China.
+
+Historic topographic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1979</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source map publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>118.984290</westbc>
+        <eastbc>120.019636</eastbc>
+        <northbc>30.020150</northbc>
+        <southbc>29.313595</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps, Topographic</themekey>
+        <themekey>Land use</themekey>
+        <themekey>Infrastructure</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Bodies of water</themekey>
+        <themekey>Landforms</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>China</placekey>
+        <placekey>Zhejiang Sheng</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational, non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The positional accuracy of the original map was largely preserved during the digitizing and georeferencing  processes. Accuracy may be generally characterized as possessing the highest standards of accuracy given the general survey, instrumentation, design and printing technologies and cartographic techniques available during the time the original map was produced.  The original map was scanned and georeferenced (SEE: Process Steps) to produce this digital version.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+            <pubdate>1979</pubdate>
+            <title>[China 1:200,000]</title>
+            <geoform>map</geoform>
+            <serinfo>
+              <sername>[China 1:200,000]</sername>
+              <issue>H-50-XXIV</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Moscow</pubplace>
+              <publish>Soviet Union. Soviet Army. General Headquarters.</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>Soviet Union. Soviet Army. General Headquarters.</origin>
+                <pubdate>1976-1991</pubdate>
+                <title>[China 1:200,000]</title>
+                <geoform>map</geoform>
+                <pubinfo>
+                  <pubplace>Moscow</pubplace>
+                  <publish>Soviet Union. Soviet Army. General Headquarters.</publish>
+                </pubinfo>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>200000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1979</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Soviet Army Topo Map (Paper)</srccitea>
+        <srccontr>Source map for raster image</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Harvard Map Collection, Harvard College Library</origin>
+            <pubdate>2004</pubdate>
+            <title>Soviet Army Topographic Map (Digitized Version)</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>200000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2004</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Soviet Army Topo Map (Digitized Version)</srccitea>
+        <srccontr>The digitized version of the Soviet Army Topo Map was georeferenced and a world file (.tfw) was created.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The map was encapsulated in 3mm mylar to protect the paper during the scanning process.  The paper in its mylar sleeve was fed through a Vidar Atlas P42 large format, sheet-fed scanner using CopySystems software for image capture.  The CopySystems "maps" filter was used, which has an adaptive sharpness level of 60.  The resulting image is 24 bit Tiff, uncompressed with embedded ICC (International Color Consortium) profile and a resolution of 300 dpi.</procdesc>
+        <srcused>Soviet Army Topo Map (Paper)</srcused>
+        <procdate>2004</procdate>
+        <srcprod>Soviet Army Topo Map (Digitized Version)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <address>Harvard Yard</address>
+              <address>Harvard University</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The digital image was georeferenced to the true ground coordinates of the latitude and longitude corner tic marks of each sheet. A shape file was created containing control points at the latitude longitude coordinates of the tics. Those points were then projected to the Gauss Kruger coordinate system (units: meters).  The maps were registered to those projected coordinates using ArcMap software and a .tfw (world file) was generated and saved in association with the scanned image.</procdesc>
+        <srcused>Soviet Army Topo Map (Digitized Version)</srcused>
+        <procdate>2004</procdate>
+        <srcprod>Soviet Army Topo Map (Georeferenced Raster)</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>4237</rowcount>
+      <colcount>5482</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <transmer>
+            <sfctrmer>1.000000</sfctrmer>
+            <longcm>117.000000</longcm>
+            <latprjo>0.000000</latprjo>
+            <feast>500000.000000</feast>
+            <fnorth>-1500.000000</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>18.000000</absres>
+            <ordres>18.000000</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Pulkovo_1942</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map.  The colors on that sheet represent relief, drainage, vegetation, populated places, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and national and international boundaries.  The colors are explained in a legend that is incorporated into the map collar.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed  by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>TIFF</formname>
+          <filedec>ZIP</filedec>
+          <transize>66.487</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070629</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

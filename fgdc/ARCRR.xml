@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Atlanta Regional Commission (ARC)</origin>
+        <pubdate>2002</pubdate>
+        <title>Atlanta Regional Commission Railroads</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-arcrr</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer depicts regionally significant rail routes and associated attribute data for the Atlanta Regional Commission's (ARC) 10-county region. 
+ARC documentation states that:
+This Theme was created from ARCmap, ARC's centerline file that was the source for a large portion of the U.S. Census Bureau's TIGER files for the Atlanta Region.  ARCmap is an intersected model similar in concept to the TIGER files and is the outgrowth of the ACG and DIME files maintained by ARC for over 30 years.  The features included in this Theme were identified by ARC's GIS Division as railroads based on U.S. Census Bureau CFCC code.  This theme may not include all rail lines and spurs.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1990</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-84.906128</westbc>
+        <eastbc>-83.866112</eastbc>
+        <northbc>34.380798</northbc>
+        <southbc>33.280926</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Railroads</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Atlanta</placekey>
+        <placekey>Georgia (United States)</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.
+This data may not be redistributed by HGL users. Any authorized use of information derived or supplemented by use of the Database shall acknowledge the Atlanta Regional Commission (ARC) as the source.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Atlanta Regional Commission (ARC)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Atlanta Regional Commission</address>
+          <address>40 Courtland Street, NE</address>
+          <address>Attn: GIS Division</address>
+          <city>Atlanta</city>
+          <state>GA</state>
+          <postal>30303</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(404) 463-3100</cntvoice>
+        <cntfax>(404) 463-3105</cntfax>
+        <cntemail>jbohn@atlantaregional.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Atlanta Regional Commission</origin>
+            <pubdate>2002</pubdate>
+            <title>Atlanta Regional Commission (ARC) Data</title>
+            <edition>5th</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Atlanta Regional Information System (ARIS)</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Atlanta, Georgia</pubplace>
+              <publish>Atlanta Regional Commission</publish>
+            </pubinfo>
+            <othercit>Fifth in a continuing series of CD-ROMs with updates.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Range from 5,000 to 100,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1983</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ARC Data</srccitea>
+        <srccontr>Data used to produce Shapefiles in HGL</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>Various Sources</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>5,000 to 100,000</srcscale>
+        <typesrc>GPS data; Orthophotos; TIGER files; Vector data</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1983</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Various</srccitea>
+        <srccontr>Various source materials were used to produce ARC CD-ROM Data.  Data derived form such sources as: Georgia Department of Community Affairs (DCA); Georgia Department of Transportation (GDOT); Georgia Department of Industry, Trade and Tourism (GDITT); U.S. Geological Survey (USGS); U.S. Census Bureau; Environmental Systems Research Institute (ESRI); Metropolitan Atlanta Rapid Transit Authority (MARTA); Reapportionment Services Office, Georgia General Assembly; Cobb County Department of Transportation (CCT) and others.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Atlanta Regional Commission assembled and processed data form various sources to produce their published dataset on CD-ROM.</procdesc>
+        <srcused>Various</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>ARC CD-ROM Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Atlanta Regional Commission (ARC)</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Atlanta Regional Commission data was obtained via a CD-ROM. The data were in the format of ESRI Shapefiles and were imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>ARC CD-ROM Data</srcused>
+        <procdate>200410</procdate>
+        <srcprod>HGL Shapefiles</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>GIS Technician</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>2129</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ARC Railroads</enttypl>
+        <enttypd>Lines represent rail routes</enttypd>
+        <enttypds>ARC</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Internal node number for the left polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Internal node number for the right polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Polyline length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAILROAD_</attrlabl>
+        <attrdef>Unique Feature Identifier</attrdef>
+        <attrdefs>Assigned</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAILROAD_I</attrlabl>
+        <attrdef>Unique Feature Identifier</attrdef>
+        <attrdefs>Assigned</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TID</attrlabl>
+        <attrdef>TIGER ID; Similar to the U.S. Census Bureau TLID</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of rail line</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050819</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

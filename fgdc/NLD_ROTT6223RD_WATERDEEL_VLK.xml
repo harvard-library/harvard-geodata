@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Netherlands. Topografische Dienst Kadaster</origin>
+        <pubdate>2011</pubdate>
+        <title>Water Section Areas, Rotterdam, Netherlands, 2008-2010</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Apeldoorn, Netherlands</pubplace>
+          <publish>Kadaster</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nld-rott6223rd-waterdeel-vlk</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer contains polygon features representing water sections for Rotterdam, Netherlands, 2008-2010. It is part of the TOP10NL data set published by Kadaster, the Dutch Land Registry. Data is at a scale of 1:10,000.Water sections areas includes features such as: watercourses, seas, lakes, rivers, ponds, springs, pools, ditches, channels, locks, reservoirs, and other water features.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2008</begdate>
+          <enddate>2010</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>4.043052</westbc>
+        <eastbc>4.695706</eastbc>
+        <northbc>52.045890</northbc>
+        <southbc>51.778524</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Bodies of water</themekey>
+        <themekey>Channels (Hydraulic engineering)</themekey>
+        <themekey>Ditches</themekey>
+        <themekey>Lakes</themekey>
+        <themekey>Locks (Hydraulic engineering)</themekey>
+        <themekey>Ponds</themekey>
+        <themekey>Reservoirs</themekey>
+        <themekey>Rivers</themekey>
+        <themekey>Seas</themekey>
+        <themekey>Springs</themekey>
+        <themekey>Waterways</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>structure</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>Netherlands</placekey>
+        <placekey>Rotterdam</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Klantcontactcenter Kadaster/GEO-informatie</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Postbus 9046</address>
+          <city>Apeldoorn</city>
+          <postal>7300 GH</postal>
+          <country>Netherlands</country>
+        </cntaddr>
+        <cntvoice>(088) 183 22 00</cntvoice>
+        <cntfax>(088) 183 20 50</cntfax>
+        <cntemail>Klantcontactcenter.TD@kadaster.nl</cntemail>
+        <hours>09:00 - 17:00</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native>
+    <crossref>
+      <citeinfo>
+        <origin>Netherlands. Topografische Dienst Kadaster</origin>
+        <pubdate>2011</pubdate>
+        <title>Water Section Lines, Rotterdam, Netherlands, 2008-2010</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Apeldoorn, Netherlands</pubplace>
+          <publish>Kadaster</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>None</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Netherlands. Topografische Dienst Kadaster</origin>
+            <pubdate>2011</pubdate>
+            <title>Netherlands : 10k GIS data</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Apeldoorn, Netherlands</pubplace>
+              <publish>Kadaster</publish>
+            </pubinfo>
+            <othercit>rotterdam\6223\native WATERDEEL_VLAK.shp</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>10000</srcscale>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2011</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Top10NL</srccitea>
+        <srccontr>Source datasets</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This shapefile was loaded into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" ArcCatalog tool.</procdesc>
+        <srcused>Top10NL</srcused>
+        <procdate>201111</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>9244</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Dutch National Grid (RD_New)</mapprojn>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000100</absres>
+            <ordres>0.000100</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Amersfoort</horizdn>
+        <ellips>Bessel_1841</ellips>
+        <semiaxis>6377397.155000</semiaxis>
+        <denflat>299.152813</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NLD_ROTT6223RD_WATERDEEL_VLK</enttypl>
+        <enttypd>Water Section Areas, Rotterdam, Netherlands</enttypd>
+        <enttypds>Kadaster</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IDENT</attrlabl>
+        <attrdef>Object identifier for Top10NL</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPEINFRAS</attrlabl>
+        <attrdef>Type of infrastructure</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>verbinding</edomv>
+            <edomvd>connection</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>kruising</edomv>
+            <edomvd>crossing</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>overig watergebied</edomv>
+            <edomvd>other water area</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPEWATER</attrlabl>
+        <attrdef>Type of functional area</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>waterloop</edomv>
+            <edomvd>watercourse</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>meer, plas, ven, vijver</edomv>
+            <edomvd>lake, pool, fen, pond</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>greppel, droge sloot</edomv>
+            <edomvd>ditch</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>zee</edomv>
+            <edomvd>sea</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>droogvallend</edomv>
+            <edomvd>dry area</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>bron, wel</edomv>
+            <edomvd>source</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>onbeken</edomv>
+            <edomvd>unknown</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BREEDTEKLA</attrlabl>
+        <attrdef>Width class</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0,5-3 meter</edomv>
+            <edomvd>0.5-3 meter</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>3-6 meter</edomv>
+            <edomvd>3-6 meter</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>&gt; 6 meter</edomv>
+            <edomvd>&gt; 6 meter</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BREEDTE</attrlabl>
+        <attrdef>Width</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <udom>Actual width in meters with one decimal</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOOFDAFWAT</attrlabl>
+        <attrdef>Main drainage</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ja</edomv>
+            <edomvd>yes</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>nee</edomv>
+            <edomvd>no</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FYSIEKVOOR</attrlabl>
+        <attrdef>Physical occurance</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>in sluis</edomv>
+            <edomvd>on sluice</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>op brug</edomv>
+            <edomvd>on bridge</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in duiker</edomv>
+            <edomvd>on dike</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in afsluitbare duiker</edomv>
+            <edomvd>on lockable dike</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in grondduiker</edomv>
+            <edomvd>on drainage pipe</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in afsluitbare grondduiker</edomv>
+            <edomvd>on lockable drainage pipe</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>overkluisd</edomv>
+            <edomvd>covered</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FUNCTIE</attrlabl>
+        <attrdef>Function</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>drinkwaterbekken</edomv>
+            <edomvd>drinking water basin</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>haven</edomv>
+            <edomvd>port</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>natuurbad</edomv>
+            <edomvd>natural bath</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>viskwekerij</edomv>
+            <edomvd>fish farm</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>vistrap</edomv>
+            <edomvd>fish ladder</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>waterval</edomv>
+            <edomvd>water fall</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>waterzuivering</edomv>
+            <edomvd>water treatment</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>zwembad</edomv>
+            <edomvd>swimming pool</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>overig</edomv>
+            <edomvd>other</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>onbekend</edomv>
+            <edomvd>unknown</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>VOORKOMEN</attrlabl>
+        <attrdef>Occurance</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>met riet</edomv>
+            <edomvd>with reeds</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>overig</edomv>
+            <edomvd>other</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STROOMRICH</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SCHEEPSLAA</attrlabl>
+        <attrdef>Ship load</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <udom>Payload in tons</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attrdef>Relief status</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>realisatie: nog niet in uitvoering</edomv>
+            <edomvd>Realization: not yet in progress</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>realisatie: in uitvoering</edomv>
+            <edomvd>Realization: in progress</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>in gebruik</edomv>
+            <edomvd>In use</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>buiten gebruik</edomv>
+            <edomvd>Outdoor use</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+          <edom>
+            <edomv>onbeken</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>Kadaster</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAAMNL</attrlabl>
+        <attrdef>Name of feature in Dutch</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAAMFR</attrlabl>
+        <attrdef>Name of feature in French</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLUISNAAM</attrlabl>
+        <attrdef>Lock name</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BRUGNAAM</attrlabl>
+        <attrdef>Bridge name</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOOGTENIVE</attrlabl>
+        <attrdef>Height level</attrdef>
+        <attrdefs>Kadaster</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GEOMSOORT</attrlabl>
+        <attrdef>Geometry type</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJ_BEGIN</attrlabl>
+        <attrdef>Object begin date - the date of the first time the object is stored in the database of the TDN</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJ_EIND</attrlabl>
+        <attrdef>Object end date</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VER_BEGIN</attrlabl>
+        <attrdef>Version begin date - The start date of the cur</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VER_EIND</attrlabl>
+        <attrdef>Version end date</attrdef>
+        <attrdefs>de Vries et al., 2002</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONTYPE</attrlabl>
+        <attrdef>Type of source</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONDATUM</attrlabl>
+        <attrdef>Source date</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONNAUWK</attrlabl>
+        <attrdef>Precision of source</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BRONBESCHR</attrlabl>
+        <attrdef>Source description</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DIMENSIE</attrlabl>
+        <attrdef>Dimension</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120119</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

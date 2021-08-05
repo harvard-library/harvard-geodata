@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ch2000-l-g",
+  "dc_title_s": "China county boundary with 2000 population Census data from 9.5% Long Form data (Part G: Tables L8-1 to L8-6)",
+  "dc_description_s": "This polygon datalayer includes China county boundary with 2000 population Census data from 9.5% Long Form data. This layer is one (Part G) of seven layers (see also Parts A-F) covering the entire Long Form data; this layer covers Long Form tables L8-1 to L8-6 : L8-1: Family households by use of houses, whether living with other families, single or multi floors, outer wall materials and by region; L8-2: Status of family houses by time of construction and by region; L8-3: Housing facilities by region; L8-4: Family households by source of houses and by region; L8-5: Family households by expenditure on purchasing or building houses and by region; L8-6: Family households by monthly housing rent and by region. This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//CH2000_L_G.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:CH2000_L_G",
+  "layer_slug_s": "harvard-ch2000-l-g",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-10-20T00:00:00Z",
+  "dc_creator_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+    "University of Michigan. China Data Center"
+  ],
+  "dc_publisher_s": [
+    "All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Census",
+    "Demography",
+    "Population Statistics",
+    "Dwellings",
+    "Housing Statistics",
+    "Households",
+    "Counties",
+    "Administrative and political divisions",
+    "society",
+    "structure",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_issued_s": "2003",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census"
+  ],
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 6.318641)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990098986290203941"
+  ]
+}

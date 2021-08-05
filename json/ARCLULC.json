@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arclulc",
+  "dc_title_s": "Atlanta Regional Commission Landuse and Landcover",
+  "dc_description_s": "This polygon datalayer depicts various types of land use and land cover areas with associated attribute data for the Atlanta Regional Commission's (ARC) 10-county region. The geographic extent of this Theme is the Atlanta Region 13-county area which includes ARC's 10 counties, plus the EPA non-attainment counties of Forsyth, Paulding, and Coweta. Though the terms are often used interchangeably, landuse and landcover are not synonymous. Landcover generally refers to the natural or cultivated vegetation, rock, or water covering the land, as well as the developed surface which can be identified on aerial photography. Landuse generally refers to the way that humans use or will use the land, regardless of its apparent landcover. As such, this theme is primarily a landcover database with an extra landuse component which is essential to many of ARC's key agency functions ARC documentation states that: This land use/cover theme was created by on-screen photo-interpretation and digitizing of ortho-rectified aerial photography at a scale of 1:14,000. The primary sources for this mapping effort were 1999 natural color imagery with four-foot pixel resolution, provided by Aerials Express, Inc. (formerly DigiAir, Inc.) and 1999 color infrared (CIR) digital orthophoto quarter quads (DOQQs) with one-meter pixel resolution, provided by the US Geological Survey (USGS) through the Georgia GIS Clearinghouse. Using both sources of imagery, landcover polygons were delineated using ARC's previous (1995) landuse/cover GIS database as the principal source of collateral (secondary) data. Where possible, all newly digitized arcs were aligned to the Georgia Department of Transportation (GDOT) DLG-F street centerlines, which were used, along with the 1995 landuse/cover dataset, as primary 'backcoverages' in ArcEdit.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCLULC.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCLULC",
+  "layer_slug_s": "harvard-arclulc",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "imageryBaseMapsEarthCover",
+    "planningCadastre",
+    "Municipal",
+    "Land use",
+    "Vegetation"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_geom": "ENVELOPE(-85.050308, -83.798904, 34.41259, 33.191044)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

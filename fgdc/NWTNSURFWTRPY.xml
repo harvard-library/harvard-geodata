@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Newton GIS</origin>
+        <origin>Boston Edison Co. (BECo.)</origin>
+        <pubdate>Unknown</pubdate>
+        <title>Surface Water Features - City of Newton</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nwtnsurfwtrpy</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data layer contains rivers and ponds that occur in Newton. Boston Edison (now known as NSTAR) provided the original version of this data layer. Some editing was done based on the 2000 Orthophotography by the GIS Administrator.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to hydrology, environmental management, urban planning or to support graphical overlays and analysis with other spatial data. 
+More advanced user applications may focus on urban planning and policies, public works, or utilities purposes, including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate/>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.270736</westbc>
+        <eastbc>-71.167016</eastbc>
+        <northbc>42.368120</northbc>
+        <southbc>42.282462</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWater</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Ponds</themekey>
+        <themekey>Streams</themekey>
+        <themekey>Rivers</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Newton</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational or non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Newton GIS</cntorg>
+        </cntorgp>
+        <cntpos>GIS Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Information Technology Department</address>
+          <address>City Hall, Room 107</address>
+          <address>1000 Commonwealth Avenue</address>
+          <city>Newton Center</city>
+          <state>MA</state>
+          <postal>02459-1400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-796-1180</cntvoice>
+        <cntvoice>617-796-1000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by City of Newton GIS.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc/>
+    <logic>For layers containing line or polygon features, Newton's data layers are "topologically clean". This was verified with Arc/Info software version 7.x in 1998 and is an ongoing part of data maintenance for the relevant data layers.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>All of the data provided to Newton by BECo. were captured photogrammetrically from aerial photography taken in the spring of 1991. The contract specifications were for producing maps at 1" = 100' (1:1200) with a horizontal accuracy of +/- 2.5'.  The photo negatives approximate scale was 1" = 600'.  The photography's survey control specifications were for Second Order Class II or better --state plane feet; NAD83 for horizontal control.
+The accuracy of most ponds and the Charles River is consistent with the accuracy of the orthophotography from 2000.
+
+The information below is from Intermap Technologies Proposal Documents, source of the 2000 orthophotos:
+Scale of Photography: 1:7200
+Forward Overlap: 60% average +/- 2%.
+Side Overlap: 30% average +/- 5%
+Tilt:not to exceed 4 degrees - 5 degrees between flight photos, average tilt within 2 degrees.
+Crab: not to exceed 3 degrees on any flight line
+Contact Prints: 9" x 9" received from company.
+Ground Control: Primary - 12 permanent control markers set - 36" concrete monuments. GPS network of 50 stations with three horizontal and nine vertical ties to grid. Network tied to MSPCS NAD83 datum and NGVD29 datum by occupying Mass. Highway Department control points.
+Additional second-order control was taken from adjacent photography in Brookline to improve block adjustment.
+DEM was edited by Intermap to correct problems with bad contours and elevation values.
+Block Adjustment Accuracy: Horizontal: second order class I; Vertical: third order 
+Model: K-BLOCK (CYTEK Inc.)
+Aerial Triangulation: 45 horizontal and vertical control points; 31 vertical control points; 9 flight lines, 107 Models
+Final Pixel Size: 6 inches
+Final Horizontal Accuracy: Approximately +/- 2 feet.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>The photography's survey control specifications were for Second Order Class II or better --  NAVD29 for vertical control.
+Flying height of the aircraft from which the aerial photographs were taken was approximately 3600 feet (+/- 2% low or +/- 7% high) above ground elevation.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Boston Edison Company (BECo.)</origin>
+            <title>Boston Edison Company (BECo.) Database</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>1200</srcscale>
+        <typesrc>computer program</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1991</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>BECo. Data</srccitea>
+        <srccontr>Data delivered to Newton GIS derived from BECo. aerial photography.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Intermap Technologies</origin>
+            <title>Intermap Technologies Orthophotography</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>7200</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Intermap 2000</srccitea>
+        <srccontr>Recent GIS data updates have been done using this base layer.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Boston Edison Company (BECo.) provided Newton with several important data layers from their GIS database.  All of the data provided to Newton by BECO were captured photogrammetrically from aerial photography taken in the spring of 1991.
+
+Boston Edison provided the original version of this data layer. Some editing was done based on the 2000 Orthophotography by the GIS Administrator.</procdesc>
+        <procdate>1993</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>City of Newton GIS</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Information Technology Department</address>
+              <address>City Hall, Room 107</address>
+              <address>1000 Commonwealth Avenue</address>
+              <city>Newton Center</city>
+              <state>MA</state>
+              <postal>02459-1400</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-796-1180</cntvoice>
+            <cntfax>617-796-1000</cntfax>
+            <cntinst/>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200208</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited.</procdesc>
+        <procdate>20021009</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>66</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000476</absres>
+            <ordres>0.000476</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Surface Water</enttypl>
+        <enttypd>ESRI Shapefile. Polygons represent surface water features</enttypd>
+        <enttypds>ESRI, Newton GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NWTNSURFWTRPY.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SURFWATR_1</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SURFWATR_2</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Line Type Identifier</attrdef>
+        <attrdefs>Newton GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>RIVBANK</edomv>
+            <edomvd>River Banks</edomvd>
+          </edom>
+          <edom>
+            <edomv>PONDBANK</edomv>
+            <edomvd>Pond Banks</edomvd>
+          </edom>
+          <edom>
+            <edomv>BORDER</edomv>
+            <edomvd>City Boundaries</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHADE</attrlabl>
+        <attrdef>Shade symbol for shading surface water features</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWTNSURFWTRPY.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated feature length in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021015</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Geospatial Resources Cataloger</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-295-12417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

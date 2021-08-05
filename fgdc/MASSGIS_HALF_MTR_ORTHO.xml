@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <pubdate>200104</pubdate>
+        <title>Boston, Massachusetts Region 1:5,000 Color Ortho Imagery (1/2-meter Resolution), 2001</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-massgis-half-mtr-ortho</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>1/2-meter resolution 1:5,000 orthophoto image of the Boston region from April 2001. This datalayer is a subset (covering only the Boston region) of the Massachusetts statewide orthophoto image series available from MassGIS. It consists of 23 orthophoto quads mosaicked together (MassGIS orthophoto quad ID: 229890, 229894, 229898, 229902, 233886, 233890, 233894, 233898, 233902, 233906, 233910, 237890, 237894, 237898, 237902, 237906, 237910, 241890, 241894, 241898, 241902, 245898, 245902).
+
+These medium resolution true color images are considered the new "basemap" for the Commonwealth by MassGIS and the Executive Office of Environmental Affairs (EOEA). MassGIS/EOEA and the Massachusetts Highway Department jointly funded the project. The photography for the mainland was captured in April 2001 when deciduous trees were mostly bare and the ground was generally free of snow.
+
+The geographic extent of this dataset is the same as that of the MassGIS dataset:  Boston, Massachusetts Region LIDAR First Return Elevation Data, 2002 [see cross references].</abstract>
+      <purpose>Planning and analysis, general mapping and display.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200104</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.197177</westbc>
+        <eastbc>-70.952747</eastbc>
+        <northbc>42.476133</northbc>
+        <southbc>42.223162</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Maps</themekey>
+        <themekey>Orthophotography</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>image</themekey>
+        <themekey>ortho</themekey>
+        <themekey>raster</themekey>
+        <themekey>orthophoto</themekey>
+        <themekey>color</themekey>
+        <themekey>Massachusetts</themekey>
+        <themekey>aerial photography</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Boston</placekey>
+        <placekey>Arlington</placekey>
+        <placekey>Belmont</placekey>
+        <placekey>Brookline</placekey>
+        <placekey>Cambridge</placekey>
+        <placekey>Canton</placekey>
+        <placekey>Chelsea</placekey>
+        <placekey>Dedham</placekey>
+        <placekey>Everett</placekey>
+        <placekey>Malden</placekey>
+        <placekey>Medford</placekey>
+        <placekey>Melrose</placekey>
+        <placekey>Milton</placekey>
+        <placekey>Needham</placekey>
+        <placekey>Newton</placekey>
+        <placekey>Quincy</placekey>
+        <placekey>Somerville</placekey>
+        <placekey>Stoneham</placekey>
+        <placekey>Wakefield</placekey>
+        <placekey>Watertown</placekey>
+        <placekey>Winchester</placekey>
+        <placekey>Winthrop</placekey>
+        <placekey>Woburn</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>EOEA - MassGIS</cntorg>
+          <cntper>Michael Trust</cntper>
+        </cntorgp>
+        <cntpos>Sr. Database Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>251 Causeway Street</address>
+          <address>Suite 500</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02114</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(617) 626-1000</cntvoice>
+        <cntfax>(617) 626-1249</cntfax>
+        <cntemail>michael.trust@state.ma.us</cntemail>
+        <hours>9 AM - 5 PM</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+    <crossref>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>3Di Technologies, Inc.</origin>
+        <pubdate>Unpublished Material</pubdate>
+        <title>Boston, Massachusetts Region LIDAR First Return Elevation Data, 2002</title>
+        <geoform>map</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown</logic>
+    <complete>None</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Horizontal control (referenced to NAD83) conforms to the Federal Geodetic Control Committee specifications for Second Order Class 2 GPS surveys. The images meet or exceed the National Map Accuracy Standards to the extent that 90% of the well defined features fall within 0.5mm of their true position on the ground at the nominal output scale of 1:5,000 (2.5m on the ground). Additionally, the maximum displacement of well defined features is less than 5 meters. BSC Group fulfilled land survey requirements by performing highly precise ground control survey &amp; independent verification and validation of spatial accuracy.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Vertical control (referenced to NAVD88) is within 10 cm. It is tied to second order Class II NGRS benchmarks. In addition the latitude, longitude and ellipsoidal heights of continuously operating GPS reference stations were incorporated into the control adjustment. Orthometric heights were directly measured or estimated from GPS derived ellipsoidal heights.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srcscale>5000</srcscale>
+      </srcinfo>
+      <procstep>
+        <procdesc>Keystone Aerial Surveys Inc. (KAS) of Philadelphia, PA acquired the aerial photography for the entire project using Kodak AeroColor 2444 and AeroColor 2445 film. KAS used large format Leica RC-30 calibrated aerial mapping cameras employing forward motion compensation and gyro-stabilized mounts. Each camera was also equipped with a tie to the aircraft GPS receiver. The flying altitude was approximately 15,000 feet to provide an original photo scale of 1 = 2,500. Endlap (forward overlap) was 60%, except 80% in areas with tall structures, with (high) sidelap of 42%.
+
+The processing of the photos was conducted by two firms. Intermap Technologies of Englewood, Colorado and Ottawa and Calgary, Canada processed the mainland portion of the Commonwealth east of the 165000-meter line (in MA State Plane coordinates) and Chas. H. Sells, Inc. of Charlton, MA processed the remaining area west of this line (approximately 72 degrees longitude), as well as the Islands. These vendors provided scanning, softcopy aerial triangulation, orthorectification, image mosaicking and quality control.
+
+Ground and photogrammetric control (elevation model) for the orthorectification of the aerial photography was available statewide from the previous black-and-white 1:30,000 digital orthophotography program conducted from 1992-2000 (see the Black and White Orthophoto datalayer description). The transfer of control from that project made the creation of these new data much more efficient, and assured a very high level of accuracy and compatibility.
+
+The color negatives were scanned at 14 (12.5 Sells) microns and then inverted. The pixels were subsequently resampled to 0.5 meters ground resolution. Each pixel is coded with three 8-bit values representing the amounts of Red, Green, and Blue in the pixel. This produces a 24-bit RGB image. 8-bit (values ranging 0-255) Red, Green, and Blue values are packed into a single 24-bit identity. This allows for a maximum of 16,777,216 unique combinations of colors.
+
+The imagery was radiometrically balanced prior to mosaicking. Only minor adjustments were made to the brightness and contrast. In the Intermap data, to avoid color distortion of land areas, color balancing was preceded by the removal of data in large bodies of water and the ocean. The water pixels were then merged back in. Since the Sells data did not contain large bodies of water (except for the Quabbin Reservoir), it was not processed in this manner.
+
+The original 0.5 meter data was delivered to MassGIS in GeoTIFF format in orthoquad tiles representing 4 x 4 km on the ground (8000 rows x 8000 columns, equaling 64,000,000 pixels). Since each pixel contains 24 bits (3 bytes) of data, a full resolution image covering one orthoquad tile is approximately 192,000,000 bytes (183 Megabytes) in size. The tiles are based on the Orthophoto Index Grid and are named &lt;sheet-id&gt;.tif, where the &lt;sheet-id&gt; is the first 3 digits of the state plane XY coordinate pair for the lower right corner of each cell. Header files (named &lt;sheet-id&gt;.tfw) were also delivered for use in some GIS software. Imagery is georeferenced to Massachusetts State Plane (Lambert Conformal Conic Projection) NAD83 denominated in meters.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>56000</rowcount>
+      <colcount>40000</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>0.500000</absres>
+            <ordres>0.500000</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MASSGIS_HALF_MTR_ORTHO</enttypl>
+        <enttypd>1:5,000 Color Ortho Imagery</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+    </detailed>
+    <overview>
+      <eaover>Each pixel is coded with three 8-bit values representing the amounts of Red, Green, and Blue in the pixel. This produces a 24-bit RGB image. 8-bit (values ranging 0-255) Red, Green, and Blue values are packed into a single 24-bit identity. This allows for a maximum of 16,777,216 unique combinations of colors.  The colors in the image can represent ground features such as drainage, vegetation, cultural features, coastal hydrography, transportation features (roads, railroads, tracks and trails) and more. Each pixel represents approximately 0.5 meters ground resolution.</eaover>
+      <eadetcit>Not applicable.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@gentoo.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Please see the "PURCHASE AGREEMENT FOR DIGITAL DATA PROVIDED BY THE MASSACHUSETTS EXECUTIVE OFFICE OF ENVIRONMENTAL AFFAIRS", online at http://www.state.ma.us/mgis/puragree.htm. 
+
+Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SDE Raster</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+    <custom>Please contact MassGIS with questions regarding alternative methods of receiving data.</custom>
+    <techpreq>MassGIS' data may be used in many standard GIS software products. See each software's vendor for technical prerequisites.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20080925</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@gentoo.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

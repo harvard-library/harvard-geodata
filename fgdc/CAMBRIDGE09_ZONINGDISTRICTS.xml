@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Cambridge (Mass.). Community Development Dept.</origin>
+        <origin>Cambridge (Mass.). Geographic Information Systems</origin>
+        <pubdate>2009</pubdate>
+        <title>Zoning Districts, Cambridge, Massachusetts, February 2007</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+          <publish>City of Cambridge, GIS Dept.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-cambridge09-zoningdistricts</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon layer contains the City of Cambridge's zoning districts governing land and building use.</abstract>
+      <purpose>Created as part of Cambridge's Zoning Ordinance to delineate zoning district boundaries.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>200702</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>revision date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.160581</westbc>
+        <eastbc>-71.063810</eastbc>
+        <northbc>42.403841</northbc>
+        <southbc>42.352358</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Zoning</themekey>
+        <themekey>Economic zoning</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>planningCadastre</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Zoning districts</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+        <placekey>Cambridge</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. 
+
+The City of Cambridge provides Geographic Information Systems ("GIS") data in good faith. The City makes no warranty in regard to the data whatsoever, including, but not limited to, a warranty of the accuracy of the data. The party requesting the data agrees that the City has no liability arising from any incomplete, incorrect, inaccurate or misleading data provided.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>GIS Manager</cntper>
+          <cntorg>City of Cambridge GIS</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>831 Massachusetts Ave., 2nd Floor</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02139</postal>
+        </cntaddr>
+        <cntvoice>617-349-4140</cntvoice>
+        <cntfax>617-349-6165</cntfax>
+        <cntemail>gis@cambridgema.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>As a representation of the legal descriptions of zoning boundaries found in the Cambridge Zoning Ordinance, zoning lines are approximate.  Please refer to documents on file at the City Clerk's Office for the exact location of boundaries.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Cambridge (Mass.). Geographic Information Systems</origin>
+            <pubdate>20091027</pubdate>
+            <title>Citywide vector data</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Cambridge, MA</pubplace>
+              <publish>City of Cambridge GIS Department</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM ; 4 3/4 in.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20091027</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Cambridge GIS DVD</srccitea>
+        <srccontr>Source data disc.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Created in 1997 by the Community Development Department (CDD) from thirteen 1:200 scale hard copy maps from 1961. Linework came from road centerlines or buffers from centerlines, edge of pavement, parcel lines, or the city boundary. Some lines digitized on-screen.</procdesc>
+        <procdate>2007</procdate>
+        <srcprod>Cambridge GIS DVD</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>GIS Manager</cntper>
+              <cntorg>City of Cambridge GIS</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>831 Massachusetts Ave., 2nd Floor</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02139</postal>
+            </cntaddr>
+            <cntvoice>617-349-4140</cntvoice>
+            <cntfax>617-349-6165</cntfax>
+            <cntemail>gis@cambridgema.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This ESRI shapefile was downloaded off of a DVD provided by the City of Cambridge, Massachusetts.  ArcCatalog 9.3 was utilized to import the shapefile into an ArcSDE 9.1 database using the "Feature Class to Feature Class" import tool.</procdesc>
+        <srcused>Cambridge GIS DVD</srcused>
+        <procdate>201002</procdate>
+        <srcprod>SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>274</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Cambridge09_ZoningDistricts</enttypl>
+        <enttypd>Zoning Districts</enttypd>
+        <enttypds>Cambridge GIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZONE_TYPE</attrlabl>
+        <attrdef>Zoning district classification</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A-1</edomv>
+            <edomvd>Residence A-1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-2</edomv>
+            <edomvd>Residence A-2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>B</edomv>
+            <edomvd>Residence B</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA</edomv>
+            <edomvd>Business A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA-1</edomv>
+            <edomvd>Business A-1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA-2</edomv>
+            <edomvd>Business A-2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA-3</edomv>
+            <edomvd>Business A-3</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BB</edomv>
+            <edomvd>Business B</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BB-1</edomv>
+            <edomvd>Business B-1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BB-2</edomv>
+            <edomvd>Business B-2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>Business C</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-1</edomv>
+            <edomvd>Business C-1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-1A</edomv>
+            <edomvd>Residence C-1A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-2</edomv>
+            <edomvd>Residence C-2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-2A</edomv>
+            <edomvd>Residence C-2A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-2B</edomv>
+            <edomvd>Residence C-2B</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-3</edomv>
+            <edomvd>Residence C-3</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-3A</edomv>
+            <edomvd>Residence C-3A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C-3B</edomv>
+            <edomvd>Residence C-3B</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CRDD</edomv>
+            <edomvd>Cambridgeport Revitalization Development District</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IA</edomv>
+            <edomvd>Industry A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IA-1</edomv>
+            <edomvd>Industry A-1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IA-2</edomv>
+            <edomvd>Industry IA-2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IB</edomv>
+            <edomvd>Industry B</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IB-1</edomv>
+            <edomvd>Industry B-1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IB-2</edomv>
+            <edomvd>Industry B-2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>IC</edomv>
+            <edomvd>Industry (no polygons in this class)</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>MXD</edomv>
+            <edomvd>Mixed Use Development District</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>NP</edomv>
+            <edomvd>North Point District</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-1</edomv>
+            <edomvd>Office 1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-2</edomv>
+            <edomvd>Office 2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-2A</edomv>
+            <edomvd>Office 2-A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-3</edomv>
+            <edomvd>Office 3</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-3A</edomv>
+            <edomvd>Office 3A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>OS</edomv>
+            <edomvd>Open Space</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-1</edomv>
+            <edomvd>Special District 1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-2</edomv>
+            <edomvd>Special District 2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-3</edomv>
+            <edomvd>Special District 3</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-4</edomv>
+            <edomvd>Special District 4</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-4A</edomv>
+            <edomvd>Special District 4A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-5</edomv>
+            <edomvd>Special District 5</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-6</edomv>
+            <edomvd>Special District 6</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-7</edomv>
+            <edomvd>Special District 7</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-8</edomv>
+            <edomvd>Special District 8</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-9</edomv>
+            <edomvd>Special District 9</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-10</edomv>
+            <edomvd>Special District 10</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-11</edomv>
+            <edomvd>Special District 11</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-12</edomv>
+            <edomvd>Special District 12</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-13</edomv>
+            <edomvd>Special District 13</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SD-14</edomv>
+            <edomvd>Special District 14</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PUD_TYPE</attrlabl>
+        <attrdef>Planned Unit Development district overlay classification</attrdef>
+        <attrdefs>Cambridge GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AOD-1</edomv>
+            <edomvd>Alewife Overlay District 1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AOD-2</edomv>
+            <edomvd>Alewife Overlay District 2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AOD-3</edomv>
+            <edomvd>Alewife Overlay District 3</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AOD-4</edomv>
+            <edomvd>Alewife Overlay District 4</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AOD-5</edomv>
+            <edomvd>Alewife Overlay District 5</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AOD-6</edomv>
+            <edomvd>Alewife Overlay District 6</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>MXR</edomv>
+            <edomvd>Mixed Use Residential</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-1</edomv>
+            <edomvd>Planned Unit Development 1</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-2</edomv>
+            <edomvd>Planned Unit Development 2</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-3</edomv>
+            <edomvd>Planned Unit Development 3</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-4</edomv>
+            <edomvd>Planned Unit Development 4</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-4A</edomv>
+            <edomvd>Planned Unit Development 4A</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-4B</edomv>
+            <edomvd>Planned Unit Development 4B</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-6</edomv>
+            <edomvd>Planned Unit Development 6</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PUD-KS</edomv>
+            <edomvd>Kendall Square Planned Unit Development</edomvd>
+            <edomvds>Cambridge GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZCODE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Cambr</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Cam_1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20100512</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

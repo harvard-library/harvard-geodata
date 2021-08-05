@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MaconUSA (Firm)</origin>
+        <pubdate>1996</pubdate>
+        <title>Total Number of Business Establishments by Standard Industrial Classification (SIC) Code, United States Counties, 1995, MaconUSA</title>
+        <edition>1996</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Allston, MA</pubplace>
+          <publish>MaconUSA</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-macon95-usbuscnty-estab</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset is a polygon layer providing county-level boundary and total number of business establishments by Standard Industrial Classification (SIC) code data for the United States, 1995.   The Establishments layer is part of a subset of business datasets derived from MaconUSA's 'Maps and Data for Microsoft Office 95', published in 1996. Business datasets include US County Business Data with detailed counts of Total Establishments, Total Payroll, and Total Employees for 200 Categories of businesses organized by Standard Industrial Code (SIC).In addition to the Business datasets, individual demographic and marketing datasets for all 50 states plus the District of Columbia at both the Census tract and ZIP code level were derived from the "Maps and data" data set. State and county-level demographic and marketing layers were also derived from the "Maps and data" dataset. Original dataset sources include: the Claritas Update, Claritas Financial CLOUT database, Claritas Consumer CLOUT database, the U.S. Bureau of Labor Statistics, the U.S. Census Bureau, various other federal, state, and local governmental agencies, and businesses.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>data currency date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.144745</westbc>
+        <eastbc>179.781218</eastbc>
+        <northbc>71.383101</northbc>
+        <southbc>18.913907</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Boundaries</themekey>
+        <themekey>Counties</themekey>
+        <themekey>Business enterprises</themekey>
+        <themekey>Industries Classification</themekey>
+        <themekey>Industrial statistics</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>GfK GeoMarketing GmbH</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Werner-von-Siemens-Str. 9</address>
+          <address>Building 6508</address>
+          <city>Bruchsal</city>
+          <state>Baden-W?rttemberg</state>
+          <postal>76646</postal>
+          <country>Germany</country>
+        </cntaddr>
+        <cntvoice>+49 (0)7251 9295100</cntvoice>
+        <cntfax>+49 (0)7251 9295290</cntfax>
+        <cntemail>info(at)gfk-geomarketing.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Originally produced for Microsoft Office 95 (Windows 95) as MapInfo TAB files; converted to ArcSDE 9.1 layers using ArcGIS 9.3</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MaconUSA (Firm)</origin>
+            <pubdate>1996</pubdate>
+            <title>Maps and data : for Microsoft Office 95</title>
+            <edition>1996</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Allston, MA</pubplace>
+              <publish>MaconUSA</publish>
+            </pubinfo>
+            <othercit>1 CD-ROM ; 4 3/4 in.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>data currency date</srccurr>
+        </srctime>
+        <srccitea>MaconUSA CD-ROM</srccitea>
+        <srccontr>Source data disc.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was created from fifty-one individual state county files (**COUNTY.tab) that were downloaded from the "MaconUSA Maps and Data for Microsoft Office 95" compact disc.  Each file was translated from MapInfo TAB file format to ESRI shapefile format using Safe Software's 2009 FME Universal Translator.  Using ESRI ArcMap 9.3 software each shapefile was then joined to the corresponding state's Excel spreadsheet (**BUS1CT.xls/TTL Establishments tab) located on the MaconUSA CD.  The joined data was exported in ArcMap and saved as a new shapefile called "**BUSCNTY_estab".  For each of the fifty-one shapefiles, the unique attribute named 'GEOCNTY**' was renamed to 'GEOCNTYUS', and then all fifty-one shapefiles were merged into one shapefile using the 'merge' tool in ArcToolbox.  ArcCatalog 9.3 was utilized to import the shapefile into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" import tool.</procdesc>
+        <srcused>MaconUSA CD-ROM</srcused>
+        <procdate>2010</procdate>
+        <srcprod>SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3141</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MACON95_USBUSCNTY_estab</enttypl>
+        <enttypd>Total Number of Business Establishments by Standard Industrial Classification (SIC) Code, United States Counties, 1995</enttypd>
+        <enttypds>MaconUSA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GEOCNTYUS</attrlabl>
+        <attrdef>FIPS State-County code</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>COUNTY NAME, UNIQUE ONLY WITHIN A STATE.</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TTL_ESTAB</attrlabl>
+        <attrdef>TOTAL OF ALL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S07__</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S0700_0739</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: AGRICULTURE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S0740_0759</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: VETERINARY SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S0760_0779</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: FARM LABOR AND MANAGEMENT SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S0780_0789</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: LANDSCAPE AND HORTICULTURAL SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S0800_0899</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: FORESTRY: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S0900_0999</attrlabl>
+        <attrdef>AGRICULTURE, FORESTRY, FISHING: FISHING, HUNTING, AND TRAPPING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S10__</attrlabl>
+        <attrdef>MINING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1000_1999</attrlabl>
+        <attrdef>MINING: METAL MINING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1200_1299</attrlabl>
+        <attrdef>MINING: COAL MINING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1300_1399</attrlabl>
+        <attrdef>MINING: OIL AND GAS EXTRACTION: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1400_1499</attrlabl>
+        <attrdef>MINING: NONMETALLIC MINERALS, EXCEPT FUELS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S15__</attrlabl>
+        <attrdef>CONSTRUCTION: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1500_1599</attrlabl>
+        <attrdef>CONSTRUCTION: GENERAL CONTRACTORS AND OPERATIVE BUILDERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1600_1699</attrlabl>
+        <attrdef>CONSTRUCTION: HEAVY CONSTRUCTION, EXCEPT BUILDINGS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S1700_1999</attrlabl>
+        <attrdef>CONSTRUCTION: SPECIAL TRADE CONTRACTORS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S20__</attrlabl>
+        <attrdef>MANUFACTURING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2000_2199</attrlabl>
+        <attrdef>MANUFACTURING: FOOD AND KINDRED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2200_2299</attrlabl>
+        <attrdef>MANUFACTURING: TEXTILE MILL PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2300_2399</attrlabl>
+        <attrdef>MANUFACTURING: APPAREL AND OTHER TEXTILE PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2400_2499</attrlabl>
+        <attrdef>MANUFACTURING: LUMBER AND WOOD PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2500_2599</attrlabl>
+        <attrdef>MANUFACTURING: FURNITURE AND FIXTURES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2600_2699</attrlabl>
+        <attrdef>MANUFACTURING: PAPER AND ALLIED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2700_2799</attrlabl>
+        <attrdef>MANUFACTURING: PRINTING AND PUBLISHING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2800_2829</attrlabl>
+        <attrdef>MANUFACTURING: CHEMICALS AND ALLIED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2830_2839</attrlabl>
+        <attrdef>MANUFACTURING: DRUGS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2840_2849</attrlabl>
+        <attrdef>MANUFACTURING: SOAP, CLEANERS AND TOILET GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2850_2899</attrlabl>
+        <attrdef>MANUFACTURING: PAINTS, INDUSTRIAL ORGANIC, AND ALLIED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S2900_2999</attrlabl>
+        <attrdef>MANUFACTURING: PETROLEUM AND COAL PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3000_3099</attrlabl>
+        <attrdef>MANUFACTURING: RUBBER AND MISCELLANEOUS PLASTIC PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3100_3199</attrlabl>
+        <attrdef>MANUFACTURING: LEATHER AND LEATHER PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3200_3269</attrlabl>
+        <attrdef>MANUFACTURING: STONE, CLAY AND GLASS PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3270_3289</attrlabl>
+        <attrdef>MANUFACTURING: CONCRETE, GYPSUM, AND PLASTER PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3290_3299</attrlabl>
+        <attrdef>MANUFACTURING: MISC. NONMETALLIC MINERAL PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3300_3399</attrlabl>
+        <attrdef>MANUFACTURING: PRIMARY METAL INDUSTRIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3400_3479</attrlabl>
+        <attrdef>MANUFACTURING: FABRICATED METAL PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3480_3489</attrlabl>
+        <attrdef>MANUFACTURING: ORDNANCE AND ACCESSORIES, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3490_3499</attrlabl>
+        <attrdef>MANUFACTURING: MISC. FABRICATED METAL PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3500_3569</attrlabl>
+        <attrdef>MANUFACTURING: INDUSTRIAL MACHINERY AND EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3570_3579</attrlabl>
+        <attrdef>MANUFACTURING: COMPUTER AND OFFICE EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3580_3589</attrlabl>
+        <attrdef>MANUFACTURING: REFRIGERATION AND SERVICE MACHINERY: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3590_3599</attrlabl>
+        <attrdef>MANUFACTURING: INDUSTRIAL MACHINERY, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3600_3629</attrlabl>
+        <attrdef>MANUFACTURING: ELECTRONIC AND OTHER ELECTRONIC EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3630_3639</attrlabl>
+        <attrdef>MANUFACTURING: HOUSEHOLD APPLIANCES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3640_3649</attrlabl>
+        <attrdef>MANUFACTURING: ELECTRIC LIGHTING AND WIRING EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3650_3659</attrlabl>
+        <attrdef>MANUFACTURING: HOUSEHOLD AUDIO AND VIDEO EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3660_3669</attrlabl>
+        <attrdef>MANUFACTURING: COMMUNICATIONS EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3670_3699</attrlabl>
+        <attrdef>MANUFACTURING: ELECTRONIC COMPONENTS AND ACCESSORIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3700_3709</attrlabl>
+        <attrdef>MANUFACTURING: TRANSPORTATION EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3710_3719</attrlabl>
+        <attrdef>MANUFACTURING: MOTOR VEHICLES AND EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3720_3729</attrlabl>
+        <attrdef>MANUFACTURING: AIRCRAFT AND PARTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3730_3739</attrlabl>
+        <attrdef>MANUFACTURING: SHIP AND BOAT BUILDING AND REPAIRING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3740_3749</attrlabl>
+        <attrdef>MANUFACTURING: RAILROAD EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3750_3759</attrlabl>
+        <attrdef>MANUFACTURING: MOTORCYCLES, BICYCLES, AND PARTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3760_3789</attrlabl>
+        <attrdef>MANUFACTURING: GUIDED MISSILES, SPACE VEHICLES, PARTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3790_3799</attrlabl>
+        <attrdef>MANUFACTURING: MISCELLANEOUS TRANSPORTATION EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3800_3839</attrlabl>
+        <attrdef>MANUFACTURING: INSTRUMENTS AND RELATED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3840_3859</attrlabl>
+        <attrdef>MANUFACTURING: MEDICAL INSTRUMENTS AND SUPPLIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3860_3869</attrlabl>
+        <attrdef>MANUFACTURING: PHOTOGRAPHIC EQUIPMENT AND SUPPLIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3870_3899</attrlabl>
+        <attrdef>MANUFACTURING: WATCHES, CLOCKS, WATCHCASES AND PARTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S3900_3999</attrlabl>
+        <attrdef>MANUFACTURING: MISCELLANEOUS MANUFACTURING INDUSTRIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S40__</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4100_4199</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: LOCAL AND INTERURBAN PASSENGER TRANSIT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4200_4399</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: TRUCKING AND WAREHOUSING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4400_4499</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: WATER TRANSPORTATION: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4500_4599</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: TRANSPORTATION BY AIR: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4600_4699</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: PIPLINES, EXCEPT NATURAL GAS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4700_4799</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: TRANSPORTATION SERVICES, INCLUDING TOUR &amp;amp; TRAVEL: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4800_4899</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: COMMUNICATION: TOTAL INCLUDING TOUR &amp;amp; TRAVEL: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S4900_4999</attrlabl>
+        <attrdef>TRANSPORTATION AND PUBLIC UTILITIES: ELECTRIC, GAS AND SANITARY SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S50__</attrlabl>
+        <attrdef>WHOLESALE TRADE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5000_5009</attrlabl>
+        <attrdef>WHOLESALE TRADE: DURABLE GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5010_5019</attrlabl>
+        <attrdef>WHOLESALE TRADE: MOTOR VEHICLES, PARTS, AND SUPPLIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5020_5029</attrlabl>
+        <attrdef>WHOLESALE TRADE: FURNITURE AND HOME FURNISHINGS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5030_5039</attrlabl>
+        <attrdef>WHOLESALE TRADE: LUMBER AND CONSTRUCTION MATERIALS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5040_5046</attrlabl>
+        <attrdef>WHOLESALE TRADE: COMPUTER, PHOTOGRAPHIC, OFFICE EQPT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5047_5049</attrlabl>
+        <attrdef>WHOLESALE TRADE: MEDICAL AND HOSPITAL EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5050_5059</attrlabl>
+        <attrdef>WHOLESALE TRADE: METALS AND MINERALS, EXCEPT PETROLEUM: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5060_5069</attrlabl>
+        <attrdef>WHOLESALE TRADE: ELECTRICAL GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5070_5079</attrlabl>
+        <attrdef>WHOLESALE TRADE: HARDWARE, PLUMBING AND HEATING EQUIPMENT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5080_5089</attrlabl>
+        <attrdef>WHOLESALE TRADE: MACHINERY, EQUIPMENT AND SUPPLIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5090_5099</attrlabl>
+        <attrdef>WHOLESALE TRADE: MISCELLANEOUS DURABLE GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5100_5109</attrlabl>
+        <attrdef>WHOLESALE TRADE: NONDURABLE GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5110_5119</attrlabl>
+        <attrdef>WHOLESALE TRADE: PAPER AND PAPER PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5120_5129</attrlabl>
+        <attrdef>WHOLESALE TRADE: DRUGS, PROPRIETARIES, AND SUNDRIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5130_5139</attrlabl>
+        <attrdef>WHOLESALE TRADE: APPAREL, PIECE GOODS, AND NOTIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5140_5149</attrlabl>
+        <attrdef>WHOLESALE TRADE: GROCERIES AND RELATED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5150_5159</attrlabl>
+        <attrdef>WHOLESALE TRADE: FARM-PRODUCT RAW MATERIALS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5160_5169</attrlabl>
+        <attrdef>WHOLESALE TRADE: CHEMICALS AND ALLIED PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5170_5179</attrlabl>
+        <attrdef>WHOLESALE TRADE: PETROLEUM AND PETROLEUM PRODUCTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5180_5189</attrlabl>
+        <attrdef>WHOLESALE TRADE: BEER, WINE AND DISTILLED BEVERAGES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5190_5199</attrlabl>
+        <attrdef>WHOLESALE TRADE: MISC. NONDURABLE GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S52__</attrlabl>
+        <attrdef>RETAIL TRADE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5200_5299</attrlabl>
+        <attrdef>RETAIL TRADE: BUILDING MATERIALS AND GARDEN SUPPLIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5300_5399</attrlabl>
+        <attrdef>RETAIL TRADE: GENERAL MERCHANDISE STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5400_5499</attrlabl>
+        <attrdef>RETAIL TRADE: FOOD STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5500_5599</attrlabl>
+        <attrdef>RETAIL TRADE: AUTOMOTIVE DEALERS AND SERVICE STATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5600_5699</attrlabl>
+        <attrdef>RETAIL TRADE: APPAREL AND ACCESSORY STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5700_5719</attrlabl>
+        <attrdef>RETAIL TRADE: FURNITURE AND HOMEFURNISHINGS STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5720_5799</attrlabl>
+        <attrdef>RETAIL TRADE: HOUSEHOLD APPLIANCE, COMPUTER, MUSIC STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5800_5899</attrlabl>
+        <attrdef>RETAIL TRADE: EATING AND DRINKING PLACES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5900_5909</attrlabl>
+        <attrdef>RETAIL TRADE: MISCELLANEOUS RETAIL: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5910_5919</attrlabl>
+        <attrdef>RETAIL TRADE: DRUG STORES AND PROPRIETARY STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5920_5929</attrlabl>
+        <attrdef>RETAIL TRADE: LIQUOR STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5930_5939</attrlabl>
+        <attrdef>RETAIL TRADE: USED MERCHANDISE STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5940_5940</attrlabl>
+        <attrdef>RETAIL TRADE: MISCELLANEOUS SHOPPING GOODS STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5941_5941</attrlabl>
+        <attrdef>RETAIL TRADE: SPORTING GOODS AND BICYCLE SHOPS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5942_5942</attrlabl>
+        <attrdef>RETAIL TRADE: BOOK STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5943_5943</attrlabl>
+        <attrdef>RETAIL TRADE: STATIONERY STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5944_5944</attrlabl>
+        <attrdef>RETAIL TRADE: JEWELRY STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5945_5945</attrlabl>
+        <attrdef>RETAIL TRADE: HOBBY, TOY, AND GAME SHOPS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5946_5946</attrlabl>
+        <attrdef>RETAIL TRADE: CAMERA AND PHOTOGRAPHIC SUPPLY STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5947_5947</attrlabl>
+        <attrdef>RETAIL TRADE: GIFT, NOVELTY, AND SOUVENIR SHOPS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5948_5948</attrlabl>
+        <attrdef>RETAIL TRADE: LUGGAGE AND LEATHER GOODS STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5949_5959</attrlabl>
+        <attrdef>RETAIL TRADE: SEWING, NEEDLEWORK, AND PIECE GOODS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5960_5960</attrlabl>
+        <attrdef>RETAIL TRADE: NONSTORE RETAILERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5961_5961</attrlabl>
+        <attrdef>RETAIL TRADE: CATALOG AND MAIL-ORDER HOUSES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5962_5962</attrlabl>
+        <attrdef>RETAIL TRADE: VENDING MACHINE OPERATORS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5963_5979</attrlabl>
+        <attrdef>RETAIL TRADE: DIRECT SELLING ESTABLISHMENTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5980_5989</attrlabl>
+        <attrdef>RETAIL TRADE: FUEL DEALERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5990_5991</attrlabl>
+        <attrdef>RETAIL TRADE: RETAIL STORES, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5992_5992</attrlabl>
+        <attrdef>RETAIL TRADE: FLORISTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5993_5993</attrlabl>
+        <attrdef>RETAIL TRADE: TOBACCO STORES AND STANDS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5994_5994</attrlabl>
+        <attrdef>RETAIL TRADE: NEWSDEALERS AND NEWSSTANDS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5995_5995</attrlabl>
+        <attrdef>RETAIL TRADE: OPTICAL GOODS STORES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S5996_5999</attrlabl>
+        <attrdef>RETAIL TRADE: MISCELLANEOUS RETAIL STORES, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S60__</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6000_6099</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: DEPOSITORY INSTITUTIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6100_6199</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: NONDEPOSITORY INSTITUTIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6200_6299</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: SECURITY AND COMMODITY BROKERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6300_6399</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: INSURANCE CARRIERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6400_6499</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: INSURANCE AGENTS, BROKERS, AND SERVICE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6500_6699</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: REAL ESTATE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S6700_6799</attrlabl>
+        <attrdef>FINANCE, INSURANCE, AND REAL ESTATE: HOLDING AND OTHER INVESTMENT OFFICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S70__</attrlabl>
+        <attrdef>SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7000_7199</attrlabl>
+        <attrdef>SERVICES: HOTELS AND OTHER LODGING PLACES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7200_7209</attrlabl>
+        <attrdef>SERVICES: PERSONAL SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7210_7219</attrlabl>
+        <attrdef>SERVICES: LAUNDRY, CLEANING AND GARMENT SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7220_7229</attrlabl>
+        <attrdef>SERVICES: PHOTOGRAPHIC STUDIOS, PORTRAIT: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7230_7239</attrlabl>
+        <attrdef>SERVICES: BEAUTY SHOPS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7240_7249</attrlabl>
+        <attrdef>SERVICES: BARBER SHOPS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7250_7259</attrlabl>
+        <attrdef>SERVICES: SHOE REPAIR AND SHOESHINE PARLORS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7260_7269</attrlabl>
+        <attrdef>SERVICES: FUNERAL SERVICE AND CREMATORIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7270_7299</attrlabl>
+        <attrdef>SERVICES: MISCELLANEOUS PERSONAL SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7300_7309</attrlabl>
+        <attrdef>SERVICES: BUSINESS SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7310_7319</attrlabl>
+        <attrdef>SERVICES: ADVERTISING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7320_7329</attrlabl>
+        <attrdef>SERVICES: CREDIT REPORTING AND COLLECTION: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7330_7339</attrlabl>
+        <attrdef>SERVICES: MAILING, REPRODUCTION, STENOGRAPHIC: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7340_7349</attrlabl>
+        <attrdef>SERVICES: SERVICES TO BUILDINGS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7350_7359</attrlabl>
+        <attrdef>SERVICES: MISC. EQUIPMENT RENTAL AND LEASING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7360_7369</attrlabl>
+        <attrdef>SERVICES: PERSONNEL SUPPLY SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7370_7379</attrlabl>
+        <attrdef>SERVICES: COMPUTER AND DATA PROCESSING SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7380_7499</attrlabl>
+        <attrdef>SERVICES: MISCELLANEOUS BUSINESS SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7500_7599</attrlabl>
+        <attrdef>SERVICES: AUTO REPAIR, SERVICES AND PARKING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7600_7699</attrlabl>
+        <attrdef>SERVICES: MISCELLANEOUS REPAIR SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7700_7799</attrlabl>
+        <attrdef>SERVICES: UNCLASSIFIED: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7800_7809</attrlabl>
+        <attrdef>SERVICES: MOTION PICTURES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7810_7829</attrlabl>
+        <attrdef>SERVICES: MOTION PICTURE PRODUCTION AND SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7830_7839</attrlabl>
+        <attrdef>SERVICES: MOTION PICTURE THEATERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7840_7899</attrlabl>
+        <attrdef>SERVICES: VIDEO TAPE RENTAL: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7900_7909</attrlabl>
+        <attrdef>SERVICES: AMUSEMENT AND RECREATION SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7910_7919</attrlabl>
+        <attrdef>SERVICES: DANCE STUDIOS, SCHOOLS, AND HALLS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7920_7929</attrlabl>
+        <attrdef>SERVICES: PRODUCERS, ORCHESTRAS, ENTERTAINERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7930_7939</attrlabl>
+        <attrdef>SERVICES: BOWLING CENTERS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7940_7989</attrlabl>
+        <attrdef>SERVICES: COMMERCIAL SPORTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S7990_7999</attrlabl>
+        <attrdef>SERVICES: MISC. AMUSEMENT, RECREATION SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8000_8009</attrlabl>
+        <attrdef>SERVICES: HEALTH SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8010_8049</attrlabl>
+        <attrdef>SERVICES: OFFICES AND CLINICS OF DOCTORS &amp; DENTISTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8050_8059</attrlabl>
+        <attrdef>SERVICES: NURSING AND PERSONAL CARE FACILITIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8060_8069</attrlabl>
+        <attrdef>SERVICES: HOSPITALS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8070_8079</attrlabl>
+        <attrdef>SERVICES: MEDICAL AND DENTAL LABORATORIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8080_8089</attrlabl>
+        <attrdef>SERVICES: HOME HEALTH CARE SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8090_8099</attrlabl>
+        <attrdef>SERVICES: HEALTH AND ALLIED SERVICES, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8100_8199</attrlabl>
+        <attrdef>SERVICES: LEGAL SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8200_8209</attrlabl>
+        <attrdef>SERVICES: EDUCATIONAL SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8210_8219</attrlabl>
+        <attrdef>SERVICES: ELEMENTARY AND SECONDARY SCHOOLS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8220_8229</attrlabl>
+        <attrdef>SERVICES: COLLEGES AND UNIVERSITIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8230_8239</attrlabl>
+        <attrdef>SERVICES: LIBRARIES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8240_8289</attrlabl>
+        <attrdef>SERVICES: VOCATIONAL SCHOOLS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8290_8299</attrlabl>
+        <attrdef>SERVICES: SCHOOLS AND EDUCATIONAL SERVICES, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8300_8349</attrlabl>
+        <attrdef>SERVICES: SOCIAL SERVICES, EXCLUDING DAY CARE &amp; RESIDENTIAL CARE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8350_8359</attrlabl>
+        <attrdef>SERVICES: CHILD DAY CARE SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8360_8399</attrlabl>
+        <attrdef>SERVICES: RESIDENTIAL CARE: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8400_8599</attrlabl>
+        <attrdef>SERVICES: MUSEUMS, BOTANICAL, ZOOLOGICAL GARDENS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8600_8609</attrlabl>
+        <attrdef>SERVICES: MEMBERSHIP ORGANIZATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8610_8619</attrlabl>
+        <attrdef>SERVICES: BUSINESS ASSOCIATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8620_8629</attrlabl>
+        <attrdef>SERVICES: PROFESSIONAL ORGANIZATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8630_8639</attrlabl>
+        <attrdef>SERVICES: LABOR ORGANIZATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8640_8649</attrlabl>
+        <attrdef>SERVICES: CIVIC AND SOCIAL ASSOCIATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8650_8659</attrlabl>
+        <attrdef>SERVICES: POLITICAL ORGANIZATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8660_8689</attrlabl>
+        <attrdef>SERVICES: RELIGIOUS ORGANIZATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8690_8699</attrlabl>
+        <attrdef>SERVICES: MEMBERSHIP ORGANIZATIONS, N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8700_8709</attrlabl>
+        <attrdef>SERVICES: ENGINEERING AND MANAGEMENT SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8710_8719</attrlabl>
+        <attrdef>SERVICES: ENGINEERING AND ARCHITECTURAL SERVICES: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8720_8729</attrlabl>
+        <attrdef>SERVICES: ACCOUNTING, AUDITING, AND BOOKKEEPING: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8730_8739</attrlabl>
+        <attrdef>SERVICES: RESEARCH AND TESTING : TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8740_8899</attrlabl>
+        <attrdef>SERVICES: MANAGEMENT AND PUBLIC RELATIONS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S8900_8999</attrlabl>
+        <attrdef>SERVICES: N.E.C.: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S99__</attrlabl>
+        <attrdef>UNCLASSIFIED ESTABLISHMENTS: TOTAL ESTABLISHMENTS</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20100809</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

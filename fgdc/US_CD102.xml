@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Census Bureau.</origin>
+        <origin>GeoLytics, Inc.</origin>
+        <pubdate>201206</pubdate>
+        <title>102nd Congressional Districts, United States, 1991-1993</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, Mass.</pubplace>
+          <publish>Harvard Geospatial Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-us-cd102</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>District boundaries for the 102nd United States Congress, Jan. 3, 1991 to Jan. 3, 1993.</abstract>
+      <purpose>U.S. 102nd Congressional Districts provides the locations of congressional districts, primarily for national planning applications.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19910103</begdate>
+          <enddate>19930103</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.147339</westbc>
+        <eastbc>179.778503</eastbc>
+        <northbc>71.389587</northbc>
+        <southbc>18.913818</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>United States Congress</themekey>
+        <themekey>Election districts</themekey>
+        <themekey>Census</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Political divisions</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>No part of this data product is allowed to be reproduced or re-distributed to any other parties without permission.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+        <cntpos>Digital Cartography Specialist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Pusey Library</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntemail>maps@harvard.edu</cntemail>
+        <hours>M-F 10-4:45, EST</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No information is available about the accuracy of this data.</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No information is available about the positional accuracy of this data</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>GeoLytics, Inc.</origin>
+            <origin>U.S. Census Bureau.</origin>
+            <pubdate>2004</pubdate>
+            <title>CensusDVD research package</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>East Brunswick, NJ</pubplace>
+              <publish>Geolytics</publish>
+            </pubinfo>
+            <othercit>3 DVD-ROMs ; 4 3/4 in. + guide (15 p. ; 28 cm.)Disc 1. Historic data</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1970</begdate>
+              <enddate>2000</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>GeoLytics CD</srccitea>
+        <srccontr>Source CD</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The 102nd Congressional District boundaries were extracted from the Geolytics' Census DVD research package, Disc 1. Historic data, using the CensusCD 1990 Blocks (CCDBLOCK_1990) data layer's Congressional District - 102nd Congress (CD102) variable. Congressional districts for each state were extracted individually due to problems extracting at larger geographies (Geolytics units Nation, Region and Division all failed to extract cleanly).  The data was then exported out of Geolytics in shapefile format.  The individual state shapefiles were then dissolved on a concatenated field representing both state FIPS and CD number.  Several state shapefiles developed holes during the dissolve process, which were fixed prior to merging the individual shapefiles together to create the final US composite dataset.</procdesc>
+        <srcused>GeoLytics CD</srcused>
+        <procdate>201009</procdate>
+        <srcprod>Shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>Digital Cartography Specialist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+            <hours>M-F 10-4:45, EST</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Exported into ArcSDE 9.3.1 database using the "Feature Class to Feature Class" tool.</procdesc>
+        <srcused>Shapefile</srcused>
+        <procdate>201009</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>466</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>US_CD102</enttypl>
+        <enttypd>Census 102nd Congressional Districts, United States</enttypd>
+        <enttypds>Harvard Geospatial Library</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DISSCODE</attrlabl>
+        <attrdef>Concatenated FIPS State and Congressional District codes</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNT</attrlabl>
+        <attrdef>Unable to determine</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIRST_STAT</attrlabl>
+        <attrdef>FIPS State code</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIRST_CD10</attrlabl>
+        <attrdef>FIPS Congressional District code</attrdef>
+        <attrdefs>Harvard Geospatial Library</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being re-distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20120611</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

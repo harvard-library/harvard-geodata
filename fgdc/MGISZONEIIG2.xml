@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection.</origin>
+        <origin>Drinking Water Program (Mass.)</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Approved Wellhead Protection Areas (Zone II) (Region Polygons) (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-mgiszoneiig2</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer contains polygons representing approved Wellhead Protection (Zone II) Area regions for the state of Massachusetts as defined by the Massachusetts Department of Environmental Protection (DEP).  
+
+Because wells tend to be clustered by the nature of the resource they tap, the Zone IIs protecting those wells will frequently overlap. As a result of this overlap, intersecting Zone IIs are composed of multiple polygons and more than one Zone II can share an individual polygon. The regions data model represents complex area features and supports overlapping or non-contiguous areas. The Zone II data layer uses the regions feature class and topological structure to manage polygonal overlap, by combining all the polygons a Zone II comprises into a single region feature subclass (see the Approved Wellhead Protection Areas (Zone II) (Polygons) layer for component polygons) .
+
+Wellhead protection areas are important for protecting the recharge area around public water supply (PWS) wells. A Zone II is a wellhead protection area that has been determined by hydrogeologic modeling and approved by the Department of Environmental Protection's (DEP) Drinking Water Program (DWP). In cases where hydro-geologic modeling studies have not been performed and there is no approved Zone II, an Interim Wellhead Protection Area (IWPA) is established based on DEP DWP well pumping rates or default values. Certain land uses may be either prohibited or restricted in both approved (Zone II) and interim (IWPA) wellhead protection areas. 
+
+As stated in 310 CMR 22.02, a Zone II is:  
+
+"That area of an aquifer which contributes water to a well under the most severe pumping and recharge conditions that can be realistically anticipated (180 days of pumping at safe yield, with no recharge from precipitation). It is bounded by the groundwater divides which result from pumping the well and by the contact of the aquifer with less permeable materials such as till or bedrock. In some cases, streams or lakes may act as recharge boundaries. In all cases, Zone IIs shall extend up gradient to its point of intersection with prevailing hydrogeologic boundaries (a groundwater flow divide, a contact with till or bedrock , or a recharge boundary)." 
+
+DEP Zone II and Public Water Supply (PWS) data are closely linked, and DEP Zone II data should be used in association with the DEP Public Water Supply datalayer (PWS_DEP). During the approval process each Zone II is assigned a unique ID (ZII-NUM) by DEP DWP. The DEP Public Water Supply and Zone II datalayers use the ZII-NUM to link protected PWS sources to their approved Zone II. Since some PWS sources within a Zone II may not have been used to delineate that Zone II, the ZII-NUM item can be used to identify the specific wells for which a Zone II was delineated. If the DEP Public Water Supply datalayer item ZII-NUM is equal to 0 than that PWS source has no Zone II and should therefore have an Interim Wellhead Protection Area (IWPA).</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200303</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original issue date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Quarterly</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-73.484954</westbc>
+        <eastbc>-69.928782</eastbc>
+        <northbc>42.894664</northbc>
+        <southbc>41.245434</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Water-supply</themekey>
+        <themekey>Wellheads</themekey>
+        <themekey>Groundwater</themekey>
+        <themekey>Water districts</themekey>
+        <themekey>Natural resources conservation areas</themekey>
+        <themekey>Wellhead protection</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Since 2003, MassGIS has restricted the access to this data set.  Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>All maps or other documents produced using data or data products supplied through this agreement should contain a data source credit, prominently displayed, such as "source data supplied by the Massachusetts Executive Office of Environmental Affairs, MassGIS."
+These digital data represent the efforts of the Massachusetts Executive Office of Environmental Affairs and its agencies to compile or record information from the cited source materials. EOEA maintains an ongoing program to record and correct errors in these data that are brought to its attention. EOEA makes no claims as to the absolute validity or reliability of these data or their fitness for any particular use. EOEA maintains records regarding all methods used to collect and process these digital data and will disclose this information upon request.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Massachusetts Dept. of Environmental Protection</cntorg>
+        </cntorgp>
+        <cntpos>GIS Program</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>One Winter Street</address>
+          <city>Boston</city>
+          <state>MA</state>
+          <postal>02108</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-574-6856</cntvoice>
+        <cntfax>617-556-1049</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>When using MassGIS data on maps or in digital applications, source credit should be stated as "MassGIS, Commonwealth of Massachusetts Executive Office of Environmental Affairs"</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Drinking Water Program (Mass.)</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Approved Wellhead Protection Areas (Zone II) (Polygons) (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Drinking Water Program (Mass.)</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Approved Wellhead Protection Areas (Zone II) (Arcs) (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Massachusetts. Dept. of Environmental Protection</origin>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Drinking Water Program (Mass.)</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Public Water Supplies (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>MassGIS (Office : Mass.)</origin>
+        <origin>Massachusetts. Dept. of Environmental Protection.</origin>
+        <origin>Drinking Water Program (Mass.)</origin>
+        <pubdate>20030519</pubdate>
+        <title>MassGIS 2003 Massachusetts Interim Wellhead Protection Areas (March 2003)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Boston, Mass.</pubplace>
+          <publish>Office of Geographic and Environmental Information (MassGIS)</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.ed</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>MassGIS (Office : Mass.)</origin>
+            <pubdate>2003</pubdate>
+            <title>MassGIS data</title>
+            <edition>2003</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Boston, Mass.</pubplace>
+              <publish>MassGIS</publish>
+            </pubinfo>
+            <othercit>7 CD-ROM set</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>1:25,000 USGS quads</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>unknown ed./dates</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>25000</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USGS Quads (1:25,000)</srccitea>
+        <srccontr>Souce on which data is originally submitted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Zone II MANUSCRIPTS 
+
+Zone II delineation maps, based on USGS (1:25,000) topographic quadrangles, are submitted to the DEP DWP as a requirement for Zone II approval and are considered to be the Department's "official" Zone II maps. Traditionally these maps were submitted by consultants in hardcopy/analog format. Since 1999, Zone II data developed under DEP's Source Water Assessment Program (SWAP) is submitted by the consultant in a digital (ESRI shapefile) format. It is strongly recommended that if Zone IIs are to be used in site level analysis, the original hardcopy manuscript documents, located at DEP's Boston Office, be referred to for evaluation of any critical, site specific information. Please refer to the section below for DEP DWP contact information.  
+
+Zone II METHODOLOGY 
+
+Historically the "official" Zone II paper maps were used to recompile Zone II boundaries into the DEP Water Supply Protection Atlas, which consisted of stable mylar overlays based on the USGS 7.5 minute (1:25,000) topographic quadrangles. Prior to January 1996 Zone IIs were automated using the following methodology. After the technical reports were reviewed for completeness, the Zone II boundaries were transferred to a USGS-based stable mylar overlay. The Zone IIs were then inked onto the Water Sources overlay using a size 0 (.35 mm) pen and tablet digitized by GIS Program staff. 
+
+As of January 1996 the automation steps of recompiling the Zone II boundary onto the DEP Water Supply Protection Atlas Water Source overlay and tablet digitizing have been abandoned. Zone II boundaries are currently generated by one of the following methodologies: 
+
+-After the technical reports are reviewed for completeness and approved by DEP DWP technical services staff the DEP GIS Program is provided an analog copy of the "official" Zone II map. The Zone II map is scanned into a .tif image and then converted to an ESRI GRID image. Using the GRID as a background feature a minimum of four (4) tics are added to an empty Zone II template coverage. Rasterized Zone II data is converted to vector format by tracing the Zone II boundary on the underlying GRID. The vectorized Zone II boundaries are transformed into NAD83 Massachusetts state plane meter coordinates. New Zone IIs are appended to the statewide Zone II datalayer and regionalized. 
+
+-After the technical reports are reviewed for completeness and approved by DEP DWP technical services staff the DEP GIS Program is provided a digital copy of the "official" Zone II boundary generated by the consultant. New Zone IIs are appended to the statewide Zone II datalayer and regionalized.</procdesc>
+        <srcused>USGS Quads (1:25,000)</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Massachusetts Dept. of Environmental Protection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Program</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>One Winter Street</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>02108</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-574-6856</cntvoice>
+            <cntfax>617-556-1049</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded in shapefile format from the MassGIS 2003 Vector Data CD set.  The shapefile was then imported to an ArcSDE 9.1 database using the ArcSDE command line importing tool, shp2sde.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>2005</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>523</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>200000.000000</feast>
+              <fnorth>750000.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000169</absres>
+            <ordres>0.000169</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MGISZONEIIG2</enttypl>
+        <enttypd>DEP Approved Wellhead Protection Areas (Zone II Regions)</enttypd>
+        <enttypds>MassGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ZONE2_ID</attrlabl>
+        <attrdef>ID of the region</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZII_NUM</attrlabl>
+        <attrdef>The unique number assigned by DEP DWS to identify each Zone</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA_ACRES</attrlabl>
+        <attrdef>The area of the Zone II in acres</attrdef>
+        <attrdefs>MassGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA_1</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN_1</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Regional Topology Data Model: 
+
+Because wells tend to be clustered by the nature of the resource they tap, the Zone IIs protecting those wells will frequently overlap. As a result of this overlap, intersecting Zone IIs are composed of multiple polygons and more than one Zone II can share an individual polygon. The regions data model represents complex area features and supports overlapping or non-contiguous areas. The Zone II data layer uses the regions feature class and topological structure to manage polygonal overlap, by combining all the polygons a Zone II comprises into a single region feature subclass (ZONE2). 
+
+With regions based topology, an individual Zone II can be selected by using the item ZII-NUM in the region subclass ZONE2 attribute table. The ZII-NUM is assigned by DEP DWP. The ZII-NUM item is also maintained in the .PAT of the DEP Public Water Supply datalayer, and can be used to identify the specific wells for which a Zone II has been delineated.</eaover>
+      <eadetcit>MassGIS</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060712</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

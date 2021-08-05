@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geographic Data Technology, Inc.</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20040301</pubdate>
+        <title>ESRI Data &amp; Maps 2004 : U.S. Counties (Detailed)</title>
+        <edition>2004</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2004</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2004 \usa\census</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri04usdtl-cnty</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. Counties (Detailed) represents the counties of the United States in the 50 states and the District of Columbia.</abstract>
+      <purpose>U.S. Counties (Detailed) provides detailed boundaries that are consistent with the tract and state data sets and are effective at regional and state levels.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>200401</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200303</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2000</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1997</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>publication date: 200401, 200303; ground condition: 2000, 1997</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Matches software update releases</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.227818</westbc>
+        <eastbc>-66.949827</eastbc>
+        <northbc>71.390482</northbc>
+        <southbc>18.910791</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Counties</themekey>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Census</themekey>
+        <themekey>Agriculture Statistics</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>area</themekey>
+        <themekey>detail</themekey>
+        <themekey>demographics</themekey>
+        <themekey>population</themekey>
+        <themekey>households</themekey>
+        <themekey>farm information</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2004</tempkey>
+        <tempkey>2003</tempkey>
+        <tempkey>2000</tempkey>
+        <tempkey>1997</tempkey>
+        <tempkey>1999</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Affiliates for use on Harvard owned computers.  
+
+The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+[Applicable to U.S. Government Agencies and ESRI Business Information Solutions attributes only]--In addition to the redistribution rights above, geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States:
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States:
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 9.0.0.532</native>
+  </idinfo>
+  <dataqual>
+    <logic>No duplicate features are present. The shapefile is converted to SDC (Smart Data Compression) format in ArcSDE. This verifies and validates the geometry.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was extracted from the 2000 Census TIGER/Line files (CD-ROM edition).  The positional accuracy of the TIGER/Line coordinates varies with the source materials used but at best meets the established National Map Accuracy standards (+/- 167 feet approximately) where 1:100,000-scale maps from the USGS are the source. The Census Bureau cannot specify the accuracy of feature updates added by its field staff or of features derived from the GBF/DIME-Files or other map sources. Thus, the level of positional accuracy in the TIGER/Line files is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geographic Data Technology, Inc.</origin>
+            <pubdate>200401</pubdate>
+            <title>Dynamap/2000 v. 14.0</title>
+            <edition>Version 14.0</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Dynamap/2000</sername>
+              <issue>Version 14.0</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Lebanon, New Hampshire, USA</pubplace>
+              <publish>Geographic Data Technology, Inc</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200401</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GDT Dynamap/2000 v. 14.0</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Census Bureau.</origin>
+            <pubdate>2001</pubdate>
+            <title>Summary File 1 (SF1)</title>
+            <edition>2000</edition>
+            <serinfo>
+              <sername>Summary File 1 (SF1)</sername>
+              <issue>2000</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>USA</pubplace>
+              <publish>Department of Commerce, Census Bureau</publish>
+            </pubinfo>
+            <othercit>The Summary File 1 (SF1) data is based on the 2000 Census of Population.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Census SF1</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ESRI Business Information Solutions</origin>
+            <pubdate>200303</pubdate>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Vienna, Virginia, USA</pubplace>
+              <publish>ESRI Business Information Solutions</publish>
+            </pubinfo>
+            <othercit>Provided POP2003 and attribute data updates for the new U.S. counties.</othercit>
+            <title>ESRI Business Information Solutions data</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200303</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI BIS</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Dept. of Agriculture</origin>
+            <pubdate>199903</pubdate>
+            <title>1997 Census of Agriculture</title>
+            <edition>1997</edition>
+            <serinfo>
+              <sername>Census of Agriculture</sername>
+              <issue>1997</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>USA</pubplace>
+              <publish>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</publish>
+            </pubinfo>
+            <othercit>The farm attributes come from data published by the U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS) based on the 1997 Census of Agriculture.</othercit>
+            <origin>United States. National Agricultural Statistics Service</origin>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1997</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USDA Farm</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Extracted geography from GDT Dynamap/2000 v14.0 provided by ESRI Business Information Solutions. Made shapes multi-part. Mated the geography with the 2003 U.S. Counties attributes. Merged county (FIPS: 51560) Clifton Forge, VA into (FIPS: 51005) Alleghany, and updated attribute values for (FIPS: 51005) by combining the two. Added county (FIPS: 08014) Broomfield, CO and adjusted surrounding counties (FIPS: 08001) Adams, (FIPS: 08013) Boulder, (FIPS: 08059) Jefferson, and (FIPS: 08123) Weld. Updated attribute values for all five counties (values provided by ESRI Business Information Solutions). Used null value -99 in the few places where no new values were provided and we did not have the information. Replaced POP2001 with POP2003 from ESRI Business Information Solutions. Changed attribute name AREA to SQMI. Converted the data set to SDC. Created the projection file (.prj) and spatial indices.</procdesc>
+        <srcused>GDT Dynamap/2000 v. 14.0</srcused>
+        <srcused>Census SF1</srcused>
+        <srcused>ESRI BIS</srcused>
+        <srcused>USDA Farm</srcused>
+        <procdate>20040310</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States:
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States:
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the ESRI Data and Maps 2004 DVD.  The file was stored in an SDC (Smart Data Compression) format on the DVD.  ArcCatalog 9.1 was utilized to export the SDC file to a shapefile, and then the "Repair Geometry" tool was used to correct geometric discrepancies that would otherwise have prevented a given line or polygon from being imported to Arc SDE.  After the "Repair Geometry" tool was run, the file was exported from ArcCatalog 9.1 to an ArcSDE 9.1 database, using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>20060313</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3141</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI04USDTL_CNTY</enttypl>
+        <enttypd>A type of governmental unit that is the primary legal subdivision of every U.S. State.  In Alaska (borough) and Louisiana (parish) they have different names.</enttypd>
+        <enttypds>Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The county name.</attrdef>
+        <attrdefs>GDT Dynamap/Census Boundaries v14.0</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE_NAME</attrlabl>
+        <attrdef>The name for the state in which the county is located.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE_FIPS</attrlabl>
+        <attrdef>The FIPS code (two-digit number) for the state in which the county is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTY_FIPS</attrlabl>
+        <attrdef>The FIPS code (three-digit number) for the county.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>The combined state and county FIPS code. County FIPS codes begin with 001 for each state, use the combined code (five-digit number) to uniquely identify a county in the country.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SQMI</attrlabl>
+        <attrdef>The area of the county in square miles using Albers Equal Area Projection.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Calculated areas for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2000</attrlabl>
+        <attrdef>The 2000 population of the county.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2003</attrlabl>
+        <attrdef>The 2003 estimated population of the county.</attrdef>
+        <attrdefs>ESRI Business Information Solutions</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Attribute values of -99 are null values (data not available).</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP00_SQMI</attrlabl>
+        <attrdef>The 2000 population of the county per square mile.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau; ESRI</attrdefs>
+        <attrdomv>
+          <udom>Calculated populations per square mile for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WHITE</attrlabl>
+        <attrdef>The number of people identified as White alone.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLACK</attrlabl>
+        <attrdef>The number of people identified as Black or African American alone.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AMERI_ES</attrlabl>
+        <attrdef>The number of people identified as American Indian or Alaska Native alone.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ASIAN</attrlabl>
+        <attrdef>The number of people identified as Asian alone.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HAWN_PI</attrlabl>
+        <attrdef>The number of people identified as Native Hawaiian and other Pacific Islander alone.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OTHER</attrlabl>
+        <attrdef>The number of people identified as some other race alone.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MULT_RACE</attrlabl>
+        <attrdef>The number of people identified as two or more races.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HISPANIC</attrlabl>
+        <attrdef>The number of people identified as Hispanic or Latino.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MALES</attrlabl>
+        <attrdef>The number of males.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEMALES</attrlabl>
+        <attrdef>The number of females.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_UNDER5</attrlabl>
+        <attrdef>The number of people 0 to 4 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_5_17</attrlabl>
+        <attrdef>The number of people 5 to 17 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_18_21</attrlabl>
+        <attrdef>The number of people 18 to 21 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_22_29</attrlabl>
+        <attrdef>The number of people 22 to 29 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_30_39</attrlabl>
+        <attrdef>The number of people 30 to 39 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_40_49</attrlabl>
+        <attrdef>The number of people 40 to 49 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_50_64</attrlabl>
+        <attrdef>The number of people 50 to 64 years of age.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_65_UP</attrlabl>
+        <attrdef>The number of people 65 years of age and over.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MED_AGE</attrlabl>
+        <attrdef>The median age for both sexes.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MED_AGE_M</attrlabl>
+        <attrdef>The median age for males.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MED_AGE_F</attrlabl>
+        <attrdef>The median age for females.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOUSEHOLDS</attrlabl>
+        <attrdef>The total number of households.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AVE_HH_SZ</attrlabl>
+        <attrdef>The average household size.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSEHLD_1_M</attrlabl>
+        <attrdef>The number of one-person male households.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSEHLD_1_F</attrlabl>
+        <attrdef>The number of one-person female households.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARHH_CHD</attrlabl>
+        <attrdef>The number of family households with a married couple and related children under 18 years.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARHH_NO_C</attrlabl>
+        <attrdef>The number of family households with a married couple and no related children under 18 years.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MHH_CHILD</attrlabl>
+        <attrdef>The number of family households with a man and related children under 18 years but no wife.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FHH_CHILD</attrlabl>
+        <attrdef>The number of family households with a woman and related children under 18 years but no husband.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FAMILIES</attrlabl>
+        <attrdef>The number of families.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AVE_FAM_SZ</attrlabl>
+        <attrdef>The average family size.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSE_UNITS</attrlabl>
+        <attrdef>The total number of housing units.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>VACANT</attrlabl>
+        <attrdef>The number of housing units that are vacant.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_OCC</attrlabl>
+        <attrdef>The number of housing units that are occupied by the owner.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RENTER_OCC</attrlabl>
+        <attrdef>The number of housing units that are occupied by renters.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NO_FARMS97</attrlabl>
+        <attrdef>The total number of farms in 1997.</attrdef>
+        <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Attribute values of -99 are null values (data not available).</edomvd>
+            <edomvds>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AVG_SIZE97</attrlabl>
+        <attrdef>The average farm size in acres in 1997.</attrdef>
+        <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Attribute values of -99 are null values (data not available).</edomvd>
+            <edomvds>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CROP_ACR97</attrlabl>
+        <attrdef>The total area of cropland in acres in 1997.</attrdef>
+        <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Attribute values of -99 are null values (data not available).</edomvd>
+            <edomvds>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AVG_SALE97</attrlabl>
+        <attrdef>The average sales of agricultural products per farm, in thousands of dollars, in 1997.</attrdef>
+        <attrdefs>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>-99</edomv>
+            <edomvd>Attribute values of -99 are null values (data not available).</edomvd>
+            <edomvds>U.S. Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metd>20060912</metd>
+  </metainfo>
+</metadata>

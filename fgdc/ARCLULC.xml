@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Atlanta Regional Commission (ARC)</origin>
+        <pubdate>2002</pubdate>
+        <title>Atlanta Regional Commission Landuse and Landcover</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-arclulc</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer depicts various types of land use and land cover areas with associated attribute data for the Atlanta Regional Commission's (ARC) 10-county region. The geographic extent of this Theme is the Atlanta Region 13-county area which includes ARC's 10 counties, plus the EPA non-attainment counties of Forsyth, Paulding, and Coweta.  Though the terms are often used interchangeably, landuse and landcover are not synonymous.  Landcover generally refers to the natural or cultivated vegetation, rock, or water covering the land, as well as the developed surface which can be identified on aerial photography.  Landuse generally refers to the way that humans use or will use the land, regardless of its apparent landcover.  As such, this theme is primarily a landcover database with an extra landuse component which is essential to many of ARC's key agency functions
+ARC documentation states that:
+This land use/cover theme was created by on-screen photo-interpretation and digitizing of ortho-rectified aerial photography at a scale of 1:14,000.  The primary sources for this mapping effort were 1999 natural color imagery with four-foot pixel resolution, provided by Aerials Express, Inc. (formerly DigiAir, Inc.) and 1999 color infrared (CIR) digital orthophoto quarter quads (DOQQs) with one-meter pixel resolution, provided by the US Geological Survey (USGS) through the Georgia GIS Clearinghouse.  Using both sources of imagery, landcover polygons were delineated using ARC's previous (1995) landuse/cover GIS database as the principal source of collateral (secondary) data.  Where possible, all newly digitized arcs were aligned to the Georgia Department of Transportation (GDOT) DLG-F street centerlines, which were used, along with the 1995 landuse/cover dataset, as primary "backcoverages" in ArcEdit.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1999</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-85.050308</westbc>
+        <eastbc>-83.798904</eastbc>
+        <northbc>34.412590</northbc>
+        <southbc>33.191044</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Land use</themekey>
+        <themekey>Vegetation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Atlanta</placekey>
+        <placekey>Georgia (United States)</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.
+This data may not be redistributed by HGL users. Any authorized use of information derived or supplemented by use of the Database shall acknowledge the Atlanta Regional Commission (ARC) as the source.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Atlanta Regional Commission (ARC)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Atlanta Regional Commission</address>
+          <address>40 Courtland Street, NE</address>
+          <address>Attn: GIS Division</address>
+          <city>Atlanta</city>
+          <state>GA</state>
+          <postal>30303</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(404) 463-3100</cntvoice>
+        <cntfax>(404) 463-3105</cntfax>
+        <cntemail>jbohn@atlantaregional.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Atlanta Regional Commission</origin>
+            <pubdate>2002</pubdate>
+            <title>Atlanta Regional Commission (ARC) Data</title>
+            <edition>5th</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Atlanta Regional Information System (ARIS)</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Atlanta, Georgia</pubplace>
+              <publish>Atlanta Regional Commission</publish>
+            </pubinfo>
+            <othercit>Fifth in a continuing series of CD-ROMs with updates.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Range from 5,000 to 100,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1983</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ARC Data</srccitea>
+        <srccontr>Data used to produce Shapefiles in HGL</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>Various Sources</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>5,000 to 100,000</srcscale>
+        <typesrc>GPS data; Orthophotos; TIGER files; Vector data</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1983</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Various</srccitea>
+        <srccontr>Various source materials were used to produce ARC CD-ROM Data.  Data derived form such sources as: Georgia Department of Community Affairs (DCA); Georgia Department of Transportation (GDOT); Georgia Department of Industry, Trade and Tourism (GDITT); U.S. Geological Survey (USGS); U.S. Census Bureau; Environmental Systems Research Institute (ESRI); Metropolitan Atlanta Rapid Transit Authority (MARTA); Reapportionment Services Office, Georgia General Assembly; Cobb County Department of Transportation (CCT) and others.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Atlanta Regional Commission assembled and processed data form various sources to produce their published dataset on CD-ROM.</procdesc>
+        <srcused>Various</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>ARC CD-ROM Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Atlanta Regional Commission (ARC)</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Atlanta Regional Commission data was obtained via a CD-ROM. The data were in the format of ESRI Shapefiles and were imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>ARC CD-ROM Data</srcused>
+        <procdate>200410</procdate>
+        <srcprod>HGL Shapefiles</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>GIS Technician</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata imported.</procdesc>
+        <srcused>C:\Documents and Settings\Strawn\My Documents\Metadata temp folder\AAAtlanta ARC Template.xml</srcused>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>19140</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ARC Landcover and Land Use Areas</enttypl>
+        <enttypd>Polygons represent land cover or land use areas</enttypd>
+        <enttypds>ARC</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TIM.ARCLULC.AREA</attrlabl>
+        <attrdef>Feature Area</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature perimeter</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LANDPRO99_</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LANDPRO991</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LC</attrlabl>
+        <attrdef>Land Cover Code</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>111</edomv>
+            <edomvd>Low Density Single Family Residential. Areas that have generally been developed for single family residential use, usually with a significant mix of forested or agricultural landcover.  These areas often occur on the periphery of urban expansion and are generally characterized by houses on 2 to 5 acre lots.  Some examples of this category include rural housing, estates, and linear residential developments along transportation routes.</edomvd>
+          </edom>
+          <edom>
+            <edomv>112</edomv>
+            <edomvd>Medium Density Single Family Residential. Areas that have predominantly been developed for single family residential use, with or without a significant mix of forested or agricultural landcover.  These areas usually occur in urban or suburban zones and are generally characterized by houses on 1/4 to 2 acre lots.  This category accounts for the majority of residential landuse in the Region and includes a wide variety of neighborhood types.</edomvd>
+          </edom>
+          <edom>
+            <edomv>113</edomv>
+            <edomvd>High Density Residential . Areas that have predominantly been developed for concentrated single family residential use.  These areas occur almost exclusively in urban neighborhoods with streets on a grid network, and are characterized by houses on lots smaller than 1/4 acre, but may also include mixed residential areas with duplexes and small apartment buildings.</edomvd>
+          </edom>
+          <edom>
+            <edomv>117</edomv>
+            <edomvd>Multifamily Residential. Residential areas comprised predominantly of apartment, condominium and townhouse complexes where net density generally exceeds eight units per acre.  Typical apartment buildings are relatively easy to identify, but some high rise structures may be interpreted as, or combined with, office buildings.  Likewise, some smaller apartments and townhouses may be interpreted as, or combined with, medium- or high-density single family residential.  Housing on military bases, campuses, resorts, agricultural properties and construction work sites is not included in this or other residential categories.</edomvd>
+          </edom>
+          <edom>
+            <edomv>119</edomv>
+            <edomvd>Mobile Home Parks. Areas that have been developed for single family mobile home use. These residential areas may occur in urban, suburban, or rural zones throughout the Region, with or without a significant mix of forested landcover.  Due to their sparse distribution, individual mobile homes are generally mapped with the Forest landcover (Code 40) and Low- or Medium-Density Residential (Codes 111 and 112, respectively).</edomvd>
+          </edom>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>Commercial and Services.  Areas used predominantly for the sale of products and services, including urban central business districts, shopping centers in suburban and outlying areas, commercial strip developments, junk yards and resorts.  The main buildings, secondary structures and areas supporting the basic use are all included: office buildings, warehouses, driveways, sheds, parking lots, landscaped areas, waste disposal areas, etc.  Commercial areas may include some non-commercial uses too small to be separated out.  Central business districts commonly include some institutions such as churches and schools, and commercial strip developments may include some residential units.</edomvd>
+          </edom>
+          <edom>
+            <edomv>121</edomv>
+            <edomvd>Intensive Institutional. The built-up portions of institutional land holdings, including all buildings, grounds and parking lots that compose educational, religious, health, correctional and military facilities.  Institutions occupying small areas (for example, many churches and some elementary and secondary schools) may be included in other categories, principally residential or commercial.</edomvd>
+          </edom>
+          <edom>
+            <edomv>125</edomv>
+            <edomvd>Extensive Institutional.  Public or private land holdings devoted to educational, religious, health, correctional, or military land use. This category is one of only two that is used exclusively for land use classifications, the other being Park Lands (Code 175).  As the Metropolitan Planning Organization (MPO) for Atlanta, ARC is required to produce long range population and employment forecasts which are used in transportation modeling.  The land use categories of Extensive Institutional and Park Lands are important to ARC's long range forecasts since large tracts of land controlled by governments and institutions are more likely to be withheld from residential, commercial, or industrial development.  Unlike Intensive Institutional (Code 121) which is visible on, and delineated from, the digital aerial photography, Extensive Institutional can only be identified and mapped from collateral data sources.  The primary source of this information comes from the GIS Coordinators for each of the 13 counties and the City of Atlanta who reviewed the previous (1995) designations and provided updated information and additional GIS or CAD data. Various secondary sources include hardcopy, digital and internet maps and files.  Please note, the built-up land cover portion of these various tracts of land are generally identified as Intensive Institutional (Code 121).  The Extensive Institutional landuse areas identify the full extent of these tracts which are both built-up and non-built-up, and whose undeveloped area is at least 25 acres in size</edomvd>
+          </edom>
+          <edom>
+            <edomv>13</edomv>
+            <edomvd>Industrial. Land associated with light or heavy manufacturing.  Light industries, those focused on design, assembly, finishing, processing and packaging of products, can be difficult to identify using aerial photography.  Heavy industries, those focused on the use of raw materials, such as timber and steel, are relatively uncommon in the Atlanta Region, but the category may include lumber mills and tank farms, as well as chemical, cement and brick-making plants.  For this mapping effort, industrial landcover is more commonly captured with the Industrial and Commercial Complexes category (Code 15) which is described below.</edomvd>
+          </edom>
+          <edom>
+            <edomv>14</edomv>
+            <edomvd>Transportation, Communication and Utilities. Also referred to as "TCU," this category encompasses various landuse types associated with transportation, communication, and utilities.  Much of the automotive transportation is accounted for in other categories, particularly highways and their right-of-ways, which are either absorbed into the context of a more dominant landcover (e.g. residential or commercial), or are covered completely within the Limited Access Highways category (Code 145) described below.  Other types of transportation include service and terminal facilities, railways (including MARTA) and their stations, parking lots, roundhouses, repair and switching yards, as well as overland track and spur connections.  Airport facilities may include runways, terminals, service buildings, navigation aids, fuel storage, parking lots, and intervening land.  Similar to streets and highways, communication and utility networks generally fall below the minimum mapping standards, thus are not separated out of the context of the larger landuse with which they are associated.  When practical, areas involved in the processing, treatment and transportation of water, gas, oil, and electricity, such as pumping stations and electric substations have been delineated.  Likewise, areas used for airwave communications, such as radio, radar, or television may be mapped in this category.</edomvd>
+          </edom>
+          <edom>
+            <edomv>145</edomv>
+            <edomvd>Limited Access Highways. This category identifies all highways, or portions of highways that are considered  "limited access," their right-of-ways, ramps and interchanges.  In addition to the 8 interstate highways in the Region (I-20, I-75, I-85, I-285, I-575, I-595, I-675, and I-985), this category includes the entire extents of the Stone Mountain Freeway, Ronald Reagan Parkway, Freedom Parkway, Arthur Langford Parkway, the Canton Road Connector, and Spur 14 connecting the South Fulton Parkway to I-285.  Likewise, portions of the Camp Creek Parkway, Appalachian Highway, Peachtree Industrial Boulevard, and Georgia Highway 316 are also included.  Finally, cartographic license was taken with Georgia Highway 400 to extend this designation northward through Forsyth County, slightly beyond where interchanges stop and intersections begin, thus ceasing to actually be limited access highway</edomvd>
+          </edom>
+          <edom>
+            <edomv>15</edomv>
+            <edomvd>Industrial and Commercial Complexes. Industrial and commercial areas that typically occur together or in close functional proximity with one another.  For this mapping effort, based primarily on the interpretation of aerial photography, industrial areas are more commonly grouped in this category than in the Industrial (Code 13) category.  In as much as various functions, such as warehousing, wholesaling and occasionally retailing may be found in the same structures or adjacent structures, this more inclusive category has been used to combine commercial with industrial.  Industrial parks are almost always classified in this category.</edomvd>
+          </edom>
+          <edom>
+            <edomv>17.</edomv>
+            <edomvd>Other Urban Open land in intensive or indeterminate urban uses that do not require or do not have structures.  Examples include water control structures and spillways, waste dumps, landfills, golf driving ranges and other recreation areas not identified as parks.  This category excludes golf courses, cemeteries and active parks, which are contained in separate categories</edomvd>
+          </edom>
+          <edom>
+            <edomv>171</edomv>
+            <edomvd>Golf Courses. The "green space" areas of golf courses, including tees, fairways, greens and intervening land.  Forest areas and ponds are often included, but may also be identified separately (Code 40 and 53, respectively) depending on their size.  Likewise, other built-up facilities, such as parking lots, clubhouses, pools, courts, etc. may be classified as commercial/services (Code 12).</edomvd>
+          </edom>
+          <edom>
+            <edomv>172</edomv>
+            <edomvd>Cemeteries. Public and private lands devoted to burial grounds, including primary and secondary buildings and associated infrastructure.  Because of their unique photo "signature," many small cemeteries can be identified from the digital imagery at a scale of 1:14,000; many others, however, may be combined with residential, commercial, forest, or agriculture landcover.  Forest areas and ponds are often included in this category, but may also be identified separately (Code 40 and 53, respectively) depending on their size.</edomvd>
+          </edom>
+          <edom>
+            <edomv>173</edomv>
+            <edomvd>Parks. Active recreation areas identified from aerial photography, including baseball and other sports fields, tennis courts, swimming pools, camp grounds, parking lots, structures, drives, and trails. Forest areas and ponds are often included, but may also be identified separately (Code 40 and 53, respectively) depending on their size.</edomvd>
+          </edom>
+          <edom>
+            <edomv>175</edomv>
+            <edomvd>Park Lands. Local, state, or federal land holdings devoted to preservation, conservation or recreation, as identified from secondary sources.  This category is one of only two that is used exclusively for landuse classifications, the other being Extensive Institutional (Code 125).  As the Metropolitan Planning Organization (MPO) for Atlanta, ARC is required to produce long range population and employment forecasts which are used in transportation modeling.  The landuse categories of Park Lands and Extensive Institutional are important to ARC's long range forecasts since large tracts of land controlled by governments and institutions are more likely to be withheld from residential, commercial, or industrial development.  Unlike Parks (Code 173) which are visible on, and delineated from, the digital aerial photography, Park Lands can only be identified and mapped from collateral data sources.  The primary source of this information comes from the GIS Coordinators for each of the 13 counties and the City of Atlanta who reviewed the previous (1995) designations and provided updated information and additional GIS or CAD data. Various secondary sources include hardcopy, digital and internet maps and files.  Please note, the built-up landcover portion of these various tracts of land are generally identified as Parks (Code 173).  The Park Land landuse areas identify the full extent of these tracts which are both built-up and non-built-up, and whose undeveloped area is at least 25 acres in size.</edomvd>
+          </edom>
+          <edom>
+            <edomv>21</edomv>
+            <edomvd>Agriculture-Cropland and Pasture. Agricultural land regularly used to grow field crops or to pasture animals.  Although the 5 acre minimum mapping standard generally applies in identifying these areas and distinguishing them from Forest (Code 40) and Residential-Low Density (Code 111) landcover, for cartographic reasons it was not used in separating out forest in many larger agricultural delineations.  Instead, these vast areas of mixed landcover were generalized with a minimum mapping unit of 25 acres.</edomvd>
+          </edom>
+          <edom>
+            <edomv>22</edomv>
+            <edomvd>Agriculture-Orchards, Vineyards and Nurseries. Agricultural land used to produce fruit, nuts or living plants for sale or for propagation.</edomvd>
+          </edom>
+          <edom>
+            <edomv>24</edomv>
+            <edomvd>Agriculture-Other. Agricultural land used for livestock holding, breeding and training areas, including farmsteads and associated infrastructure, such as small farm lanes, roads, ditches, canals and ponds.</edomvd>
+          </edom>
+          <edom>
+            <edomv>40</edomv>
+            <edomvd>Forest. All forested areas of coniferous and/or deciduous trees.  Although the 5 acre minimum mapping standard generally applies with the identification of these areas in an urban context, for cartographic reasons it is not used in a rural context to separate out forest within larger agricultural delineations. Instead, these vast areas of mixed landcover are generalized with a minimum mapping unit of 25 acres.</edomvd>
+          </edom>
+          <edom>
+            <edomv>51</edomv>
+            <edomvd>Rivers. The Chattahoochee River extending from Buford Dam in Gwinnett and Forsyth counties south to Heard County.  Other "linear" water bodies, such as smaller rivers, streams, creeks, and canals fall below the mapping standards used for inclusion in this category.</edomvd>
+          </edom>
+          <edom>
+            <edomv>53</edomv>
+            <edomvd>Reservoirs, Lakes, and Ponds. Man-made impoundments, often referred to as "lakes" or "ponds," which are persistently covered with water.  Please note, as there are no known naturally occurring lakes in the Region, the previous class called Lakes (Code 52) has been dropped from the classification system.  For larger reservoirs, the water control structures themselves are often classified in Other Urban (Code 17).</edomvd>
+          </edom>
+          <edom>
+            <edomv>60</edomv>
+            <edomvd>Wetlands. Forested and/or herbaceous areas where the water table is at, near or above the land surface for a significant part of the growing season in most years.  Please note, the expanse of wetlands has been greatly increased with this update over previous versions due to the availability of digital National Wetlands Inventory (NWI) data and color infrared (CIR) imagery.  Wetland polygons were delineated at a scale of 1:6,000 using the CIR imagery after all other landcover delineations had been made at 1:14,000, mostly with the natural color imagery.  The NWI data was used as the primary "backcoverage" in ARC/Info for reference to wetland boundary and classification information.  This information was concurrently compared to USGS digital raster graph (DRGs) topographic images which were viewed at the same scale in ArcView for reference to contours, hydrography, and other topographic information.  ARC's landcover delineations represent the synthesis of these two older data sources against the 1999 CIR digital imagery using the minimum mapping standards established for the project.</edomvd>
+          </edom>
+          <edom>
+            <edomv>74</edomv>
+            <edomvd>Bare Exposed Rock. Naturally occurring areas of exposed bedrock with little or no vegetative cover.</edomvd>
+          </edom>
+          <edom>
+            <edomv>75</edomv>
+            <edomvd>Quarries, Gravel Pits, and Strip Mines. Land which is currently, or was in the past, used to extract rocks and minerals, and has had its vegetation cover removed and not replaced.  Pits which have been flooded with water are often included in this category, but may also be identified separately as artificial impoundments (Code 53) depending on their size.</edomvd>
+          </edom>
+          <edom>
+            <edomv>76</edomv>
+            <edomvd>Transitional Areas. Recently cleared or altered land in transition from one landuse activity, either built-up or non-built-up, to another unknown or undeterminable landuse.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LU</attrlabl>
+        <attrdef>Land Use Code</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LC_NAME</attrlabl>
+        <attrdef>Land Cover Name</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LU_NAME</attrlabl>
+        <attrdef>Land Use Name</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050819</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

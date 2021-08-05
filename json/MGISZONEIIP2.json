@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-mgiszoneiip2",
+  "dc_title_s": "MassGIS 2003 Massachusetts Approved Wellhead Protection Areas (Zone II) (Polygons) (March 2003)",
+  "dc_description_s": "This datalayer contains polygons representing approved Wellhead Protection (Zone II) Areas for the state of Massachusetts as defined by the Massachusetts Department of Environmental Protection (DEP). Wellhead protection areas are important for protecting the recharge area around public water supply (PWS) wells. A Zone II is a wellhead protection area that has been determined by hydrogeologic modeling and approved by the Department of Environmental Protection's (DEP) Drinking Water Program (DWP). In cases where hydro-geologic modeling studies have not been performed and there is no approved Zone II, an Interim Wellhead Protection Area (IWPA) is established based on DEP DWP well pumping rates or default values. Certain land uses may be either prohibited or restricted in both approved (Zone II) and interim (IWPA) wellhead protection areas. As stated in 310 CMR 22.02, a Zone II is: 'That area of an aquifer which contributes water to a well under the most severe pumping and recharge conditions that can be realistically anticipated (180 days of pumping at safe yield, with no recharge from precipitation). It is bounded by the groundwater divides which result from pumping the well and by the contact of the aquifer with less permeable materials such as till or bedrock. In some cases, streams or lakes may act as recharge boundaries. In all cases, Zone IIs shall extend up gradient to its point of intersection with prevailing hydrogeologic boundaries (a groundwater flow divide, a contact with till or bedrock , or a recharge boundary).' DEP Zone II and Public Water Supply (PWS) data are closely linked, and DEP Zone II data should be used in association with the DEP Public Water Supply datalayer (PWS_DEP). During the approval process each Zone II is assigned a unique ID (ZII-NUM) by DEP DWP. The DEP Public Water Supply and Zone II datalayers use the ZII-NUM to link protected PWS sources to their approved Zone II. Since some PWS sources within a Zone II may not have been used to delineate that Zone II, the ZII-NUM item can be used to identify the specific wells for which a Zone II was delineated. If the DEP Public Water Supply datalayer item ZII-NUM is equal to 0 than that PWS source has no Zone II and should therefore have an Interim Wellhead Protection Area (IWPA).",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//MGISZONEIIP2.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:MGISZONEIIP2",
+  "layer_slug_s": "harvard-mgiszoneiip2",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-07-11T00:00:00Z",
+  "dc_creator_sm": [
+    "MassGIS (Office : Mass.)",
+    "Massachusetts. Dept. of Environmental Protection.",
+    "Drinking Water Program (Mass.)"
+  ],
+  "dc_publisher_s": [
+    "Office of Geographic and Environmental Information (MassGIS)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Water-supply",
+    "Wellheads",
+    "Groundwater",
+    "Water districts",
+    "Natural resources conservation areas",
+    "Wellhead protection",
+    "environment",
+    "inlandWaters",
+    "utilitiesCommunication"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_issued_s": "2003-05-19",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_isPartOf_sm": [
+    "MassGIS data"
+  ],
+  "solr_geom": "ENVELOPE(-73.484954, -69.928782, 42.894664, 41.245434)",
+  "solr_year_i": 2003,
+  "harvard_collectionID_sm": [
+    "990077651710203941"
+  ]
+}

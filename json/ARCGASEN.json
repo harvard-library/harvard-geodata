@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcgasen",
+  "dc_title_s": "Atlanta Regional Commission Georgia State Senate Districts",
+  "dc_description_s": "This polygon datalayer depicts the State of Georgia's Senatorial Districts as adopted by the Georgia General Assembly in 1999. Used to delineate voter districts for the Georgia General Assembly, this Theme may also be linked to the U.S. Census Bureau's Summary Tape Files (STF) for the display and analysis of demographic data.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCGASEN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCGASEN",
+  "layer_slug_s": "harvard-arcgasen",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Municipal",
+    "State governments",
+    "Administrative and political divisions"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_geom": "ENVELOPE(-85.605164, -80.742569, 35.000771, 30.355644)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

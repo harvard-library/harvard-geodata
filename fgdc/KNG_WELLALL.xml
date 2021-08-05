@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <origin>Seattle-King County Dept. of Public Health</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : water supply wells</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-wellall</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset shows the locations of all wells listed in the King County Groundwater database. These are mainly private wells of individual homeowners, but some Public Water Supply group A or group B wells are also included. See also the related datasets: water supply wells, group A, and water supply wells, group B datalayers.</abstract>
+      <purpose>A general purpose datalayer suitable for mapping or analyses involving groundwater source locations.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20011027</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source coverage publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.544787</westbc>
+        <eastbc>-121.403241</eastbc>
+        <northbc>47.904151</northbc>
+        <southbc>47.139973</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Water-supply</themekey>
+        <themekey>Wells</themekey>
+        <themekey>Groundwater</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Collene Gaolach</cntper>
+          <cntorg>King Co. Water and Land Resources</cntorg>
+        </cntperp>
+        <cntpos>GIS Analyst</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>201 S. Jackson St. Suite 600</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98104</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 296-1933</cntvoice>
+        <cntemail>collene.gaolach@metrokc.gov</cntemail>
+        <hours>9:00 - 7:00 Tues - Fri. -- PST USA</hours>
+        <cntinst>Email is best contact method</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>King County Department of Health.</datacred>
+    <native>Unknown.</native>
+    <crossref>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <origin>Washington (State). Dept. of Health</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : water supply wells, group A (15 or more connections)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu/</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <origin>Washington (State). Dept. of Health</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : water supply wells, group B (2 to 14 connections)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu/</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The locational data for this dataset was obtained from several sources including well logs. The positional accuracy is not expected to be better than a 500 foot radius around each point location. For more information, contact Ken Johnson (King County Department of Natural Resources, Water &amp; Land Resources Division). 
+
+This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.). GIS Center.</origin>
+            <origin>Seattle-King County Dept. of Public Health</origin>
+            <pubdate>20011027</pubdate>
+            <title>WELL_ALL: Water Supply Wells</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: utility-well_all</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.). GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20011027</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>6805</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000162</absres>
+            <ordres>0.000162</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_WELLALL</enttypl>
+        <enttypd>King County Water Supply Wells</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>KNG_WELLALL.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WELL_ALL_</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None.</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WELL_ALL_I</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None.</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>EQUIS_ID</attrlabl>
+        <attrdef>Unique ID for each location</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Alphanumeric code</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOC_NAME</attrlabl>
+        <attrdef>Name of well owner or water system</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>X_COORD</attrlabl>
+        <attrdef>X Coordinate : WA State Plane North (units: feet)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1220584.26</rdommin>
+            <rdommax>14986003.43</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Y_COORD</attrlabl>
+        <attrdef>Y Coordinate : WA State Plane North (units: feet)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>55660.56</rdommin>
+            <rdommax>330339.12</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WELL_ID</attrlabl>
+        <attrdef>Secondary ID : DOE, USGS Well ID number: Township/Range-Section(Qtr/Qtr)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOC_TYPE</attrlabl>
+        <attrdef>Location Type : type of well</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Borehole</edomv>
+          </edom>
+          <edom>
+            <edomv>Excavation</edomv>
+          </edom>
+          <edom>
+            <edomv>Multiple</edomv>
+          </edom>
+          <edom>
+            <edomv>Not Identified</edomv>
+          </edom>
+          <edom>
+            <edomv>Sinkhole</edomv>
+          </edom>
+          <edom>
+            <edomv>Spring</edomv>
+            <edomvd>A spring is a point where groundwater flows out of the ground, and is thus where the aquifer surface meets the ground surface. Depending on how constant the source of the water is - rainfall or snowmelt that infiltrates the earth - springs can be ephemeral (intermittent), perennial (continuous) or artesian. When they leave the ground they may forms pools or streams.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Test Hole</edomv>
+          </edom>
+          <edom>
+            <edomv>Well</edomv>
+            <edomvd>A pit, hole, or shaft sunk into the earth to tap an underground source of water.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOC_PURP</attrlabl>
+        <attrdef>Location purpose : Type of activity well is used for</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WELL_PURP</attrlabl>
+        <attrdef>Well purpose : 	General category of use for water from well</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SURF_ELEV</attrlabl>
+        <attrdef>Surface Elevation : Land surface elevation - NOT top of casing elevation (Units: feet)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2920</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOT_DEPTH</attrlabl>
+        <attrdef>Well Hole Depth : Total depth of well hole</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>11111</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WELL_DEPTH</attrlabl>
+        <attrdef>Total depth of well</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3200320</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GEOLOG_YN</attrlabl>
+        <attrdef>Well log available (Yes/No)?</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>No</edomv>
+            <edomvd>Well log not available</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Yes</edomv>
+            <edomvd>Well log available</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WQ_YN</attrlabl>
+        <attrdef>Water quality data available (Yes/No)?</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>No</edomv>
+            <edomvd>Water quality data not available</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Yes</edomv>
+            <edomvd>Water quality data available</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WL_YN</attrlabl>
+        <attrdef>Water level data available (Yes/No)?</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>No</edomv>
+            <edomvd>Water level data not available</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Yes</edomv>
+            <edomvd>Water level data available</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GWMA_LOC</attrlabl>
+        <attrdef>Groundwater Management Area that contains the location</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>East King County</edomv>
+            <edomvd>East King County</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Issaquah Creek Valley</edomv>
+            <edomvd>Issaquah Creek Valley</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Other</edomv>
+            <edomvd>Not one of the defined Groundwater Management Areas.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Redmond-Bear Creek</edomv>
+            <edomvd>Redmond-Bear Creek</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>South King County</edomv>
+            <edomvd>South King County</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Vashon-Maury Island</edomv>
+            <edomvd>Vashon-Maury Island</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BASIN_NAME</attrlabl>
+        <attrdef>Name of basin (from drnbasin) point is in</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WRIA_NO</attrlabl>
+        <attrdef>Water Resource Inventory Area (from drnbasin) the point is in</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Snohomish WRIA.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Cedar-Sammamish WRIA.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>Green-Duwamish WRIA.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>Puyallup-White WRIA.</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070205</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : Puget Sound bathymetry</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-psbath</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Puget Sound bathymetry.  Covers Puget Sound from Snohomish County to Pierce County.</abstract>
+      <purpose>Bathymetric point data for Puget Sound to be used in a GIS.</purpose>
+      <supplinf>Source type: Derived NOS 10/31/1994</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030630</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-123.040565</westbc>
+        <eastbc>-122.189432</eastbc>
+        <northbc>48.006846</northbc>
+        <southbc>47.033988</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Bathymetric maps</themekey>
+        <themekey>Submarine topography</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Puget Sound</placekey>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+        <placekey>Snohomish County</placekey>
+        <placekey>Pierce County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.
+
+The data are an historical file and do not reflect corrections or supplemental information from NOS or other sources. The soundings have been corrected for uniform tidal datum -- mean lower low water datum.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>King County GIS Center</cntorg>
+          <cntper>Cheryl Wilder</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>201 S. Jackson St.</address>
+          <address>Room 706</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98104</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 263-5220</cntvoice>
+        <cntemail>cheryl.wilder@metrokc.gov</cntemail>
+        <hours>Mon. - Fri., 8:00 am - 5:00 pm -- PST USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.)  GIS Center.</origin>
+            <pubdate>20030630</pubdate>
+            <title>PS_BATH: Bathymetry</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: topo-ps_bath</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.)  GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030630</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>494578</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000204</absres>
+            <ordres>0.000204</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_PSBATH</enttypl>
+        <enttypd>Puget Sound Bathymetry</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>KNG_PSBATH.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PS_BATH_</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS_BATH_ID</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SURVEY_</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DAY</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YEAR</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEG_LAT</attrlabl>
+        <attrdef>Latitude degrees</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MIN_LAT</attrlabl>
+        <attrdef>Latitude minutes</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SEC_LAT</attrlabl>
+        <attrdef>Latitude seconds</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEG_LONG</attrlabl>
+        <attrdef>Longitude degrees</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MIN_LONG</attrlabl>
+        <attrdef>Longitude minutes</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SEC_LONG</attrlabl>
+        <attrdef>Longitude seconds</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEPTH</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CARTO_CODE</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLANK</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NEG_ELEV</attrlabl>
+        <attrdef>Negative of item ELEV (e)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ELEV</attrlabl>
+        <attrdef>Unknown</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070118</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

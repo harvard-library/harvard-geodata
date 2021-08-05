@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Newton GIS</origin>
+        <pubdate>2001?</pubdate>
+        <title>Census Block Groups - City of Newton</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-nwtnblkgrppy</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>A polygon coverage of the boundaries of the U.S. Census Bureau's block groups and some appended demographic information for Newton, Massachusetts. Currently the most recent information is for the 1990 census.
+
+A census Block Group is a statistical subdivision of a census Tract consisting of a cluster of census blocks having the same first digit of their identifying numbers within that tract. Example, Block Group 3 contains all blocks from 3000-3999.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to demographics or population studies or to support graphical overlays and analysis with other spatial data. 
+More advanced user applications may focus on urban and regional planning, demographic or socio-economic studies (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.
+
+Block Groups generally contain between 300 and 3,000 people with an optimum size of 1,500 people. The Block Group is the lowest-level geographic entity for which the U.S. Census Bureau tabulates "Sample" data from a decennial census.
+The Census Bureau's TIGER (Topographically Integrated Geographic Encoding and Referencing) System automates the mapping and related geographic activities required to support the decennial census and sample survey programs of the Census Bureau.</purpose>
+      <supplinf>The City of Newton is not maintaining this layer but when the 2000 Information becomes available it will be added and the 1990 data will be archived for historic purposes.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1990</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.270375</westbc>
+        <eastbc>-71.156794</eastbc>
+        <northbc>42.367871</northbc>
+        <southbc>42.282602</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Population</themekey>
+        <themekey>Demographic surveys</themekey>
+        <themekey>Households</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Newton</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational or non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Newton GIS</cntorg>
+        </cntorgp>
+        <cntpos>GIS Administrator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Information Technology Department</address>
+          <address>City Hall, Room 107</address>
+          <address>1000 Commonwealth Avenue</address>
+          <city>Newton Center</city>
+          <state>MA</state>
+          <postal>02459-1400</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-796-1180</cntvoice>
+        <cntvoice>617-796-1000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by City of Newton GIS.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <logic>For layers containing line or polygon features, Newton's data layers are "topologically clean". This was verified with Arc/Info software version 7.x in 1998 and is an ongoing part of data maintenance for the relevant data layers.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>No systematic and quantitative review of property boundary accuracy has ever been conducted.  However, several qualitative observations based on experience using the data are possible.  The street right-of-way lines overlay the orthophoto base map very well, falling on or close to the apparent back-of-sidewalk visible on the photos.The edge-of-pavement data layer was compiled from aerial photography for Boston Edison to an absolute accuracy specification of +/- 2.5 feet.  Again, the right-of-way lines match up well in this comparison.  Less is known about the accuracy of the internal property boundaries.  Casual observations suggest they are sometimes as accurate as the right-of-way lines and sometimes much less.  Some observations of boundary line discrepancies relative to property boundary lines such as fences and hedges visible on the orthophotos indicate that internal property boundaries may be off by at least +/- 5 feet.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, Bureau of the Census, Geography Division</origin>
+            <pubdate>Unpublished Material</pubdate>
+            <title>TIGER data base</title>
+            <edition>1990</edition>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1990</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>TIGER</srccitea>
+        <srccontr>Selected cartographic and demographic information (line segments) from the Census TIGER data base.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Created by the Commonwealth of Massachusetts Dept. of Environmental Protection from the U.S. Census Bureau's TIGER line files. Some of this information came from other, unknown sources.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Commonwealth of Massachusetts, Dept. of Environmental Protection</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Executive Office of Environmental Affairs</address>
+              <address>251 Causeway Street, 9th Floor</address>
+              <city>Boston</city>
+              <state>MA</state>
+              <postal>Boston</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-626-1000</cntvoice>
+            <cntfax>617-626-1181</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <procdate>20020927</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1343</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>State Plane Coordinate System</gridsysn>
+          <spcs>
+            <spcszone>2001</spcszone>
+            <lambertc>
+              <stdparll>41.716667</stdparll>
+              <stdparll>42.683333</stdparll>
+              <longcm>-71.500000</longcm>
+              <latprjo>41.000000</latprjo>
+              <feast>656166.666667</feast>
+              <fnorth>2460625.000000</fnorth>
+            </lambertc>
+          </spcs>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000015</absres>
+            <ordres>0.000015</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>National Geodetic Vertical Datum of 1929</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Census Block Groups</enttypl>
+        <enttypd>ESRI Shapefile. Polygons represent census block groups</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FEATURE AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>BLK207_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLK207_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County FIPS Code</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRACT90</attrlabl>
+        <attrdef>1990 Census Tract</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technolog</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLOCK90</attrlabl>
+        <attrdef>1990 Census Block Group</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNT_TRCT_B</attrlabl>
+        <attrdef>Numeric code combining County, Tract, Block digits</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DATA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>POP18</attrlabl>
+        <attrdef>Population aged 18 and over</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPUNDER18</attrlabl>
+        <attrdef>Population under age 18</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DENSITY</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CNTTRCTBLK</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BLOCKGRP</attrlabl>
+        <attrdef>1990 Census Block Group</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRCTBLK</attrlabl>
+        <attrdef>Numeric code for Tract and Block</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRACTSUFF</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FILL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CONGDIS</attrlabl>
+        <attrdef>Congressional Districts</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOUSE100</attrlabl>
+        <attrdef>Number of Households</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP100</attrlabl>
+        <attrdef>100 Percent Count of Persons</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPHISP</attrlabl>
+        <attrdef>Hispanic Population</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPWHITE</attrlabl>
+        <attrdef>Caucasian (White) Population</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPBLACK</attrlabl>
+        <attrdef>African-American (Black) Population</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPNATAM</attrlabl>
+        <attrdef>Native-American Population</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPASIAN</attrlabl>
+        <attrdef>Asian-American Population</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POPOTHER</attrlabl>
+        <attrdef>Population classified as "Other Races"</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP18HISP</attrlabl>
+        <attrdef>Over 18 Hispanic</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP18WHITE</attrlabl>
+        <attrdef>Over 18 Caucasian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP18BLACK</attrlabl>
+        <attrdef>Over 18 African-American (Black)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP18NATAM</attrlabl>
+        <attrdef>Over 18 Native American</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP18ASIAN</attrlabl>
+        <attrdef>Over 18 Asian</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP18OTHER</attrlabl>
+        <attrdef>Over 18 Other</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Block Name</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PLACECE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FPLACE90</attrlabl>
+        <attrdef>Numeric Place Code</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technolog</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUSUBFP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SUMLEV</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>NWTNBLKGRPPY.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated feature length in map units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20021017</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-295-12417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

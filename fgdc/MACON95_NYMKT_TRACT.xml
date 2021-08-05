@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>MaconUSA (Firm)</origin>
+        <pubdate>1996</pubdate>
+        <title>New York Census Tract Market Data, 1995, MaconUSA</title>
+        <edition>1996</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Allston, MA</pubplace>
+          <publish>MaconUSA</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-macon95-nymkt-tract</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset is a polygon layer providing boundary and marketing data for Census tracts for New York, 1995.  The marketing data set includes attributes covering: population growth, population age and sex distribution, household age, income, and wealth, Claritas Consumer CLOUT expenditure data for alcoholic beverages, women's footwear, attorneys, bicycles, and vehicle supplies, Claritas Financial CLOUT expenditure data on first mortgages greater than $150,000, bank credit cards, and life insurance, PRIZM household type (Elite Suburbs, Working Towns), and workforce employed by the private sector.   Individual demographic and marketing datasets for all 50 states plus the District of Columbia at both the Census tract and ZIP code level were derived from MaconUSA's 'Maps and Data for Microsoft Office 95', published in 1996.  State and county-level demographic and marketing layers were also derived from the "Maps and data" dataset. Original dataset sources include: the Claritas Update, Claritas Financial CLOUT database, Claritas Consumer CLOUT database, the U.S. Bureau of Labor Statistics, the U.S. Census Bureau, various other federal, state, and local governmental agencies, and businesses.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1995</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>data currency date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-79.762184</westbc>
+        <eastbc>-71.856635</eastbc>
+        <northbc>45.015802</northbc>
+        <southbc>40.496600</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census districts</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Marketing</themekey>
+        <themekey>Consumers</themekey>
+        <themekey>Purchasing power</themekey>
+        <themekey>Shopping</themekey>
+        <themekey>Income Statistics</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Census</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Age distribution (Demography)</themekey>
+        <themekey>Sex distribution (Demography)</themekey>
+        <themekey>Households Statistics</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>economy</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>New York</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>GfK GeoMarketing GmbH</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Werner-von-Siemens-Str. 9</address>
+          <address>Building 6508</address>
+          <city>Bruchsal</city>
+          <state>Baden-W?rttemberg</state>
+          <postal>76646</postal>
+          <country>Germany</country>
+        </cntaddr>
+        <cntvoice>+49 (0)7251 9295100</cntvoice>
+        <cntfax>+49 (0)7251 9295290</cntfax>
+        <cntemail>info(at)gfk-geomarketing.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Originally produced for Microsoft Office 95 (Windows 95) as MapInfo TAB files; converted to ArcSDE 9.1 layers using ArcGIS 9.3</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Data may be missing for some Census tracts. Missing Census tracts data is represented by the attribute value '-9999'</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>MaconUSA (Firm)</origin>
+            <pubdate>1996</pubdate>
+            <title>Maps and data : for Microsoft Office 95</title>
+            <edition>1996</edition>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Allston, MA</pubplace>
+              <publish>MaconUSA</publish>
+            </pubinfo>
+            <othercit>1 CD-ROM ; 4 3/4 in.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>data currency date</srccurr>
+        </srctime>
+        <srccitea>MaconUSA CD-ROM</srccitea>
+        <srccontr>Source data disc.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was created from the following file that was downloaded from the "MaconUSA Maps and Data for Microsoft Office 95" compact disc:  NYTRACT.tab.  This file was translated from MapInfo TAB file format to ESRI shapefile format using Safe Software's 2009 FME Universal Translator.  Using ESRI ArcMap 9.3 software this shapefile was then joined to the following Excel spreadsheet located on the MaconUSA CD: "NYMKT1TR.xls".  The joined data was exported in ArcMap and saved as a new shapefile called "NYMKT_tract".  ArcCatalog 9.3 was utilized to import the shapefile into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" import tool.</procdesc>
+        <srcused>MaconUSA CD-ROM</srcused>
+        <procdate>2010</procdate>
+        <srcprod>SDE layer</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>4856</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>MACON95_NYMKT_TRACT</enttypl>
+        <enttypd>New York Census Tract Market Data 1995</enttypd>
+        <enttypds>MaconUSA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GEOTRACTNY</attrlabl>
+        <attrdef>Census State-County-Tract code</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>County Name; Unique only within a State</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POPGROWTH</attrlabl>
+        <attrdef>Projected Percent Growth in Population from 1995 to 2000</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PCTFEMPOP</attrlabl>
+        <attrdef>Percent of Females in 1995 Population</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POPUNDER10</attrlabl>
+        <attrdef>Percent of 1995 Population under 10 Years of Age</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP18TO34</attrlabl>
+        <attrdef>Percent of Population Aged 18-34 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP55PLUS</attrlabl>
+        <attrdef>Percent of 1995 Population Aged 55 Years or more</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHLDGROWTH</attrlabl>
+        <attrdef>Projected Percent of Growth in Households from 1995 to 2000</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHR25TO34</attrlabl>
+        <attrdef>Percent of 1995 Households with Householder Aged 25 - 34 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHR45TO64</attrlabl>
+        <attrdef>Percent of 1995 Households with Householder Aged 45 - 64 Years</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHR75PLUS</attrlabl>
+        <attrdef>Percent of 1995 Households with Householder Aged 75 Years or more</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HINCU15K</attrlabl>
+        <attrdef>Percent of 1995 Households with Income under $15,000</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HINC25TO50</attrlabl>
+        <attrdef>Percent of 1995 Households with Income $25,000 - $49,999</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HINC75KP</attrlabl>
+        <attrdef>Percent of 1995 Households with Income $75,000 or more</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WLTH25TO50</attrlabl>
+        <attrdef>Percent of 1995 Households with Wealth of $25,000 - $49,000</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WLTH100KP</attrlabl>
+        <attrdef>Percent of 1995 Households with Wealth of $100,000 or more</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ALCHLBEV</attrlabl>
+        <attrdef>1995 Alcoholic Beverages Expenditure Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WOMENSHOES</attrlabl>
+        <attrdef>1995 Women's Footwear Expenditure Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ATTORNEYS</attrlabl>
+        <attrdef>1995 Attorney's Expenditure Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BICYCLES</attrlabl>
+        <attrdef>1995 Bicycles Expenditure Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEHSUPSERV</attrlabl>
+        <attrdef>1995 Vehicle Supplies and Services Expenditure Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MORT150KP</attrlabl>
+        <attrdef>1995 First Mortgage Greater then $150,000 Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BNKCRDTCRD</attrlabl>
+        <attrdef>1995 Bank Credit Card Product Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LIFEINS</attrlabl>
+        <attrdef>Any Life Insurance Index</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ELITESUB</attrlabl>
+        <attrdef>Percent of 1995 Households in PRIZM'S Elite Suburbs</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WORKTOWN</attrlabl>
+        <attrdef>Percent of 1995 Households in PRIZM'S Working Towns</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WRKPOPPRVT</attrlabl>
+        <attrdef>Percent of Workplace Population Employed in Private Sector</attrdef>
+        <attrdefs>MaconUSA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20100720</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

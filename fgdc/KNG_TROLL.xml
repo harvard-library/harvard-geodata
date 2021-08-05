@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : trolley line footprints</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-troll</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>King County, Washington trolley line footprints. Streets with overhead trolley wire derived from the King County Street Network datalayer (The source coverage is current as of 11/29/94).  
+
+Trolley lines are contained within the City of Seattle.</abstract>
+      <purpose>This data set is a reference for location of overhead trolley wire to help in planning construction projects or moving overheight vehicles on city roads. Providing trolley wire locations helps in expansion and maintenance of existing facilities. Identify the location of facilities which reduces chances of damage during construction.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030625</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source coverage publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.398346</westbc>
+        <eastbc>-122.253341</eastbc>
+        <northbc>47.670468</northbc>
+        <southbc>47.506351</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Street-railroads</themekey>
+        <themekey>Trolley buses</themekey>
+        <themekey>Transportation</themekey>
+        <themekey>Local transit</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+        <placekey>Seattle</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Tamara Davis</cntper>
+          <cntorg>GIS group - Transit Infrastructure and Integration</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Exchange Building</address>
+          <address>821 Second Ave., MS 150</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98014</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 684-2118</cntvoice>
+        <cntemail>tamara.davis@metrokc.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+    <crossref>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : street network</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu/</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.
+
+A large scale checkplot was generated for review and acceptance by Transit. Several minor modifications to the map were recommended and made in Arcedit.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.). GIS Center.</origin>
+            <pubdate>20030625</pubdate>
+            <title>TROLLEY: Trolley Lines</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: transit-trolley</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.). GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030625</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1362</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000034</absres>
+            <ordres>0.000034</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_TROLL</enttypl>
+        <enttypd>King County Trolley Line Footprints</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>From node.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>To node.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Left polygon</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Right polygon</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TROLLEY_</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TROLLEY_ID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KCSN_</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KCSN_ID</attrlabl>
+        <attrdef>Internal feature number (same as RECNUM)</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RECNUM</attrlabl>
+        <attrdef>Unique id of street link to the trolley</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>KCGIS_RECN</attrlabl>
+        <attrdef>KC GIS Recnum : King County GIS unique id of the street link to the trolley</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VERSION</attrlabl>
+        <attrdef>Version number : U.S. Census Bureau dictated version numbers</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CFCC</attrlabl>
+        <attrdef>Census Feature Class Code (road class)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Census Feature Class Codes</codesetn>
+            <codesets>See TIGER/Line Files Technical Documentation: http://www.census.gov/geo/www/tiger/rd_2ktiger/tgrrd2k.pdf, page 84 for CFCC identification.  The CFCC, as used in the TIGER/Line files, is a three-character code.  The first character is a letter describing the feature class; the second character is a number describing the major category; and the third character is a number describing the minor category.</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FRADDL</attrlabl>
+        <attrdef>From Address Left : 	Address at the from node on the left side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOADDL</attrlabl>
+        <attrdef>To Address Right : Address at the to node on the right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FRADDR</attrlabl>
+        <attrdef>From Address Right : Address at the from node on the right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOADDR</attrlabl>
+        <attrdef>Address at the to node on the right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZIPL</attrlabl>
+        <attrdef>Zip Code Left : The Postal zip code on the left side of the street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZIPR</attrlabl>
+        <attrdef>Zip Code Right : The postal zip code on right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTYL</attrlabl>
+        <attrdef>County FIPS code on left side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTYR</attrlabl>
+        <attrdef>County FIPS code on right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FMCDL</attrlabl>
+        <attrdef>FIPS minor civil division code on left side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards (FIPS) Pub 55</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FMCDR</attrlabl>
+        <attrdef>FIPS minor civil division code on right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards (FIPS) Pub 55</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FPLL</attrlabl>
+        <attrdef>FIPS place code on left side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards (FIPS) Pub 55</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FPLR</attrlabl>
+        <attrdef>FIPS place code on right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards (FIPS) Pub 55</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CTBNAL</attrlabl>
+        <attrdef>Census Tract BNA code on left side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>U.S. Census Bureau Block Numbering Areas</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CTBNAR</attrlabl>
+        <attrdef>Census Tract BNA code on right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>U.S. Census Bureau Block Numbering Areas</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLKL</attrlabl>
+        <attrdef>Census block code on left side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLKR</attrlabl>
+        <attrdef>Census block code on right side of street</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RAMTYPE</attrlabl>
+        <attrdef>This item is not used and can be dropped</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DATECR</attrlabl>
+        <attrdef>Date Created : The YYMD feature was created</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DATEUP</attrlabl>
+        <attrdef>Date updated : The YYMD feature was updated</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ROAD_CLASS</attrlabl>
+        <attrdef>Road classification : Classificatiion codes for roadway</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>Collector arterials</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Freeways</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Local</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Minor arterials</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Primary arterials</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRANSIT</attrlabl>
+        <attrdef>Transit codes indicate if used by transit</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>KEYNAME</attrlabl>
+        <attrdef>Link key identifier to street name table (kcsn.stname)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>KEYALIAS1</attrlabl>
+        <attrdef>Second link key identifier to street name table (kcsn.stname)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>KEYALIAS2</attrlabl>
+        <attrdef>Third link key identifier to street name table (kcsn.stname)</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UFLAG</attrlabl>
+        <attrdef>U flag : Codes indicate if modified since Oracle update</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAMKEY</attrlabl>
+        <attrdef>RAMIS database link</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOV</attrlabl>
+        <attrdef>Numbers indicate the direction of the HOV lanes</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>North</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>South</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>East</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>West</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Both</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BARRIER</attrlabl>
+        <attrdef>Trip planning defines streets where pedestrian crossings are not allowed</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GRADE</attrlabl>
+        <attrdef>Slope of streets</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TROLLEY</attrlabl>
+        <attrdef>Numbers identify streets as trolley overhead</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HSS</attrlabl>
+        <attrdef>Highway Statewide Significance : Numbers identify streets as HSS</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070131</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

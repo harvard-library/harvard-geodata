@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20080401</pubdate>
+        <title>U.S. Cities : ESRI Data &amp; Maps 2008</title>
+        <edition>2008</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2008 \usa\census</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri08uscities</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. Cities represents locations for cities within United States with populations of 10,000 or greater (based on Census 2000 figures), all state capitals, and the national capital.</abstract>
+      <purpose>U.S. Cities provides locations and attributes for cities.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:250,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>200004</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20070606</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition: 200004; publication date: 20070606</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-158.176464</westbc>
+        <eastbc>-68.783009</eastbc>
+        <northbc>64.848300</northbc>
+        <southbc>19.702482</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Cities and towns</themekey>
+        <themekey>Human settlements</themekey>
+        <themekey>Census</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Housing Statistics</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>point</themekey>
+        <themekey>cities</themekey>
+        <themekey>capitals</themekey>
+        <themekey>demographics</themekey>
+        <themekey>population</themekey>
+        <themekey>households</themekey>
+        <themekey>location</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+        <tempkey>2007</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only  available for Harvard Affiliates for use on Harvard owned computers. The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+  </idinfo>
+  <dataqual>
+    <logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE to verify and validate the geometry.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was calculated from latitude/longitude coordinates from the U.S. Census Bureau 2000 Summary File 1 (SF1).  The horizontal positional accuracy is unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Bureau of the Census</origin>
+            <pubdate>2001</pubdate>
+            <title>Summary File 1 (SF1)</title>
+            <edition>2000</edition>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>Summary File 1 (SF1)</sername>
+              <issue>2000</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>USA</pubplace>
+              <publish>Department of Commerce, Census Bureau</publish>
+            </pubinfo>
+            <othercit>The Summary File 1 (SF1) data is based on the 2000 Census of Population.  The geospatial data is calculated from the latitude/longitude coordinate attributes.</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200004</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Census SF1</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>20070606</pubdate>
+            <title>ESRI Community Data</title>
+            <edition>2007</edition>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>ESRI Community? Data</sername>
+              <issue>2007</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>ESRI</publish>
+            </pubinfo>
+            <othercit>Provided the POP2007 attribute.</othercit>
+            <onlink>http://www.esri.com/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20070606</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI Community Data</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Created a data set by extracting state capitals, the national capital, and places of 10,000 or more inhabitants from U.S. Census Bureau 2000 Summary File 1 (SF1).  Ran ArcView GIS command Add Event Theme on the data set to create the point location centroids shapefile. Reformatted attributes and finalized attribute order.  Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
+        <srcused>Census SF1</srcused>
+        <procdate>20021010</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Simplified the AREANAME values for some of the features.</procdesc>
+        <procdate>20031212</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Renamed attributes AREANAME to NAME and POP_CL to POP_CLASS. Reduced the attribute width for NAME. Converted the values in the CLASS attribute to title case. Changed the CLASS attribute value "CDP" to "Census Designated Place". Changed the CAPITAL attribute values "Y" and "N" to "National", "State", or blank.</procdesc>
+        <procdate>20050317</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Added the POP2007 attribute and populated it with values from ESRI Community Data. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>ESRI Community Data</srcused>
+        <procdate>20080422</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the ESRI Data and Maps 9.3 (2008) DVD.  The file was stored in an SDC (Smart Data Compression) format on the DVD.  ArcCatalog 9.3 was utilized to export the SDC file into an ArcSDE 9.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>200803</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>3557</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI08UScities</enttypl>
+        <enttypd>The points represent locations for cities within United States with populations of 10,000 or greater (based on Census 2000 figures), all state capitals, and the national capital.</enttypd>
+        <enttypds>Department of Commerce, Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>The city name.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>The class of the city.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Borough</edomv>
+            <edomvd>In Connecticut, New Jersey, and Pennsylvania, an incorporated place.</edomvd>
+            <edomvds>Department of Commerce, Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>Census Designated Place</edomv>
+            <edomvd>Census designated place - A statistical entity, defined for each decennial census according to Census Bureau guidelines, comprising a densely settled concentration of population that is not within an incorporated place, but is locally identified by a name.</edomvd>
+            <edomvds>Department of Commerce, Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>City</edomv>
+            <edomvd>An incorporated place in 49 States and the District of Columbia. In 20 States, some or all cities are not part of any minor civil division, and the Census Bureau also treats these as county subdivisions, statistically equivalent to minor civil divisions.</edomvd>
+            <edomvds>Department of Commerce, Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>City (consolidated, balance)</edomv>
+            <edomvd>The portion of the consolidated city minus the incorporated places. For statistical purposes, these entities are treated as statistically equivalent to a place and have no legal basis or functions.</edomvd>
+            <edomvds>Department of Commerce, Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>City and Borough</edomv>
+            <edomvd>unknown</edomvd>
+          </edom>
+          <edom>
+            <edomv>City and County</edomv>
+            <edomvd>unknown</edomvd>
+          </edom>
+          <edom>
+            <edomv>Municipality</edomv>
+            <edomvd>unknown</edomvd>
+          </edom>
+          <edom>
+            <edomv>Town</edomv>
+            <edomvd>An incorporated place in 30 States. In New Jersey, Pennsylvania, and South Dakota, the Census Bureau treats these towns as the equivalent of a minor civil division.</edomvd>
+            <edomvds>Department of Commerce, Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>Village</edomv>
+            <edomvd>An incorporated place in 20 States. The Census Bureau treats all villages in New Jersey, South Dakota, and Wisconsin, and some villages in Ohio as county subdivisions.</edomvd>
+            <edomvds>Department of Commerce, Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST</attrlabl>
+        <attrdef>The two-letter abbreviation for the state in which the city is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards 5-2</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STFIPS</attrlabl>
+        <attrdef>The FIPS code (two-digit number) for the state in which the city is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PLACEFIP</attrlabl>
+        <attrdef>The FIPS code (five-digit number) for the city within a state.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards Pub 55</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CAPITAL</attrlabl>
+        <attrdef>The state or national capital city indicator.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>National</edomv>
+            <edomvd>The city is the national capital.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>State</edomv>
+            <edomvd>The city is a state capital.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>(blank)</edomv>
+            <edomvd>The city is not a state or national capital.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AREALAND</attrlabl>
+        <attrdef>The area in square miles of the city which is land.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AREAWATER</attrlabl>
+        <attrdef>The area in square miles of the city which is water.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_CLASS</attrlabl>
+        <attrdef>The code for the population class of the city.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Population from 2,500 - 9,999.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Population from 10,000 - 49,999.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Population from 50,000 - 99,999.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Population from 100,000 - 499,999.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>Population from 500,000 - 999,999.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>Population from 1,000,000 and up.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2000</attrlabl>
+        <attrdef>The 2000 population of the city.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP2007</attrlabl>
+        <attrdef>The 2007 population of the city.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Populations for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WHITE</attrlabl>
+        <attrdef>The number of people identified as White alone in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLACK</attrlabl>
+        <attrdef>The number of people identified as Black or African American alone in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AMERI_ES</attrlabl>
+        <attrdef>The number of people identified as American Indian or Alaska Native alone in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ASIAN</attrlabl>
+        <attrdef>The number of people identified as Asian alone in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HAWN_PI</attrlabl>
+        <attrdef>The number of people identified as Native Hawaiian and other Pacific Islander alone in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OTHER</attrlabl>
+        <attrdef>The number of people identified as some other race alone in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MULT_RACE</attrlabl>
+        <attrdef>The number of people identified as two or more races in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HISPANIC</attrlabl>
+        <attrdef>The number of people identified as Hispanic or Latino in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MALES</attrlabl>
+        <attrdef>The number of males in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEMALES</attrlabl>
+        <attrdef>The number of females in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_UNDER5</attrlabl>
+        <attrdef>The number of people 0 to 4 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_5_17</attrlabl>
+        <attrdef>The number of people 5 to 17 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_18_21</attrlabl>
+        <attrdef>The number of people 18 to 21 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_22_29</attrlabl>
+        <attrdef>The number of people 22 to 29 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_30_39</attrlabl>
+        <attrdef>The number of people 30 to 39 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_40_49</attrlabl>
+        <attrdef>The number of people 40 to 49 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_50_64</attrlabl>
+        <attrdef>The number of people 50 to 64 years of age in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGE_65_UP</attrlabl>
+        <attrdef>The number of people 65 years of age and over in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MED_AGE</attrlabl>
+        <attrdef>The median age for both sexes in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MED_AGE_M</attrlabl>
+        <attrdef>The median age for males in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MED_AGE_F</attrlabl>
+        <attrdef>The median age for females in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOUSEHOLDS</attrlabl>
+        <attrdef>The total number of households in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AVE_HH_SZ</attrlabl>
+        <attrdef>The average household size in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSEHLD_1_M</attrlabl>
+        <attrdef>The number of one-person male households in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSEHLD_1_F</attrlabl>
+        <attrdef>The number of one-person female households in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARHH_CHD</attrlabl>
+        <attrdef>The number of family households with a married couple and related children under 18 years in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARHH_NO_C</attrlabl>
+        <attrdef>The number of family households with a married couple and no related children under 18 years in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MHH_CHILD</attrlabl>
+        <attrdef>The number of family households with a man and related children under 18 years but no wife in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FHH_CHILD</attrlabl>
+        <attrdef>The number of family households with a woman and related children under 18 years but no husband in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FAMILIES</attrlabl>
+        <attrdef>The number of families in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AVE_FAM_SZ</attrlabl>
+        <attrdef>The average family size in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSE_UNITS</attrlabl>
+        <attrdef>The total number of housing units in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>VACANT</attrlabl>
+        <attrdef>The number of housing units that are vacant in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_OCC</attrlabl>
+        <attrdef>The number of housing units that are occupied by the owner in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RENTER_OCC</attrlabl>
+        <attrdef>The number of housing units that are occupied by renters in 2000.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None; See also use constraints.</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20090408</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

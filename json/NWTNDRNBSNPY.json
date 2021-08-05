@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtndrnbsnpy",
+  "dc_title_s": "Storm Drain Sub-Basin Boundaries - City of Newton",
+  "dc_description_s": "This data layer contains the boundaries of the storm water sub-basins for the city of Newton. These sub-basins are roughly equivalent to watersheds. Related line and point drainage basin coverages may be found in the Storm Water Collection System Lines and Storm Water Collection System Points data layers.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNDRNBSNPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNDRNBSNPY",
+  "layer_slug_s": "harvard-nwtndrnbsnpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-11T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "utilitiesCommunication",
+    "Municipal",
+    "Catchments",
+    "Watersheds",
+    "Runoff",
+    "Storm sewers",
+    "Municipal engineering"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(-71.270164, -71.156521, 42.367401, 42.286328)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

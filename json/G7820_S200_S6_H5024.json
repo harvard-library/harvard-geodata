@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-g7820-s200-s6-h5024",
+  "dc_title_s": "China 1:200,000 : Sheet H-50-XXIV : Zhejiang Sheng Region (Raster Image)",
+  "dc_description_s": "This layer is a georeferenced raster image of the Soviet Army topographic sheet map covering a portion of the Zhejiang Sheng region, China (map quadrangle number: H-50-XXIV). It is from a series of Soviet Army topographic maps of China 1:200,000. The source map was published in 1979. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Pulkovo 1942 GK Zone 20N projection. Map collar information from the source map have been cropped and are not available as part of the raster image. China 1:200,000 topographic maps were prepared and printed by the Soviet Army General Headquarters, 1976-1991. China 1:200,000 maps are in Russian. Each source map in the series is printed in color. China 1:200,000 maps are typical topographic maps portraying both natural and manmade features. They show and name works of nature, such as mountains, valleys, lakes, rivers, vegetation, etc. They also identify the principal works and structures of humans, such as roads, railroads, paths, walls, boundaries, transmission lines, major buildings, etc. Relief is shown with standard contour intervals of 40 meters and/or spot heights.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//G7820_S200_S6_H5024.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "mapimages_restricted:G7820_S200_S6_H5024",
+  "layer_slug_s": "harvard-g7820-s200-s6-h5024",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2007-06-29T00:00:00Z",
+  "dc_creator_sm": [
+    "Harvard Map Collection, Harvard College Library",
+    "Soviet Union. Soviet Army. General Headquarters."
+  ],
+  "dc_publisher_s": [
+    "Harvard Map Collection"
+  ],
+  "dc_format_s": "GeoTIFF",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Zhejiang Sheng"
+  ],
+  "dct_issued_s": "2007-07",
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "solr_geom": "ENVELOPE(118.98429, 120.019636, 30.02015, 29.313595)",
+  "solr_year_i": 1979,
+  "harvard_collectionID_sm": [
+    "990105916120203941"
+  ]
+}

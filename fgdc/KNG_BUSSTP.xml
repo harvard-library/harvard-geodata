@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <origin>King County (Wash.). Transit Division.</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : metro transit bus stops</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-busstp</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Metro Transit Bus Zones (commonly known as bus stops). On-street location where transit vehicles stop to pick-up and discharge passengers. It has a sign and basic service information; sometimes also a shelter with benches.</abstract>
+      <purpose>Used by trip planning application to plan customer itinerary and show riders where to board or alight. Facility planning uses data to analyze the bus stop usage. The data determines whether stops should be added; relocated or removed. Service planning uses the data to determine which areas need more service or a change of service.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030625</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>source coverage publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Daily</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.527587</westbc>
+        <eastbc>-121.780278</eastbc>
+        <northbc>47.984824</northbc>
+        <southbc>47.182907</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Transportation</themekey>
+        <themekey>Bus stops</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+        <placekey>Snohomish County</placekey>
+        <placekey>Pierce County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>GIS group - Transit Infrastructure and Integration</cntorg>
+          <cntper>Tamara Davis</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Exchange Building</address>
+          <address>821 Second Ave., MS 150</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98014</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 684-2118</cntvoice>
+        <cntemail>tamara.davis@metrokc.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+    <crossref>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>BUSSTOPPAT.LXT</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Wash.]</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <othercit>Item ACCESSIBLE in table BUSSTOPPAT.LXT relates on the right to ACCESSIBLE in BUSSTOP.PAT</othercit>
+        <lworkcit>
+          <citeinfo>
+            <origin>King County (Wash.)  GIS Center</origin>
+            <pubdate>2003</pubdate>
+            <title>King County GIS data.</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>King County GIS Center</pubplace>
+              <publish>[Seattle, Wash.]</publish>
+            </pubinfo>
+            <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is not conflated to the King County Cadastral Base. The positional accuracy of this data set is undetermined.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.)  GIS Center.</origin>
+            <origin>King County (Wash.). Transit Division.</origin>
+            <pubdate>20030625</pubdate>
+            <title>BUSSTOP:Bus Stops</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: transit-busstop</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.)  GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030625</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>9588</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000169</absres>
+            <ordres>0.000169</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_BUSSTP</enttypl>
+        <enttypd>King County Bus Stops</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>KNG_BUSSTP.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Attribute fields set to 0</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature.</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Attribute fields set to 0</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BUSSTOP_</attrlabl>
+        <attrdef>Feature Identification Number</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BUSSTOP_ID</attrlabl>
+        <attrdef>Internal Number</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv/>
+      </attr>
+      <attr>
+        <attrlabl>DB_MOD_DAT</attrlabl>
+        <attrdef>Date Modified : The date on which the data last changed.</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STOP_LOCAT</attrlabl>
+        <attrdef>Bus stop location status : Status for bus stop location since last modification</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>U</edomv>
+            <edomvd>Update</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STOP_TYPE</attrlabl>
+        <attrdef>Bus stop type : Allowable type of usage for a bus stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CT</edomv>
+          </edom>
+          <edom>
+            <edomv>LAY</edomv>
+          </edom>
+          <edom>
+            <edomv>REG</edomv>
+          </edom>
+          <edom>
+            <edomv>RL</edomv>
+          </edom>
+          <edom>
+            <edomv>TL</edomv>
+          </edom>
+          <edom>
+            <edomv>TUN</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ACCESSIBLE</attrlabl>
+        <attrdef>Handicap accessible : site accessible to wheel chairs</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>One foot clearance</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Two feet clearance</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Three feet clearance</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>Hazardous zone</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>Z</edomv>
+            <edomvd>Zero foot clearance</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AUTHZN</attrlabl>
+        <attrdef>Authorization : Authority which has legal responsibility for the roadway</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ALG</edomv>
+            <edomvd>Algona</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>AUB</edomv>
+            <edomvd>Auburn</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BAV</edomv>
+            <edomvd>Beau Arts Village</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BCC</edomv>
+            <edomvd>Bellevue Community College</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BEL</edomv>
+            <edomvd>Bellevue</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLD</edomv>
+            <edomvd>Black Diamond</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOE</edomv>
+            <edomvd>Boeing</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOT</edomv>
+            <edomvd>Bothell</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BUR</edomv>
+            <edomvd>Burien</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>CAR</edomv>
+            <edomvd>Carnation</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>CH</edomv>
+            <edomvd>Clyde Hill</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>COV</edomv>
+            <edomvd>Covington</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>DES</edomv>
+            <edomvd>Des Monies</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>DOT</edomv>
+            <edomvd>King County Department of Transportation</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>DUV</edomv>
+            <edomvd>Duvall</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>EDM</edomv>
+            <edomvd>Edmond</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>ENU</edomv>
+            <edomvd>Enumclaw</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>EVT</edomv>
+            <edomvd>Everett</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>FDY</edomv>
+            <edomvd>Federal Way</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>FED</edomv>
+            <edomvd>Federal</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>GRC</edomv>
+            <edomvd>Green River College</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>HCC</edomv>
+            <edomvd>Highline Community College</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>HCH</edomv>
+            <edomvd>Highline Community Hospital</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>ISQ</edomv>
+            <edomvd>Issaquah</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>ISS</edomv>
+            <edomvd>Issaquah</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KC</edomv>
+            <edomvd>King County</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KEN</edomv>
+            <edomvd>Kent</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KIR</edomv>
+            <edomvd>Kirkland</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KNT</edomv>
+            <edomvd>Kent</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>LFP</edomv>
+            <edomvd>Lake Forest Park</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>LYN</edomv>
+            <edomvd>Lynwood</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MED</edomv>
+            <edomvd>Medina</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MET</edomv>
+            <edomvd>King County Metro</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>MI</edomv>
+            <edomvd>Mercer Island</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MTL</edomv>
+            <edomvd>Mountlake Terrace</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MV</edomv>
+            <edomvd>Maple Valley</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>NEW</edomv>
+            <edomvd>Newcastle</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>NOB</edomv>
+            <edomvd>North Bend</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>NP</edomv>
+            <edomvd>Normandy Park</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>PAC</edomv>
+            <edomvd>Pacific</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>POS</edomv>
+            <edomvd>Port of Seattle</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>PVT</edomv>
+            <edomvd>Private</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>RED</edomv>
+            <edomvd>Redmond</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>RNT</edomv>
+            <edomvd>Renton</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SCC</edomv>
+            <edomvd>Shoreline Community College</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>SEA</edomv>
+            <edomvd>Seattle</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHL</edomv>
+            <edomvd>Shoreline</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHO</edomv>
+            <edomvd>Shoreline</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SNO</edomv>
+            <edomvd>Snohomish</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SNQ</edomv>
+            <edomvd>Snoqualmie</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SSC</edomv>
+            <edomvd>South Seattle Community College</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>ST</edomv>
+          </edom>
+          <edom>
+            <edomv>STC</edomv>
+            <edomvd>Seatac</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>TAC</edomv>
+            <edomvd>Tacoma</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>TUK</edomv>
+            <edomvd>Tukwila</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>UW</edomv>
+            <edomvd>University of Washington</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>WDN</edomv>
+            <edomvd>Woodinville</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>WDV</edomv>
+            <edomvd>Woodinville</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>WSD</edomv>
+            <edomvd>Water and Sewer District</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>YP</edomv>
+            <edomvd>Yarrow Point</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CROSS_STRE</attrlabl>
+        <attrdef>Cross street : Nearest perpendicular reference point of cross street</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATE_ACTIV</attrlabl>
+        <attrdef>Date activated : The YYYY-MM-DD of the most recent activation</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DATE_DEACT</attrlabl>
+        <attrdef>Date deactivated : The YYYY-MM-DD of last day of service</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BEARING_CO</attrlabl>
+        <attrdef>Bearing Code : Compass direction of the vehicle with site access (e.g.,E, W, N, S)</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>W</edomv>
+            <edomvd>West</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>South</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>North</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>E</edomv>
+            <edomvd>East</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FROM_CROSS</attrlabl>
+        <attrdef>From Cross Street : Distance of zone from cross street edge</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2200</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INFO_ANCHO</attrlabl>
+        <attrdef>Information anchor : Information sign anchor</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CP</edomv>
+            <edomvd>Concrete pad</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>CS</edomv>
+            <edomvd>Concrete sidewalk</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>MP</edomv>
+            <edomvd>Moveable pad</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INFO_SIGN</attrlabl>
+        <attrdef>Information sign : Type of information sign</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>K</edomv>
+            <edomvd>Kiosk</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Large (28 wide)</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>None</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>Small (22 wide)</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>T</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INTERSECTI</attrlabl>
+        <attrdef>Intersection : Site location with direction &amp; cross street</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AT</edomv>
+            <edomvd>At location in cross St</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>FM</edomv>
+            <edomvd>Far side mid block</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>FS</edomv>
+            <edomvd>Far side</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>NM</edomv>
+            <edomvd>Near side mid block</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>NS</edomv>
+            <edomvd>Near side</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>OP</edomv>
+            <edomvd>Oppsosite-across from</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JURIS</attrlabl>
+        <attrdef>Jurisdiction : Jurisdiction in which site is located</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ALG</edomv>
+            <edomvd>Algona</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>AUB</edomv>
+            <edomvd>Auburn</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BEL</edomv>
+            <edomvd>Bellevue</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLD</edomv>
+            <edomvd>Black Diamond</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLV</edomv>
+            <edomvd>Bellevue</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOE</edomv>
+            <edomvd>Boeing</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOT</edomv>
+            <edomvd>Bothell</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>BUR</edomv>
+            <edomvd>Burien</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>CAR</edomv>
+            <edomvd>Carnation</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>CH</edomv>
+            <edomvd>Clyde Hill</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>COV</edomv>
+            <edomvd>Covington</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>DES</edomv>
+            <edomvd>Des Monies</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>DOT</edomv>
+            <edomvd>King County Department of Transportation</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>DUV</edomv>
+            <edomvd>Duvall</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>EDM</edomv>
+            <edomvd>Edmond</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>ENU</edomv>
+            <edomvd>Enumclaw</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>EVT</edomv>
+            <edomvd>Everett</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>FDY</edomv>
+            <edomvd>Federal Way</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>ISQ</edomv>
+            <edomvd>Issaquah</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>ISS</edomv>
+            <edomvd>Issaquah</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KC</edomv>
+            <edomvd>King County</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KEN</edomv>
+            <edomvd>Kent</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KIR</edomv>
+            <edomvd>Kirkland</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>KNT</edomv>
+            <edomvd>Kent</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>LFP</edomv>
+            <edomvd>Lake Forest Park</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>LYN</edomv>
+            <edomvd>Lynwood</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MED</edomv>
+            <edomvd>Medina</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MI</edomv>
+            <edomvd>Mercer Island</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MTL</edomv>
+            <edomvd>Mountlake Terrace</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>MV</edomv>
+            <edomvd>Maple Valley</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>NEW</edomv>
+            <edomvd>Newcastle</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>NOB</edomv>
+            <edomvd>North Bend</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>NP</edomv>
+            <edomvd>Normandy Park</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>PAC</edomv>
+            <edomvd>Pacific</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>PVT</edomv>
+            <edomvd>Private</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>RED</edomv>
+            <edomvd>Redmond</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>RNT</edomv>
+            <edomvd>Renton</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SEA</edomv>
+            <edomvd>Seattle</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHL</edomv>
+            <edomvd>Shoreline</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHO</edomv>
+            <edomvd>Shoreline</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SNO</edomv>
+            <edomvd>Snohomish</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>SNQ</edomv>
+            <edomvd>Snoqualmie</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>STC</edomv>
+            <edomvd>Seatac</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>TAC</edomv>
+            <edomvd>Tacoma</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>TUK</edomv>
+            <edomvd>Tukwila</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>WDN</edomv>
+            <edomvd>Woodinville</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>WDV</edomv>
+            <edomvd>Woodinville</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+          <edom>
+            <edomv>YP</edomv>
+            <edomvd>Yarrow Point</edomvd>
+            <edomvds>King County Metro</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NON_METRO_</attrlabl>
+        <attrdef>Non metro signs : The indentifier of the type of non-Metro sign located at a stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>COMB</edomv>
+            <edomvd>Combination truck or passenger load</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>OTH</edomv>
+            <edomvd>other non-Metro sign</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>R402</edomv>
+            <edomvd>R402 bus/parking regul</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>R405</edomv>
+            <edomvd>R405 tow away</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>R408</edomv>
+            <edomvd>R408 school stop</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>R450</edomv>
+            <edomvd>R450 bus only/layover</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NUM_SHELTE</attrlabl>
+        <attrdef>Number Shelters : Number of the shelters at site</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ON_STREET</attrlabl>
+        <attrdef>On Street : Name of street on which site lies</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OTHER_TRAN</attrlabl>
+        <attrdef>Other transit : Other transit system use stop (EG. ST)</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>CT</edomv>
+          </edom>
+          <edom>
+            <edomv>PT</edomv>
+          </edom>
+          <edom>
+            <edomv>SCT</edomv>
+          </edom>
+          <edom>
+            <edomv>ST</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PAINT_LEN</attrlabl>
+        <attrdef>Paint length : Length of curb paint in feet</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>400</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POST_ANCHO</attrlabl>
+        <attrdef>Post anchor : Standard sign post anchor</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA</edomv>
+            <edomvd>Band</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>BP</edomv>
+            <edomvd>Base plate</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>CA</edomv>
+            <edomvd>Concrete/asphalt</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>CC</edomv>
+            <edomvd>Concrete/concrete</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>CE</edomv>
+            <edomvd>Concrete/earth</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>E</edomv>
+            <edomvd>Earth</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No sign</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POST_TYPE</attrlabl>
+        <attrdef>Post type : standard sign post type</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2M</edomv>
+            <edomvd>2 inch metal post</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>4W</edomv>
+            <edomvd>4 inch wood post</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>LS</edomv>
+            <edomvd>Light standard</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>None</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Concrete pillar</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>SP</edomv>
+            <edomvd>Strain Pole</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>UP</edomv>
+            <edomvd>Transmitter utility pole</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RIDE_FREE_</attrlabl>
+        <attrdef>Ride free area</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>Not within ride free area</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Within ride free area</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SCHED_HOLD</attrlabl>
+        <attrdef>Schedule Holders : Type of schedule holders</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>D</edomv>
+            <edomvd>Double</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Mid-side</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>Single</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SIDE_CROSS</attrlabl>
+        <attrdef>Side Cross Street : Site location relative to cross street</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>B</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>E</edomv>
+            <edomvd>East</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>North</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>South</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>W</edomv>
+            <edomvd>West</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SIDE_ON</attrlabl>
+        <attrdef>Side on street : Which side of on street the site lies</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>E</edomv>
+            <edomvd>East</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>North</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>South</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>W</edomv>
+            <edomvd>West</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SIGN_MOUNT</attrlabl>
+        <attrdef>Sign mount : Direction sign faces</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AS</edomv>
+            <edomvd>Away from street</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>FL</edomv>
+            <edomvd>Flush with supports</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>TS</edomv>
+            <edomvd>Toward street</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SPEC_SIGN</attrlabl>
+        <attrdef>Special signs : Special Metro signs</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>?</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>None</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STD_SIGN</attrlabl>
+        <attrdef>Standard signs : Standard Metro signs</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>None</edomvd>
+            <edomvds>Standard Metro signs</edomvds>
+          </edom>
+          <edom>
+            <edomv>NSS</edomv>
+            <edomvd>New standard single</edomvd>
+            <edomvds>Standard Metro signs</edomvds>
+          </edom>
+          <edom>
+            <edomv>NSD</edomv>
+            <edomvd>New standard double</edomvd>
+            <edomvds>Standard Metro signs</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STOP_LEN</attrlabl>
+        <attrdef>Stop length : Number of linear feet along the street designated as the bus stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>999</rdommax>
+            <attrunit>feet</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZONEKEY</attrlabl>
+        <attrdef>Zonekey : Bus stop unique ID</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAMKEY</attrlabl>
+        <attrdef>Unique ID of the street link the bus stop relates to</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIDE</attrlabl>
+        <attrdef>Which side of on street the site lies</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RAMPOSITIO</attrlabl>
+        <attrdef>Ramp position : Distance from the from node</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>10144</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATEMAP</attrlabl>
+        <attrdef>Date mapped : YYMD when the stop location was placed in GIS system</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACTIVE</attrlabl>
+        <attrdef>Unknown - fields empty</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TRAFFIC_SI</attrlabl>
+        <attrdef>Traffic signal : Signalized intersection within 150 feet of this zone</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>XCOORD</attrlabl>
+        <attrdef>The x coordinate identifying the location of the bus stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YCOORD</attrlabl>
+        <attrdef>The y coordinate identifying the location of the bus stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FARE_ZONE</attrlabl>
+        <attrdef>Fare Zone : Region within Metro service area charaterized by a given fare structure</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZIP_CODE</attrlabl>
+        <attrdef>The postal zip code that the zone resides in</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>X_COORD</attrlabl>
+        <attrdef>The x coordinate identifying the location of the bus stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Y_COORD</attrlabl>
+        <attrdef>The y coordinate identifying the location of the bus stop</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DISTRICT</attrlabl>
+        <attrdef>Route facilities planning district that the stop is in</attrdef>
+        <attrdefs>King County Metro Transit</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>East</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>North Central</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>Northwest</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>Seattle CBD</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>South</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+          <edom>
+            <edomv>Southwest</edomv>
+            <edomvds>King County Metro Transit</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>JURISTICTI</attrlabl>
+        <attrdef>Jurisdiction Code</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AL</edomv>
+            <edomvd>Algona</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>AU</edomv>
+            <edomvd>Auburn</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA</edomv>
+            <edomvd>Beau Arts Village</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BD</edomv>
+            <edomvd>Black Diamond</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BE</edomv>
+            <edomvd>Bellevue</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BO</edomv>
+            <edomvd>Bothell</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>BU</edomv>
+            <edomvd>Burien</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>CA</edomv>
+            <edomvd>Carnation</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>CH</edomv>
+            <edomvd>Clyde Hill</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>CO</edomv>
+            <edomvd>Covington</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>DM</edomv>
+            <edomvd>Des Monies</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>DU</edomv>
+            <edomvd>Duvall</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>EN</edomv>
+            <edomvd>Enumclaw</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>FW</edomv>
+            <edomvd>Federal Way</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>IS</edomv>
+            <edomvd>Issaquah</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>KC</edomv>
+            <edomvd>King County</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>KE</edomv>
+            <edomvd>Kent</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>KI</edomv>
+            <edomvd>Kirkland</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>LF</edomv>
+            <edomvd>Lake Forest Park</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>ME</edomv>
+            <edomvd>Medina</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>MI</edomv>
+            <edomvd>Mercer Island</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>MV</edomv>
+            <edomvd>Maple Valley</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB</edomv>
+            <edomvd>North Bend</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>NE</edomv>
+            <edomvd>Newcastle</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>NP</edomv>
+            <edomvd>Normandy Park</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>PA</edomv>
+            <edomvd>Pacific</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>PC</edomv>
+            <edomvd>Pierce County</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>RM</edomv>
+            <edomvd>Redmond</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>RN</edomv>
+            <edomvd>Renton</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>SC</edomv>
+            <edomvd>Snohomish County</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>SE</edomv>
+            <edomvd>Seattle</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>SH</edomv>
+            <edomvd>Shoreline</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>SM</edomv>
+            <edomvd>Snohomish</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>SN</edomv>
+            <edomvd>Snoqualmie</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>ST</edomv>
+            <edomvd>Seatac</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>TU</edomv>
+            <edomvd>Tukwila</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>WO</edomv>
+            <edomvd>Woodinville</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+          <edom>
+            <edomv>YP</edomv>
+            <edomvd>Yarrow Point</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATE_MAPPE</attrlabl>
+        <attrdef>Date stop was mapped YYYY-MM-DD</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20061212</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

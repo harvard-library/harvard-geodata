@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcintersct",
+  "dc_title_s": "Atlanta Regional Commission TIP Intersections Projects",
+  "dc_description_s": "This point datalayer depicts transportation improvement interchanges and intersections with associated attribute data for the Atlanta Regional Commission's (ARC) 10 country region. ARC documentation states that: This Theme currently represents the intersection/interchange component of the FY2002-2004 TIP which is a subset of the 2025 Regional Transportation Plan (RTP). This dataset was originally produced in 1997 by Day Wilburn Associates working with various staff within the Transportation Planning Division (TPD) and the GIS Division at ARC. This Theme was created in ArcView using a variety of hardcopy sources where both existing and proposed intersection and interchange projects were approximated during 'heads up' digitizing, using ARCmap, ARC's street centerline database and other datasets for spatial reference. Please note, not all TIP intersection and interchange projects are necessarily represented in this Theme.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCINTERSCT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCINTERSCT",
+  "layer_slug_s": "harvard-arcintersct",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Municipal",
+    "Roads",
+    "Interchanges and intersections",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_geom": "ENVELOPE(-84.899254, -83.917679, 34.328156, 33.329723)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

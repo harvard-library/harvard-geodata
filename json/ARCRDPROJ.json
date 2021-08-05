@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcrdproj",
+  "dc_title_s": "Atlanta Regional Commission TIP Road Projects",
+  "dc_description_s": "This polyline datalayer depicts transportation improvement road projects with associated attribute data for the Atlanta Regional Commission's (ARC) 10-county region. ARC documentation states that: This Theme currently represents the road component of the FY2002-2004 TIP which is a subset of the 2025 Regional Transportation Plan (RTP). This dataset was originally produced in 1997 by Day Wilburn Associates working with various staff within the Transportation Planning Division (TPD) and the GIS Division at ARC. This Theme was created in ArcView using a variety of hardcopy sources for 'heads up' digitizing against ARCmap, ARC's street centerline database, where certain coincidental arcs representing road projects were selected from ARC's street base, and where other roads were simply 'traced' over existing arcs or approximated for future projects. Please note, this datset was created for use at a regional viewing scale. As the alignment of many new projects is unknown, the digitized positional accuracy of some features is more 'schematic' than precise. Please note, not all TIP road projects are necessarily represented in this Theme.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCRDPROJ.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCRDPROJ",
+  "layer_slug_s": "harvard-arcrdproj",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Municipal",
+    "Roads",
+    "Streets",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_geom": "ENVELOPE(-85.000954, -83.803535, 34.306599, 33.32679)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

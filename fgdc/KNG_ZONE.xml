@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>King County (Wash.)</origin>
+        <pubdate>20030630</pubdate>
+        <title>King County, Washington : countywide zoning</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Seattle, Washington].</pubplace>
+          <publish>King County GIS Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-kng-zone</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Zoning boundaries for unincorporated King County, Washington.</abstract>
+      <purpose>This datalayer contains parcel-based zoning polygons and codes within unincorporated areas of King County, based on official zoning ordinance designations. Both current and potential zoning attributes are included. ZONING was originally created from generalized tax parcel mapping done as part of the 1994 King County Comprehensive Plan (see King County, Washington tax parcels). The source coverage layer is intended to always contain the most recent Zoning Changes. [DDES is currently aligning this layer w/ Parcels. Paul McCombs 11/1/2000].</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20030614</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>original source publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.542550</westbc>
+        <eastbc>-121.061526</eastbc>
+        <northbc>47.787673</northbc>
+        <southbc>47.073882</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Zoning</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Washington</placekey>
+        <placekey>King County</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.  This data may not be redistributed by HGL users.  King County data are made available with the understanding that they shall be used exclusively by the obtainer or his/her authorized agents.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Paul McCombs</cntper>
+          <cntorg>GIS Section - King Co. DDES Department</cntorg>
+        </cntperp>
+        <cntpos>DDES GIS Data Team Lead</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>900 Oaksdale Ave. SW, MS 1B</address>
+          <city>Renton</city>
+          <state>WA</state>
+          <postal>98055</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(206) 296-7258</cntvoice>
+        <cntemail>Paul.McCombs@metrokc.gov</cntemail>
+        <hours>8:30 am - 5:30 pm -- PST USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Unknown.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>This data set is conflated to the King County Cadastral Base, which has a positional accuracy of +/- 40 feet.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>King County (Wash.)</origin>
+            <origin>King County (Wash.). GIS Center.</origin>
+            <pubdate>20030614</pubdate>
+            <title>ZONING: Countywide zoning</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Seattle, Wash.]</pubplace>
+              <publish>King County GIS Center</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: plan-zoning</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>King County (Wash.). GIS Center</origin>
+                <pubdate>2003</pubdate>
+                <title>King County GIS data.</title>
+                <geoform>digital data</geoform>
+                <pubinfo>
+                  <pubplace>King County GIS Center</pubplace>
+                  <publish>[Seattle, Wash.]</publish>
+                </pubinfo>
+                <othercit>2 CD-ROMs; CD 1. Standard data -- CD 2. Parcel data.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030614</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>coverage</srccitea>
+        <srccontr>Source coverage data layer from which shapefile was converted.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>King County, Washington data was obtained via a CD-ROM. The data were in the format of ArcINFO coverages and were converted to shapefiles using the "coverage to shapefile" wizard in ArcToolbox, version 8.3.  The shapefiles were then imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.
+
+Changed 'CURRENT' to 'CURRENT_ZN'</procdesc>
+        <srcused>coverage</srcused>
+        <procdate>2005</procdate>
+        <srcprod>shapefile</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>6977</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>47.500000</stdparll>
+            <stdparll>48.733333</stdparll>
+            <longcm>-120.833333</longcm>
+            <latprjo>47.000000</latprjo>
+            <feast>1640416.666667</feast>
+            <fnorth>0.000000</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000212</absres>
+            <ordres>0.000212</ordres>
+          </coordrep>
+          <plandu>survey feet</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_North_American_1983_HARN</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>KNG_ZONE</enttypl>
+        <enttypd>King County Countywide Zoning</enttypd>
+        <enttypds>King County GIS Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>KNG_ZONE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONING_</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONING_ID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>None</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CURRENT_ZN</attrlabl>
+        <attrdef>Current Zoning</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A-10</edomv>
+            <edomvd>Agricultural, one DU per 10 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-10-P</edomv>
+            <edomvd>Agricultural, one DU per 10 acres - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-10-P-SO</edomv>
+            <edomvd>Agricultural, one DU per 10 acres - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-10-SO</edomv>
+            <edomvd>Agricultural, one DU per 10 acres - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-35</edomv>
+            <edomvd>Agricultural, one DU per 35 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-35-P</edomv>
+            <edomvd>Agricultural, one DU per 35 acres - P indicates a parcel specific development condition.</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-35-P-SO</edomv>
+            <edomvd>Agricultural, one DU per 35 acres - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-35-SO</edomv>
+            <edomvd>Agricultural, one DU per 35 acres - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB</edomv>
+            <edomvd>Community Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB-P</edomv>
+            <edomvd>Community Business - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB-P-SO</edomv>
+            <edomvd>Community Business - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB-SO</edomv>
+            <edomvd>Community Business - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Forest</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>F-P</edomv>
+            <edomvd>Forest - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I</edomv>
+            <edomvd>Industrial</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I-P</edomv>
+            <edomvd>Industrial - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I-P-SO</edomv>
+            <edomvd>Industrial - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I-SO</edomv>
+            <edomvd>Industrial - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Mineral</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-P</edomv>
+            <edomvd>Mineral - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-SO</edomv>
+            <edomvd>Mineral - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>MIT</edomv>
+            <edomvd>Muckleshoot Indian Tribe</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB</edomv>
+            <edomvd>Neighborhood Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB-P</edomv>
+            <edomvd>Neighborhood Business - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB-P-SO</edomv>
+            <edomvd>Neighborhood Business - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB-SO</edomv>
+            <edomvd>Neighborhood Business - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>O</edomv>
+            <edomvd>Office</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-P</edomv>
+            <edomvd>Office - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-P-SO</edomv>
+            <edomvd>Office - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>O-SO</edomv>
+            <edomvd>Office - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-1</edomv>
+            <edomvd>Residential, one DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-1-P</edomv>
+            <edomvd>Residential, one DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-1-P-SO</edomv>
+            <edomvd>Residential, one DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-1-SO</edomv>
+            <edomvd>Residential, one DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12</edomv>
+            <edomvd>Residential, 12 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12-P</edomv>
+            <edomvd>Residential, 12 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12-P-SO</edomv>
+            <edomvd>Residential, 12 DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12-SO</edomv>
+            <edomvd>Residential, 12 DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18</edomv>
+            <edomvd>Residential, 18 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18-P</edomv>
+            <edomvd>Residential, 18 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18-P-SO</edomv>
+            <edomvd>Residential, 18 DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18-SO</edomv>
+            <edomvd>Residential, 18 DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24</edomv>
+            <edomvd>Residential, 24 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24-P</edomv>
+            <edomvd>Residential, 24 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24-P-SO</edomv>
+            <edomvd>Residential, 24 DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24-SO</edomv>
+            <edomvd>Residential, 24 DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-4</edomv>
+            <edomvd>Residential, four DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-4-P</edomv>
+            <edomvd>Residential, four DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-4-P-SO</edomv>
+            <edomvd>Residential, four DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-4-SO</edomv>
+            <edomvd>Residential, four DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-48</edomv>
+            <edomvd>Residential, 48 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-48-P</edomv>
+            <edomvd>Residential, 48 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-48-SO</edomv>
+            <edomvd>Residential, 48 DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6</edomv>
+            <edomvd>Residential, six DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6-P</edomv>
+            <edomvd>Residential, six DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6-P-SO</edomv>
+            <edomvd>Residential, six DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6-P-SO-DPA</edomv>
+            <edomvd>Residential, six DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay - DPA indicates a demonstration project area</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6-SO</edomv>
+            <edomvd>Residential, six DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6-SO-DPA</edomv>
+            <edomvd>Residential, six DU per acre - SO indicates a special district overlay - DPA indicates a demonstration project area</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-8</edomv>
+            <edomvd>Residential, eight DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-8-P</edomv>
+            <edomvd>Residential, eight DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-8-P-SO</edomv>
+            <edomvd>Residential, eight DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-8-SO</edomv>
+            <edomvd>Residential, eight DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-10</edomv>
+            <edomvd>Rural Area, one DU per 10 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-10-DPA</edomv>
+            <edomvd>Rural Area, one DU per 10 acres - DPA indicates a demonstration project area</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-10-P</edomv>
+            <edomvd>Rural Area, one DU per 10 acres - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-10-P-SO</edomv>
+            <edomvd>Rural Area, one DU per 10 acres - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-10-SO</edomv>
+            <edomvd>Rural Area, one DU per 10 acres - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo)</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5-DPA</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo) - DPA indicates a demonstration project area</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5-P</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo) - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5-P-SO</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo) - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5-SO</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo) - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-5</edomv>
+            <edomvd>Rural Area, one DU per 5 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-5-P</edomv>
+            <edomvd>Rural Area, one DU per 5 acres - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-5-P-SO</edomv>
+            <edomvd>Rural Area, one DU per 5 acres - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-5-SO</edomv>
+            <edomvd>Rural Area, one DU per 5 acres - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-5-SO-DPA</edomv>
+            <edomvd>Rural Area, one DU per 5 acres - SO indicates a special district overlay - DPA indicates a demonstration project area</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB</edomv>
+            <edomvd>Regional Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB-P</edomv>
+            <edomvd>Regional Business - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB-P-SO</edomv>
+            <edomvd>Regional Business - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB-SO</edomv>
+            <edomvd>Regional Business - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>UR</edomv>
+            <edomvd>Urban Reserve, one DU per 5 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>UR-P</edomv>
+            <edomvd>Urban Reserve, one DU per 5 acres - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>UR-P-SO</edomv>
+            <edomvd>Urban Reserve, one DU per 5 acres - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>UR-SO</edomv>
+            <edomvd>Urban Reserve, one DU per 5 acres - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POTENTIAL</attrlabl>
+        <attrdef>Potential zoning</attrdef>
+        <attrdefs>None</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A-10</edomv>
+            <edomvd>Agricultural, one DU per 10 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-10-SO</edomv>
+            <edomvd>Agricultural, one DU per 10 acres - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB</edomv>
+            <edomvd>Community Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I</edomv>
+            <edomvd>Industrial</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I-SO</edomv>
+            <edomvd>Industrial - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Mineral</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-P</edomv>
+            <edomvd>Mineral - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M-SO</edomv>
+            <edomvd>Mineral - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB</edomv>
+            <edomvd>Neighborhood Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB-P</edomv>
+            <edomvd>Neighborhood Business - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12</edomv>
+            <edomvd>Residential, 12 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12-P</edomv>
+            <edomvd>Residential, 12 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18</edomv>
+            <edomvd>Residential, 18 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18-P</edomv>
+            <edomvd>Residential, 18 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24</edomv>
+            <edomvd>Residential, 24 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24-P</edomv>
+            <edomvd>Residential, 24 DU per acre - P indicates a parcel specific development condition</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24-P-SO</edomv>
+            <edomvd>Residential, 24 DU per acre - P indicates a parcel specific development condition - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24-SO</edomv>
+            <edomvd>Residential, 24 DU per acre - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-48</edomv>
+            <edomvd>Residential, 48 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5-SO</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo) - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB</edomv>
+            <edomvd>Regional Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB-SO</edomv>
+            <edomvd>Regional Business - SO indicates a special district overlay</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CURRTEMP</attrlabl>
+        <attrdef>Current zoning codes without P, SO, or DPA codes</attrdef>
+        <attrdefs>King County GIS Center</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A-10</edomv>
+            <edomvd>Agricultural, one DU per 10 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>A-35</edomv>
+            <edomvd>Agricultural, one DU per 35 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>CB</edomv>
+            <edomvd>Community Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Forest</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>I</edomv>
+            <edomvd>Industrial</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Mineral</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>MIT</edomv>
+            <edomvd>Muckleshoot Indian Tribe</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB</edomv>
+            <edomvd>Neighborhood Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>O</edomv>
+            <edomvd>Office</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-1</edomv>
+            <edomvd>Residential, one DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-12</edomv>
+            <edomvd>Residential, 12 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-18</edomv>
+            <edomvd>Residential, 18 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-24</edomv>
+            <edomvd>Residential, 24 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-4</edomv>
+            <edomvd>Residential, four DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-48</edomv>
+            <edomvd>Residential, 48 DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-6</edomv>
+            <edomvd>Residential, six DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>R-8</edomv>
+            <edomvd>Residential, eight DU per acre</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-10</edomv>
+            <edomvd>Rural Area, one DU per 10 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-2.5</edomv>
+            <edomvd>Rural Area, one DU per 5 acres (That 5 is not a typo)</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA-5</edomv>
+            <edomvd>Rural Area, one DU per 5 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>RB</edomv>
+            <edomvd>Regional Business</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+          <edom>
+            <edomv>UR</edomv>
+            <edomvd>Urban Reserve, one DU per 5 acres</edomvd>
+            <edomvds>DDES</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in coverage units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070216</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arcmajhydro",
+  "dc_title_s": "Atlanta Regional Commission Major Hydrographic Features",
+  "dc_description_s": "This polyline datalayer depicts hydrographic features (major and intermittent streams and lakes) for the Atlanta Regional Commission's (ARC) 10-county region. ARC documentation states that: This Theme is a subset of the Detailed Hydrography Theme that has been 'clipped' to the geographic extent of the Atlanta Region.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCMAJHYDRO.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCMAJHYDRO",
+  "layer_slug_s": "harvard-arcmajhydro",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "Municipal",
+    "Rivers",
+    "Lakes",
+    "Hydrographic features"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "solr_geom": "ENVELOPE(-84.90757, -83.799118, 34.397423, 33.256516)",
+  "solr_year_i": 1993,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}

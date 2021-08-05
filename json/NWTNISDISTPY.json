@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnisdistpy",
+  "dc_title_s": "Inspection Districts - City of Newton",
+  "dc_description_s": "This layer shows the boundaries of the Inspectional Services Department's inspection districts. The City of Newton Inspectional Services Dept. (ISD) is responsible for insuring that buildings are constructed safely and used properly. ISD enforces the provisions of the state building code, city zoning ordinance (Article I - In General, Article II - Use Regulations), and other applicable ordinances. ISD issues permits to allow the construction, reconstruction, alteration, repair, and demolition of buildings and structures, as well as the installation of equipment and the location, use and occupancy of all buildings, structures and land.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNISDISTPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNISDISTPY",
+  "layer_slug_s": "harvard-nwtnisdistpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-10T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "planningCadastre",
+    "Municipal",
+    "Building laws",
+    "Building permits",
+    "Building Inspectors",
+    "Boundaries",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(-71.270496, -71.156518, 42.367999, 42.282876)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

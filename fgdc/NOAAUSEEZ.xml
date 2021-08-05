@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>United States. National Oceanic and Atmospheric Administration. Office of Coast Survey.</origin>
+        <origin>Harvard University. Center for the Environment.</origin>
+        <pubdate>2006</pubdate>
+        <title>The National Oceanic and Atmospheric Administration Exclusive Economic Zones for the continental United States</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, MA</pubplace>
+          <publish>Harvard Map Collection, Harvard College Library</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-noaauseez</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is polygon shapefile representing the Exclusive Economic Zone (EEZ) for the continental United States as defined by National Oceanic and Atmospheric Administration's (NOAA) Office of Coast Survey.  It was derived from NOAA polyline datasets representing the EEZ boundary for the East Coast, West Coast, and Gulf of Mexico. 
+
+The Fishery Conservation and Management Act of 1976 established a fishery conservation zone contiguous to the territorial sea of the United States, effective March 1, 1977. The outer boundary of the zone is a line drawn in such a manner that each point on it is 200-nautical miles from the baseline from which the breadth of the territorial sea is measured. The EEZ was established by Presidential Proclamation, effective March 10, 1983. For information about other U.S. maritime boundaries, please go to http://nauticalcharts.noaa.gov/csdl/mbound.htm.</abstract>
+      <purpose>This data set was created for use in GIS analyses that require polygonal topology.
+
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19830310</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-129.163506</westbc>
+        <eastbc>-65.699722</eastbc>
+        <northbc>48.506111</northbc>
+        <southbc>23.817500</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Economic zones (Law of the sea)</themekey>
+        <themekey>Territorial waters</themekey>
+        <themekey>Boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only.
+
+Users must assume responsibility to determine the appropriate use of this data set. The digital maritime limits are not to be used for a LEGAL definition. The legal definition still remains the depiction on NOAA's nautical charts. Please contact the Chief Geographer for more detailed information if required.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jeff Bielicki</cntper>
+          <cntorg>Harvard University Center for the Environment</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>HUCE</address>
+          <address>Harvard University Center for the Environment</address>
+          <address>Geological Museum, 3rd Floor</address>
+          <address>24 Oxford Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(617) 496-6881</cntvoice>
+        <cntemail>jeffrey_bielicki@ksgphd.harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Office of Coast Survey, NOAA
+Harvard University Center for the Environment</datacred>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The points that were generated from the baseline were created by a computer program which doesn't distinguish between East and West longitude. The longitudes in these files are measured West from Greenwich (even past the 180th meridian) unless specifically stated as "E."  This is the convention for precise geodetic computations at the National Ocean Service (NOS) and these coordinates were computed on the North American Datum of 1927.</attraccr>
+    </attracc>
+    <logic>None</logic>
+    <complete>This file contains the EEZ for the East Coast, West Coast, and Gulf of Mexico of the Continental US.  It does not include information on Alaska, Hawaii or other areas under US jurisdiction.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Office of Coast Survey</origin>
+            <pubdate>19950823</pubdate>
+            <title>United States Exclusive Economic Zone - East Coast</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Silver Spring, MD</pubplace>
+              <publish>NOAA, Office of Coast Survey</publish>
+            </pubinfo>
+            <onlink>http://www.nauticalcharts.noaa.gov/csdl/eez.htm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19830310</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USEEZ-EC</srccitea>
+        <srccontr>Source data / East Coast</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Office of Coast Survey, NOAA</origin>
+            <pubdate>19950823</pubdate>
+            <title>United States Exclusive Economic Zone - West Coast</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Silver Spring, MD</pubplace>
+              <publish>NOAA, Office of Coast Survey</publish>
+            </pubinfo>
+            <onlink>http://www.nauticalcharts.noaa.gov/csdl/eez.htm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19830310</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USEEZ-WC</srccitea>
+        <srccontr>Source data / West Coast</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Office of Coast Survey, NOAA</origin>
+            <pubdate>19950823</pubdate>
+            <title>United States Exclusive Economic Zone - Gulf of Mexico</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Silver Spring, MD</pubplace>
+              <publish>NOAA, Office of Coast Survey</publish>
+            </pubinfo>
+            <onlink>http://www.nauticalcharts.noaa.gov/csdl/eez.htm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19830310</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USEEZ-GULFMEX</srccitea>
+        <srccontr>Source data / Gulf of Mexico</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Imagery and Mapping Agency</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : Country political boundaries</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>American Geological Institute</origin>
+                <origin>Geological Survey (U.S)</origin>
+                <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+                <origin>Hearn, Paul P.</origin>
+                <pubdate>2003</pubdate>
+                <title>Global GIS : global coverage</title>
+                <geoform>digital data</geoform>
+                <serinfo>
+                  <sername>U.S. Geological Survey digital data series</sername>
+                  <issue>DDS-62A-H</issue>
+                </serinfo>
+                <pubinfo>
+                  <pubplace>[Alexandria, VA]</pubplace>
+                  <publish>American Geological Institute</publish>
+                </pubinfo>
+                <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>DVD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2003</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GLBGIS_POLBND</srccitea>
+        <srccontr>Line shape files were extended so that they met and crossed the coastline of the US as defined in the Global GIS Political Boundaries shape file</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Source data downloaded from NOAA</procdesc>
+        <srcused>USEEZ-EC</srcused>
+        <srcused>USEEZ-WC</srcused>
+        <srcused>USEEZ-GULFMEX</srcused>
+        <procdate>20060301</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <cntinst>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Source files appended to a single line shape file</procdesc>
+        <srcused>USEEZ-WC</srcused>
+        <srcused>USEEZ-EC</srcused>
+        <srcused>USEEZ-GULFMEX</srcused>
+        <procdate>20060301</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <cntinst>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Line shape files were extended so that they met and crossed the coastline of the US as defined in the Global GIS Political Boundaries shape file.  Then the "Feature to Polygon" tool was run using the lines and the Political boundaries as input.  Polygons that were not part of the EEZ were deleted form the output.</procdesc>
+        <srcused>GLBGIS_POLBND</srcused>
+        <procdate>20060302</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <cntinst>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>2</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NOAA EEZ - Continental U.S.</enttypl>
+        <enttypd>Exclusive Economic Zone features for continental U.S.</enttypd>
+        <enttypds>None</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SOURCE</attrlabl>
+        <attrdef>Source of location information</attrdef>
+        <attrdefs>NOAA</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area in units squared</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of feature in internal units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty, expressed or implied, is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+          <transize>0.471</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060314</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

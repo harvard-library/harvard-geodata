@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML InfoMap (Firm)</origin>
+        <pubdate>2008</pubdate>
+        <title>Sikkim, India : Village Socio-Demographic and Economic Census Data, 2001</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>New Delhi</pubplace>
+          <publish>ML InfoMap Pvt. Ltd.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-indiavill-sikkim</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer shows village locations with socio-demographic and economic Census data for 2001 for the state of Sikkim, India.  Includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry.  
+
+This layer is part of the VillageMap dataset which includes socio-demographic and economic Census data for 2001 at the village level for all the states of India.  This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. Scale 1:1,000,000.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2001</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>88.077667</westbc>
+        <eastbc>88.828262</eastbc>
+        <northbc>27.725931</northbc>
+        <southbc>27.073950</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Human settlements</themekey>
+        <themekey>Villages</themekey>
+        <themekey>Census</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Sex Statistics</themekey>
+        <themekey>Housing Statistics</themekey>
+        <themekey>Labor supply</themekey>
+        <themekey>Literacy</themekey>
+        <themekey>Caste</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+        <themekey>society</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>India</placekey>
+        <placekey>Sikkim</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ML InfoMap</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>124 - A Katwaria Sarai</address>
+          <city>New Delhi</city>
+          <postal>110 016</postal>
+          <country>India</country>
+        </cntaddr>
+        <cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+        <cntfax>+ 91 - 11 - 4168 8593</cntfax>
+        <cntemail>post@mlinfomap.com</cntemail>
+        <cntinst>www.mlinfomap.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>ArcCatalog 9.2 service pack 5</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ML InfoMap (Firm)</origin>
+            <pubdate>2008</pubdate>
+            <title>VillageMap</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>ML InfoMap (Firm)</origin>
+                <pubdate>2008</pubdate>
+                <title>India GIS data in ESRI SHP format</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                  <pubplace>New Delhi</pubplace>
+                  <publish>ML InfoMap Pvt. Ltd.</publish>
+                </pubinfo>
+                <othercit>1 computer optical disc ; 4 3/4 in.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2001</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>VillageMap</srccitea>
+        <srccontr>Dataset source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data was downloaded from the vendor's server as shape files with ZIP compression.  The files were uncompressed using WinZip and loaded into SDE using ArcCatalog 9.2 service pack 5.</procdesc>
+        <srcused>VillageMap</srcused>
+        <procdate>200805</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>450</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>INDIAVILL_SIKKIM</enttypl>
+        <enttypd>Village Socio-Demographic and Economic Data : Sikkim, India</enttypd>
+        <enttypds>ML Infomap</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SIKKIM_ID</attrlabl>
+        <attrdef>Unique Identification Number</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of village</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TAHSIL</attrlabl>
+        <attrdef>Name of sub district</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DISTRICT</attrlabl>
+        <attrdef>District name in 2001</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE_UT</attrlabl>
+        <attrdef>Name of administrative state or union territory</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>C_CODE01</attrlabl>
+        <attrdef>Census code of villages in 2001</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_NM_HH</attrlabl>
+        <attrdef>Total number of household</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_POP</attrlabl>
+        <attrdef>Total population</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_POP</attrlabl>
+        <attrdef>Male population</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_POP</attrlabl>
+        <attrdef>Female population</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_L6</attrlabl>
+        <attrdef>Total pop below 6 years</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L6</attrlabl>
+        <attrdef>Male pop below 6 years</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_L6</attrlabl>
+        <attrdef>Female pop below 6 years</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_SC</attrlabl>
+        <attrdef>Total scheduled class</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_SC</attrlabl>
+        <attrdef>Male scheduled caste</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_SC</attrlabl>
+        <attrdef>Female scheduled class</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ST</attrlabl>
+        <attrdef>Total scheduled tribe</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ST</attrlabl>
+        <attrdef>Male scheduled tribe</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ST</attrlabl>
+        <attrdef>Female scheduled tribe</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_LIT</attrlabl>
+        <attrdef>Total literates</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_LIT</attrlabl>
+        <attrdef>Male literates</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_LIT</attrlabl>
+        <attrdef>Female literates</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ILLT</attrlabl>
+        <attrdef>Total illiterates</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ILLT</attrlabl>
+        <attrdef>Male illiterates</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ILLT</attrlabl>
+        <attrdef>Female illiterates</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_W</attrlabl>
+        <attrdef>Total workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_W</attrlabl>
+        <attrdef>Male total workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_W</attrlabl>
+        <attrdef>Female total workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_MNW</attrlabl>
+        <attrdef>Total main workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MNW</attrlabl>
+        <attrdef>Male main wokers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MNW</attrlabl>
+        <attrdef>Female main workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_CULT</attrlabl>
+        <attrdef>Total cultivators</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_CULT</attrlabl>
+        <attrdef>Male cultivators</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_CULT</attrlabl>
+        <attrdef>Female cultivators</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_AGLB</attrlabl>
+        <attrdef>Total agricultural labourers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_AGLB</attrlabl>
+        <attrdef>Male agricultural labourers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_AGLB</attrlabl>
+        <attrdef>Female agricultural labourers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_MFHH</attrlabl>
+        <attrdef>Total household industry workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MFHH</attrlabl>
+        <attrdef>Male household industry workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MFHH</attrlabl>
+        <attrdef>Female household industry workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_OTH_W</attrlabl>
+        <attrdef>Total other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_OTH_W</attrlabl>
+        <attrdef>Male other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_OTH_W</attrlabl>
+        <attrdef>Female other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_MRW</attrlabl>
+        <attrdef>Total marginal workers other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRW</attrlabl>
+        <attrdef>Male marginal workers other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRW</attrlabl>
+        <attrdef>Female marginal workers other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_CULT</attrlabl>
+        <attrdef>Total marginal workers as cultivators</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_CULT</attrlabl>
+        <attrdef>Male marginal workers as cultivators</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_CULT</attrlabl>
+        <attrdef>Female marginal workers as cultivators</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_AGLB</attrlabl>
+        <attrdef>Total marginal workers as agricultural labourers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_AGLB</attrlabl>
+        <attrdef>Male marginal workers as agricultural labourers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_AGLB</attrlabl>
+        <attrdef>Female marginal workers as agricultural labourers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_HH</attrlabl>
+        <attrdef>Total marginal workers household industry workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_HH</attrlabl>
+        <attrdef>Male marginal workers household industry workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_HH</attrlabl>
+        <attrdef>Female marginal workers household industry workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_OTH</attrlabl>
+        <attrdef>Total marginal workers as other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_OTH</attrlabl>
+        <attrdef>Male marginal workers as other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_OTH</attrlabl>
+        <attrdef>Female marginal workers as other workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_NNW</attrlabl>
+        <attrdef>Total non-workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_NNW</attrlabl>
+        <attrdef>Male non-workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_NNW</attrlabl>
+        <attrdef>Female non-workers</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080807</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

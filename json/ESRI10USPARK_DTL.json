@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri10uspark-dtl",
+  "dc_title_s": "U.S. Parks : ESRI Data & Maps 2010",
+  "dc_description_s": "U.S. Parks represents parks and forests within the United States at national, state, county, regional, and local levels.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI10USPARK_DTL.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI10USPARK_DTL",
+  "layer_slug_s": "harvard-esri10uspark-dtl",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2011-04-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Tele Atlas North America, Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Parks",
+    "National parks and reserves",
+    "Forest reserves",
+    "environment",
+    "boundaries",
+    "polygon",
+    "parks",
+    "national parks or forests",
+    "state parks or forests",
+    "county parks",
+    "regional parks",
+    "local parks",
+    "forests",
+    "environment",
+    "boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2010-06-30",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_geom": "ENVELOPE(-167.540447, -65.70742, 68.658579, 17.883138)",
+  "solr_year_i": 2010,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

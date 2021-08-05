@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-irbanlncanal",
+  "dc_title_s": "Canals, Bandar `Abb?s, Iran, 2002-2008",
+  "dc_description_s": "Canals for Bandar `Abb?s, Iran. VECTOR DATA of 1:25,000 scale mapping of IRAN. Source data is from an aerial photography mission which ran from 2002-2008.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//IRBANLNCANAL.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:IRBANLNCANAL",
+  "layer_slug_s": "harvard-irbanlncanal",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2013-04-09T00:00:00Z",
+  "dc_creator_sm": [
+    "Land Info (Firm)"
+  ],
+  "dc_publisher_s": [
+    "Landinfo Worldwide Mapping"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Canals",
+    "inlandWaters"
+  ],
+  "dct_spatial_sm": [
+    "Iran",
+    "Bandar `Abb?s"
+  ],
+  "dct_issued_s": "2012",
+  "dct_temporal_sm": [
+    "2002-2008"
+  ],
+  "solr_geom": "ENVELOPE(56.038546, 56.396946, 27.240745, 27.101521)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990134096540203941"
+  ]
+}

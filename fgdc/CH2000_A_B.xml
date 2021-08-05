@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 100% Short Form data (Part B: Table A1-6)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ch2000-a-b</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer includes China county boundary with 2000 population Census data from 100% Short Form data.  This layer is one (Part B) of five layers (see also Parts A, C, D, and E) covering the entire Short Form data; this layer covers Short Form table A1-6: Population by sex, nationality and by region.
+
+This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003).  The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts.  Source scale: 1:1,000,000.</abstract>
+      <purpose>The data set was developed for display and analysis using GIS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20001101</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>73.446960</westbc>
+        <eastbc>135.085831</eastbc>
+        <northbc>53.557926</northbc>
+        <southbc>6.318641</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Census</themekey>
+        <themekey>Population Statistics</themekey>
+        <themekey>Demography</themekey>
+        <themekey>Ethnic groups</themekey>
+        <themekey>Sex Statistics</themekey>
+        <themekey>Counties</themekey>
+        <themekey>Administrative and political divisions</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>GNS</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Available only to Harvard University affiliates. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>No part of this data product is allowed to be reproduced or re-distributed to any other parties without permission.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>University of Michigan</address>
+          <address>1080 S. University</address>
+          <address>Suite 3630</address>
+          <city>Ann Arbor</city>
+          <state>MI</state>
+          <postal>48109</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>734-647-9610</cntvoice>
+        <cntfax>734-764-5540</cntfax>
+        <cntemail>chinadata@umich.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 100% Short Form data (Part A: Tables A1-1 to A1-5)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 100% Short Form data (Part C: Tables A1-7 to A1-14)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 100% Short Form data (Part D: Tables A3 to A6)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+        <origin>University of Michigan. China Data Center</origin>
+        <pubdate>2003</pubdate>
+        <title>China county boundary with 2000 population Census data from 100% Short Form data (Part E: Tables A7 to A8)</title>
+        <edition>Version III.</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Beijing, China]</pubplace>
+          <publish>All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich.</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM / distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>There are no population attribute values (zeros) for Taiwan, Hong Kong, Macau, South China Sea islands, and for some counties of China.  This is consistent with the original data source.</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>Unknown.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Geomatics Center of China</origin>
+            <pubdate>Unknown</pubdate>
+            <title>National Geomatics Center of China (NGCC) data</title>
+            <geoform>Unknown</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>National Geomatics Center of China</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NGCC</srccitea>
+        <srccontr>Cited as source in distributor's dataset metadata; contribution unknown.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+            <origin>University of Michigan. China Data Center</origin>
+            <pubdate>2003</pubdate>
+            <title>Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census</title>
+            <edition>Version III.</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>[Beijing, China]</pubplace>
+              <publish>All China Marketing Research Co.</publish>
+            </pubinfo>
+            <othercit>CD-ROM layer: ChinaA.
+
+Distributed by University of Michigan China Data Center, Ann Arbor, Mich.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2003</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shape</srccitea>
+        <srccontr>Original source of datalayer</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This layer was downloaded from the CD.  A copy of the attribute table was made and opened as an external data source in Microsoft Excel 2002.  The original DBF file contained more than the number of columns allowed by SDE, so SQL statements were used to select a subset of fewer than 250 columns.  This subset of columns was written out to a new DBF file.  The original shape file was opened in ArcMap and edited to remove all of the census demographic variables.  The new, smaller DBF file was joined to the existing shapes using the GB_CNTY (County ID code) as a primary key.  The resulting file was exported to a new shape file.  The new shape file was loaded into SDE using the shp2sde command.</procdesc>
+        <srcused>Shape</srcused>
+        <procdate>200609</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>3765</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CH2000_A_B</enttypl>
+        <enttypd>County boundary with 2000 population Census data from 100% Short Form data (Part B)</enttypd>
+        <enttypds>China Data Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>CH2000_A_B.AREA</attrlabl>
+        <attrdef>Feature area in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GBCITY</attrlabl>
+        <attrdef>Four digit GB (Guo Biao -- National Standard) code of City</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBPROV</attrlabl>
+        <attrdef>Two digit GB (Guo Biao -- National Standard) code of Province</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBCNTY</attrlabl>
+        <attrdef>Six digit GB (Guo Biao -- National Standard) code of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Codes for Administrative Divisions of China, [Unknown ed.]</codesetn>
+            <codesets>State Bureau of Technological Supervision, P. R. China</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNAME</attrlabl>
+        <attrdef>Chinese name of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text [Unicode].</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ENAME</attrlabl>
+        <attrdef>English name of County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>A106001</attrlabl>
+        <attrdef>Total Population by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106002</attrlabl>
+        <attrdef>Total Males by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106003</attrlabl>
+        <attrdef>Total Females by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106004</attrlabl>
+        <attrdef>Total Population of Han People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106005</attrlabl>
+        <attrdef>Total Males of Han People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106006</attrlabl>
+        <attrdef>Total Females of Han People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106007</attrlabl>
+        <attrdef>Total Population of Mongolian People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106008</attrlabl>
+        <attrdef>Total Males of Mongolian People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106009</attrlabl>
+        <attrdef>Total Females of Mongolian People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106010</attrlabl>
+        <attrdef>Total Population of Hui People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106011</attrlabl>
+        <attrdef>Total Males of Hui People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106012</attrlabl>
+        <attrdef>Total Females of Hui People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106013</attrlabl>
+        <attrdef>Total Population of Tibetan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106014</attrlabl>
+        <attrdef>Total Males of Tibetan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106015</attrlabl>
+        <attrdef>Total Females of Tibetan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106016</attrlabl>
+        <attrdef>Total Population of Uygur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106017</attrlabl>
+        <attrdef>Total Males of Uygur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106018</attrlabl>
+        <attrdef>Total Females of Uygur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106019</attrlabl>
+        <attrdef>Total Population of Miao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106020</attrlabl>
+        <attrdef>Total Males of Miao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106021</attrlabl>
+        <attrdef>Total Females of Miao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106022</attrlabl>
+        <attrdef>Total Population of Yi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106023</attrlabl>
+        <attrdef>Total Males of Yi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106024</attrlabl>
+        <attrdef>Total Females of Yi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106025</attrlabl>
+        <attrdef>Total Population of Zhuang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106026</attrlabl>
+        <attrdef>Total Males of Zhuang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106027</attrlabl>
+        <attrdef>Total Females of Zhuang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106028</attrlabl>
+        <attrdef>Total Population of Bouyei People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106029</attrlabl>
+        <attrdef>Total Males of Bouyei People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106030</attrlabl>
+        <attrdef>Total Females of Bouyei People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106031</attrlabl>
+        <attrdef>Total Population of Korean People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106032</attrlabl>
+        <attrdef>Total Males of Korean People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106033</attrlabl>
+        <attrdef>Total Females of Korean People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106034</attrlabl>
+        <attrdef>Total Population of Manchu by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106035</attrlabl>
+        <attrdef>Total Males of Manchu by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106036</attrlabl>
+        <attrdef>Total Females of Manchu by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106037</attrlabl>
+        <attrdef>Total Population of Dong People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106038</attrlabl>
+        <attrdef>Total Males of Dong People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106039</attrlabl>
+        <attrdef>Total Females of Dong People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106040</attrlabl>
+        <attrdef>Total Population of Yao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106041</attrlabl>
+        <attrdef>Total Males of Yao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106042</attrlabl>
+        <attrdef>Total Females of Yao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106043</attrlabl>
+        <attrdef>Total Population of Bai People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106044</attrlabl>
+        <attrdef>Total Males of Bai People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106045</attrlabl>
+        <attrdef>Total Females of Bai People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106046</attrlabl>
+        <attrdef>Total Population of Tujia People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106047</attrlabl>
+        <attrdef>Total Males of Tujia People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106048</attrlabl>
+        <attrdef>Total Females of Tujia People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106049</attrlabl>
+        <attrdef>Total Population of Hani People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106050</attrlabl>
+        <attrdef>Total Males of Hani People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106051</attrlabl>
+        <attrdef>Total Females of Hani People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106052</attrlabl>
+        <attrdef>Total Population of Kazak People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106053</attrlabl>
+        <attrdef>Total Males of Kazak People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106054</attrlabl>
+        <attrdef>Total Females of Kazak People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106055</attrlabl>
+        <attrdef>Total Population of Dai People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106056</attrlabl>
+        <attrdef>Total Males of Dai People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106057</attrlabl>
+        <attrdef>Total Females of Dai People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106058</attrlabl>
+        <attrdef>Total Population of Li People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106059</attrlabl>
+        <attrdef>Total Males of Li People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106060</attrlabl>
+        <attrdef>Total Females of Li People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106061</attrlabl>
+        <attrdef>Total Population of Lisu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106062</attrlabl>
+        <attrdef>Total Males of Lisu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106063</attrlabl>
+        <attrdef>Total Females of Lisu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106064</attrlabl>
+        <attrdef>Total Population of Va People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106065</attrlabl>
+        <attrdef>Total Males of Va People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106066</attrlabl>
+        <attrdef>Total Females of Va People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106067</attrlabl>
+        <attrdef>Total Population of She People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106068</attrlabl>
+        <attrdef>Total Males of She People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106069</attrlabl>
+        <attrdef>Total Females of She People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106070</attrlabl>
+        <attrdef>Total Population of Gaoshan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106071</attrlabl>
+        <attrdef>Total Males of Gaoshan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106072</attrlabl>
+        <attrdef>Total Females of Gaoshan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106073</attrlabl>
+        <attrdef>Total Population of Lahu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106074</attrlabl>
+        <attrdef>Total Males of Lahu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106075</attrlabl>
+        <attrdef>Total Females of Lahu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106076</attrlabl>
+        <attrdef>Total Population of Shui People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106077</attrlabl>
+        <attrdef>Total Males of Shui People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106078</attrlabl>
+        <attrdef>Total Females of Shui People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106079</attrlabl>
+        <attrdef>Total Population of Dongxiang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106080</attrlabl>
+        <attrdef>Total Males of Dongxiang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106081</attrlabl>
+        <attrdef>Total Females of Dongxiang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106082</attrlabl>
+        <attrdef>Total Population of Naxi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106083</attrlabl>
+        <attrdef>Total Males of Naxi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106084</attrlabl>
+        <attrdef>Total Females of Naxi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106085</attrlabl>
+        <attrdef>Total Population of Jingpo People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106086</attrlabl>
+        <attrdef>Total Males of Jingpo People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106087</attrlabl>
+        <attrdef>Total Females of Jingpo People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106088</attrlabl>
+        <attrdef>Total Population of Kirgiz People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106089</attrlabl>
+        <attrdef>Total Males of Kirgiz People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106090</attrlabl>
+        <attrdef>Total Females of Kirgiz People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106091</attrlabl>
+        <attrdef>Total Population of Tu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106092</attrlabl>
+        <attrdef>Total Males of Tu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106093</attrlabl>
+        <attrdef>Total Females of Tu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106094</attrlabl>
+        <attrdef>Total Population of Daur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106095</attrlabl>
+        <attrdef>Total Males of Daur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106096</attrlabl>
+        <attrdef>Total Females of Daur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106097</attrlabl>
+        <attrdef>Total Population of Mulam People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106098</attrlabl>
+        <attrdef>Total Males of Mulam People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106099</attrlabl>
+        <attrdef>Total Females of Mulam People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106100</attrlabl>
+        <attrdef>Total Population of Qiang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106101</attrlabl>
+        <attrdef>Total Males of Qiang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106102</attrlabl>
+        <attrdef>Total Females of Qiang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106103</attrlabl>
+        <attrdef>Total Population of Blang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106104</attrlabl>
+        <attrdef>Total Males of Blang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106105</attrlabl>
+        <attrdef>Total Females of Blang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106106</attrlabl>
+        <attrdef>Total Population of Salar People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106107</attrlabl>
+        <attrdef>Total Males of Salar People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106108</attrlabl>
+        <attrdef>Total Females of Salar People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106109</attrlabl>
+        <attrdef>Total Population of Maonan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106110</attrlabl>
+        <attrdef>Total Males of Maonan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106111</attrlabl>
+        <attrdef>Total Females of Maonan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106112</attrlabl>
+        <attrdef>Total Population of Gelao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106113</attrlabl>
+        <attrdef>Total Males of Gelao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106114</attrlabl>
+        <attrdef>Total Females of Gelao People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106115</attrlabl>
+        <attrdef>Total Population of Xibe People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106116</attrlabl>
+        <attrdef>Total Males of Xibe People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106117</attrlabl>
+        <attrdef>Total Females of Xibe People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106118</attrlabl>
+        <attrdef>Total Population of Achang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106119</attrlabl>
+        <attrdef>Total Males of Achang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106120</attrlabl>
+        <attrdef>Total Females of Achang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106121</attrlabl>
+        <attrdef>Total Population of Pumi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106122</attrlabl>
+        <attrdef>Total Males of Pumi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106123</attrlabl>
+        <attrdef>Total Females of Pumi People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106124</attrlabl>
+        <attrdef>Total Population of Tajik by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106125</attrlabl>
+        <attrdef>Total Males of Tajik by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106126</attrlabl>
+        <attrdef>Total Females of Tajik by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106127</attrlabl>
+        <attrdef>Total Population of Nu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106128</attrlabl>
+        <attrdef>Total Males of Nu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106129</attrlabl>
+        <attrdef>Total Females of Nu People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106130</attrlabl>
+        <attrdef>Total Population of Ozbek People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106131</attrlabl>
+        <attrdef>Total Males of Ozbek People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106132</attrlabl>
+        <attrdef>Total Females of Ozbek People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106133</attrlabl>
+        <attrdef>Total Population of Russian People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106134</attrlabl>
+        <attrdef>Total Males of Russian People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106135</attrlabl>
+        <attrdef>Total Females of Russian People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106136</attrlabl>
+        <attrdef>Total Population of Ewenki People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106137</attrlabl>
+        <attrdef>Total Males of Ewenki People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106138</attrlabl>
+        <attrdef>Total Females of Ewenki People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106139</attrlabl>
+        <attrdef>Total Population of De'ang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106140</attrlabl>
+        <attrdef>Total Males of De'ang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106141</attrlabl>
+        <attrdef>Total Females of De'ang People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106142</attrlabl>
+        <attrdef>Total Population of Bonan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106143</attrlabl>
+        <attrdef>Total Males of Bonan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106144</attrlabl>
+        <attrdef>Total Females of Bonan People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106145</attrlabl>
+        <attrdef>Total Population of Yugur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106146</attrlabl>
+        <attrdef>Total Males of Yugur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106147</attrlabl>
+        <attrdef>Total Females of Yugur People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106148</attrlabl>
+        <attrdef>Total Population of Jing People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106149</attrlabl>
+        <attrdef>Total Males of Jing People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106150</attrlabl>
+        <attrdef>Total Females of Jing People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106151</attrlabl>
+        <attrdef>Total Population of Tatar by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106152</attrlabl>
+        <attrdef>Total Males of Tatar by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106153</attrlabl>
+        <attrdef>Total Females of Tatar by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106154</attrlabl>
+        <attrdef>Total Population of Drung People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106155</attrlabl>
+        <attrdef>Total Males of Drung People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106156</attrlabl>
+        <attrdef>Total Females of Drung People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106157</attrlabl>
+        <attrdef>Total Population of Oroqen People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106158</attrlabl>
+        <attrdef>Total Males of Oroqen People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106159</attrlabl>
+        <attrdef>Total Females of Oroqen People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106160</attrlabl>
+        <attrdef>Total Population of Hezhen People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106161</attrlabl>
+        <attrdef>Total Males of Hezhen People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106162</attrlabl>
+        <attrdef>Total Females of Hezhen People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106163</attrlabl>
+        <attrdef>Total Population of Moinba People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106164</attrlabl>
+        <attrdef>Total Males of Moinba People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106165</attrlabl>
+        <attrdef>Total Females of Moinba People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106166</attrlabl>
+        <attrdef>Total Population of Lhoba People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106167</attrlabl>
+        <attrdef>Total Males of Lhoba People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106168</attrlabl>
+        <attrdef>Total Females of Lhoba People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106169</attrlabl>
+        <attrdef>Total Population of Jino People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106170</attrlabl>
+        <attrdef>Total Males of Jino People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106171</attrlabl>
+        <attrdef>Total Females of Jino People by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106172</attrlabl>
+        <attrdef>Total Population of Unidentified Peoples by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106173</attrlabl>
+        <attrdef>Total Males of Unidentified Peoples by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106174</attrlabl>
+        <attrdef>Total Females of Unidentified Peoples by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106175</attrlabl>
+        <attrdef>Total Population of Chinese Foreigners by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106176</attrlabl>
+        <attrdef>Total Males of Chinese Foreigners by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A106177</attrlabl>
+        <attrdef>Total Females of Chinese Foreigners by County</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Notes on China 2000 Population Census Data
+
+In order to guide you to use the data correctly, provide you some explanations as follows:
+
+(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census.
+
+(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place.
+
+The following persons should be enumerated in their permanent residing place: 
+
+a) Those who reside in the townships, towns and street communities and have their permanent household registration there. 
+b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. 
+c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. 
+d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. 
+e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc.  According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census. 
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army. 
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics, which was based on the advance tabulation. 
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration. 
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%. 
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
+
+(5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</eaover>
+      <eadetcit>Overview from: 2000 China County Population Census Data with County Maps. Version III. Harvard University Library Site license readme.htm file.  University of Michigan. China Data Center</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20061017</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

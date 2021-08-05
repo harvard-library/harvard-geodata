@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri09eurwater",
+  "dc_title_s": "Europe Water Bodies : ESRI Data & Maps 2009",
+  "dc_description_s": "Europe Water Bodies represents rivers, lakes, and other inland water bodies for Europe.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI09EURWATER.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI09EURWATER",
+  "layer_slug_s": "harvard-esri09eurwater",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2010-06-29T00:00:00Z",
+  "dc_creator_sm": [
+    "AND International Publishers N.V.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Bodies of water",
+    "Lakes",
+    "Rivers",
+    "inlandWaters",
+    "polygon",
+    "water",
+    "rivers",
+    "lakes",
+    "drainage",
+    "area"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_issued_s": "2009-06-01",
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_geom": "ENVELOPE(-31.22339, 66.0459, 81.1668, 27.8505)",
+  "solr_year_i": 2008,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

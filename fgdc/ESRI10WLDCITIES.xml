@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>20100630</pubdate>
+        <title>World Cities : ESRI Data &amp; Maps 2010</title>
+        <edition>10</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>10 - World, Europe, and United States</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>ESRI</publish>
+        </pubinfo>
+        <othercit>Location: ESRI data &amp; maps 2010 \world\data</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esri10wldcities</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>World Cities represents the locations of the major cities of the world.</abstract>
+      <purpose>World Cities provides a base map layer of the cities for the world. The cities include national capitals, provincial capitals, major population centers, and landmark cities.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:15,000,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>1996</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>Winter 1993/1994</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20000101</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2000</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>199910</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20000225</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20010128</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20020314</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20021115</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>2003</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200703</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200711</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>200911</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-176.151564</westbc>
+        <eastbc>179.221888</eastbc>
+        <northbc>78.200001</northbc>
+        <southbc>-54.792000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Cities and towns</themekey>
+        <themekey>Human settlements</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>point</themekey>
+        <themekey>cities</themekey>
+        <themekey>capitals</themekey>
+        <themekey>administrative unit and international codes</themekey>
+        <themekey>population</themekey>
+        <themekey>country names</themekey>
+        <themekey>port identification numbers</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>World</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1996</tempkey>
+        <tempkey>1993/1994</tempkey>
+        <tempkey>2000</tempkey>
+        <tempkey>1999</tempkey>
+        <tempkey>2001</tempkey>
+        <tempkey>2002</tempkey>
+        <tempkey>2003</tempkey>
+        <tempkey>2007</tempkey>
+        <tempkey>2009</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only  available for Harvard Affiliates for use on Harvard owned computers.
+
+The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI</cntorg>
+          <cntper>ArcGIS Content Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+  </idinfo>
+  <dataqual>
+    <logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.  The data set is created directly from a topologically correct ArcInfo coverage.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was extracted from the ArcWorld Supplement database. No detailed evaluation of the positional accuracy of the ArcWorld Supplement data has been made; knowledge of the source World Data Bank II (WDBII) data is insufficient to determine positional accuracy of data derived from the source.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <pubdate>1996</pubdate>
+            <title>ArcWorld? Supplement</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>ESRI</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>3000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ArcWorld Supplement</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Dept. of State. Bureau of Intelligence and Research</origin>
+            <pubdate>Winter 1993/1994</pubdate>
+            <title>Geographic and Global Issues Quarterly</title>
+            <edition>Volume 3, Number 4</edition>
+            <serinfo>
+              <sername>Geographic and Global Issues Quarterly</sername>
+              <issue>Volume 3, Number 4</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>United States Department of State, Bureau of Intelligence and Research</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>Winter 1993/1994</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Geographic and Global Issues</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. Central Intelligence Agency</origin>
+            <pubdate>20000101, 2003, 200703, 200711</pubdate>
+            <title>The World Factbook 2000; 2003; 2007</title>
+            <edition>2000, 2003, 2007</edition>
+            <serinfo>
+              <sername>The World Factbook</sername>
+              <issue>2000; 2003; 2007</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>United States Central Intelligence Agency</publish>
+            </pubinfo>
+            <onlink>http://www.cia.gov/cia/publications/factbook/index.html</onlink>
+            <onlink>https://www.cia.gov/cia/publications/factbook/index.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>20000101</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>2003</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>200703</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>200711</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>CIA Factbook</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Global Mapping International (Firm)</origin>
+            <title>Missions Database</title>
+            <pubinfo>
+              <pubplace>Colorado Springs, Colorado, USA</pubplace>
+              <publish>Global Mapping International</publish>
+            </pubinfo>
+            <onlink>http://www.gmi.org</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GMI</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States. National Imagery and Mapping Agency</origin>
+            <title>World Port Index</title>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>U.S. National Imagery and Mapping Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srccitea>NIMA - WPI</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Bartholomew (Firm)</origin>
+            <origin>Times Books (Firm)</origin>
+            <pubdate>199910</pubdate>
+            <title>The Times Atlas of the World</title>
+            <edition>10th comprehensive edition</edition>
+            <serinfo>
+              <sername>The Times Atlas of the World</sername>
+              <issue>10th comprehensive edition</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Edinburgh, Scotland</pubplace>
+              <publish>Bartholemew and Times Books</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199910</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Times Atlas 10th</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States Board on Geographic Names. Executive Secretary for Foreign Names</origin>
+            <pubdate>20000225</pubdate>
+            <title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title>
+            <edition>4</edition>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>FIPS 10-4</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Bethesda, Maryland, USA</pubplace>
+              <publish>National Imagery and Mapping Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20000225</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESFN FIPS 10-4 20000225</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States Board on Geographic Names. Executive Secretary for Foreign Names</origin>
+            <pubdate>20010128</pubdate>
+            <title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title>
+            <edition>6</edition>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>FIPS 10-4</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Bethesda, Maryland, USA</pubplace>
+              <publish>National Imagery and Mapping Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20010128</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESFN FIPS 10-4 20010128</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>BBC News</origin>
+            <pubdate>20020314</pubdate>
+            <title>Yugoslav partners sign historic deal</title>
+            <geoform>document</geoform>
+            <serinfo>
+              <sername>BBC News Online</sername>
+              <issue>March 14, 2002</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>BBC News</publish>
+            </pubinfo>
+            <onlink>http://news.bbc.co.uk/1/hi/world/europe/1872070.stm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20020314</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>http://news.bbc.co.uk</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>International Organization for Standardization</origin>
+            <pubdate>20021115</pubdate>
+            <title>Updates on ISO 3166</title>
+            <geoform>document</geoform>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>International Organization for Standardization</publish>
+            </pubinfo>
+            <othercit>ISO 3166-1 NEWSLETTER No. V-6 [20021115]</othercit>
+            <onlink>http://www.iso.ch/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv6e-tl.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20021115</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>http://www.iso.ch</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>GeoNames</origin>
+            <pubdate>200911</pubdate>
+            <title>GeoNames</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>GeoNames</publish>
+            </pubinfo>
+            <othercit>Provides the source for the population-based attributes. Downloaded the data in November 2009.</othercit>
+            <onlink>http://www.geonames.org/</onlink>
+            <onlink>http://creativecommons.org/licenses/by/3.0/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200911</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GeoNames</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI for Data &amp; Maps 2002: Moved Mangyshlak to its correct location.  Updated Fips_cntry and Cntry_name attributes for East Timor, Yugoslavia and their capitals.  Created ArcGIS layer file (.lyr) and ArcView GIS legend file (.avl).  Copied projection file (.prj) and created spatial indices.
+
+The following steps were performed by ESRI: Extracted the features from ArcWorld Supplement.  Updated by adding/deleting features and changing attribute values, based on political changes and other factors. Created ArcGIS layer file (.lyr).  Created ArcView GIS legend file (.avl).  Created projection file (.prj).  Created spatial indices.</procdesc>
+        <srcused>ArcWorld Supplement</srcused>
+        <srcused>Geographic and Global Issues</srcused>
+        <srcused>CIA Factbook</srcused>
+        <srcused>GMI</srcused>
+        <srcused>NIMA - WPI</srcused>
+        <srcused>Times Atlas 10th</srcused>
+        <srcused>ESFN FIPS 10-4 20000225</srcused>
+        <srcused>ESFN FIPS 10-4 20010128</srcused>
+        <procdate>20020130</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Added one city each to West Bank and Gaza Strip. Added or recorded provincial capitals for South Africa. Corrected spellings of two cities. Changed Yugoslavia to Serbia &amp; Montenegro. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
+        <srcused>http://news.bbc.co.uk</srcused>
+        <srcused>Times Atlas 10th</srcused>
+        <procdate>20020924</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Updated attribute values for East Timor and Taiwan. Added LABEL_FLAG attribute to assist in the display of the map documents (.mxd).</procdesc>
+        <srcused>http://www.iso.ch</srcused>
+        <srcused>GMI</srcused>
+        <srcused>CIA Factbook</srcused>
+        <procdate>20040308</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Reduced the attribute widths for CITY_NAME and CNTRY_NAME.</procdesc>
+        <procdate>20050211</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Edited the STATUS and CITY_NAME attributes based on referencing the CAPITAL attribute in World Country Memberships of Political Organizations (table).</procdesc>
+        <procdate>20060830</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Updated ADMIN_NAME for Paris.  Updated country attributes for Belgrade (Serbia) and Podgorica (Montenegro).  Changed city Kiev to Kyiv.</procdesc>
+        <srcused>CIA Factbook</srcused>
+        <procdate>20070601</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Corrected the domain values for the POP_CLASS attribute. Updated the names for four cities. Converted the data set to SDC. Created projection file (.prj), and spatial indices.</procdesc>
+        <srcused>CIA Factbook</srcused>
+        <procdate>20071112</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Downloaded the data from the GeoNames web site. Added the POP field and calculated city population values from the GeoNames data. Calculated the POP field to -999 (Unknown) for cities that didn't find a match in the GeoNames data or didn't have a population value. Recalculated the existing POP_RANK and POP_CLASS fields from the POP field. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+        <srcused>GeoNames</srcused>
+        <procdate>20100301</procdate>
+        <srcprod>SDC</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+              <cntper>ArcGIS Content Team</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>California</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+            <cntinst>In the United States-
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States-
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>This layer was originally downloaded from the ESRI Data and Maps and 10 DVD.  The file was stored in an SDC (Smart Data Compression) format on the DVD.  ArcCatalog 9.3.1 was utilized to export the SDC file into an ArcSDE 9.3.1 database using the "Feature Class to Feature Class" export tool.</procdesc>
+        <srcused>SDC</srcused>
+        <procdate>201104</procdate>
+        <srcprod>Shape</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office for Information Systems</address>
+              <address>Harvard University Library</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>2539</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>cities</enttypl>
+        <enttypd>The points represent the locations of the major cities of the world.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CITY_NAME</attrlabl>
+        <attrdef>The city name.</attrdef>
+        <attrdefs>ArcWorld Supplement</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GMI_ADMIN</attrlabl>
+        <attrdef>The administrative unit code (three-letter country code, three-letter administrative unit code) for the administrative unit in which the city is located.</attrdef>
+        <attrdefs>Global Mapping International</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Global Mapping International Codes</codesetn>
+            <codesets>Global Mapping International</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADMIN_NAME</attrlabl>
+        <attrdef>The name of the administrative unit in which the city is located.</attrdef>
+        <attrdefs>Global Mapping International</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Global Mapping International Names</codesetn>
+            <codesets>Global Mapping International</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CNTRY</attrlabl>
+        <attrdef>The FIPS code (two-letter) for the country in which the city is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attrdef>The name for the country in which the city is located.</attrdef>
+        <attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attrdef>The status of the city.</attrdef>
+        <attrdefs>ArcWorld Supplement</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>National and provincial capital, National capital, National capital and provincial capital enclave, Provincial capital, Provincial capital enclave, Other</edomv>
+            <edomvd>The types of status for the city.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP</attrlabl>
+        <attrdef>The population of the city.</attrdef>
+        <attrdefs>GeoNames</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-999</edomv>
+            <edomvd>Unknown.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_RANK</attrlabl>
+        <attrdef>The rank of the population class for the city.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>5,000,000 and greater.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>1,000,000 to 4,999,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>500,000 to 999,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>250,000 to 499,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>100,000 to 249,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>50,000 to 99,999.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Less than 50,000.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POP_CLASS</attrlabl>
+        <attrdef>The classification of the city based on its population.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>5,000,000 and greater, 1,000,000 to 4,999,999, 500,000 to 999,999, 250,000 to 499,999, 100,000 to 249,999, 50,000 to 99,999, less than 50,000.</edomv>
+            <edomvd>The list of population classifications.</edomvd>
+            <edomvds>ArcWorld Supplement</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PORT_ID</attrlabl>
+        <attrdef>The Port Identification Number for the city.</attrdef>
+        <attrdefs>U.S. National Imagery and Mapping Agency</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>The city is not a port.</edomvd>
+            <edomvds>U.S. National Imagery and Mapping Agency</edomvds>
+          </edom>
+          <edom>
+            <edomv>Positive Number</edomv>
+            <edomvd>The Port Identification Number for the city.</edomvd>
+            <edomvds>U.S. National Imagery and Mapping Agency</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LABEL_FLAG</attrlabl>
+        <attrdef>The indicator that assists in the display of the map documents (.mxd).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>This name is not duplicated in another layer.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>This name is duplicated in another layer.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See use constraints.  Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None; See also use constraints.</fees>
+      <ordering>Web-based distribution only.</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20100413</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

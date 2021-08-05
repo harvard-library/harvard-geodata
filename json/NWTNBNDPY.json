@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnbndpy",
+  "dc_title_s": "Newton City Boundary - City of Newton",
+  "dc_description_s": "This data layer contains the city's boundary and consists of a single polygon.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNBNDPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNBNDPY",
+  "layer_slug_s": "harvard-nwtnbndpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-07T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Municipal",
+    "Boundaries",
+    "Administrative divisions"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.270496, -71.156518, 42.367999, 42.282876)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

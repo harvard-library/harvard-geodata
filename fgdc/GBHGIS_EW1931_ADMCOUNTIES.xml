@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Great Britain Historical Geographical Information System</origin>
+        <origin>Southall, Humphrey</origin>
+        <origin>Aucott, Paula</origin>
+        <pubdate>20090930</pubdate>
+        <title>Administrative Counties of England and Wales 1931</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Portsmouth, Hampshire, UK</pubplace>
+          <publish>University of Portsmouth</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-gbhgis-ew1931-admcounties</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>These are digital boundaries for the system of counties essentially created by the        1889 Local Government Act and continuing to exist until 1974. Their initial primary focus        was the administration of education. During the twentieth century, they can be treated as        aggregates of local government districts, although note that administratively County        Boroughs were independent of the counties they were geographically part of. This file        represents the system as it was used to report the 1931 Census of Population, and does not        separately identify County Boroughs.</abstract>
+      <purpose>The mission of the Great Britain Historical GIS Project is to provide a systematic        spatial framework for historical information about Britain.</purpose>
+      <supplinf>Gregory, I, Bennett, C, Gilham, V., and Southall, H. 2002. The Great Britain        Historical GIS Project: from maps to changing human geography.' The Cartographic Journal,        Vol. 39, No. 1, p. 37-49. Southall, H 2012, 'Rebuilding the Great Britain Historical GIS,        part 2: a geo-spatial ontology of administrative units' Historical Methods: A Journal of        Quantitative and Interdisciplinary History, vol 45, no. 3, pp. 119-134. DOI:        10.1080/01615440.2012.664101</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1931</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-6.983857</westbc>
+        <eastbc>2.076794</eastbc>
+        <northbc>55.811185</northbc>
+        <southbc>49.881199</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Boundaries</themekey>
+        <themekey>Counties</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>history</themekey>
+        <themekey>Administrative units</themekey>
+        <themekey>Administrative Counties</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Great Britain</placekey>
+      </place>
+    </keywords>
+    <accconst>To promote awareness of our work and to provide a public benefit, the University of      Portsmouth and the Great Britain Historical GIS makes these county boundaries, but not other      more detailed boundaries, available under the Creative Commons Attribution-ShareAlike 4.0      International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/. This does not      mean they are in the public domain: (1) You must give appropriate credit, provide a link to      the license, and indicate if changes were made. You may do so in any reasonable manner, but      not in any way that suggests that the University of Portsmouth or the Great Britain Historical      GIS endorses you or your use. (2) The share-alike requirement means that anything you publish      using these boundaries must also be under a CC BY-SA license. In particular, if you use these      boundaries to map your attribute data, you must make the attribute data available under that      license. For unrestricted commercial licensing, contact gbhgis@port.ac.uk.</accconst>
+    <useconst>Copies of the boundary data may not be passed on to other users; each user must obtain      their own copy of the data from the University of Portsmouth or from a data library authorised      to distribute, who are required to maintain a record of users to whom the data have been      supplied. Data may be used to create paper maps, non-georeferenced raster images or PDF files,      provided they include a copyright notice and acknowledgment. Geo-referenced vector data in any      format may not be disseminated by any method, including online downloads or data feeds. For      full details see copyright license included with authorised copies of the data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>University of Portsmouth</cntorg>
+          <cntper>GBHGIS</cntper>
+        </cntorgp>
+        <cntpos>Research Project</cntpos>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>Department of Geography. Buckingham Building, Lion Terrace,</address>
+          <city>Portsmouth</city>
+          <postal>PO1 3HE</postal>
+          <country>GB</country>
+        </cntaddr>
+        <cntvoice>+44 (0)23 9284 2500</cntvoice>
+        <cntemail>gbhgis@port.ac.uk</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.0.10450</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin> Great Britain Historical Geographical Information System</origin>
+            <origin>Southall, Humphrey</origin>
+            <origin>Aucott, Paula</origin>
+            <pubdate>2009</pubdate>
+            <title> Great Britain Historical Geographical Information System </title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Portsmouth, Hampshire, UK</pubplace>
+              <publish>University of Portsmouth</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2009</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GBHGIS</srccitea>
+        <srccontr>Dataset source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>These boundaries were created in four stages: (1)          Systematic digitisation of parish boundaries from Ordnance Survey county          administrative diagrams published c. 1910. Those maps are generally at          the scale of two miles to one inch, but the County of London was mapped          from maps at six inches to one mile scale. This work was mainly by          Victoria Gilham, working at Queen Mary University of London (QMUL) in          1997-9. (2) The 1911 digital parish boundaries were then modified to          create mapping of parish boundaries at later dates including 1951 by          Victoria Gilham in 1999-2000 at QMUL using (a) listings of boundary          changes in census and vital registration reports and (b) later editions          of the Ordnance Survey county administrative diagrams, which were          published approximately every 10 years. (3) Those parish boundary lines          which were also boundaries of Local Government Districts were selected          out, and any additional district boundary lines added, drawing on the          same sources. (4) The above work formed part of a single large system          which aimed to represent changing boundaries in continuous time, holding          boundary lines as individual arcs which were to be assembled into          polygon geometries using software written in Arc Macro Language. The          current polygon file tailored to a particular census date was created at          the University of Portsmouth in 2001-4, by Nick Burton and Paula Aucott.          The Local Government District boundary lines were selected out and          amalgamated to create Administrative County polygons based on the list          of Local Government Districts within individual counties given in the          1951 Census.</procdesc>
+        <procdate>2008</procdate>
+        <srcprod>Shapefiles</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>University of Portsmouth</cntorg>
+              <cntper>GBHGIS</cntper>
+            </cntorgp>
+            <cntpos>Research Project</cntpos>
+            <cntaddr>
+              <addrtype>unknown</addrtype>
+              <address>Department of Geography. Buckingham Building, Lion Terrace,</address>
+              <city>Portsmouth</city>
+              <postal>PO1 3HE</postal>
+              <country>GB</country>
+            </cntaddr>
+            <cntvoice>+44 (0)23 9284 2500</cntvoice>
+            <cntemail>gbhgis@port.ac.uk</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>62</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>British National Grid</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996012717</sfctrmer>
+            <longcm>-2.0</longcm>
+            <latprjo>49.0</latprjo>
+            <feast>400000.0</feast>
+            <fnorth>-100000.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002219846528817016</absres>
+            <ordres>0.000000002219846528817016</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D OSGB 1936</horizdn>
+        <ellips>Airy 1830</ellips>
+        <semiaxis>6377563.396</semiaxis>
+        <denflat>299.3249646</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>EW1931_admcounties</enttypl>
+        <enttypd>administrative county boundaries of Great Britain from 1931</enttypd>
+        <enttypds>GBHGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>G_UNIT</attrlabl>
+        <attrdef>Unique identifier for unit. This value is a unique identifier from our gazetteer.          The g_unit value can be used to identify the same unit in different years even if the          name/boundary/status of the unit has changed.</attrdef>
+        <attrdefs>GBHGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>G_NAME</attrlabl>
+        <attrdef>Name of unit at this date</attrdef>
+        <attrdefs>GBHGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAMESTATUS</attrlabl>
+        <attrdef>Status of name: P = Preferred or O = Official. Equates to "G_NAME_STATUS" in          gazetteer. As far as possible all unit names are the Preferred English name at the date          given in the file name. Where this was unavailable they have been assigned their Preferred          Welsh name in that year. Where the name status is given as 'O' this indicates it was the          preferred official name at this particular date, although another name later replaced it          as the preferred name. </attrdef>
+        <attrdefs>GBHGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Preferred</edomvd>
+            <edomvds>GBHGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>G_LANGUAGE</attrlabl>
+        <attrdef>Language of name: eng = English, cym = Welsh</attrdef>
+        <attrdefs>GBHGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>eng</edomv>
+            <edomvd>English</edomvd>
+            <edomvds>GBHGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNITTYPE</attrlabl>
+        <attrdef>Equates to "G_UNIT_TYPE" in gazetteer. The Unittype value is the administrative          unit type for this unit at the date given in the file name.</attrdef>
+        <attrdefs>GBHGIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ADM_CNTY</edomv>
+            <edomvd>Administrative County</edomvd>
+            <edomvds>GBHGIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IM_AUTH</attrlabl>
+        <attrdef>Source of information</attrdef>
+        <attrdefs>GBHGIS</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Library</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20200304</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Metadata Librarian</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard Library</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

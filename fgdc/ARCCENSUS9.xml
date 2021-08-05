@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Atlanta Regional Commission (ARC)</origin>
+        <pubdate>2002</pubdate>
+        <title>Atlanta Regional Commission 1990 Census Tracts</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-arccensus9</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon datalayer depicts 1990 census tract level boundaries with associated census attribute data for the Atlanta Regional Commission's (ARC) 10-county region. Data displayed here was derived from the US Census Bureau 1990 TIGER files.
+ARC documentation states that:
+"Please note, a limited number of "sliver" tracts were merged with other tracts resulting in a total of 417 census tracts for the Atlanta Region.  The Census Bureau published data for 424 tracts including tracts 239.98, 316.97, 316.98, 508.98, 807.97, 807.98 and 912.98.  These additional seven tracts resulted from the correction of pre-census mapping errors and fall below the Census Bureau's minimum size standards.  Consequently, ARC has incorporated these non-standard tracts into adjacent tracts: 239.98 into 234.05; 316.97 into 313.04; 316.98 into 301.98; 508.98 into 504.06; 807.97 into 801.98; 807.98 into 803.00; and 912.98 into 911.03.  Also, due to the fact that the Census Bureau reused the 1980 census tract 303.02 erroneously, ARC instead uses the number 303.08 to correctly refer to this tract and to emphasize that it is a new census tract with no geography in common with 1980 census tract 303.02.  In terms of attributes for ARC's 417 census tracts, a number of variables have been extracted from the Census Bureau's Summary Tape Files (STF) for this Theme. 
+In addition, selected demographic data has been included by ARC's Research Division through their annual work on employment and population estimates and forecasts.  ARC is the source for all the employment data associated with this theme. The source for population, households, and housing unit data is either the Census Bureau or ARC; source by variable is noted in the variable definitions below.  It should be clearly noted that the 2000 population  and housing unit estimates appearing in this database file are the result of ARC estimates; they are not 2000 Census counts.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19900401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-84.911057</westbc>
+        <eastbc>-83.798904</eastbc>
+        <northbc>34.412590</northbc>
+        <southbc>33.256512</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Boundaries</themekey>
+        <themekey>Census</themekey>
+        <themekey>Census districts</themekey>
+        <themekey>Demography</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Atlanta</placekey>
+        <placekey>Georgia (United States)</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.  Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only. Harvard University makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished, including the implied validity of any uses of such data.
+This data may not be redistributed by HGL users. Any authorized use of information derived or supplemented by use of the Database shall acknowledge the Atlanta Regional Commission (ARC) as the source.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Atlanta Regional Commission (ARC)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Atlanta Regional Commission</address>
+          <address>40 Courtland Street, NE</address>
+          <address>Attn: GIS Division</address>
+          <city>Atlanta</city>
+          <state>GA</state>
+          <postal>30303</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(404) 463-3100</cntvoice>
+        <cntfax>(404) 463-3105</cntfax>
+        <cntemail>jbohn@atlantaregional.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Atlanta Regional Commission</origin>
+            <pubdate>2002</pubdate>
+            <title>Atlanta Regional Commission (ARC) Data</title>
+            <edition>5th</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Atlanta Regional Information System (ARIS)</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Atlanta, Georgia</pubplace>
+              <publish>Atlanta Regional Commission</publish>
+            </pubinfo>
+            <othercit>Fifth in a continuing series of CD-ROMs with updates.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Range from 5,000 to 100,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1983</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ARC Data</srccitea>
+        <srccontr>Data used to produce Shapefiles in HGL</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>Various Sources</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>5,000 to 100,000</srcscale>
+        <typesrc>GPS data; Orthophotos; TIGER files; Vector data</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1983</begdate>
+              <enddate>2002</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Various</srccitea>
+        <srccontr>Various source materials were used to produce ARC CD-ROM Data.  Data derived form such sources as: Georgia Department of Community Affairs (DCA); Georgia Department of Transportation (GDOT); Georgia Department of Industry, Trade and Tourism (GDITT); U.S. Geological Survey (USGS); U.S. Census Bureau; Environmental Systems Research Institute (ESRI); Metropolitan Atlanta Rapid Transit Authority (MARTA); Reapportionment Services Office, Georgia General Assembly; Cobb County Department of Transportation (CCT) and others.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Atlanta Regional Commission assembled and processed data form various sources to produce their published dataset on CD-ROM.</procdesc>
+        <srcused>Various</srcused>
+        <procdate>Unknown</procdate>
+        <srcprod>ARC CD-ROM Data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Atlanta Regional Commission (ARC)</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Atlanta Regional Commission data was obtained via a CD-ROM. The data were in the format of ESRI Shapefiles and were imported to ArcSDE Layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>ARC CD-ROM Data</srcused>
+        <procdate>200410</procdate>
+        <srcprod>HGL Shapefiles</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+              <cntper>GIS Technician</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Ave.</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>417</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1927</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6378206.400000</semiaxis>
+        <denflat>294.978698</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ARC 1990 Census Data</enttypl>
+        <enttypd>Polygons represent census districts with associated attribure data</enttypd>
+        <enttypds>HGL</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TIM.ARCCENSUS90.AREA</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Feature perimeter length measured in coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CEN_TRCT90</attrlabl>
+        <attrdef>Internal feature number</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CEN_TRCT91</attrlabl>
+        <attrdef>Census tract numbers</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CT90</attrlabl>
+        <attrdef>Census tract numbers</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP90</attrlabl>
+        <attrdef>Population Total 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MALES90</attrlabl>
+        <attrdef>Male Population 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMALES90</attrlabl>
+        <attrdef>Female Population 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_0_4</attrlabl>
+        <attrdef>Population Age 0-4 Years 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_5_14</attrlabl>
+        <attrdef>Population Age 5-14 Years 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_15_19</attrlabl>
+        <attrdef>Population Age 15-19 Years 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_20_34</attrlabl>
+        <attrdef>Population Age 20-34 Years 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_35_59</attrlabl>
+        <attrdef>Population Age 35-59 Years 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP_60UP</attrlabl>
+        <attrdef>Population Age 60 Years and Older 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WPOP90</attrlabl>
+        <attrdef>White Population 1990 (Persons of Hispanic descent may be of any race)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWPOP90</attrlabl>
+        <attrdef>Black and other Population 1990 (Census Bureau). (Includes population of all races other than White. Persons of Hispanic descent may be of any race.  Not adjusted for census undercount.)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ASIAN90</attrlabl>
+        <attrdef>Asian Population 1990 (Census Bureau)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HISPANIC90</attrlabl>
+        <attrdef>Hispanic Population 1990 (Census Bureau)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHINC89</attrlabl>
+        <attrdef>Median Household Income 1989 (Census Bureau). (Census collects income data for the calendar year preceding the census date.  Income is expressed in 1989 dollars.)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BELOWPOV89</attrlabl>
+        <attrdef>Percent Persons in Poverty 1989.  (Poverty determination based on income in 1989)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_HS90</attrlabl>
+        <attrdef>Percent without High School Diplomas 1990.  (This share is for persons age 25 years and older in 1990)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COLLEGE90</attrlabl>
+        <attrdef>Percent College Graduates 1990. (This share is for persons age 25 years and older in 1990)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP90ADJ</attrlabl>
+        <attrdef>Population Total 1990 Adjusted. (Adjusted for census undercount)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP95</attrlabl>
+        <attrdef>Population Estimate 1995 (ARC Estimate). Adjusted for census undercount</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP00</attrlabl>
+        <attrdef>Population Estimate 2000 (ARC Estimate).  Adjusted for census undercount</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WPOP95</attrlabl>
+        <attrdef>White Population 1995 (ARC Estimate). Persons of Hispanic descent may be of any race.  Not adjusted for census undercount.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WPOP00</attrlabl>
+        <attrdef>White Population 2000 (ARC Estimate). Persons of Hispanic descent may be of any race.  Not adjusted for census undercount.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWPOP95</attrlabl>
+        <attrdef>Black and other Population 1995 (ARC Estimate).  Includes population of all races other than White. Persons of Hispanic descent may be of any race.  Not adjusted for census undercount.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NWPOP00</attrlabl>
+        <attrdef>Black and other Population 2000 (ARC Estimate). Includes population of all races other than White. Persons of Hispanic descent may be of any race.  Not adjusted for census undercount.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HU90</attrlabl>
+        <attrdef>Total Housing Units 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HU95</attrlabl>
+        <attrdef>Total Housing Units 1995 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HU00</attrlabl>
+        <attrdef>Total Housing Units 2000 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SFU90</attrlabl>
+        <attrdef>Single-Family Housing units 1990 (Census Baseline)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SFU95</attrlabl>
+        <attrdef>Single-Family Housing units 1995 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SFU00</attrlabl>
+        <attrdef>Single-Family Housing units 2000 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MFU90</attrlabl>
+        <attrdef>Multi-Family Units 1990 (Census Baseline)</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MFU95</attrlabl>
+        <attrdef>Multi-Family Units 1995 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MFU00</attrlabl>
+        <attrdef>Multi-Family Units 2000 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MHU90</attrlabl>
+        <attrdef>Mobile Homes 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MHU95</attrlabl>
+        <attrdef>Mobile Homes 1995 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MHU00</attrlabl>
+        <attrdef>Mobile Homes 2000 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HH90</attrlabl>
+        <attrdef>Households 1990</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HH95</attrlabl>
+        <attrdef>Households 1995 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HH00</attrlabl>
+        <attrdef>Households 2000 (ARC Estimate)</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Area of Census Tracts (1990 tracts) in Acres.  Used for Population Density</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POPDENS90</attrlabl>
+        <attrdef>Population Density 1990. Persons per acre. Adjusted for census undercount.</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POPDENS95</attrlabl>
+        <attrdef>Population Density 1995 (ARC Estimate).  Persons per acre. Adjusted for census undercount.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POPDENS00</attrlabl>
+        <attrdef>Population Density 2000 (ARC Estimate). Persons per acre. Adjusted for census undercount.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP10</attrlabl>
+        <attrdef>Population Forecast 2010. RTP forecast adopted by ARC Board March, 2000; does NOT incorporate 2000 Census counts</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP15</attrlabl>
+        <attrdef>Population Forecast 2015. RTP forecast adopted by ARC Board March, 2000; does NOT incorporate 2000 Census counts</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP20</attrlabl>
+        <attrdef>Population Forecast 2020. RTP forecast adopted by ARC Board March, 2000; does NOT incorporate 2000 Census counts</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP25</attrlabl>
+        <attrdef>Population Forecast 2025. RTP forecast adopted by ARC Board March, 2000; does NOT incorporate 2000 Census counts</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP9590</attrlabl>
+        <attrdef>Change in Population 1990-1995 (Adjusted for census undercount)</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP0090</attrlabl>
+        <attrdef>Change in Population 1990-2000 (Adjusted for census undercount)</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP1500</attrlabl>
+        <attrdef>Forecast Change in Population 2000-2015</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POP2500</attrlabl>
+        <attrdef>Forecast Change in Population 2000-2025</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHSIZE95</attrlabl>
+        <attrdef>Average Household Size 1995 (ARC Estimate). Persons per household (occupied housing unit); not adjusted for census undercount</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HHSIZE00</attrlabl>
+        <attrdef>Average Household Size 2000 (ARC Estimate). Persons per household (occupied housing unit); not adjusted for census undercount</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LT_RES90</attrlabl>
+        <attrdef>Percent Long-term Residents in 1990. Long-term means 20 years or more at same address</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU0_50</attrlabl>
+        <attrdef>Housing Units &lt; $50,000 in 1990. Value of housing is that reported by respondents to the 1990 Census; 1989 dollars</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU50_100</attrlabl>
+        <attrdef>Housing Units $50,000-$99,999 in 1990. Value of housing is that reported by respondents to the 1990 Census</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU100_150</attrlabl>
+        <attrdef>Housing Units $100,000-$149,999 in 1990.  Value of housing is that reported by respondents to the 1990 Census</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU150_200</attrlabl>
+        <attrdef>Housing Units $150,000-$199,999 in 1990. Value of housing is that reported by respondents to the 1990 Census</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU200_250</attrlabl>
+        <attrdef>Housing Units $200,000-$249,999 in 1990.  Value of housing is that reported by respondents to the 1990 Census</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU250_300</attrlabl>
+        <attrdef>Housing Units $250,000-$299,999 in 1990. Value of housing is that reported by respondents to the 1990 Census</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOU_300UP</attrlabl>
+        <attrdef>Housing Units $300,000 and up 1990. Value of housing is that reported by respondents to the in 1990 Census</attrdef>
+        <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONST90</attrlabl>
+        <attrdef>Construction Employment 1990</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONST95</attrlabl>
+        <attrdef>Construction Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONST99</attrlabl>
+        <attrdef>Construction Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RETAIL90</attrlabl>
+        <attrdef>Retail Trade Employment 1990</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RETAIL95</attrlabl>
+        <attrdef>Retail Trade Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RETAIL99</attrlabl>
+        <attrdef>Retail Trade Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WHSALE90</attrlabl>
+        <attrdef>Wholesale Trade Employment 1990</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WHSALE95</attrlabl>
+        <attrdef>Wholesale Trade Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WHSALE99</attrlabl>
+        <attrdef>Wholesale Trade Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MFG90</attrlabl>
+        <attrdef>Manufacturing Employment 1990</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MFG95</attrlabl>
+        <attrdef>Manufacturing Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MFG99</attrlabl>
+        <attrdef>Manufacturing Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TCU90</attrlabl>
+        <attrdef>Trans, Communication, Utilities Employment 1990</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TCU95</attrlabl>
+        <attrdef>Trans, Communication, Utilities Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TCU99</attrlabl>
+        <attrdef>Trans, Communication, Utilities Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIRE90</attrlabl>
+        <attrdef>Finance, Insurance, Real Estate Employment 1990.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIRE95</attrlabl>
+        <attrdef>Finance, Insurance, Real Estate Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIRE99</attrlabl>
+        <attrdef>Finance, Insurance, Real Estate Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SERV90</attrlabl>
+        <attrdef>Services Employment 1990.  Includes Miscellaneous Employment</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SERV95</attrlabl>
+        <attrdef>Services Employment 1995. Includes Miscellaneous Employment</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SERV99</attrlabl>
+        <attrdef>Services Employment 1999. Includes Miscellaneous Employment</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GOVT90</attrlabl>
+        <attrdef>Government Employment 1990</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GOVT95</attrlabl>
+        <attrdef>Government Employment 1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GOVT99</attrlabl>
+        <attrdef>Government Employment 1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP90</attrlabl>
+        <attrdef>Employment Estimate 1990. Total Employment for all Industry groups</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP95</attrlabl>
+        <attrdef>Employment Estimate 1995. Total Employment for all Industry groups</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP99</attrlabl>
+        <attrdef>Employment Estimate 1999. Total Employment for all Industry groups</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP9590</attrlabl>
+        <attrdef>Change in Employment 1990-1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP9990</attrlabl>
+        <attrdef>Change in Employment 1990-1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMPDENS90</attrlabl>
+        <attrdef>Employment Density 1990. Jobs per acre</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMPDENS95</attrlabl>
+        <attrdef>Employment Density 1995. Jobs per acre</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMPDENS99</attrlabl>
+        <attrdef>Employment Density 1999. Jobs per acre</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HIPOP9590</attrlabl>
+        <attrdef>High Population Growth 1990-1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrvai>
+          <attrvae>This variable has a value of 1 for the thirty census tracts with the largest increase in population, 1990 to 1995, 0 otherwise.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>HIPOP9990</attrlabl>
+        <attrdef>High Population Growth 1990-1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrvai>
+          <attrvae>This variable has a value of 1 for the thirty census tracts with the largest increase in population employment, 1990 to 1999, 0 otherwise.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>HIEMP9590</attrlabl>
+        <attrdef>High Employment Growth 1990-1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrvai>
+          <attrvae>This variable has a value of 1 for the thirty census tracts with the largest increase in employment, 1990 to 1995, 0 otherwise.)</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>HIEMP9990</attrlabl>
+        <attrdef>High Employment Growth 1990-1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrvai>
+          <attrvae>This variable has a value of 1 for the thirty census tracts with the largest increase in employment, 1990 to 1999, 0 otherwise.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>HIPOPEMP95</attrlabl>
+        <attrdef>High Population and Employment Growth 1990-1995</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrvai>
+          <attrvae>This variable has a value of 1 for those census tracts that are among both the 30 with the largest increase in adjusted population, 1990-1995, and the 30 with the largest increase in employment, 0 otherwise.  This is the intersection of the two variables.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>HIPOPEMP99</attrlabl>
+        <attrdef>High Population and Employment  Growth 1990-1999</attrdef>
+        <attrdefs>ARC</attrdefs>
+        <attrvai>
+          <attrvae>This variable has a value of 1 for those census tracts that are among both the 30 with the largest increase in adjusted population, 1990-1999, and the 30 with the largest increase in employment, 0 otherwise.  This is the intersection of the two variables</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>EMP10</attrlabl>
+        <attrdef>Employment Forecast 2010. RTP forecast adopted by ARC Board March, 2000</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP15</attrlabl>
+        <attrdef>Employment Forecast 2015. RTP forecast adopted by ARC Board March, 2000.</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP20</attrlabl>
+        <attrdef>Employment Forecast 2020. RTP forecast adopted by ARC Board March, 2000</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP25</attrlabl>
+        <attrdef>Employment Forecast 2025. RTP forecast adopted by ARC Board March, 2000</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP1599</attrlabl>
+        <attrdef>Forecast Change in Employment 1999-2015</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP2599</attrlabl>
+        <attrdef>Forecast Change in Employment 1999-2025</attrdef>
+        <attrdefs>ARC</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Feature area measured in square coverage units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature polyline length measured in map units</attrdef>
+        <attrdefs>Computed</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20050819</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

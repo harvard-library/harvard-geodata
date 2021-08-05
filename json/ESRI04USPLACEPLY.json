@@ -1,0 +1,57 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri04usplaceply",
+  "dc_title_s": "ESRI Data & Maps 2004 : U.S. Populated Place Areas",
+  "dc_description_s": "U.S. Populated Place Areas represents populated place areas that include census designated places, consolidated cities, and incorporated places within United States identified by the U.S. Bureau of the Census.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI04USPLACEPLY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI04USPLACEPLY",
+  "layer_slug_s": "harvard-esri04usplaceply",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2006-09-18T00:00:00Z",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc.",
+    "U.S. Census Bureau. Geography Division",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Villages",
+    "Population Statistics",
+    "Housing Statistics",
+    "Boundaries",
+    "Human settlements",
+    "Census districts",
+    "boundaries",
+    "society",
+    "polygon",
+    "places",
+    "populated places",
+    "cities",
+    "towns",
+    "villages",
+    "demographics",
+    "housing units"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_issued_s": "2004-03-01",
+  "dct_temporal_sm": [
+    "2002",
+    "1984",
+    "2000",
+    "2000"
+  ],
+  "solr_geom": "ENVELOPE(-176.810436, 173.427673, 71.331991, 18.954155)",
+  "solr_year_i": 2002,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

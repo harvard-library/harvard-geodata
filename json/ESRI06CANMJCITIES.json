@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esri06canmjcities",
+  "dc_title_s": "ESRI Data & Maps 2006 : Canada Major Cities",
+  "dc_description_s": "Canada Major Cities represent the locations of major cities within Canada. A major city is defined as: a populated place that has been designated as a provincial or federal capital by Statistics Canada, or a populated place that has been designated as a city by Natural Resources Canada and has a population greater than 100,000, or a populated place that has been designated as urban by Statistics Canada, a city by Natural Resources Canada, and has a population within the range of 10,000 - 99,999 people, or a populated place that has been designated as urban by Statistics Canada and a town by Natural Resources Canada.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ESRI06CANMJCITIES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ESRI06CANMJCITIES",
+  "layer_slug_s": "harvard-esri06canmjcities",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2007-05-22T00:00:00Z",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Human settlements",
+    "location",
+    "point",
+    "major cities",
+    "cities",
+    "ville"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_issued_s": "2006-10-01",
+  "dct_temporal_sm": [
+    "2005",
+    "2001"
+  ],
+  "solr_geom": "ENVELOPE(-135.05242, -52.712675, 63.746693, 42.036503)",
+  "solr_year_i": 2005,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

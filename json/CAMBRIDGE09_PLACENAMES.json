@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-cambridge09-placenames",
+  "dc_title_s": "Place Name Feature Annotations, Cambridge, Massachusetts, 2007",
+  "dc_description_s": "This layer contains cartographically-placed points representing map text annotations for features and points of interest (parks, playgrounds, memorials, schools, squares, hospitals, municipal buildings, etc.) in Cambridge, Massachusetts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//CAMBRIDGE09_PLACENAMES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:CAMBRIDGE09_PLACENAMES",
+  "layer_slug_s": "harvard-cambridge09-placenames",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2010-06-21T00:00:00Z",
+  "dc_creator_sm": [
+    "Cambridge (Mass.). Geographic Information Systems"
+  ],
+  "dc_publisher_s": [
+    "City of Cambridge, GIS Dept."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Municipal",
+    "Names, Geographical",
+    "Labels",
+    "Cartography",
+    "location",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_issued_s": "2009",
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_geom": "ENVELOPE(-71.157774, -71.075708, 42.39808, 42.35354)",
+  "solr_year_i": 2007,
+  "harvard_collectionID_sm": [
+    "990125155600203941"
+  ]
+}

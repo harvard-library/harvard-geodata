@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnblkspy",
+  "dc_title_s": "Street Rights-of-Way (Blocks) - City of Newton",
+  "dc_description_s": "This data layer shows the street rights-of-way in Newton, Massachusetts. The features in this data layer come from the PARCELS data layer.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//NWTNBLKSPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:NWTNBLKSPY",
+  "layer_slug_s": "harvard-nwtnblkspy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-08T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "planningCadastre",
+    "transportation",
+    "Municipal",
+    "Streets",
+    "Roads",
+    "Transportation",
+    "Real property",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.270496, -71.156687, 42.368102, 42.282882)",
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

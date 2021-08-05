@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Brookline GIS, Information Technologies Department</origin>
+        <origin>University of Massachusetts at Amherst</origin>
+        <origin>U.S. Forest Service</origin>
+        <origin>Massachusetts Department of Environmental Management</origin>
+        <pubdate>1997</pubdate>
+        <title>Street Trees (Town of Brookline)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Brookline, Mass.</pubplace>
+          <publish>Brookline GIS, Information Technologies Department</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-brltrees</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Street Trees layer is a point coverage inventory of each street tree in the Town of Brookline. Attributes described include species, diameter, condition, management need, growing conditions, predominant root zone cover, presence of utility or power lines, location (on the street or in a park), etc.
+
+The Brookline Street Tree Inventory was initially conducted in 1994 as a cooperative project of the University of Massachusetts at Amherst, U.S. Forest Service, Massachusetts Department of Environmental Management, and the 
+Town of Brookline; other supporting organizations include the Harvard University Arnold Arboretum and the Brookline Green Space Alliance. The Town agencies involved in the project include the Conservation Commission, Tree Planting Committee, and the Department of Public Works. 
+
+This project, thought to be the first comprehensive municipal street tree inventory based on GIS, recruited and trained over 100 citizens to perform the inventory. Teams of volunteers were assigned areas of the town in which to locate each street tree on the Town's Assessor's Maps for digitizing at a later time by UMass/Amherst.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+The coverage provides information on tree cover and plantings for resource management, thematic mapping, asset management, property assessment, surveying and engineering projects, defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Since 1994 the tree inventory has been updated through the cooperative efforts from the Tree Planting Committee, the Park Department, students from the University of Massachusetts at Amherst and Brookline GIS Staff. The new plantings from 1995, 1996 and 1997 have been located and digitized into GIS.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1994</begdate>
+          <enddate>1997</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.175901</westbc>
+        <eastbc>-71.106432</eastbc>
+        <northbc>42.351642</northbc>
+        <southbc>42.294790</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Landscape</themekey>
+        <themekey>Trees</themekey>
+        <themekey>Vegetation</themekey>
+        <themekey>City planning</themekey>
+        <themekey>Urban land use</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Brookline</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational non-commercial use only. The Town of Brookline makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished by the Town, including the implied validity of any uses of such data</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Information Technologies Department</cntorg>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Town Hall, 3rd Floor</address>
+          <address>333 Washington Street</address>
+          <city>Brookline</city>
+          <state>MA</state>
+          <postal>02445</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-730-2005</cntvoice>
+        <cntfax>617-739-7571</cntfax>
+        <cntemail>feng_yang@town.brookline.ma.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by the Town of Brookline</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>None.</attraccr>
+    </attracc>
+    <logic>None.</logic>
+    <complete>None.</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Teams of volunteers were assigned areas of the town in which to locate each street tree on the Town's Assessor's Maps for digitizing at a later time by UMass/Amherst. 
+
+The field locations were correlated by overlaying them with aerial photographs. Each team also carried a Hunter Husky 16 data recorder, which was programmed in Basic to ask a series of standardized questions. Data on each tree was collected and the data was downloaded by UMass/Amherst into ArcInfo to create the street tree data layer. 
+
+Since 1994 the tree inventory has been updated through the cooperative efforts from the Tree Planting Committee, the Park Department, students from the University of Massachusetts at Amherst and Brookline GIS Staff. The new plantings from 1995, 1996 and 1997 have been located and digitized into GIS.</procdesc>
+        <procdate>1994-1997</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Information Technologies Department</cntorg>
+            </cntorgp>
+            <cntpos>GIS Manager</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Town Hall, 3rd Floor</address>
+              <address>333 Washington Street</address>
+              <city>Brookline</city>
+              <state>MA</state>
+              <postal>02445</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-730-2005</cntvoice>
+            <cntfax>617-739-7571</cntfax>
+            <cntemail>feng_yang@town.brookline.ma.us</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Dataset copied and  imported to an ArcSDE Layer.</procdesc>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>10791</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Street Trees</enttypl>
+        <enttypd>ESRI Shapefile. Points show tree locations.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>BRLTREES.AREA</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>Value will always be zero.</attrva>
+          <attrvae>Point features have no area.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>STRTREES_</attrlabl>
+        <attrdef>Internal Feature Identifier.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STRTREES_I</attrlabl>
+        <attrdef>Internal Feature Identifier.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TREEID</attrlabl>
+        <attrdef>Feature Identifier.</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWNID</attrlabl>
+        <attrdef>Town Code</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SPECIE</attrlabl>
+        <attrdef>2-digit tree species code</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AA</edomv>
+            <edomvd>Ailanthus altissima or Ailanthus</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AC</edomv>
+            <edomvd>Amelanchier canadensis or Shadblow Serviceberry</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AH</edomv>
+            <edomvd>Aesculus hippocastanum or Horsechestnut</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AM</edomv>
+            <edomvd>Acer saccharum or Sugar Maple</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AP</edomv>
+            <edomvd>Acer platanoides or Norway Maple</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AR</edomv>
+            <edomvd>Acer rubrum or Red Maple</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>AS</edomv>
+            <edomvd>Acer saccharinum or Silver Maple</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BP</edomv>
+            <edomvd>Betula populifolia or Grey Birch</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>BY</edomv>
+            <edomvd>Betula papyrifera or Paper Birch</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CF</edomv>
+            <edomvd>Cornus florida or Flowering Dogwood</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CJ</edomv>
+            <edomvd>Cercidiphyllum japonicum or Katsuratree</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CK</edomv>
+            <edomvd>Cornus kousa or Kousa Dogwood</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CL</edomv>
+            <edomvd>Crataegus laevigata or English Hawthorn</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CP</edomv>
+            <edomvd>Crataegus phaenopyrum or Washington Hawthorn</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>CS</edomv>
+            <edomvd>Catalpa speciosa or Northern Catalpa</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>FA</edomv>
+            <edomvd>Fraxinus americana or White Ash</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>FG</edomv>
+            <edomvd>Fagus grandifolia or American Beech</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>FP</edomv>
+            <edomvd>Fraxinus pennsylvanica or Green Ash</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>FS</edomv>
+            <edomvd>Fagus sylvatica or European Beech</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>GB</edomv>
+            <edomvd>Ginkgo biloba or Ginkgo</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>GT</edomv>
+            <edomvd>Gleditsia triacanthos or Honeylocust</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>LT</edomv>
+            <edomvd>Liriodendron tulipifera or Tuliptree</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ML</edomv>
+            <edomvd>Malus x or Flowering Crabapple</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>OA</edomv>
+            <edomvd>Oxydendrum arboreum or Sourwood</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PA</edomv>
+            <edomvd>Platanus x acerifolia or London Planetree</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PB</edomv>
+            <edomvd>Picea abies or Norway Spruce</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PC</edomv>
+            <edomvd>Pyrus calleryana or Callery Pear</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PG</edomv>
+            <edomvd>Picea glauca or White Spruce</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PN</edomv>
+            <edomvd>Pinus nigra or Austrian Pine</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PO</edomv>
+            <edomvd>Platanus occidentalis or Sycamore</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PP</edomv>
+            <edomvd>Picea pungens or Colorado Blue Spruce</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PR</edomv>
+            <edomvd>Pinus resinosa or Red Pine</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>PS</edomv>
+            <edomvd>Pinus strobus, or Eastern White Pine</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>QA</edomv>
+            <edomvd>Quercus alba, or White Oak</edomvd>
+            <edomvds>King County GIS Center</edomvds>
+          </edom>
+          <edom>
+            <edomv>QP</edomv>
+            <edomvd>Quercus palustris, or Pin Oak</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>QR</edomv>
+            <edomvd>Quercus rubra, or Red Oak</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>QV</edomv>
+            <edomvd>Quercus velutina, or Black Oak</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>SB</edomv>
+            <edomvd>Salix babylonica, or Weeping Willow</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TA</edomv>
+            <edomvd>Tilia americana, or American Linden</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TC</edomv>
+            <edomvd>Tilia cordata, or Littleleaf Linden</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TD</edomv>
+            <edomvd>Tsuga canadensis, or Canada Hemlock</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>TO</edomv>
+            <edomvd>Thuja occidentalis, American Arborvitae</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>UA</edomv>
+            <edomvd>Ulmus americana, or American Elm</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>UP</edomv>
+            <edomvd>Ulmus pumila, or Siberian Elm</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZS</edomv>
+            <edomvd>Zelkova serrata, or Japanese Zelkova</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DBH</attrlabl>
+        <attrdef>Diameter at Breast Height (in inches)</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>inches</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COND</attrlabl>
+        <attrdef>Present tree condition code</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>G</edomv>
+            <edomvd>Good</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Fair</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Poor</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>Hazardous</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>D</edomv>
+            <edomvd>Dead</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>[Blank]</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COND_DESC</attrlabl>
+        <attrdef>Present tree condition text</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrvai>
+          <attrvae>Text matches COND attribute value definition.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>ROOT</attrlabl>
+        <attrdef>Predominant root zone cover</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>A</edomv>
+            <edomvd>Asphalt</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>G</edomv>
+            <edomvd>Grass/groundcover</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>Concrete</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IMPERV</attrlabl>
+        <attrdef>Percentage of impervious material over root zone</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>0%</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>1-33%</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>34-66%</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>67-100%</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CROTCH</attrlabl>
+        <attrdef>Weak crotch</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UTIL</attrlabl>
+        <attrdef>Utility lines</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WIRE</attrlabl>
+        <attrdef>Overhead wires</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DWOOD</attrlabl>
+        <attrdef>Dead wood in crown</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CAVITY</attrlabl>
+        <attrdef>Tree contains cavity in trunk or main leader</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HIST</attrlabl>
+        <attrdef>Unknown and no longer used attribute</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STREET</attrlabl>
+        <attrdef>Street tree</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PARK</attrlabl>
+        <attrdef>Park tree</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MGMT</attrlabl>
+        <attrdef>Management need</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Pruning</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>R</edomv>
+            <edomvd>Tree needs to be removed</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>Consult by Town Arborist</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>None</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PRUNE</attrlabl>
+        <attrdef>Needs pruning</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes, tree needs pruning</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No, tree does not need pruning</edomvd>
+            <edomvds>Brookline GIS</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMTYPE</attrlabl>
+        <attrdef>Common type of tree</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMMNAME</attrlabl>
+        <attrdef>Common name of tree</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute defines the vector data as either a point, polyline, or polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Point</edomv>
+            <edomvd>A point represents a single location, usually identified by longitude-latitude, on the earth's surface.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Library</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+      <ordering>Web based distribution only.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20070410</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

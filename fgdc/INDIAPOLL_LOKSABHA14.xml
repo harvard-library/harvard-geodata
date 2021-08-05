@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML InfoMap (Firm)</origin>
+        <origin>Election Commission of India</origin>
+        <pubdate>2008</pubdate>
+        <title>India : Lok Sabha (14th) Constituency Boundaries and Election Data, 2004-</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>New Delhi</pubplace>
+          <publish>ML InfoMap Pvt. Ltd.</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-indiapoll-loksabha14</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer shows India Lok Sabha constituency boundaries and data relating to parliamentary elections for the Fourteenth Lok Sabha (2004-).  Includes attribute data on election parties, voters, candidate names, and results.
+
+This layer is part of the PollMap of India dataset published by ML InfoMap which includes parliamentary constituency boundaries for India, Assembly constituency boundaries for all states, and data relating to the past four national elections for each State of India.  This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. Scale 1:1,000,000.</abstract>
+      <purpose>This data can be used for election analysis, forecasting, and mapping: Enables profiling of individual constituencies, permits historical analysis of the data, and helps predictive estimate of the impact of regional and state-wise electorate swings on the performance of political parties.   
+
+These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2004</begdate>
+          <enddate>unknown</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>68.196831</westbc>
+        <eastbc>97.409096</eastbc>
+        <northbc>37.121712</northbc>
+        <southbc>6.767454</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Administrative and political divisions</themekey>
+        <themekey>Boundaries</themekey>
+        <themekey>Lok Sabha</themekey>
+        <themekey>Parliament</themekey>
+        <themekey>Elections</themekey>
+        <themekey>Election districts</themekey>
+        <themekey>Voting</themekey>
+        <themekey>Political parties</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>GNS (NIMA)</placekt>
+        <placekey>India</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to Harvard University Affiliates only. Affiliates are limited to current faculty, staff and students.</accconst>
+    <useconst>For educational non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ML InfoMap</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>124 - A Katwaria Sarai</address>
+          <city>New Delhi</city>
+          <postal>110 016</postal>
+          <country>India</country>
+        </cntaddr>
+        <cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+        <cntfax>+ 91 - 11 - 4168 8593</cntfax>
+        <cntemail>post@mlinfomap.com</cntemail>
+        <cntinst>www.mlinfomap.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>ArcCatalog 9.2 service pack 5</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Unknown</attraccr>
+    </attracc>
+    <logic>Unknown</logic>
+    <complete>Unknown</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Unknown</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>ML InfoMap (Firm)</origin>
+            <pubdate>2008</pubdate>
+            <title>PollMap</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>New Delhi</pubplace>
+              <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+            <othercit>IndiaMap includes socio-demographic and economic Census data for 2001 at the State, District, Sub-District, and Town levels.</othercit>
+            <lworkcit>
+              <citeinfo>
+                <origin>ML InfoMap (Firm)</origin>
+                <pubdate>2008</pubdate>
+                <title>India GIS data in ESRI SHP format</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                  <pubplace>New Delhi</pubplace>
+                  <publish>ML InfoMap Pvt. Ltd.</publish>
+                </pubinfo>
+                <othercit>1 computer optical disc ; 4 3/4 in.</othercit>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>Unknown</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2001</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>PollMap</srccitea>
+        <srccontr>Dataset source</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data was downloaded from the vendor's server as shape files with ZIP compression.  The files were uncompressed using WinZip and loaded into SDE using ArcCatalog 9.2 service pack 5.</procdesc>
+        <srcused>PollMap</srcused>
+        <procdate>200805</procdate>
+        <srcprod>SDE</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Map Collection</cntorg>
+            </cntorgp>
+            <cntpos>GIS Coordinator</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Pusey Library</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntemail>maps@harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>690</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>INDIAPOLL_LOKSABHA14</enttypl>
+        <enttypd>14th Lok Sabha Election of India</enttypd>
+        <enttypds>ML Infomap</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOKSAB14_I</attrlabl>
+        <attrdef>Unique Identification Number</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Constituency name</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CATEGORY</attrlabl>
+        <attrdef>Whether the Constituency belongs to SC (Scheduled Caste)/ ST (Schedule Tribe) or General</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE_UT</attrlabl>
+        <attrdef>State or Union Territory</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ELCT_14</attrlabl>
+        <attrdef>Male electorates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ELCT_14</attrlabl>
+        <attrdef>Female electorates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ELC_14</attrlabl>
+        <attrdef>Total electorates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_VOT_14</attrlabl>
+        <attrdef>Male votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_VOT_14</attrlabl>
+        <attrdef>Female votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VOT_14</attrlabl>
+        <attrdef>Total votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_V_PLD_14</attrlabl>
+        <attrdef>Percentage votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VLD_VT_14</attrlabl>
+        <attrdef>Valid votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>N_P_ST_14</attrlabl>
+        <attrdef>Number of polling stations during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AV_E_PS_14</attrlabl>
+        <attrdef>Average of Electronic polling station during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POL_DT_14</attrlabl>
+        <attrdef>Polling date of the 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COU_DT_14</attrlabl>
+        <attrdef>Counting date of the 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEC_DT_14</attrlabl>
+        <attrdef>Result declaration date of the 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>WN_CND_14</attrlabl>
+        <attrdef>Winner candidate name during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WN_PRT_14</attrlabl>
+        <attrdef>Winner party name during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AGP</edomv>
+            <edomvd>ASOM GANA PARISHAD</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>AIFB</edomv>
+            <edomvd>ALL INDIA FORWARD BLOC</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>AIMIM</edomv>
+            <edomvd>ALL INDIA MAJLIST-E-ITTEHADUL MUSLIMEEN</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>AITC</edomv>
+            <edomvd>ALL INDIA TRINAMOOL CONGRESS</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJD</edomv>
+            <edomvd>BIJU JANATA DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>BNP</edomv>
+            <edomvd>BHARATIYA NAVSHAKTI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BSP</edomv>
+            <edomvd>BAHUJAN SAMAJ PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPM</edomv>
+            <edomvd>COMMUNIST PARTY (MARXIST)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>DMK</edomv>
+            <edomvd>DRAVIDA MUNNETRA KAZHAGAM</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom><edomv>IFDP</edomv><edomvd/>
+            INDIAN FEDERAL DEMOCRATIC PARTY
+            <edomvds>Election Commission of India</edomvds></edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(S)</edomv>
+            <edomvd>JANATA DAL (SAMAJWADI)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(U)</edomv>
+            <edomvd>JANATA DAL (UNITED)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKN</edomv>
+            <edomvd>JAMMU AND KASHMIR NATIONAL CONFERENCE</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKPDP</edomv>
+            <edomvd>JAMMU &amp; KASHMIR PEOPLES DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JMM</edomv>
+            <edomvd>JHARKHAND MUKTI MORCHA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>KEC</edomv>
+            <edomvd>KERALA CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>LJNSP</edomv>
+            <edomvd>LOK JAN SHAKTI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>MDMK</edomv>
+            <edomvd>MURUMOLARCHI DRAVIDA MUNNETRA KAZHGAM</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>MNF</edomv>
+            <edomvd>MIZO NATIONAL FRONT</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>MUL</edomv>
+            <edomvd>MUSLIM LEAGUE</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>NCP</edomv>
+            <edomvd>NATIONALIST CONGRESS PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>NLP</edomv>
+            <edomvd>NATIONAL LOKTANTRIK PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>NPF</edomv>
+            <edomvd>NAGALAND DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PMK</edomv>
+            <edomvd>PATTALI MAKKAL KATCHI</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>RJD</edomv>
+            <edomvd>RASHTRIYA JANATA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>RLD</edomv>
+            <edomvd>RASHTRIYA LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RPI(A)</edomv>
+            <edomvd>REBUPLICAN PARTY OF INDIA (A)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSP</edomv>
+            <edomvd>REVOLUTIONARY SOCIALIST PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SAD</edomv>
+            <edomvd>SHIROMANI AKALI DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SDF</edomv>
+            <edomvd>SIKKIM DEMOCRATIC FRONT</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHS</edomv>
+            <edomvd>SHIVSENA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SJP(R)</edomv>
+            <edomvd>SAMAJWADI JANATA PARTY (RASHTRIYA)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SP</edomv>
+            <edomvd>SARVODAYA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>TDP</edomv>
+            <edomvd>TELUGU DESAM</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>TRS</edomv>
+            <edomvd>TELANGANA RASHTRA SAMITHI</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>W_PT_VT_14</attrlabl>
+        <attrdef>Winner votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_WN_VT_14</attrlabl>
+        <attrdef>Percentage winner party votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SND_CND_14</attrlabl>
+        <attrdef>Name of the candidate who appeared second during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SND_PRT_14</attrlabl>
+        <attrdef>Second party during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AC</edomv>
+            <edomvd>ARUNACHAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>ADMK</edomv>
+            <edomvd>ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>AGP</edomv>
+            <edomvd>ASOM GANA PARISHAD</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>AITC</edomv>
+            <edomvd>ALL INDIA TRINAMOOL CONGRESS</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>ASDC</edomv>
+            <edomvd>AUTONOMOUS STATE DEMAND COMMITTEE</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJD</edomv>
+            <edomvd>BIJU JANATA DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>BSP</edomv>
+            <edomvd>BAHUJAN SAMAJ PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI(ML)(L)</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA (MARXIST-LENINST) (LIBERATION)</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPM</edomv>
+            <edomvd>COMMUNIST PARTY (MARXIST)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>GGP</edomv>
+            <edomvd>GONDVANA GANTANTRA PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>HVP</edomv>
+            <edomvd>HARYANA VIKAS PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>INLD</edomv>
+            <edomvd>INDIAN NATIONAL LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(S)</edomv>
+            <edomvd>JANATA DAL (SAMAJWADI)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(U)</edomv>
+            <edomvd>JANATA DAL (UNITED)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKN</edomv>
+            <edomvd>JAMMU AND KASHMIR NATIONAL CONFERENCE</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKPDP</edomv>
+            <edomvd>JAMMU &amp; KASHMIR PEOPLES DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JMM</edomv>
+            <edomvd>JHARKHAND MUKTI MORCHA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>JP</edomv>
+            <edomvd>JANATA PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>LJNSP</edomv>
+            <edomvd>LOK JAN SHAKTI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>MUL</edomv>
+            <edomvd>MUSLIM LEAGUE</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>NCP</edomv>
+            <edomvd>NATIONALIST CONGRESS PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>PRBP</edomv>
+            <edomvd>PEOPLES REPUBLICAN PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PWPI</edomv>
+            <edomvd>PEASANTS AND WORKERS PARTY OF INDIA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RJD</edomv>
+            <edomvd>RASHTRIYA JANATA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>RLD</edomv>
+            <edomvd>RASHTRIYA LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSP</edomv>
+            <edomvd>REVOLUTIONARY SOCIALIST PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SAD</edomv>
+            <edomvd>SHIROMANI AKALI DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHS</edomv>
+            <edomvd>SHIVSENA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SP</edomv>
+            <edomvd>SARVODAYA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>TDP</edomv>
+            <edomvd>TELUGU DESAM</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>S_PT_VT_14</attrlabl>
+        <attrdef>Second party votes polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_SN_VT_14</attrlabl>
+        <attrdef>Percentage second party votes during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRG_1_2_14</attrlabl>
+        <attrdef>Vote margin between the first and the second candidates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_M_1_2_14</attrlabl>
+        <attrdef>Percentage of vote margin between the first and the second candidates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TRD_CND_14</attrlabl>
+        <attrdef>Name of the third party candidate during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRD_PRT_14</attrlabl>
+        <attrdef>Third party during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ABHM</edomv>
+            <edomvd>AKHIL BHARAT HINDU MAHASABHA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>AD</edomv>
+            <edomvd>APNA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>AGP</edomv>
+            <edomvd>ASOM GANA PARISHAD</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>AIMIM</edomv>
+            <edomvd>ALL INDIA MAJLIST-E-ITTEHADUL MUSLIMEEN</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>AITC</edomv>
+            <edomvd>ALL INDIA TRINAMOOL CONGRESS</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>AJSU</edomv>
+            <edomvd>ALL JHARKHAND STUDENTS UNION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BBM</edomv>
+            <edomvd>BHARIPA BAHUJAN MAHASANGHA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>BNP</edomv>
+            <edomvd>BHARATIYA NAVSHAKTI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BPSP</edomv>
+            <edomvd>BIHAR PEOPLE'S PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BRP</edomv>
+            <edomvd>BHARATIYA REPUBLICAN PAKSHA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>BSP</edomv>
+            <edomvd>BAHUJAN SAMAJ PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI(ML)(L)</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA (MARXIST-LENINST) (LIBERATION)</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPM</edomv>
+            <edomvd>COMMUNIST PARTY (MARXIST)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>EU</edomv>
+            <edomvd>EPHRAIM UNION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>FPM</edomv>
+            <edomvd>FEDERAL PARTY OF MANIPUR</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>GGP</edomv>
+            <edomvd>GONDVANA GANTANTRA PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>INLD</edomv>
+            <edomvd>INDIAN NATIONAL LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(S)</edomv>
+            <edomvd>JANATA DAL (SAMAJWADI)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(U)</edomv>
+            <edomvd>JANATA DAL (UNITED)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKN</edomv>
+            <edomvd>JAMMU AND KASHMIR NATIONAL CONFERENCE</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKP</edomv>
+            <edomvd>JHARKHAND PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKP(N)</edomv>
+            <edomvd>JHARKHAND PARTY (NAREN)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JP</edomv>
+            <edomvd>JANATA PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>KEC(M)</edomv>
+            <edomvd>KERALA CONGRESS (M)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>LBP</edomv>
+            <edomvd>LOK BHALAI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>LJNSP</edomv>
+            <edomvd>LOK JAN SHAKTI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>LRP</edomv>
+            <edomvd>LOK RAJYA PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>MCO</edomv>
+            <edomvd>MARXIST CO-ORDINATION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>NCP</edomv>
+            <edomvd>NATIONALIST CONGRESS PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDS</edomv>
+            <edomvd>PARTY FOR DEMOCRATIC SOCIALISM</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PPOI</edomv>
+            <edomvd>PYRAMID PARTY OF INDIA</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>PRBP</edomv>
+            <edomvd>PEOPLES REPUBLICAN PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PWPI</edomv>
+            <edomvd>PEASANTS AND WORKERS PARTY OF INDIA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RJD</edomv>
+            <edomvd>RASHTRIYA JANATA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>RLD</edomv>
+            <edomvd>RASHTRIYA LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RPD</edomv>
+            <edomvd>RASHTRIYA PARIVARTAN DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RPI</edomv>
+            <edomvd>REPUBLICAN PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSMD</edomv>
+            <edomvd>RASHTRIYA SAMANTA DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSP</edomv>
+            <edomvd>REVOLUTIONARY SOCIALIST PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSPS</edomv>
+            <edomvd>RASHTRIYA SAMAJ PAKSHA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SAD(M)</edomv>
+            <edomvd>SHIROMANI AKALI DAL (SIMARANJIT SINGH MANN)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHS</edomv>
+            <edomvd>SHIVSENA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SMSP</edomv>
+            <edomvd>SAMATA SAMAJ PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SP</edomv>
+            <edomvd>SARVODAYA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SPVD</edomv>
+            <edomvd>SAMPURNA VIKAS DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SSP</edomv>
+            <edomvd>SIKKIM SANGRAM PARISHAD</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>TRS</edomv>
+            <edomvd>TELANGANA RASHTRA SAMITHI</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>UGDP</edomv>
+            <edomvd>UNITED GOANS DEMOCRATIC PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>UKKD</edomv>
+            <edomvd>UTTARAKHAND KRANTI DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>T_PT_VT_14</attrlabl>
+        <attrdef>Third party vote during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_TD_VT_14</attrlabl>
+        <attrdef>Percentage third party vote polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRG_1_3_14</attrlabl>
+        <attrdef>Vote margin between the first and the third candidates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_M_1_3_14</attrlabl>
+        <attrdef>Percentage of vote margin between the first and the third candidates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FRT_CND_14</attrlabl>
+        <attrdef>Name of the fourth party candidate during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <udom>Text.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FRT_PRT_14</attrlabl>
+        <attrdef>Fourth party during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AD</edomv>
+            <edomvd>APNA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>AGP</edomv>
+            <edomvd>ASOM GANA PARISHAD</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>AJSU</edomv>
+            <edomvd>ALL JHARKHAND STUDENTS UNION</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BBM</edomv>
+            <edomvd>BHARIPA BAHUJAN MAHASANGHA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BJP</edomv>
+            <edomvd>BHARATIYA JANATA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>BMVP</edomv>
+            <edomvd>BHARATIYA MANAVATA VIKAS PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>BSP</edomv>
+            <edomvd>BAHUJAN SAMAJ PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPI(ML)(L)</edomv>
+            <edomvd>COMMUNIST PARTY OF INDIA (MARXIST-LENINST) (LIBERATION)</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>CPM</edomv>
+            <edomvd>COMMUNIST PARTY (MARXIST)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>ES</edomv>
+            <edomvd>EKTA SHAKTI</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>GGP</edomv>
+            <edomvd>GONDVANA GANTANTRA PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>HVP</edomv>
+            <edomvd>HARYANA VIKAS PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>INC</edomv>
+            <edomvd>INDIAN NATIONAL CONGRESS</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>IND</edomv>
+            <edomvd>INDEPENDENT</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>INLD</edomv>
+            <edomvd>INDIAN NATIONAL LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JD(U)</edomv>
+            <edomvd>JANATA DAL (UNITED)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JDP</edomv>
+            <edomvd>JHARKHAND DISON PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JKNPP</edomv>
+            <edomvd>JAMMU AND KASHMIR NATIONAL PANTHERS PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>JMM</edomv>
+            <edomvd>JHARKHAND MUKTI MORCHA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>JP</edomv>
+            <edomvd>JANATA PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>KNDP</edomv>
+            <edomvd>KANNADA NADU PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>KSVP</edomv>
+            <edomvd>KRANTIKARI SAMYAVADI PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>KVSP</edomv>
+            <edomvd>KOSI VIKAS PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>LPI(V)</edomv>
+            <edomvd>LABROUR PARTY OF INDIA (V.V. Prasad)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>MAG</edomv>
+            <edomvd>MAHARASHTRAWADI GOMANTAK</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>MBT</edomv>
+            <edomvd>MAJLIS BACHAO TAHREEK</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>MPP</edomv>
+            <edomvd>MAHABHARAT PEOPLE'S PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>NCP</edomv>
+            <edomvd>NATIONALIST CONGRESS PARTY</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>NLP</edomv>
+            <edomvd>NATIONAL LOKTANTRIK PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>NPF</edomv>
+            <edomvd>NAGALAND DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDP</edomv>
+            <edomvd>PEOPLES DEMOCRATIC PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PDS</edomv>
+            <edomvd>PARTY FOR DEMOCRATIC SOCIALISM</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>PPOI</edomv>
+            <edomvd>PYRAMID PARTY OF INDIA</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>RJD</edomv>
+            <edomvd>RASHTRIYA JANATA DAL</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>RLD</edomv>
+            <edomvd>RASHTRIYA LOK DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RPI</edomv>
+            <edomvd>REPUBLICAN PARTY OF INDIA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSBP</edomv>
+            <edomvd>RASHTRIYA SWABHIMAAN PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSMD</edomv>
+            <edomvd>RASHTRIYA SAMANTA DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSPS</edomv>
+            <edomvd>RASHTRIYA SAMAJ PAKSHA</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SAD(M)</edomv>
+            <edomvd>SHIROMANI AKALI DAL (SIMARANJIT SINGH MANN)</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SAP</edomv>
+            <edomvd>SAMATA PARTY</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>SBSP</edomv>
+            <edomvd>SUHELDEV BHARTIYA SAMAJ PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHRP</edomv>
+            <edomvd>SIKKIM HIMALI RAJYA PARISHAD</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SHS</edomv>
+            <edomvd>SHIVSENA</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>SJP(R)</edomv>
+            <edomvd>SAMAJWADI JANATA PARTY (RASHTRIYA)</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SMSP</edomv>
+            <edomvd>SAMATA SAMAJ PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>SP</edomv>
+            <edomvd>SARVODAYA PARTY</edomvd>
+            <edomvds>ML InfoMap</edomvds>
+          </edom>
+          <edom>
+            <edomv>TDK</edomv>
+            <edomvd>TAMIL DESIYAK KATCHI</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>TNGP</edomv>
+            <edomvd>TRINAMOOL GANA PARISHAD</edomvd>
+            <edomvds>indian-elections.com</edomvds>
+          </edom>
+          <edom>
+            <edomv>TRS</edomv>
+            <edomvd>TELANGANA RASHTRA SAMITHI</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>UKKD</edomv>
+            <edomvd>UTTARAKHAND KRANTI DAL</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+          <edom>
+            <edomv>UMFA</edomv>
+            <edomvd>UNITED MINORITIES FRONT ASSAM</edomvd>
+            <edomvds>Government of India, Press Information Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>YSP</edomv>
+            <edomvd>YOUTH AND STUDENTS PARTY</edomvd>
+            <edomvds>Election Commission of India</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>F_PT_VT_14</attrlabl>
+        <attrdef>Fourth party vote during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRG_1_4_14</attrlabl>
+        <attrdef>Vote margin between the first and the fourth candidates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_M_1_4_14</attrlabl>
+        <attrdef>Percentage of vote margin between the first and the fourth candidates during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>P_F_VT_14</attrlabl>
+        <attrdef>Percentage fourth party vote polled during 14th Lok Sabha election</attrdef>
+        <attrdefs>ML Infomap</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Area of feature in square coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Length of arc in coverage units</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20080804</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

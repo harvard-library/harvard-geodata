@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-arccensus9",
+  "dc_title_s": "Atlanta Regional Commission 1990 Census Tracts",
+  "dc_description_s": "This polygon datalayer depicts 1990 census tract level boundaries with associated census attribute data for the Atlanta Regional Commission's (ARC) 10-county region. Data displayed here was derived from the US Census Bureau 1990 TIGER files. ARC documentation states that: 'Please note, a limited number of 'sliver' tracts were merged with other tracts resulting in a total of 417 census tracts for the Atlanta Region. The Census Bureau published data for 424 tracts including tracts 239.98, 316.97, 316.98, 508.98, 807.97, 807.98 and 912.98. These additional seven tracts resulted from the correction of pre-census mapping errors and fall below the Census Bureau's minimum size standards. Consequently, ARC has incorporated these non-standard tracts into adjacent tracts: 239.98 into 234.05; 316.97 into 313.04; 316.98 into 301.98; 508.98 into 504.06; 807.97 into 801.98; 807.98 into 803.00; and 912.98 into 911.03. Also, due to the fact that the Census Bureau reused the 1980 census tract 303.02 erroneously, ARC instead uses the number 303.08 to correctly refer to this tract and to emphasize that it is a new census tract with no geography in common with 1980 census tract 303.02. In terms of attributes for ARC's 417 census tracts, a number of variables have been extracted from the Census Bureau's Summary Tape Files (STF) for this Theme. In addition, selected demographic data has been included by ARC's Research Division through their annual work on employment and population estimates and forecasts. ARC is the source for all the employment data associated with this theme. The source for population, households, and housing unit data is either the Census Bureau or ARC; source by variable is noted in the variable definitions below. It should be clearly noted that the 2000 population and housing unit estimates appearing in this database file are the result of ARC estimates; they are not 2000 Census counts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc//ARCCENSUS9.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\",}",
+  "layer_id_s": "vector_restricted:ARCCENSUS9",
+  "layer_slug_s": "harvard-arccensus9",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2005-08-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Atlanta Regional Commission (ARC)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "society",
+    "Municipal",
+    "Boundaries",
+    "Census",
+    "Census districts",
+    "Demography"
+  ],
+  "dct_spatial_sm": [
+    "Atlanta",
+    "Georgia (United States)"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "solr_geom": "ENVELOPE(-84.911057, -83.798904, 34.41259, 33.256512)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990091531490203941"
+  ]
+}
