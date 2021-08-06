@@ -4,10 +4,10 @@
   "dc_title_s": "ESRI Cities Geodata Set",
   "dc_description_s": "World Cities contains locations of major cities around the world. The cities include national capitals for each of the countries in World Countries 1998 as well as major population centers and landmark cities. World Cities was derived from ESRI's ArcWorld database and supplemented with other data from the Rand McNally New International Atlas",
   "dc_rights_s": "Restricted",
-  "dct_provenance_s": "",
+  "dct_provenance_s": "Harvard",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_restricted:ESRICITIES",
-  "layer_slug_s": "-",
+  "layer_slug_s": "harvard-esricities",
   "layer_geom_type_s": "Point",
   "layer_modified_dt": "2001-05-09T00:00:00Z",
   "dc_creator_sm": [
