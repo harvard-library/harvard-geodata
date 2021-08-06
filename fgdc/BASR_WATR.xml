@@ -11,11 +11,8 @@
       </citeinfo>
     </citation>
     <descript>
-      <abstract>This polygon layer depicts water features in and around Basra, the chief shipping port located in southeastern Iraq. The principal feature depicted here is the Shatt al Arab, a tidal river, 120 mi (193 km) long, formed by the confluence of the Tigris and Euphrates rivers, which flows SE to the Persian Gulf, and forms part of the Iraq-Iran border. The Karun river is its chief tributary. 
-
-The Shatt al Arab once flowed through a broad, swampy delta, but the marshlands of southeastern Iraq were drained in the early 1990s in order to increase government control over the Arab Shiites (Marsh Arabs) who lived there. Restoration of the marshlands began in 2003, following the invasion of Iraq by Anglo-American forces.</abstract>
-      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.
-The dataset originator (LeadDog Consulting, LLC.) states that their product is designed, "...for the vehicle tracking and routing industry. Designed to help post-war companies track their assets."</purpose>
+      <abstract>This polygon layer depicts water features in and around Basra, the chief shipping port located in southeastern Iraq. The principal feature depicted here is the Shatt al Arab, a tidal river, 120 mi (193 km) long, formed by the confluence of the Tigris and Euphrates rivers, which flows SE to the Persian Gulf, and forms part of the Iraq-Iran border. The Karun river is its chief tributary. The Shatt al Arab once flowed through a broad, swampy delta, but the marshlands of southeastern Iraq were drained in the early 1990s in order to increase government control over the Arab Shiites (Marsh Arabs) who lived there. Restoration of the marshlands began in 2003, following the invasion of Iraq by Anglo-American forces.</abstract>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.The dataset originator (LeadDog Consulting, LLC.) states that their product is designed, "...for the vehicle tracking and routing industry. Designed to help post-war companies track their assets."</purpose>
     </descript>
     <timeperd>
       <timeinfo>
@@ -29,6 +26,14 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
       <progress>Complete</progress>
       <update>Unknown</update>
     </status>
+    <spdom>
+      <bounding>
+        <westbc>47.696530</westbc>
+        <eastbc>47.873575</eastbc>
+        <northbc>30.583545</northbc>
+        <southbc>30.347524</southbc>
+      </bounding>
+    </spdom>
     <keywords>
       <theme>
         <themekt>ISO 19115 Topic Category</themekt>
@@ -72,9 +77,6 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
       </cntinfo>
     </ptcontac>
     <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
-    <spdom>
-      <bounding/>
-    </spdom>
   </idinfo>
   <dataqual>
     <lineage>
@@ -84,7 +86,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
             <title>United States and Russian military maps.</title>
           </citeinfo>
         </srccite>
-        <srcscale>40,000</srcscale>
+        <srcscale>40000</srcscale>
         <typesrc>paper</typesrc>
         <srctime>
           <srccurr>Unknown  (pre-2003)</srccurr>
@@ -98,7 +100,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
             <title>United States and Russian military maps</title>
           </citeinfo>
         </srccite>
-        <srcscale>25,000</srcscale>
+        <srcscale>25000</srcscale>
         <typesrc>paper</typesrc>
         <srctime>
           <srccurr>Unknown (pre-2003)</srccurr>
@@ -159,7 +161,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
   <spdoinfo>
     <direct>Vector</direct>
     <ptvctinf>
-      <sdtsterm Name="TIM.BASR_WATR">
+      <sdtsterm>
         <sdtstype>G-polygon</sdtstype>
         <ptvctcnt>16</ptvctcnt>
       </sdtsterm>
@@ -168,13 +170,64 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
   <spref>
     <horizsys>
       <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
         <geogunit>Decimal degrees</geogunit>
       </geograph>
       <geodetic>
         <horizdn>WGS84</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
       </geodetic>
     </horizsys>
   </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Basra Water Features</enttypl>
+        <enttypd>Polygons represent water features</enttypd>
+        <enttypds>HGL</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>Unique Feature Identifier</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Feature Name</attrdef>
+        <attrdefs>Lead Dog</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_LEN</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
   <distinfo>
     <distrib>
       <cntinfo>
@@ -204,6 +257,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
         <digtinfo>
           <formname>Shapefile</formname>
           <filedec>Zip</filedec>
+          <transize>0.041</transize>
         </digtinfo>
       </digform>
       <fees>None</fees>
@@ -237,54 +291,5 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
     <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
     <metstdv>FGDC-STD-001-1998</metstdv>
     <mettc>local time</mettc>
-    <metextns>
-      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-      <metprof>ESRI Metadata Profile</metprof>
-    </metextns>
   </metainfo>
-  <eainfo>
-    <detailed Name="TIM.BASR_WATR">
-      <enttyp>
-        <enttypl>Basra Water Features</enttypl>
-        <enttypd>Polygons represent water features</enttypd>
-        <enttypds>HGL</enttypds>
-      </enttyp>
-      <attr>
-        <attrlabl>ID</attrlabl>
-        <attrdef>Unique Feature Identifier</attrdef>
-        <attrdefs>LeadDog</attrdefs>
-      </attr>
-      <attr>
-        <attrlabl>NAME</attrlabl>
-        <attrdef>Feature Name</attrdef>
-        <attrdefs>Lead Dog</attrdefs>
-      </attr>
-      <attr>
-        <attrlabl>SHAPE</attrlabl>
-        <attrdef>Feature geometry.</attrdef>
-        <attrdefs>ESRI</attrdefs>
-        <attrdomv>
-          <udom>Coordinates defining the features.</udom>
-        </attrdomv>
-      </attr>
-      <attr>
-        <attrlabl>SHAPE.AREA</attrlabl>
-        <attrdef>Feature area measured in square coverage units</attrdef>
-        <attrdefs>Computed</attrdefs>
-      </attr>
-      <attr>
-        <attrlabl>SHAPE.LEN</attrlabl>
-        <attrdef>Feature polyline length measured in coverage units</attrdef>
-        <attrdefs>Computed</attrdefs>
-      </attr>
-      <attr>
-        <attrlabl>SHAPE.FID</attrlabl>
-        <attrdef>Internal feature number.</attrdef>
-        <attrdefs>ESRI</attrdefs>
-        <attrdomv>
-          <udom>Sequential unique whole numbers that are automatically generated.</udom>
-        </attrdomv>
-      </attr>
-    </detailed>
-  </eainfo>
 </metadata>

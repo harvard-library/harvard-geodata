@@ -5,7 +5,7 @@
   "dc_description_s": "This point layer depicts named neighborhood locations throughout Baghdad, the capital city of Iraq.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BAGH_NBRHD.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BAGH_NBRHD.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
   "layer_id_s": "vector_restricted:BAGH_NBRHD",
   "layer_slug_s": "harvard-bagh-nbrhd",
   "layer_geom_type_s": "Point",
@@ -29,7 +29,7 @@
   "dct_temporal_sm": [
     "2003"
   ],
-  "solr_geom": "ENVELOPE(NaN, NaN, NaN, NaN)",
+  "solr_geom": "ENVELOPE(44.197798, 44.564201, 33.44957, 33.1899)",
   "solr_year_i": 2003,
   "harvard_collectionID_sm": [
     "990091546510203941"

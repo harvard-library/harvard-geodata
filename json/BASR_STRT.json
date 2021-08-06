@@ -5,7 +5,7 @@
   "dc_description_s": "This polyline layer depicts major and secondary roads in and around Basra, Iraq. Basra is the principal seaport for the country and is located in southeastern Iraq.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BASR_STRT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BASR_STRT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
   "layer_id_s": "vector_restricted:BASR_STRT",
   "layer_slug_s": "harvard-basr-strt",
   "layer_geom_type_s": "Line",
@@ -29,7 +29,7 @@
   "dct_temporal_sm": [
     "2003"
   ],
-  "solr_geom": "ENVELOPE(NaN, NaN, NaN, NaN)",
+  "solr_geom": "ENVELOPE(47.599606, 47.875031, 30.58235, 30.348265)",
   "solr_year_i": 2003,
   "harvard_collectionID_sm": [
     "990091540950203941"
