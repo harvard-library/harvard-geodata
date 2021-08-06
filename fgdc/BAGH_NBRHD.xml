@@ -12,8 +12,7 @@
     </citation>
     <descript>
       <abstract>This point layer depicts named neighborhood locations throughout Baghdad, the capital city of Iraq.</abstract>
-      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.
-The dataset originator (LeadDog Consulting, LLC.) states that their product is designed, "...for the vehicle tracking and routing industry. Designed to help post-war companies track their assets."</purpose>
+      <purpose>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on urban and rural land use planning, infrastructure or economic analysis and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.The dataset originator (LeadDog Consulting, LLC.) states that their product is designed, "...for the vehicle tracking and routing industry. Designed to help post-war companies track their assets."</purpose>
     </descript>
     <timeperd>
       <timeinfo>
@@ -28,7 +27,12 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
       <update>Unknown</update>
     </status>
     <spdom>
-      <bounding/>
+      <bounding>
+        <westbc>44.197798</westbc>
+        <eastbc>44.564201</eastbc>
+        <northbc>33.449570</northbc>
+        <southbc>33.189900</southbc>
+      </bounding>
     </spdom>
     <keywords>
       <theme>
@@ -80,7 +84,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
             <title>United States and Russian military maps.</title>
           </citeinfo>
         </srccite>
-        <srcscale>40,000</srcscale>
+        <srcscale>40000</srcscale>
         <typesrc>paper</typesrc>
         <srctime>
           <srccurr>Unknown  (pre-2003)</srccurr>
@@ -94,7 +98,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
             <title>United States and Russian military maps</title>
           </citeinfo>
         </srccite>
-        <srcscale>25,000</srcscale>
+        <srcscale>25000</srcscale>
         <typesrc>paper</typesrc>
         <srctime>
           <srccurr>Unknown (pre-2003)</srccurr>
@@ -155,7 +159,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
   <spdoinfo>
     <direct>Vector</direct>
     <ptvctinf>
-      <sdtsterm Name="TIM.BAGH_NBRHD">
+      <sdtsterm>
         <sdtstype>Entity point</sdtstype>
         <ptvctcnt>161</ptvctcnt>
       </sdtsterm>
@@ -164,20 +168,33 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
   <spref>
     <horizsys>
       <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
         <geogunit>Decimal degrees</geogunit>
       </geograph>
       <geodetic>
-        <horizdn>WGS84</horizdn>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
       </geodetic>
     </horizsys>
   </spref>
   <eainfo>
-    <detailed Name="TIM.BAGH_NBRHD">
+    <detailed>
       <enttyp>
         <enttypl>Baghdad Neighborhoods</enttypl>
         <enttypd>Points represent named neighborhoods in Baghdad</enttypd>
         <enttypds>HGL</enttypds>
       </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
       <attr>
         <attrlabl>NAME</attrlabl>
         <attrdef>Feature Name</attrdef>
@@ -212,14 +229,6 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
           <udom>Coordinates defining the features.</udom>
         </attrdomv>
       </attr>
-      <attr>
-        <attrlabl>SHAPE.FID</attrlabl>
-        <attrdef>Internal feature number.</attrdef>
-        <attrdefs>ESRI</attrdefs>
-        <attrdomv>
-          <udom>Sequential unique whole numbers that are automatically generated.</udom>
-        </attrdomv>
-      </attr>
     </detailed>
   </eainfo>
   <distinfo>
@@ -251,6 +260,7 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
         <digtinfo>
           <formname>Shapefile</formname>
           <filedec>Zip</filedec>
+          <transize>0.004</transize>
         </digtinfo>
       </digform>
       <fees>None</fees>
@@ -284,9 +294,5 @@ The dataset originator (LeadDog Consulting, LLC.) states that their product is d
     <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
     <metstdv>FGDC-STD-001-1998</metstdv>
     <mettc>local time</mettc>
-    <metextns>
-      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-      <metprof>ESRI Metadata Profile</metprof>
-    </metextns>
   </metainfo>
 </metadata>

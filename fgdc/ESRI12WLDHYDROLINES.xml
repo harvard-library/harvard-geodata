@@ -41,7 +41,7 @@
     <spdom>
       <bounding>
         <westbc>-179.999999</westbc>
-        <eastbc>180.000001</eastbc>
+        <eastbc>180.000000</eastbc>
         <northbc>81.784891</northbc>
         <southbc>-54.997982</southbc>
       </bounding>

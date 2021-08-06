@@ -5,7 +5,7 @@
   "dc_description_s": "This polygon layer depicts water features in and around Basra, the chief shipping port located in southeastern Iraq. The principal feature depicted here is the Shatt al Arab, a tidal river, 120 mi (193 km) long, formed by the confluence of the Tigris and Euphrates rivers, which flows SE to the Persian Gulf, and forms part of the Iraq-Iran border. The Karun river is its chief tributary. The Shatt al Arab once flowed through a broad, swampy delta, but the marshlands of southeastern Iraq were drained in the early 1990s in order to increase government control over the Arab Shiites (Marsh Arabs) who lived there. Restoration of the marshlands began in 2003, following the invasion of Iraq by Anglo-American forces.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BASR_WATR.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BASR_WATR.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/downloadfile\"}",
   "layer_id_s": "vector_restricted:BASR_WATR",
   "layer_slug_s": "harvard-basr-watr",
   "layer_geom_type_s": "Polygon",
@@ -31,7 +31,7 @@
   "dct_temporal_sm": [
     "2003"
   ],
-  "solr_geom": "ENVELOPE(NaN, NaN, NaN, NaN)",
+  "solr_geom": "ENVELOPE(47.69653, 47.873575, 30.583545, 30.347524)",
   "solr_year_i": 2003,
   "harvard_collectionID_sm": [
     "990091540950203941"
