@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ESRI, Inc.</origin>
+        <pubdate>1999</pubdate>
+        <title>wORLD Place Name Gazetteer</title>
+        <edition>1</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esrigaz</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>ESRI, Inc</origin>
+            <pubdate>1999</pubdate>
+            <title>ESRI Data and Maps</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>World Gazetteer contains proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.</abstract>
+      <purpose>This layer may be used to find locations by their proper name anywhere around the world.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1992</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.988998</westbc>
+        <eastbc>179.996994</eastbc>
+        <northbc>85.213997</northbc>
+        <southbc>-86.905998</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>populated places</themekey>
+        <themekey>airports</themekey>
+        <themekey>place names</themekey>
+      </theme>
+    </keywords>
+    <accconst>Public domain data from U.S. government are freely distributable with proper source attribution or metadata.</accconst>
+    <useconst>Must be attributed to ESRI, Inc., Redlands, CA</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>ESRI, Inc</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <city>Redlands</city>
+          <state>CA</state>
+          <country>USA</country>
+        </cntaddr>
+        <cntinst>www.esri.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Environmental Research Systems Institute, Redlands, CA, National Imagery and Mapping Agency</datacred>
+    <secinfo>
+      <secsys>none</secsys>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attribute accuracy report not available</attraccr>
+    </attracc>
+    <logic>Logical consistency test descriptions not available</logic>
+    <complete>Layer contains major lakes.  Smaller lakes are not included</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>These proper names derived from annotation do not correspond with the true location of the feature because the latitude and longitude coordinate values were derived from the annotation location rather than the map feature itself.  For example, the location for the text identifying the island Sicily was in the Mediterranean sea on the ONC source material.  Locations taken from annotation are based on the lower left corner of the first letter.  Also, the names associated with fuzzy polygons may occur anywhere in the general area of the feature.  For example, the name 'Rocky Mountains' is a point located somewhere in the general area covered by the term Rocky Mountains.  Fuzzy polygon names which appeared on more than one ONC sheet will occur more than once.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Positional accuracy report not available</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Imagery and Mapping Agency</origin>
+            <pubdate>1992</pubdate>
+            <title>Digital Chart of the World</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>1,000,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+      </srcinfo>
+      <procstep>
+        <procdesc>Data was digitized from Operational Navigational Charts by NIMA (formerly DMA).  The DCW data was translated from the VMAP format to ESRI shape file format and appended to create a continuous dataset, instead of tiled.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <city>Redlands</city>
+              <state>CA</state>
+            </cntaddr>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>156638</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>gaz</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Name of feature or location</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Type of feature</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>administrative name</edomv>
+            <edomvd>Feature is an administrative unit</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>Airport</edomv>
+            <edomvd>Airport</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>Country Name</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>cultural landmark</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>desert name</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>drainage feature</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>island name</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>land place name</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>mountain name</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>ocean name</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <edom>
+            <edomv>populated place</edomv>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TEXT</attrlabl>
+        <attrdef>Name of Feature</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Libraries</cntorg>
+          <cntper>Geodesy Project</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Pusey Library</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+        </cntaddr>
+        <cntemail>geodesy.harvard.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>none</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <formspec>ESRI Shape file, compressed</formspec>
+          <filedec>Unzip</filedec>
+          <transize>16.091</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>geodesy.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>NONE</fees>
+      <ordering>download from geodesy.harvard.edu</ordering>
+    </stdorder>
+    <custom>none</custom>
+    <techpreq>Internet Explorer 4 or better</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20010618</metd>
+    <metrd>none</metrd>
+    <metfrd>none</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Geodesy Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Libraries</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>495-3724</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>none</metac>
+    <metuc>none</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

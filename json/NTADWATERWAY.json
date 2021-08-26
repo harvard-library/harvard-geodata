@@ -1,0 +1,59 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ntadwaterway",
+  "dc_title_s": "National Waterway Network",
+  "dc_description_s": "The National Waterway Network is a comprehensive network database of the nation's navigable waterways. The data set covers the 48 contiguous States plus the District of Columbia, Hawaii, Alaska, Puerto Rico and water links between. The nominal scale of the data set varies with the source material. The majority of the information is at 1:100,000 with larger scales used in harbor/bay/port areas and smaller scales used in open waters.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NTADWATERWAY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:NTADWATERWAY",
+  "layer_slug_s": "harvard-ntadwaterway",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-07-05T00:00:00Z",
+  "dc_creator_sm": [
+    "Vanderbilt Engineering Center for Transportation Operations and Research, Vanderbilt University"
+  ],
+  "dc_publisher_s": [
+    "U.S. Army Corps of Engineers Navigation Data Center"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "transportation",
+    "Waterways",
+    "Intracoastal",
+    "Transportation",
+    "Rivers",
+    "Ports",
+    "Shipping",
+    "Inland water transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Great Lakes",
+    "Gulf of Mexico",
+    "Intracoastal waterway",
+    "Puerto Rico",
+    "Arctic Ocean",
+    "Atlantic Ocean",
+    "Bering Sea",
+    "Caribbean Sea",
+    "Canada",
+    "Gulf of Mexico",
+    "Pacific Ocean",
+    "Panama"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "1994-Pres"
+  ],
+  "dct_isPartOf_sm": [
+    "Transportation Atlas Databases"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 72.199432, -55.903265)",
+  "solr_year_i": 1994,
+  "harvard_collectionID_sm": [
+    "990087238870203941"
+  ]
+}

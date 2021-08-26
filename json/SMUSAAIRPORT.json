@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-smusaairport",
+  "dc_title_s": "U.S. National Atlas Airports",
+  "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, and U.S. Virgin Islands with airport passenger enplanements of greater than or equal to 250 passengers per year.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMUSAAIRPORT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:SMUSAAIRPORT",
+  "layer_slug_s": "harvard-smusaairport",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-08-01T00:00:00Z",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Airports",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "dct_temporal_sm": [
+    "1994-1996"
+  ],
+  "solr_geom": "ENVELOPE(-168.101983, -67.012124, 71.2854, 19.7203)",
+  "solr_year_i": 1994,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

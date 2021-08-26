@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Brookline GIS Information Technologies Department</origin>
+        <origin>Camp Dresser and McKee, Inc. (CDM)</origin>
+        <pubdate>1997</pubdate>
+        <title>Parcels (Town of Brookline)</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-brlparcelsp</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer was developed by the Town's GIS consulting firm, Camp Dresser and McKee, Inc. (CDM) and is a polygon coverage of property lines and associated property information for the Town of Brookline, Massachusetts.
+
+Polygons, representing real estate parcels are labeled with a unique identifier comprised of the block, lot and sub-lot numbers found on the assessor's map sheet. Other attributes include: Owner and co-owner names and addresses, deed information, parcel size, sales information, zoning, etc..
+
+CDM used AutoCAD, ArcCAD and ARC/INFO software packages to convert the 131 assessor's hard-copy map sheets. Within AutoCAD each assessor's sheet was registered to the Boston Edison Company's landbase GIS data on a block-by-block basis using street intersections, building footprints, and coordinate plan grid points.
+
+CDM has also generated a block-lot-sublot parsing routine to create unique parcel identifiers from the Assessor's Computer-Aided Mass Appraisal (CAMA) database. The CAMA database has over 15,000 records and contains attribute information about each parcel in the town. Mismatches between the GIS parcels and the CAMA database have been researched and reconciled by the joint effort of CDM, Brookline GIS staff, and staff from the Assessor's Office and the Engineering Department.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.
+This layer will provide a basemap for layers related to real property or to support graphical overlays and analysis with other spatial data.
+More advanced user applications may focus on urban planning, public works, or utilities purposes (including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output).</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199701</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.178836</westbc>
+        <eastbc>-71.105974</eastbc>
+        <northbc>42.351762</northbc>
+        <southbc>42.294726</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Real property</themekey>
+        <themekey>City planning</themekey>
+        <themekey>Housing</themekey>
+        <themekey>Urban land use</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Brookline</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational non-commercial use only. The Town of Brookline makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished by the Town, including the implied validity of any uses of such data</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Information Technologies Department</cntorg>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Town Hall, 3rd Floor</address>
+          <address>333 Washington Street</address>
+          <city>Brookline</city>
+          <state>MA</state>
+          <postal>02445</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-730-2005</cntvoice>
+        <cntfax>617-739-7571</cntfax>
+        <cntemail>feng_yang@town.brookline.ma.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by the Town of Brookline</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Brookline Assessor</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Assessor's Computer-Aided Mass Appraisal (CAMA) database.</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>computer program</typesrc>
+        <srccitea>CAMA</srccitea>
+        <srccontr>CDM generated a block-lot-sublot parsing routine to create unique parcel identifiers from the Assessor's Computer-Aided Mass Appraisal (CAMA) database. The CAMA database has over 15,000 records and contains attribute information about each parcel in the town.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Dataset copied and  imported to an ArcSDE Layer.</procdesc>
+        <srcused>Server=mercator.harvard.edu; Service=esri_sdeprod; User=sde; Version=SDE.DEFAULT</srcused>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <srcused>C:\WINNT\Profiles\Strawn\Desktop\Metadata\BROOKLINE DATA\BrooklineTemplate.xml</srcused>
+        <procdate>20020905</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>CDM used AutoCAD, ArcCAD and ARC/INFO software packages to convert the 131 assessor's hard-copy map sheets. Within AutoCAD each assessor's sheet was registered to the Boston Edison Company's landbase GIS data on a block-by-block basis using street intersections, building footprints, and coordinate plan grid points. All block, parcel and easement limit lines were digitized in AutoCAD. Parcel and easement lines were placed on separate, but corresponding layers. Parcel block, lot and sub-lot numbers were placed into the parcel datalayer. 
+After all lines and text have been entered into AutoCAD from the paper maps, ARC/INFO was used to generate GIS coverage, create topology, and clean up errors. CDM generated 109 tiles of paper check plots for the entire town. Brookline GIS staff, with the help of the Department of Public Works and the Assessor's Office, compared every tile back to the original sheet and created a list of edits for CDM to correct. These edits have been incorporated into the final parcel datalayer. 
+
+CDM also generated a block-lot-sublot parsing routine to create unique parcel identifiers from the Assessor's Computer-Aided Mass Appraisal (CAMA) database. The CAMA database has over 15,000 records and contains attribute information about each parcel in the town. Mismatches between the GIS parcels and the CAMA database have been researched and reconciled by the joint effort of CDM, Brookline GIS staff, and staff from the Assessor's Office and the Engineering Department.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Brookline GIS, Information Technologies Department</cntorg>
+            </cntorgp>
+            <cntvoice>617-730-2005</cntvoice>
+            <cntfax>617-739-7571</cntfax>
+            <cntemail>feng_yang@town.brookline.ma.us</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>8918</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Property Parcel Areas</enttypl>
+        <enttypd>ESRI Shapefile. Polygons describe property parcel areas.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARCELS_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARCELS_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ROTATION</attrlabl>
+        <attrdef>Rotation for labeling house numbers on maps</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAP</attrlabl>
+        <attrdef>Map sheet number</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLOCK</attrlabl>
+        <attrdef>Assessor ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLK_LOT_SU</attrlabl>
+        <attrdef>Assessor ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARCEL_ID</attrlabl>
+        <attrdef>Assessor ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_SUB</attrlabl>
+        <attrdef>Assessor ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT</attrlabl>
+        <attrdef>Assessor ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUB</attrlabl>
+        <attrdef>Assessor ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASS_CODE</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PAR_ADDNO1</attrlabl>
+        <attrdef>Parcel Street Address</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PAR_ADDNO2</attrlabl>
+        <attrdef>Parcel Street Address Additional</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARADD1</attrlabl>
+        <attrdef>Parcel Street Name</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARADD2</attrlabl>
+        <attrdef>Parcel Street Name Additional</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_NAME</attrlabl>
+        <attrdef>Property owner's name</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CO_OWNER_N</attrlabl>
+        <attrdef>Subsequent Owner or Ageny</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_ADDR</attrlabl>
+        <attrdef>Mailing Street Address</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_CITY</attrlabl>
+        <attrdef>Mailing City Address</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_STAT</attrlabl>
+        <attrdef>Mailing State Address</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_ZIP</attrlabl>
+        <attrdef>Mailing Zip Code</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER_COUN</attrlabl>
+        <attrdef>Mailing Country Address</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_LND_AR</attrlabl>
+        <attrdef>Lot Size</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RES_EXEMPT</attrlabl>
+        <attrdef>Owner Occupied Exemption</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes, Owner occupied exemption</edomvd>
+            <edomvds>CAMA</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No owner occupied exemption</edomvd>
+            <edomvds>CAMA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RES_VALUE</attrlabl>
+        <attrdef>Residential Property Value</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COM_VALUE</attrlabl>
+        <attrdef>Commercial Property Value</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EXMPT_VAL</attrlabl>
+        <attrdef>Exempt Value (Exempt Properties Only)</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEED_BOOK</attrlabl>
+        <attrdef>Registry of Deed Book Number</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEED_PAGE</attrlabl>
+        <attrdef>Registry of Deed Page Number</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEED_CERT</attrlabl>
+        <attrdef>Registry of Deed Certificate Number</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEED_DATE</attrlabl>
+        <attrdef>Date of Sale</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SALE_VALID</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PCT_INT_OW</attrlabl>
+        <attrdef>Percentage of Ownership-(condos only)</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_FIN_AR</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONING</attrlabl>
+        <attrdef>Parcel zoning category</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SALE_PRICE</attrlabl>
+        <attrdef>Sale Price</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ATTEMPT_DA</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INSPECT_DA</attrlabl>
+        <attrdef>Inspection Date</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ENTRANCE</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INFO_SOURC</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COLLECTOR_</attrlabl>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CUR_RE_VAL</attrlabl>
+        <attrdef>Current Residential Value</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CUR_RE_TAX</attrlabl>
+        <attrdef>Current Residential Taxes</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SBD_PARCEL</attrlabl>
+        <attrdef>Subdivision Parcel ID</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUBDVSN_FY</attrlabl>
+        <attrdef>Parcel Identifier</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUBDVSN_TY</attrlabl>
+        <attrdef>Parcel Identifier</attrdef>
+        <attrdefs>Brookline CAMA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ASSOC_PAR_</attrlabl>
+        <attrdef>Proximate parcels</attrdef>
+        <attrdefs>Brookline Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute defines the vector data as either a point, polyline, or polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Polygon</edomv>
+            <edomvd>A polygon is an area feature comprised of points and line segments.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated feature length in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <cntinst/>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>none</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020909</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

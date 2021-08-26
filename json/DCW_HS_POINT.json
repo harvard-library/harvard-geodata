@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-dcw-hs-point",
+  "dc_title_s": "DCW Hypsography Points, Supplemental",
+  "dc_description_s": "This datalayer is a point coverage representing hypsographic features (spot elevations) located throughout DCW (Digital Chart of the World) geographic coverage as of 1992. The points in this coverage record the positions and elevation values of those polygon features that originally appeared in the hypsography coverage but were eliminated based on minimum feature size criteria (.12-inch circumference). Free-standing lines less than 0.06 inches long were also collapsed to points and included in this coverage. This layer was derived from the VMAP0 series produced by the National Geospatial-Intelligence Agency (NGA), formerly known as NIMA (National Imagery and Mapping Agency), an agency of the United States government. VMAP data set products use the 'vector product format' (vpf). The term 'VMap' is derived from 'Vector Smart Map.' Digital Chart of the World is a comprehensive 1:1,000,000 scale vector basemap of the world. It consists of cartographic, attribute, and textual data. The primary source for the database is the National Imagery and Mapping Agency's (NIMA) Operational Navigation Chart (ONC) series. This is the largest scale unclassified map series in existence that provides consistent, continuous global coverage of essential basemap features. The coverage is is organized into 10 thematic layers which feature a vast number of files organized into libraries. These libraries, or coverages, are geographicially bounded areas, rather than feature-linked coverages. DCW Layers in the Harvard Geospatial Library are feature-based as we have processed the multiple tiles from the VMAP0 libraries into a series of seamless coverages (e.g. aeronautical features appear in a single layer, 'Aeronautical Facilities, Points') which depict a particular feature as it occurs throughout the available geographic coverage areas. Since different geographic areas were mapped by NIMA at different times using various types of feature capture and scanning and digitizing methods and software, multiple map sources of varying dates and multiple processing approaches are represented in each of these HGL layers. We have necessarily generalized the discussion of data source material and process steps in the Data Quality section of this metadata document.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/DCW_HS_POINT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:DCW_HS_POINT",
+  "layer_slug_s": "harvard-dcw-hs-point",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2004-11-16T00:00:00Z",
+  "dc_creator_sm": [
+    "National Imagery and Mapping Agency (now National Geospatial-Intelligence Agency)"
+  ],
+  "dc_publisher_s": [
+    "National Imagery and Mapping Agency"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "elevation",
+    "Contours",
+    "Altitudes"
+  ],
+  "dct_spatial_sm": [
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America",
+    "Polar regions"
+  ],
+  "dct_issued_s": "1992-07-01",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "solr_geom": "ENVELOPE(-179.998505, 179.992294, 83.448151, -87.051613)",
+  "solr_year_i": 1992,
+  "harvard_collectionID_sm": [
+    "990027814350203941"
+  ]
+}

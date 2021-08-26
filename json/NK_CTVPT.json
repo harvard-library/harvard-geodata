@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nk-ctvpt",
+  "dc_title_s": "Cities and Towns - North Korea",
+  "dc_description_s": "Point location coverage for Administrative capitals ADM1 (Shi and Do or Municipalities and Provincial) capital cities, and the national capital of North Korea; administrative capitals of ADM2 shi and kun (Municipalities and Districts); and seats of administrative units below the ADM2 level, consisting of shi (cities), up (towns), nodongja-ku (communes), and myun (townships). ADM3 administrative centers are often connected by local roads contained in a separate coverage (Local Roads - North Korea) See sepatate North Korean coverages: Capital Cities, Level One; Capital Cities, Level Two; Administrative Seats layers.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NK_CTVPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NK_CTVPT",
+  "layer_slug_s": "harvard-nk-ctvpt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Asia Pacific Spatial Data Project (APSDP), formerly ACASIAN or Australian Centre of the Asian Spatial Information and Analysis Network"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "Cities",
+    "Towns",
+    "Villages",
+    "Place names",
+    "Land use",
+    "Administrative divisions"
+  ],
+  "dct_spatial_sm": [
+    "North Korea",
+    "Democratic People's Republic of Korea"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(124.239195, 130.635134, 42.969323, 37.702759)",
+  "solr_year_i": 1998,
+  "harvard_collectionID_sm": [
+    "990083995500203941"
+  ]
+}

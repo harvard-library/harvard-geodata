@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-brlbos",
+  "dc_title_s": "Backs of Sidewalks (Town of Brookline)",
+  "dc_description_s": "This map data layer represents the physical back-edge of sidewalks (property-side not street-edge side) observed from aerial photography for the Town of Brookline, Massachusetts. The aerial photographs were taken from 1990-1991. Digital planimetric data meets National Map Accuracy Standards for 1'=100' (1:1200) mapping. This layer is part of a comprehensive inventory map and database of the town's pedestrian and transportation system.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BRLBOS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:BRLBOS",
+  "layer_slug_s": "harvard-brlbos",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Brookline GIS, Information Technologies Department",
+    "Boston Edison Company"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "planningCadastre",
+    "Municipal",
+    "City planning",
+    "Boundaries",
+    "Real property",
+    "Pedestrian areas",
+    "Urban land use"
+  ],
+  "dct_spatial_sm": [
+    "Brookline",
+    "Massachusetts"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1990-1991"
+  ],
+  "solr_geom": "ENVELOPE(-71.176111, -71.106357, 42.351715, 42.294585)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990083550800203941"
+  ]
+}

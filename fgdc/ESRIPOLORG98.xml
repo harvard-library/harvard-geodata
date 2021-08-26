@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>World Bank</origin>
+        <pubdate>1998</pubdate>
+        <title>esripolorg98 - World Political Organization Membership - DBMS View</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esripolorg98</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>World Demographics is a table with 28 country attributes on population, vital statistics, and the economy.  This single table includes attributes for 1998 (both scales) and 1992 world countries.  To display World Demographics attributes on a map, join the World Demographics table to the World Countries 1998 or World Countries 1992 table using Fips_code or Abbrevname as the common field.</abstract>
+      <purpose>168 records, 28 descriptive fields. Population and other census information by country.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>83.623596</northbc>
+        <southbc>-90.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>Census</themekt>
+        <themekey>Demographics</themekey>
+      </theme>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.0.570</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>none</attraccr>
+    </attracc>
+    <logic>none</logic>
+    <complete>none</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>none</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>none</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>unknown citation title</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+              <time>unknown</time>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>none</srccitea>
+        <srccontr>GMI</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>no report available</procdesc>
+        <srcused>no report available</srcused>
+        <procdate>1998</procdate>
+        <srcprod>no report available</srcprod>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>164</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>esripolorg98</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attrdef>Name of the country.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CODE</attrlabl>
+        <attrdef>The two-letter country code specified by the United States Federal Information Processing Standards, version 10-4.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ABBREVNAME</attrlabl>
+        <attrdef>An abbreviated country name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>REGION</attrlabl>
+        <attrdef>The region of the world in which a country is located.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CONTINENT</attrlabl>
+        <attrdef>The continent on which a country is located.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>CAPITAL</attrlabl>
+        <attrdef>The name of a country's capital city.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FAO</attrlabl>
+        <attrdef>Indicates whether a country is a member of the Food and Agriculture Organization (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>GA_MEMB_YR</attrlabl>
+        <attrdef>The year a country joined the United Nations General Assembly, or 0 if the country is not a member.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>IAEA</attrlabl>
+        <attrdef>Indicates whether a country is a member of the International Atomic Energy Agency (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>IBRD</attrlabl>
+        <attrdef>Indicates whether a country is a member of the International Bank for Reconstruction and Development (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>IMF</attrlabl>
+        <attrdef>Indicates whether a country is a member of the International Monetary Fund (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>OPEC</attrlabl>
+        <attrdef>Indicates whether a country is a member of the Organization of Petroleum Exporting Countries (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>UNESCO</attrlabl>
+        <attrdef>Indicates whether a country is a member of the Education, Scientific, and Cultural Organization (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>WHO</attrlabl>
+        <attrdef>Indicates whether a country is a member of the World Health Organization (Y/N).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>WMO</attrlabl>
+        <attrdef>Indicates whether a country is a member of the World Meteorological Organization (Y/N).</attrdef>
+      </attr>
+    </detailed>
+  </eainfo>
+  <metainfo>
+    <metd>20010806</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+          <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+          <city>REQUIRED: The city of the address.</city>
+          <state>REQUIRED: The state or province of the address.</state>
+          <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+        </cntaddr>
+        <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-smvlhydropy",
+  "dc_title_s": "Hydrographic Features (City of Somerville)",
+  "dc_description_s": "Polygon coverage which displays those areas of two hydrographic features, Alewife Brook and the Mystic River, which are within the city limits of Somerville, Massachusetts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMVLHYDROPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:SMVLHYDROPY",
+  "layer_slug_s": "harvard-smvlhydropy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Camp, Dresser & McKee",
+    "City of Somerville Assessing Department"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWater",
+    "Municipal",
+    "Rivers",
+    "Environmental management",
+    "Urban land use",
+    "Hydrography"
+  ],
+  "dct_spatial_sm": [
+    "Somerville",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.134638, -71.072531, 42.418129, 42.390602)",
+  "harvard_collectionID_sm": [
+    "990084920020203941"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esriusdtl-st",
+  "dc_title_s": "U.S. States (Detailed)",
+  "dc_description_s": "U.S. States (Detailed) represents the fifty states and the District of Columbia of the United States.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRIUSDTL_ST.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ESRIUSDTL_ST",
+  "layer_slug_s": "harvard-esriusdtl-st",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2000-10-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)",
+    "Harvard Geospatial Library"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "society",
+    "polygon",
+    "detail",
+    "area",
+    "demographics",
+    "population",
+    "households",
+    "farm information"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. States",
+    "States"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "solr_geom": "ENVELOPE(-178.227822, -66.949831, 71.38269, 18.910842)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

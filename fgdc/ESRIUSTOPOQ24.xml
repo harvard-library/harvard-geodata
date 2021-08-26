@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+        <origin>Harvard Geospatial Library</origin>
+        <pubdate>20001101</pubdate>
+        <title>U.S. USGS 1:24,000 Topographic Quadrangle Series Indexes</title>
+        <edition>2000</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2000</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+        </pubinfo>
+        <othercit>Location: ESRI Data &amp; Maps 2000 (CD 2) \usa</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esriustopoq24</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. USGS 1:24,000 Topographic Quadrangle Series Indexes represents the geographic extent of USGS 1:24,000 topographic maps (7.5- by 7.5-minute quadrangles) for the coterminous U.S. forty-eight states and District of Columbia.</abstract>
+      <purpose>U.S. USGS 1:24,000 Topographic Quadrangle Series Indexes provides quadrangle name, identification number, publication data, and map coverage by state for each quadrangle.  This large-scale index grid is appropriate for display at more detailed scales.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>19921001</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1905-1987</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.750008</westbc>
+        <eastbc>-66.875000</eastbc>
+        <northbc>49.499996</northbc>
+        <southbc>24.500000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>topographic</themekey>
+        <themekey>quadrangle</themekey>
+        <themekey>index</themekey>
+        <themekey>1:24,000</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1992</tempkey>
+        <tempkey>1905-1987</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Afiliates for use on Harvard owned computers.  The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD-ROMs for use with ESRI(r) software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD-ROMs. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.  The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).   The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD-ROMs.  Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.  Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.  THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.  EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.  IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.  Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.  In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded.   Outside the United States- Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.    For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>United States Geological Survey</datacred>
+    <native>Windows NT Version 5.0 (Build 2195) ; ESRI ArcInfo 8.1.0.515</native>
+  </idinfo>
+  <dataqual>
+    <logic>No duplicate features are present.  The shapefile is exported using Avenue request ExportClean.  This request verifies and enforces the correctness of shapes.  Occasionally, USGS actual quadrangles depart from a completely rectangular format mainly because of map sheet production considerations in coastal areas and offshore islands that result in offset, over edge, and insert sheet layouts. These are not represented precisely by the data set, but the correct attribute information is included.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was mathematically generated using the ARC/INFO GRID(tm) extension.  In this manner, the locations of the quadrangles were computed.  The positional accuracy for these quadrangles is limited only by the resolution of the data set which is 51 meters.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+            <pubdate>19921001</pubdate>
+            <title>ArcUSA 1:2M</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo/>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+            </pubinfo>
+            <othercit>USGS Topographic Quadrangles dates of publication 1905 through 1987.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19921001</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ArcUSA 1:2M</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This data set was generated from several sources: the geospatial part of this data set was mathematically generated using the ARC/INFO GRID extension.  The USGS Topographic Names Database and the Published Map Sheet Data File (T-70) were the two primary digital sources for the attributes.  Where these databases were incomplete, various published USGS map indexes were consulted to update the attributes.</procdesc>
+        <procdate>1992</procdate>
+        <srcprod>ArcUSA 1:2M</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Extracted data set from ArcUSA 1:2M.  Removed unneeded attributes.  Generalized to a tolerance of 4.0 miles. Created ArcGIS(tm) layer file (.lyr).  Created ArcView legend file (.avl).  Ran ArcView Avenue request ExportClean, and created spatial indices.</procdesc>
+        <srcused>ArcUSA 1:2M</srcused>
+        <procdate>20000824</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Source shape files were loaded into SDE using the shp2sde command by the HGL team.  Spatial reference options -180,-90,1000000.</procdesc>
+        <srcused>GDT Dynamap/2000 v7.3</srcused>
+        <procdate>20010715</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>53911</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>This data set was mathematically generated. You can define or use it unchanged with data based on any datum.</horizdn>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>topoq24</enttypl>
+        <enttypd>The polygons represent a systematic grid of 7.5- by 7.5-minute quadrangles based on a latitude-longitude graticule for the coterminous U.S. forty-eight states and District of Columbia.  Each 7.5- by 7.5-minute quadrangle is 1/32 the area of a USGS 1:100,000 topographic quadrangle and 1/128 of a USGS 1:250,000 topographic quadrangle.</enttypd>
+        <enttypds>United States Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGS_QD_ID</attrlabl>
+        <attrdef>The quadrangle identification number.  The first two digits represent the latitude in degrees north, the next three digits represent the longitude in degrees west, and a hyphen, and the last two characters reveal the grid cell code within each one-degree rectangle.  To understand the grid cell code within the one-degree rectangle, imagine a rectangle the shape of a door.  Divide the "door" into eight rows (A-H) and columns (1-8), the lower right corner grid cell code is "A1" and the upper left corner grid cell code is "H8".  Each grid cell represents a USGS 1:24,000 topographic quadrangle, hence sixty-four per one-degree rectangle.  Each USGS 1:100,000 topographic quadrangle is one-half by one degree with only two fitting within the one-degree rectangle-the upper half and the lower half of the "door".  The lower quadrangle's grid cell code is "A1" and the upper quadrangle's grid cell code is "E1" (these are the only grid cell codes for USGS 1:100,000 topographic quadrangles).  Each USGS 1:250,000 topographic quadrangle is one by two degrees, which, is two "doors" side by side.  The quadrangle's grid cell code is "A1" (this is the only grid cell code for USGS 1:250,000 topographic quadrangles).</attrdef>
+        <attrdefs>United States Geological Survey as interpreted and described by ESRI</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>USGS Topographic Names Database, Published Map Sheet Data File (T-70)</codesetn>
+            <codesets>United States Geological Survey</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>QUAD_NAME</attrlabl>
+        <attrdef>The quadrangle name.  The names of theoretical quadrangles indicate the quadrangle's relationship to the published map on which the land area appears (e.g. "Crescent City OE W").  The word "(digital)" in a quadrangle name also indicates that the quadrangle is theoretical.  It is usually for quadrangles that show islands that are distant from the map sheets on which they are inserted.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAP_EDIT</attrlabl>
+        <attrdef>The type of map for the quadrangle.  If several types of maps exist for the same quadrangle, the lowest code value is listed.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Topographic contour.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Planimetric.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Orthophoto map with contours.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>unknown</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Shaded relief.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>unknown</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>Slope.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>G</edomv>
+            <edomvd>Surface management status (Bureau of Land Management).</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>H</edomv>
+            <edomvd>Surface minerals (Bureau of Land Management).</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>K</edomv>
+            <edomvd>Topography-bathymetry, line map.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Topography-bathymetry, orthophoto map.</edomvd>
+            <edomvds>United States Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST_NAME1</attrlabl>
+        <attrdef>The name of the state in which the quadrangle is located. The state names are always stored beginning with ST_NAME1, but they are not listed in any particular order.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST_NAME2</attrlabl>
+        <attrdef>The name of the second state in which the quadrangle is located. The state names are always stored beginning with ST_NAME1, but they are not listed in any particular order. If a quadrangle covers fewer than four states, this attribute may be blank.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST_NAME3</attrlabl>
+        <attrdef>The name of the third state in which the quadrangle is located. The state names are always stored beginning with ST_NAME1, but they are not listed in any particular order. If a quadrangle covers fewer than four states, this attribute may be blank.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ST_NAME4</attrlabl>
+        <attrdef>The name of the fourth state in which the quadrangle is located. The state names are always stored beginning with ST_NAME1, but they are not listed in any particular order. If a quadrangle covers fewer than four states, this attribute may be blank.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATE_REV</attrlabl>
+        <attrdef>The most recent date of revision for the quadrangle, expressed as the last two digits of the year in the twentieth century.  This information is not available for some quadrangles.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DATE_PUB</attrlabl>
+        <attrdef>The most recent date of publication for the quadrangle, expressed as the last two digits of the year in the twentieth century.  This information is not available for some quadrangles.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PHOTO_R_DT</attrlabl>
+        <attrdef>The most recent date of photo revision, if applicable, for the quadrangle, expressed as the last two digits of the year (sometimes preceded by the two-digit month) in the twentieth century.  This information is not available for some quadrangles.</attrdef>
+        <attrdefs>United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>OIS</address>
+          <address>1280 Mass Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+      </cntinfo>
+    </distrib>
+    <distliab>See use constraints.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <filedec>Downloaded file is Zipped</filedec>
+          <transize>15.244</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20001101</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>OIS</address>
+          <address>1280 Mass Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

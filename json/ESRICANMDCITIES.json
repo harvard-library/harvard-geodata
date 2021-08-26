@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esricanmdcities",
+  "dc_title_s": "Canada Middle Cities",
+  "dc_description_s": "Canada Middle Cities represents locations of the incorporated communities (cities, towns, and villages) within Canada. The middle cities are based on the Canadian Geographic Names Database from Natural Resources Canada.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRICANMDCITIES.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ESRICANMDCITIES",
+  "layer_slug_s": "harvard-esricanmdcities",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2000-12-08T00:00:00Z",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Harvard Geospatial Library",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "point",
+    "cities/cit?",
+    "towns",
+    "villages",
+    "hamlets",
+    "municipality/municipalit?"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_geom": "ENVELOPE(-140.534293, -52.679022, 76.42085, 42.030043)",
+  "solr_year_i": 2000,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

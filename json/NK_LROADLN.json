@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nk-lroadln",
+  "dc_title_s": "Local Roads - North Korea",
+  "dc_description_s": "A polyline coverage which represents local, or minor, road transportation routes throughout North Korea. Roads included in this coverage are identified as Local Roads. Polylines in this coverage are not identified in any manner. They often connect ADM3 administrative centers contained in a separate coverage (ADMINISTRATIVE SEATS - NORTH KOREA), which have been snapped to them unless map sources show them to be located more than a kilometer or so from local roads.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NK_LROADLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NK_LROADLN",
+  "layer_slug_s": "harvard-nk-lroadln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Asia Pacific Spatial Data Project (APSDP), formerly ACASIAN or Australian Centre of the Asian Spatial Information and Analysis Network"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Roads",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "North Korea",
+    "Democratic People's Republic of Korea"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(124.421759, 130.584078, 42.970268, 37.681887)",
+  "solr_year_i": 1998,
+  "harvard_collectionID_sm": [
+    "990083995500203941"
+  ]
+}

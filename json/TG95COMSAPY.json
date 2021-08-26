@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95comsapy",
+  "dc_title_s": "Census Metropolitan Statistical Areas, 1995 - Colorado",
+  "dc_description_s": "This datalayer displays Metropolitan Statistical Areas (MSA) for the state. Metropolitan statistical areas (MSAs) are metropolitan areas (MAs) that are not closely associated with other MAs. These areas typically are surrounded by non-metropolitan counties. Statistical entities which share some relation to the MSA include: Consolidated and Primary Metropolitan Statistical Area (CMSA and PMSA). If an area that qualifies as a metropolitan area (MA) has 1 million people or more, two or more primary metropolitan statistical areas (PMSAs) may be defined within it. Each PMSA consists of a large urbanized county or cluster of counties that demonstrate very strong internal economic and social links, in addition to close ties to other portions of the larger area. When PMSAs are established, the larger MA of which they are component parts is designated a consolidated metropolitan statistical area (CMSA). CMSAs and PMSAs are established only where local governments favor such designations for a large MA. Metropolitan Area (MA). The general concept of a metropolitan area (MA) is one of a large population nucleus, together with adjacent communities that have a high degree of economic and social integration with that nucleus. Some MAs are defined around two or more nuclei. The MAs and the central cities within an MA are designated and defined by the Federal Office of Management and Budget, following a set of official standards that are published in a Federal Register Notice. These standards were developed by the interagency Federal Executive Committee on Metropolitan Areas, with the aim of producing definitions that are as consistent as possible for all MAs nationwide. Each MA must contain either a place with a minimum population of 50,000 or a U.S. Census Bureau-defined urbanized area and a total MA population of at least 100,000. An MA contains one or more central counties. An MA also may include one or more outlying counties that have close economic and social relationships with the central county. Central City. In each metropolitan statistical area and consolidated metropolitan statistical area, the largest place and, in some cases, one or more additional places are designated as ''central cities'' under the official standards. A few primary metropolitan statistical areas do not have central cities. The largest central city and, in some cases, up to two additional central cities, are included in the title of the metropolitan area (MA); there also are central cities that are not included in an MA title. An MA central city does not include any part of that place that extends outside the MA boundary.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95COMSAPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95COMSAPY",
+  "layer_slug_s": "harvard-tg95comsapy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-11-12T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Metropolitan areas",
+    "Cities and towns"
+  ],
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-109.060253, -103.573306, 41.002054, 37.734704)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

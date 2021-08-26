@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>World Bank</origin>
+        <pubdate>1998</pubdate>
+        <title>esridemog98 - World Demographics - DBMS View</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esridemog98</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>World Demographics is a table with 28 country attributes on population, vital statistics, and the economy.  This single table includes attributes for 1998 (both scales) and 1992 world countries.  To display World Demographics attributes on a map, join the World Demographics table to the World Countries 1998 or World Countries 1992 table using Fips_code or Abbrevname as the common field.</abstract>
+      <purpose>168 records, 28 descriptive fields. Population and other census information by country.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1998</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>83.623596</northbc>
+        <southbc>-90.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>Census</themekt>
+        <themekey>Demographics</themekey>
+      </theme>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Map Collection</cntorg>
+        </cntorgp>
+      </cntinfo>
+    </ptcontac>
+    <datacred>ESRI</datacred>
+    <secinfo>
+      <secsys>none</secsys>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.0.570</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>none</attraccr>
+    </attracc>
+    <logic>none</logic>
+    <complete>none</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>none</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>ESRI</title>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccontr>no report available</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>no report available</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>164</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRIDEMOG98</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attrdef>The country name.  These names are shortened and not necessarily official.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FIPS_CODE</attrlabl>
+        <attrdef>The two-letter FIPS country code.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ABBREVNAME</attrlabl>
+        <attrdef>An abbreviated country name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TOT_POP</attrlabl>
+        <attrdef>Total population for the year 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TOT_POP80</attrlabl>
+        <attrdef>Total population for the year 1980.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>GRW_RATE</attrlabl>
+        <attrdef>The annual population growth rate for 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>GRW_RATE80</attrlabl>
+        <attrdef>The annual population growth rate for 1980.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>DOUBLETM</attrlabl>
+        <attrdef>The number of years for the population to double at the 1989 growth rate.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>DOUBLETM80</attrlabl>
+        <attrdef>The number of years for the population to double at the 1980 growth rate.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PR_POP2000</attrlabl>
+        <attrdef>Projected population for 2000, based on the 1989 population and growth rate.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>P_0_14_89</attrlabl>
+        <attrdef>Percentage of the 1989 population between zero and fourteen years of age.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>P_15_64_89</attrlabl>
+        <attrdef>Percentage of the 1989 population between 15 and 64 and years of age.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>P_URBAN89</attrlabl>
+        <attrdef>Percentage of the 1989 population living in urban areas.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>POPDENSITY</attrlabl>
+        <attrdef>Population per square mile of total surface area for 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>BIR_RATE</attrlabl>
+        <attrdef>The number of births per 1,000 persons for 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>BIR_RATE80</attrlabl>
+        <attrdef>The number of births per 1,000 persons for 1980.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>DTH_RATE</attrlabl>
+        <attrdef>The number of deaths per 1,000 persons for 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>DTH_RATE80</attrlabl>
+        <attrdef>The number of deaths per 1,000 persons for 1980.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FERTILITY</attrlabl>
+        <attrdef>Fertility rate for 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FERTILTY80</attrlabl>
+        <attrdef>Fertility rate for 1980.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LIFE_EXP</attrlabl>
+        <attrdef>Life expectancy for all children born in 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LIFE_EXP_F</attrlabl>
+        <attrdef>Life expectancy for females born in 1989.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>P_AGLAND</attrlabl>
+        <attrdef>The amount of land in agriculture for 1989 expressed as a percentage of total land area.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PCT_POP_AG</attrlabl>
+        <attrdef>Percentage of the total population dependent on agriculture (1990).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>GNP_CAP</attrlabl>
+        <attrdef>Gross national product (GNP) per person for 1989 in U.S. dollars. GNP is the value of all goods and services produced in a country in a year.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PCT_F_WORK</attrlabl>
+        <attrdef>Women in paid employment as a percentage of the total workforce (1989).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PCT_TRADE</attrlabl>
+        <attrdef>Value of exports as a percentage of Gross Domestic Product (GDP) for 1988.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TRADE_BAL</attrlabl>
+        <attrdef>Value of exports in proportion to the value of imports (1988).</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ENERGY_BAL</attrlabl>
+        <attrdef>Difference between energy production and consumption in millions of tons of oil equivalent (mtoe) for 1989.</attrdef>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>none</resdesc>
+    <distliab>none</distliab>
+    <custom>none</custom>
+    <techpreq>none</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20010806</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+          <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+          <city>REQUIRED: The city of the address.</city>
+          <state>REQUIRED: The state or province of the address.</state>
+          <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+        </cntaddr>
+        <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

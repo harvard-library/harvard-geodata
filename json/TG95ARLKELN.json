@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95arlkeln",
+  "dc_title_s": "Census Physical Features, 1995 - Arkansas",
+  "dc_description_s": "This datalayer represents tangible physical features for the state of Arkansas. These features are neither transportation nor hydrographic in nature but may be used to determine boundary lines. The predominant Feature Codes in this layer are E00 (Physical feature, major and minor categories unknown); E20 (Topographic feature; major category used when the minor category could not be determined); and E21 (Ridge line, the line of highest elevation of a linear mountain). Additional features which may be identified in this, or other layers, include: Fences: Fence lines locate a visible and permanent fence between separately identified property. For example, a fence around a military reservation or prison separates the reservation from civilian land. Thus, a fence line is a property line marked by a fence. Topographic Feature:Topographical features that may be used as boundaries or as a reference for an area. The Census TIGER database contains topographic features used to define the limits of statistical entities in locations where no other visible feature can be identified. Other Topographic Feature: Mountain Peaks, Islands, (identified by name), levees, an embankment, as of earth or concrete, used to prevent a river or other body of water from overflowing.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95ARLKELN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95ARLKELN",
+  "layer_slug_s": "harvard-tg95arlkeln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2003-01-10T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "imageryBaseMapsEarthCover",
+    "boundaries",
+    "Census",
+    "Boundaries",
+    "Mountains",
+    "Topographical surveying",
+    "Swamps"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-94.562734, -90.674131, 36.248647, 33.3094)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

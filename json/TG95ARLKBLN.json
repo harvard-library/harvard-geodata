@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95arlkbln",
+  "dc_title_s": "Census Railroads, 1995 - Arkansas",
+  "dc_description_s": "This datalayer displays a variety of railroad features throughout the state of Arkansas. Categories represented here include: Primary rail line: A railroad in this category is the primary track that provides service between destinations. A main line track often carries the name of the owning and operating railroad company. Primary track tunnels and underpasses are also included. Rail Spur: A railroad in this category is the track that leaves the main track, and ends in an industrial park, factory, or warehouse area, or forms a siding along the main track Railroad Yard: A railroad yard track has parallel tracks that form a working area for the railroad company. Train cars and engines are repaired, switched, and dispatched from a yard. Railroads with special characteristics, or railroads or portions of a railroad track that are parts of the railroad system and have separately identifiable characteristics such as ferry crossings, carlines, a track for street cars, trolleys and other special types. These special characteristic feature types are not typically depicted in all layers. For example, Ferry crossings, or the representation of a route over water used by ships carrying train cars to connecting railroads on opposite shores, are are primarily located on the Great Lakes and will be found predominantly in railroad layers for states in that region.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95ARLKBLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95ARLKBLN",
+  "layer_slug_s": "harvard-tg95arlkbln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-10-30T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Census",
+    "Railroads",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-94.559483, -89.764939, 36.499082, 33.004647)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

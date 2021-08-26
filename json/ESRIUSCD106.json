@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esriuscd106",
+  "dc_title_s": "U.S. 106th Congressional Districts",
+  "dc_description_s": "U.S. 106th Congressional Districts represents political boundaries for the U.S. 106th Congressional Districts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRIUSCD106.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ESRIUSCD106",
+  "layer_slug_s": "harvard-esriuscd106",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2000-10-28T00:00:00Z",
+  "dc_creator_sm": [
+    "Department of Commerce, Census Bureau, Geography Division",
+    "Harvard Geospatial Library",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "society",
+    "polygon",
+    "Congressional Districts",
+    "Congress",
+    "House of Representatives"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Congressional Districts"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "dct_temporal_sm": [
+    "1999-2001"
+  ],
+  "solr_geom": "ENVELOPE(-179.147401, 179.761411, 71.332234, -14.60521)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Atlas of the United States and the United States Geological Survey</origin>
+        <origin>Harvard Geospatial Library</origin>
+        <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+        <pubdate>20001101</pubdate>
+        <title>U.S. National Atlas Historic Earthquakes</title>
+        <edition>2000</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2000</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+        </pubinfo>
+        <othercit>Location: ESRI Data &amp; Maps 2000 (CD 2) \usa</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esriusquakehis</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.</abstract>
+      <purpose>U.S. National Atlas Historic Earthquakes provides the locations of significant, historic earthquakes for geographic display and analysis at regional and national levels. This data set is intended for a mixed audience of specialists and non-specialists alike who have a need for general, non-technical information about significant U.S. earthquakes.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:1,000,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>15680000-19960901</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1568-1989</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>1638-1970</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>19900101-19960901</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.799561</westbc>
+        <eastbc>179.999420</eastbc>
+        <northbc>65.989418</northbc>
+        <southbc>17.367044</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>point</themekey>
+        <themekey>earthquakes</themekey>
+        <themekey>historic earthquakes</themekey>
+        <themekey>deaths</themekey>
+        <themekey>property damage</themekey>
+        <themekey>geological effects</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>U.S. Virgin Islands</placekey>
+        <placekey>Canada</placekey>
+        <placekey>Mexico</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1568-1996</tempkey>
+        <tempkey>1568-1989</tempkey>
+        <tempkey>1638-1970</tempkey>
+        <tempkey>1990-1996</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Afiliates for use on Harvard owned computers.  The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD-ROMs for use with ESRI(r) software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD-ROMs. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.  The redistribution rights for this data set: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.  The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD-ROMs.  Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.  Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.  THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.  EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.  IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.  Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.  In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded.   Outside the United States- Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.    For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Windows NT Version 5.0 (Build 2195) ; ESRI ArcInfo 8.1.0.515</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The attribute table was scanned for unreasonable attribute values of depth, magnitude, number of casualties, and damage amounts.</attraccr>
+    </attracc>
+    <logic>This data set contains information arrived at by either or both quantitative (i.e. instrumental) and qualitative (i.e. historical) methods.  Earthquakes that occurred prior to seismographs are known only from written records, which often may provide contradictory information that has to be carefully examined and weighed.  Once seismographs were introduced and became more common in the early 1900's, the origin time and location were both more precisely and accurately determined but the compilation and evaluation of intensity reports was and still is a process that involves considerable subjectivity.  As a result, all attributes associated with a given earthquake should be considered provisional and subject to further revision.  No duplicate features are present.  The shapefile is exported using Avenue request ExportClean.  This request verifies and enforces the correctness of shapes.</logic>
+    <complete>This data set contains information on significant, historical earthquakes that caused deaths, property damage, geological effects, or that were experienced by populations in the epicentral area, for the United States, Puerto Rico, and the U.S. Virgin Islands.  These data are limited to the best estimates of earthquake locations and attributes such as magnitude and maximum intensity, brief descriptions of the earthquake, and in some cases, illustrations and maps showing the extent of the earthquake effects.  After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was calculated from latitude/longitude coordinates. For recent earthquakes, 100 meters is the nominal precision of the reported coordinate values but accuracy is significantly less. For recent earthquakes, accuracy depends upon numerous factors including imprecision of the velocity model of the earth, uneven distribution of seismic stations, and imprecisions in the computational algorithm.  For earlier earthquakes, accuracy drops considerably more.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Although depths are reported to the nearest 1 km, the accuracy for recent earthquakes is considerably less owing to uncertainties in the velocity model of the earth, uneven distribution of seismic stations, and imprecisions in the computational algorithm.   For earlier earthquakes, accuracy drops considerably more.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Atlas of the United States and the United States Geological Survey</origin>
+            <pubdate>19990809</pubdate>
+            <title>nationalatlas.gov(tm) -Significant and Historic Earthquakes</title>
+            <geoform>vector digital data</geoform>
+            <serinfo/>
+            <pubinfo>
+              <pubplace>Reston, Virginia, USA</pubplace>
+              <publish>United States Geological Survey</publish>
+            </pubinfo>
+            <onlink>http://www.nationalatlas.gov/atlasftp.html</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>1568-1989</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>1638-1970</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>19900101-19960901</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>National Atlas</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>M. Hopper transferred the significant and historic earthquake data from Stover and Coffman 1993 to entries in the FileMaker Pro database program for Macintosh (Claris).  Considerable editing of the file, including spell checking, was done in FileMaker Pro.  The data set was reduced to include just those earthquakes that had a Modified Mercalli (MM) intensity of VI or greater or magnitude 7.0 or greater in Alaska.  The data set was supplemented with damaging earthquakes that were not listed in Stover and Coffman 1993.  These additional events were principally located in adjacent Mexican States, Canadian Provinces, and in the Caribbean near Puerto Rico and the U.S. Virgin Islands.  The data set was additionally supplemented with large and (or) damaging earthquakes that met the selection criteria of the earlier process steps, for the period 1990 through September 1996 from the online data archive of the National Earthquake Information Center (http://wwwneic.cr.usgs.gov/neis/epic/epic.html) in early 1997.  Since recent earthquake data are sometimes revised due to new processing methods and additional input data, the earthquake parameters currently reported in the data archive for the period 1990 through September 1996 may differ slightly from the parameters used in this data set.  The file was exported from File Maker Pro on the Macintosh to the UNIX platform. The data file was converted into an ARC/Info point coverage using TRANSLATOR.AML; the attributes were transferred at the same time. The coverage was loaded into ArcView and converted to Shapefile format.</procdesc>
+        <procdate>1999</procdate>
+        <srcprod>National Atlas</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Downloaded the ArcView Shapefile version of the data, quksigx020.tar.gz, from http://www.nationalatlas.gov/atlasftp.html and extracted it.  Removed unneeded attributes.  Aggregated features based on attributes.  Created ArcGIS(tm) layer file (.lyr).  Created ArcView legend file (.avl).  Created projection file (.prj).  Ran ArcView Avenue request ExportClean, and created spatial indices.</procdesc>
+        <srcused>National Atlas</srcused>
+        <procdate>20000817</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Source shape files were loaded into SDE using the shp2sde command by the HGL team.  Spatial reference options -180,-90,1000000.</procdesc>
+        <srcused>GDT Dynamap/2000 v7.3</srcused>
+        <procdate>20010715</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>1264</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <depthsys>
+        <depthdn>Mean sea level</depthdn>
+        <depthres>1</depthres>
+        <depthdu>kilometers</depthdu>
+        <depthem>Attribute values</depthem>
+      </depthsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>quakehis</enttypl>
+        <enttypd>The points represent earthquakes within or near to the United States that caused deaths, property damage, or geological effects, or that were experienced by populations in the epicentral area.</enttypd>
+        <enttypds>National Atlas of the United States and the United States Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>The two-letter abbreviation for the state in which the earthquake occurred.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology; United States Geological Survey</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards 5-2</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>BC</edomv>
+            <edomvd>Province of British Columbia, Canada</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>BN</edomv>
+            <edomvd>State of Baja California del Norte, Mexico</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>NB</edomv>
+            <edomvd>Province of New Brunswick, Canada</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>NF</edomv>
+            <edomvd>Province of Newfoundland, Canada</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>ON</edomv>
+            <edomvd>Province of Ontario, Canada</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>PQ</edomv>
+            <edomvd>Province of Quebec, Canada</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+          <edom>
+            <edomv>SN</edomv>
+            <edomvd>State of Sonora, Mexico</edomvd>
+            <edomvds>National Atlas of the United States and the United States Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEPTH</attrlabl>
+        <attrdef>The depth of focus in kilometers of the earthquake.  A value of 0 may indicate the depth is not known.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEATHS</attrlabl>
+        <attrdef>The deaths attributed to the earthquake, either directly or indirectly.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DAMAGE</attrlabl>
+        <attrdef>The direct cost of the earthquake in U.S. dollars for the year of the earthquake.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MAG</attrlabl>
+        <attrdef>The maximum magnitude of the earthquake.  The maximum magnitude is the greatest of the body wave magnitude, surface wave magnitude, or local magnitude defined for the region.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Numbers for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MMI</attrlabl>
+        <attrdef>The modified Mercalli Intensity of the earthquake, where the integer value represents the Roman numeral designation of the MMI intensity.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Not felt except by a very few under especially favorable circumstances.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Felt only by a few persons at rest, especially on upper floors of buildings.  Delicately suspended objects may swing.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Felt quite noticeably by persons indoors, especially on upper floors of buildings.  Many people do not recognize it as an earthquake.  Standing motorcars may rock slightly.  Vibration similar to the passing of truck.  Duration estimated.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Felt indoors by many, outdoors by few during the day. At night, some awakened.  Dishes, windows, doors disturbed; walls make cracking sound.  Sensation like heavy truck striking building.  Standing motorcars rocked noticeably.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Felt by nearly everyone; many awakened.  Some dishes, windows broken.  Unstable objects overturned. Pendulum clocks may stop.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>6</edomv>
+            <edomvd>Felt by all; many frightened.  Some heavy furniture moved; a few instances of fallen plaster.  Damage slight.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Damage negligible in building of good design and construction; slight to moderate in well-built ordinary structures; considerable damage in poorly built or badly designed structures; some chimneys broken.  Noticed by persons driving motorcars.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>8</edomv>
+            <edomvd>Damage slight in specially designed structures; considerable in ordinary substantial buildings with partial collapse.  Damage great in poorly built structures.  Fall of chimneys, factory stacks, columns, monuments, and walls.  Heavy furniture overturned.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>Damage considerable in specially designed structures; well-designed frame structures thrown out of plumb. Damage great in substantial buildings, with partial collapse.  Buildings shifted off foundations.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations.  Rails bent.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>11</edomv>
+            <edomvd>Few, if any (masonry) structures remain standing. Bridges destroyed.  Rails bent greatly.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>Damage total. Lines of sight and level distorted. Objects thrown into the air.</edomvd>
+            <edomvds>Paraphrased from Stover and Coffman (1993), p. 6 - 7.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOCATION</attrlabl>
+        <attrdef>The name of the town, city, physical feature, or other describable location nearest to the occurrence.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>YEAR</attrlabl>
+        <attrdef>The year of the occurrence.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1568</rdommin>
+            <rdommax>1996</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MONTH</attrlabl>
+        <attrdef>The month of the occurrence; 0 is used when the month is not known.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>12</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DAY</attrlabl>
+        <attrdef>The day of the month of the occurrence; 0 is used when the day is not known.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>31</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HOUR</attrlabl>
+        <attrdef>The hour of day of the occurrence, on a 24-hour clock.  A value of 0 may indicate the hour is not known.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>23</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MINUTE</attrlabl>
+        <attrdef>The minute of the hour of occurrence.  A value of 0 may indicate the minute is not known.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>59</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SECOND</attrlabl>
+        <attrdef>The second of the minute of occurrence.  A value of 0 may indicate the second is not known.</attrdef>
+        <attrdefs>National Atlas of the United States and the United States Geological Survey</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00</rdommin>
+            <rdommax>59.90</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>OIS</address>
+          <address>1280 Mass Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+      </cntinfo>
+    </distrib>
+    <distliab>See use constraints.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <filedec>Downloaded file is Zipped</filedec>
+          <transize>0.353</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20001030</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>OIS</address>
+          <address>1280 Mass Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

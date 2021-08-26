@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nk-rrstnpt",
+  "dc_title_s": "Railroad Stations - North Korea",
+  "dc_description_s": "A point coverage which represents railroad (railway) stations throughout North Korea. Stations are named in Hangul (the Korean syllabary) and in Unofficial, Official, and Yale romanization systems, and often have names identical to nearby settlements. Railroard routes appear in a separate coverage (Railroads - North Korea).",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NK_RRSTNPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NK_RRSTNPT",
+  "layer_slug_s": "harvard-nk-rrstnpt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-09-24T00:00:00Z",
+  "dc_creator_sm": [
+    "Asia Pacific Spatial Data Project (APSDP), formerly ACASIAN or Australian Centre of the Asian Spatial Information and Analysis Network"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "structure",
+    "transportation",
+    "Railroads",
+    "Railroad Stations",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "North Korea",
+    "Democratic People's Republic of Korea"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(124.386682, 130.634561, 42.977552, 37.804836)",
+  "solr_year_i": 1998,
+  "harvard_collectionID_sm": [
+    "990083995500203941"
+  ]
+}

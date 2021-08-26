@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nk-adm2py",
+  "dc_title_s": "Administrative Regions, Level Two - North Korea",
+  "dc_description_s": "This layer contains the administrative boundaries and regions for ADM2 shi and kun (Municipalities and Districts - the same Korean term is used at both ADM1 and ADM2 levels) of North Korea. These boundary data were compiled from a variety of published map sources in Korean, Chinese, and English with various dates of publication, but are all current to 1998. The internal boundary data are fitted to the Digital Chart of the World coastlines and international boundaries (ponet).",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NK_ADM2PY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NK_ADM2PY",
+  "layer_slug_s": "harvard-nk-adm2py",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Asia Pacific Spatial Data Project (APSDP), formerly ACASIAN or Australian Centre of the Asian Spatial Information and Analysis Network"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Administrative divisions",
+    "Political divisions",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "North Korea",
+    "Democratic People's Republic of Korea"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(124.188637, 130.674866, 43.006042, 37.673336)",
+  "solr_year_i": 1998,
+  "harvard_collectionID_sm": [
+    "990083995500203941"
+  ]
+}

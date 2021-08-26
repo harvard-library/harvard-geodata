@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95argrppy",
+  "dc_title_s": "Census Block Groups, 1995 - Arkansas",
+  "dc_description_s": "The polygons represent U.S. Census block groups within Arkansas. A block group (BG) is a cluster of census blocks having the same first digit of their four-digit identifying numbers within a census tract. For example, block group 3 (BG 3) within a census tract includes all blocks numbered from 3000 to 3999. BGs generally contain between 600 and 3,000 people, with an optimum size of 1,500 people. BGs on American Indian reservations, off-reservation trust lands, and special places must contain a minimum of 300 people. (Special places include correctional institutions, military installations, college campuses, worker's dormitories, hospitals, nursing homes, and group homes.) Most BGs were delineated by local participants as part of the U.S. Census Bureau's Participant Statistical Areas Program. The U.S. Census Bureau delineated BGs only where a local, state, or tribal government declined to participate or where the U.S. Census Bureau could not identify a potential local or tribal participant. BGs never cross the boundaries of states, counties, or statistically equivalent entities, except for a BG delineated by American Indian tribal authorities, and then only when tabulated within the American Indian hierarchy. BGs never cross the boundaries of census tracts, but may cross the boundary of any other geographic entity required as a census block boundary.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95ARGRPPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95ARGRPPY",
+  "layer_slug_s": "harvard-tg95argrppy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-30T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Population",
+    "Demography"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-94.617919, -89.646371, 36.499619, 33.004106)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

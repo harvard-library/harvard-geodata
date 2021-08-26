@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95ilwatpy",
+  "dc_title_s": "Census Water Bodies, 1995 - Illinois",
+  "dc_description_s": "This datalayer displays water bodies throughout the state. This category includes lakes, ponds, bays, rivers, reservoirs and other water features. Predominant features represented in this layer have Census Feature Class Codes (CFCCs) of: H01 (Shoreline of perennial water feature); H11 (Perennial stream or river); H12 (Intermittent stream, river, or wash); H21 (Perennial canal, ditch, or aqueduct); H31 (Perennial lake or pond); H51 (Bay, estuary, gulf, or sound). The Feature Name attribute further identifies water bodies as rivers, creeks, branches, forks, etc.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95ILWATPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95ILWATPY",
+  "layer_slug_s": "harvard-tg95ilwatpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-12-04T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "inlandWaters",
+    "Census",
+    "Hydrography",
+    "Rivers",
+    "Bays",
+    "Ponds",
+    "Lakes",
+    "Shorelines",
+    "Water"
+  ],
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-91.508608, -87.524044, 42.496108, 36.997571)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

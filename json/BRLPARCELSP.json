@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-brlparcelsp",
+  "dc_title_s": "Parcels (Town of Brookline)",
+  "dc_description_s": "This datalayer was developed by the Town's GIS consulting firm, Camp Dresser and McKee, Inc. (CDM) and is a polygon coverage of property lines and associated property information for the Town of Brookline, Massachusetts. Polygons, representing real estate parcels are labeled with a unique identifier comprised of the block, lot and sub-lot numbers found on the assessor's map sheet. Other attributes include: Owner and co-owner names and addresses, deed information, parcel size, sales information, zoning, etc.. CDM used AutoCAD, ArcCAD and ARC/INFO software packages to convert the 131 assessor's hard-copy map sheets. Within AutoCAD each assessor's sheet was registered to the Boston Edison Company's landbase GIS data on a block-by-block basis using street intersections, building footprints, and coordinate plan grid points. CDM has also generated a block-lot-sublot parsing routine to create unique parcel identifiers from the Assessor's Computer-Aided Mass Appraisal (CAMA) database. The CAMA database has over 15,000 records and contains attribute information about each parcel in the town. Mismatches between the GIS parcels and the CAMA database have been researched and reconciled by the joint effort of CDM, Brookline GIS staff, and staff from the Assessor's Office and the Engineering Department.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BRLPARCELSP.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:BRLPARCELSP",
+  "layer_slug_s": "harvard-brlparcelsp",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-09-09T00:00:00Z",
+  "dc_creator_sm": [
+    "Brookline GIS Information Technologies Department",
+    "Camp Dresser and McKee, Inc. (CDM)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "planningCadastre",
+    "Municipal",
+    "Real property",
+    "City planning",
+    "Housing",
+    "Urban land use"
+  ],
+  "dct_spatial_sm": [
+    "Brookline",
+    "Massachusetts"
+  ],
+  "dct_issued_s": "1997",
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_geom": "ENVELOPE(-71.178836, -71.105974, 42.351762, 42.294726)",
+  "solr_year_i": 1997,
+  "harvard_collectionID_sm": [
+    "990083550800203941"
+  ]
+}

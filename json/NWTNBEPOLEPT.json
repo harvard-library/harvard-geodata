@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnbepolept",
+  "dc_title_s": "Utility Poles - City of Newton",
+  "dc_description_s": "This data layer contains point locations representing Boston Edison's (now known as NSTAR) utility poles throughout the City of Newton.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NWTNBEPOLEPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NWTNBEPOLEPT",
+  "layer_slug_s": "harvard-nwtnbepolept",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-09-27T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS",
+    "Boston Edison Co. (BECo.)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "utilitiesCommunication",
+    "Municipal",
+    "Public utilities",
+    "Electric Lines",
+    "Poles",
+    "Towers"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "solr_geom": "ENVELOPE(-71.269093, -71.153908, 42.369692, 42.287291)",
+  "solr_year_i": 1991,
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

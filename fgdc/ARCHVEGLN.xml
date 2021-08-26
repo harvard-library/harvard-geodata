@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Bureau of Surveying and Mapping (NBSM)</origin>
+        <origin>National Geomatics Centre of China</origin>
+        <origin>Environmental Systems Research Institute (ESRI)</origin>
+        <pubdate>1998</pubdate>
+        <title>Windbreak Forests (Digital Map Database of China)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Beijing, PRC</pubplace>
+          <publish>National Bureau of Surveying and Mapping (NBSM)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-archvegln</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polyline coverage contains vegetation data, such as windbreak forests and small forested areas throughout China.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and to provide users with geographic data for cartography, environmental monitoring, management and impact analysis, economic analysis and other types of geographic analysis.
+These data can be used with geographic information systems (GIS) software to display and analyze information on land cover and associated areas of interest, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19800101</begdate>
+          <enddate>19950101</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>80.951332</westbc>
+        <eastbc>126.997070</eastbc>
+        <northbc>47.990967</northbc>
+        <southbc>22.680815</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Forests</themekey>
+        <themekey>Vegetation</themekey>
+        <themekey>Landscape</themekey>
+        <themekey>Land use</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>China</placekey>
+        <placekey>People's Republic of China</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only.</accconst>
+    <useconst>For non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Bureau of Surveying and Mapping (NBSM)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>9 Sanlihe Road, Baiwanzhuang</address>
+          <city>Beijing</city>
+          <postal>100830</postal>
+          <country>People's Republic of China</country>
+        </cntaddr>
+        <cntvoice>86-10-68346614</cntvoice>
+        <cntfax>86-10-68311564</cntfax>
+        <cntemail>fanbsm@public.bta.net.cn</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The names of populated places, mountains and streams in the DMDC are represented by both Chinese characters and Pinyin.  Generally the NAME item is used to store Chinese characters and the PYNAME item stores the Pinyin in the attribute tables.
+The features of administrative areas, culture, hydrography, hypsography, land cover and ocean have annotations in the DMDC which can be represented by both Chinese characters and Pinyin.  These are annotated as 'CH' and 'PY' respectively.
+NOTE: Chinese characters may not display properly on machines without the proper character sets installed. Encoding of the Chinese characters is GBK Simplified.</attraccr>
+    </attracc>
+    <logic>Coincident Features:
+There are coincident features in the DMDC datalayers.  For example, streams and coastlines coincide with boundaries.
+Minimum Areal Features:
+When the area of a polygon is less than 1.5 square millimeters on the 1:1,000,000-scale map, it is represented as a point feature and its code remains the same.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>Line Connectivity and Polygon Closure:
+Some linear and polygonal features that do not contain the necessary connectivity in the original 1:1,000,000-scale map are connected in the DMDC.  For example, roads are connected in DMDC when they are split by symbols or place names on the map, and double-line streams are closed in DMDC where they meet the ocean.
+Edgematching:
+Generally features along tile edges have been matched.  However, in some cases no edgematching was attempted because the original 1:1,000,000-scale maps were compiled in different periods and severe feature offsets do occur.  For example, this offset can be found in some vegetation features and 100-meter supplementary contours.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Bureau of Surveying and Mapping (NBSM)</origin>
+            <title>1:1,000,000 Scale Topographic Map of China</title>
+            <serinfo>
+              <sername>National Essential Topographic Map Series</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Beijing, PRC</pubplace>
+              <publish>National Bureau of Surveying and Mapping (NBSM)</publish>
+            </pubinfo>
+            <othercit>Each map sheet covers six degrees longitude by four degrees latitude.
+The 1:1,000,000-scale map series is the smallest National Essential Topographic Map Series in China, which comprehensively depicts the natural, social and economic situation in China and forms a relevant geographic base for many uses.</othercit>
+            <lworkcit>
+              <citeinfo/>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>paper</typesrc>
+        <srccitea>none</srccitea>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>Unknown</pubdate>
+            <title>Categories and Codes of National Land Information</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srccitea>none</srccitea>
+        <srccontr>Nationally standardized codes for features described in this database</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The production process included preparation, digitization, editing, establishment of typology, input of attributes, projection transformation, edge matching, code conversion and creation of the database. Each step was verified.  
+The data production was finished in the environment of a VAX mini-computer using ARC/INFO 4.0.  Features such as hydrography and hypsography were scanned using a Tektronix 4991 scanner. Other features were manually digitized using Calcomp 9100 digitizing boards.
+After the edge-matching process, all data were moved to a SUN SPARC processing environment using ARC/INFO 7.0. Then the attributes were translated from temporary code to the national standard code according to "Classifications and Codes of National Land Information." Readjustments and further editing of some codes and layers were performed when necessary.
+After the transformation of coordinates to the geographic coordinate system, the data was entered into the final database.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>National Bureau of Surveying and Mapping (NBSM)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>9 Sanlihe Road, Baiwanzhuang</address>
+              <city>Beijing</city>
+              <postal>100830</postal>
+              <country>PRC</country>
+            </cntaddr>
+            <cntvoice>86-10-68346614</cntvoice>
+            <cntfax>86-10-68311564</cntfax>
+            <cntemail>fanbsm@public.bta.net.cn</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited.</procdesc>
+        <procdate>20020822</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <cntinst/>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>544</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Huanghai Sea-level Datum (1956)</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+      <depthsys>
+        <depthdn>Theoretic Depth Datum</depthdn>
+        <depthem>Explicit depth coordinate included with horizontal coordinates</depthem>
+      </depthsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Windbreak Forests</enttypl>
+        <enttypd>ESRI Shapefile.  Lines represent windbreak forests</enttypd>
+        <enttypds>NBSM, ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Internal node number for the left polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Internal node number for the right polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Internally calculated length of feature in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEGLK_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>VEGLK_ID</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GEO_CODE</attrlabl>
+        <attrdef>Vegetation type code</attrdef>
+        <attrdefs>NBSM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>83012</edomv>
+            <edomvd>Windbreak forest</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute defines the vector data as either a point, polyline, or polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Polyline</edomv>
+            <edomvd>A polyline is a single geometric segment defined by two points.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library Team</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <cntinst/>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.  http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020904</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

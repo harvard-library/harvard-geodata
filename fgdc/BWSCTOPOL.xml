@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+  <idinfo>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) ; ESRI ArcCatalog 8.1.0.642</native>
+    <descript>
+      <abstract>Contour information compiled from photogrammetric survey.  2 foot interval.</abstract>
+      <purpose>Compiled as part of a planimetric basemap for assessing and planning water and sewer infrastructure</purpose>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>Boston Water and Sewer Commission</origin>
+        <pubdate>1996</pubdate>
+        <title>Contours</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-bwsctopol</onlink>
+        <pubtime>Unknown</pubtime>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>1996</caldate>
+          <time>unknown</time>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.191928</westbc>
+        <eastbc>-71.037277</eastbc>
+        <northbc>42.300467</northbc>
+        <southbc>42.277996</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>elevation</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Contours</themekey>
+        <themekey>terrain</themekey>
+        <themekey>topographic</themekey>
+      </theme>
+      <place>
+        <placekey>Boston</placekey>
+      </place>
+    </keywords>
+    <accconst>For academic use by harvard community only.</accconst>
+    <useconst>For academic use by harvard community only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntemail>hgl@harvard.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Boston Water and Sewer Comission</datacred>
+  </idinfo>
+  <metainfo>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper>Data Team</cntper>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <address>1280 Massachusetts Avenue</address>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>none</cntvoice>
+        <cntemail>hgl@harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metd>20010910</metd>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="topo1">
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>138564</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed Name="topo1">
+      <enttyp>
+        <enttypl>topo1</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <atnumdec>3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl>TOPO1_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOPO1_ID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE_ID</attrlabl>
+        <atnumdec>3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl>FEATURE_CO</attrlabl>
+        <attrdef>Feature Code</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Z_VALUE</attrlabl>
+        <attrdef>Elevation  (Feet above sea level)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LINE_X</attrlabl>
+        <atnumdec>3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl>LINE_Y</attrlabl>
+        <atnumdec>3</atnumdec>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <transize>138.994</transize>
+          <dssize>138.994</dssize>
+          <formname>SHP</formname>
+          <formspec>Compressed ZIP format</formspec>
+        </digtinfo>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>HGL Data Team</cntorg>
+            </cntorgp>
+            <cntemail>hgl.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+        <procdesc>Converted from coverage to shape file, reprojected to decimal degrees, and uploaded to ArcSDE80</procdesc>
+        <procdate>August 2001</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+</metadata>

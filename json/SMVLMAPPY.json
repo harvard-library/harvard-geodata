@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-smvlmappy",
+  "dc_title_s": "Map (City of Somerville)",
+  "dc_description_s": "Map of Somerville, Massachusetts. A polygon datalayer created by automating the map boundaries based on the rights-of-way created from Boston Edison's ( BECo) data road centerline.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMVLMAPPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:SMVLMAPPY",
+  "layer_slug_s": "harvard-smvlmappy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Camp, Dresser & McKee",
+    "City of Somerville Assessing Department"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Municipal",
+    "Cartography",
+    "City planning",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Somerville",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.134742, -71.072298, 42.418129, 42.372537)",
+  "harvard_collectionID_sm": [
+    "990084920020203941"
+  ]
+}
