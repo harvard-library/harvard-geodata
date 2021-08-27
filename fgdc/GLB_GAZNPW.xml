@@ -64,7 +64,7 @@ The USGS Global GIS database contains a wealth of USGS and other public domain d
       <bounding>
         <westbc>-179.983337</westbc>
         <eastbc>-0.003611</eastbc>
-        <northbc>90.966667</northbc>
+        <northbc>90.0</northbc>
         <southbc>-78.000000</southbc>
       </bounding>
     </spdom>

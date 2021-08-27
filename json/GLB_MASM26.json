@@ -44,7 +44,7 @@
     "Global GIS : global coverage",
     "U.S. Geological Survey digital data series"
   ],
-  "solr_geom": "ENVELOPE(-178.7333, 190.0333, 80, -58.6942)",
+  "solr_geom": "ENVELOPE(-178.7333, 180, 80, -58.6942)",
   "solr_year_i": 1998,
   "harvard_collectionID_sm": [
     "990100637310203941"
