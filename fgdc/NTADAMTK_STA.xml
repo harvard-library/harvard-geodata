@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Federal Railroad Administration (FRA)</origin>
+        <pubdate>2001</pubdate>
+        <title>Amtrak Stations</title>
+        <edition>4.0</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ntadamtk-sta</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Bureau of Transportation Statistics</origin>
+            <pubdate>2001</pubdate>
+            <title>National Transportation Atlas Database (NTAD)</title>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Amtrak Stations database is a geographic data set containing Amtrak intercity railroad passenger terminals in the United States and Canada.  Attribute data include services and passenger amenities provided at the station.</abstract>
+      <purpose>The data set provides location and attribute information for use in national and regional cartographic and network analysis applications.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20000709</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.213006</westbc>
+        <eastbc>-70.278275</eastbc>
+        <northbc>50.331293</northbc>
+        <southbc>24.552591</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Terminals (transportation)</themekey>
+        <themekey>Transportation</themekey>
+        <themekey>Railroads</themekey>
+      </theme>
+      <theme>
+        <themekt>LCAF</themekt>
+        <themekey>Amtrak</themekey>
+      </theme>
+      <place>
+        <placekt>BGN</placekt>
+        <placekey>United States</placekey>
+        <placekey>Canada</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None. Acknowledgment of the Bureau of Transportation Statistics National Transportation Atlas Database should be cited in products derived from these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Peter A. Kerr</cntper>
+          <cntorg>Federal Railroad Administration</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Office of Policy, RRP-20, Mail Stop 15</address>
+          <address>400 Seventh Street, SW</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20590</postal>
+        </cntaddr>
+        <cntaddr>
+          <addrtype>physical address</addrtype>
+          <address>1120 Vermont Ave. NW</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20005</postal>
+        </cntaddr>
+        <cntvoice>202 493 6396</cntvoice>
+        <cntfax>202 493 6401</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The Federal Railroad Administration compiled the data building on version 3 of these data compiled by Bruce D. Spear and published by the Bureau of Transportation Statistics.</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.1.649</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attribute data were extracted from the station listings in the Spring/Summer 2000 Amtrak National and Summer/Fall 2000 Amtrak Northeast Timetables, and reflect station characteristics as of July 9, 2000.  Additional data, as required, were obtained from earlier year timetables.</attraccr>
+    </attracc>
+    <logic>All point records are represented by a single coordinate pair and a unique feature identifier; the Amtrak Station Code (stored in the FEATURID field). Attribute data can be matched to specific point records using this identifier.</logic>
+    <complete>The database includes all Amtrak railroad and thruway bus stations listed in the Amtrak timetables mentioned above.  Also included are 1) Amtrak railroad stations listed in earlier releases of this database that are now closed and 2) future Amtrak stations that can be identified from either their inclusion in the timetables or published intentions to increase Amtrak service.  Regional commuter railroad stations that are not also served by Amtrak are not included in this version; those stations are currently included in the  Fixed-Guideway Transit Network database.  The database does not include information on passenger boardings; those data are considered to be proprietary by Amtrak.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Stations having valid street addresses were geocoded to 1995 TIGER/Line(TM) street and railroad centerline files. Positional accuracy for those points is consistent with the accuracy of 1995 TIGER/Line(TM) files, or within about 50 meters of their true position.  Stations with ambiguous or incomplete street addresses (and stations located in Canada) were positioned using a combination of street name, nearest railroad centerline, and place name. Positional accuracy for these points may vary from 100 to 1000 meters of their true location.  The PA attribute indicates the estimated 'goodness' of the location.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Bureau of the Census</origin>
+            <pubdate>1996</pubdate>
+            <title>TIGER/Line(TM) 1995</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>TIGER/Line(TM) 1995</srccitea>
+        <srccontr>Reference location base map</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Amtrak</origin>
+            <pubdate>2000</pubdate>
+            <title>Amtrak Spring/Summer National and Summer/Fall Northeast Timetables</title>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>Amtrak</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Amtrak Timetables</srccitea>
+        <srccontr>Passenger station addresses and characteristic attributes</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Each Amtrak railroad or thruway bus station identified in the Amtrak Timetables was initially geocoded based on its street address and ZIP Code, using the  geocoding procedures in TransCAD (TM) software and the TIGER/Line(TM) 1995 street centerline databases.  Stations with ambiguous street addresses were then located using a combination of geographic cues, including location of nearest railroad tracks,  location of Standard Point Location Code (SPLC) place names, location of Census Named Places, and commercial road atlases.  Stations with no street address and stations located in Canada were manually located based on place name and location of nearest railroad service.</procdesc>
+        <srcused>TIGER/Line(TM) 1995</srcused>
+        <srcused>Amtrak Timetables</srcused>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Federal Railroad Administration</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>After completing topological and attribute verification in ArcInfo, the data was converted to shapefile.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>FRA</cntorg>
+            </cntorgp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer</procdesc>
+        <procdate>8/2001</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Original Metadata Production</procdesc>
+        <srcused>Bureau of Transportation Statistics</srcused>
+        <srcused>Metadata Standard Version: FGDC-STD-001-1998</srcused>
+        <procdate>200101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Bureau of Transportation Statistics</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>400 Seventh Street, SW</address>
+              <city>Washington</city>
+              <state>DC</state>
+              <postal>20590</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>1 202 366 DATA</cntvoice>
+            <cntfax>1 202 366 3640</cntfax>
+            <cntemail>answers@bts.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Point</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>923</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000464</latres>
+        <longres>0.000464</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Amtrak Stations</enttypl>
+        <enttypd>ESRI Shapefile</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>VERSION</attrlabl>
+        <attrdef>Version Number is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed.</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>01</rdommin>
+            <rdommax>99</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REVISION</attrlabl>
+        <attrdef>A 2-digit number will be incremented individually for each record whenever a change is made to one of its fields.</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00</rdommin>
+            <rdommax>99</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MODDATE</attrlabl>
+        <attrdef>Modification date indicates when each record in the database was last changed. As changes are made to a record, the modification date is entered in the format 'yyyymmdd'.</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <udom>The MODDATE values will be date values indicating the last time a record was edited or modified.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>POINTID</attrlabl>
+        <attrdef>PointID is a sequential unique integer assigned to each record.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <udom>The domain includes all possible integers.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FEATUREID</attrlabl>
+        <attrdef>Amtrak station code - a unique three character identifier assigned to the Amtrak station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Amtrak City Code List</codesetn>
+            <codesets>Amtrak</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attrdef>The longitude of the point in decimal degrees with six implied decimal places</attrdef>
+        <attrdefs>BTS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE</attrlabl>
+        <attrdef>The latitude of the point in decimal degrees with six implied decimal places</attrdef>
+        <attrdefs>BTS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DESCRIPT</attrlabl>
+        <attrdef>Amtrak station name</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STFIPS</attrlabl>
+        <attrdef>Two digit State FIPS Code</attrdef>
+        <attrdefs>FIPS Pub 6-4</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard</codesetn>
+            <codesets>FIPS Pub 6-4</codesets>
+          </codesetd>
+        </attrdomv>
+        <attrvai>
+          <attrvae>31 records could not be matched.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>STR_ADDRES</attrlabl>
+        <attrdef>Street address of station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrvai>
+          <attrvae>Earlier timetables were used to obtain some addresses.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>CITY</attrlabl>
+        <attrdef>Name of city where station is located</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State railroad abbreviation which follows the Postal abbreviation and includes Canadian Provinces and Mexican States.</attrdef>
+        <attrdefs>Official Railroad Station List, OPSL 6000-U</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZIPCODE</attrlabl>
+        <attrdef>Postal ZIP Code for station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>National ZIP Code and Post Office Directory</codesetn>
+            <codesets>U.S. Postal Service</codesets>
+          </codesetd>
+        </attrdomv>
+        <attrdomv>
+          <codesetd>
+            <codesetn>National ZIP Code and Post Office Directory</codesetn>
+            <codesets>Canada Post</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attrdef>Station status in 2000</attrdef>
+        <attrdefs>Federal Railroad Administration (FRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ACTIVE</edomv>
+            <edomvd>Open</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>BUS</edomv>
+            <edomvd>Served by a thruway bus not a train</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>BUS/SEASON</edomv>
+            <edomvd>Service provided by a thruway bus in certain seasons only</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>CLOSED</edomv>
+            <edomvd>Station Closed</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>CONNECTING</edomv>
+            <edomvd>Service provided by a VIA Rail Canada Service operated train connecting with an Amtrak train.</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>FERRY/BUS</edomv>
+            <edomvd>Service provided by a combination of ferry and bus</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>FUTURE</edomv>
+            <edomvd>Service to be provided by train at a date to be announced</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>FUTURE/BUS</edomv>
+            <edomvd>Service to be provided by thruway bus at a date to be announced</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>SEASONAL</edomv>
+            <edomvd>Seasonal service.</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RR1</attrlabl>
+        <attrdef>Operator of Amtrak service at that point</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>"    "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>BUS</edomv>
+            <edomvd>Service provided by a thruway bus.</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>4-character code</edomv>
+            <edomvd>The Association of American Railroads' Rule 260 four character reporting/identification mark of the railroad providing train operations for Amtrak at that station.</edomvd>
+            <edomvds>AAR</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RR2</attrlabl>
+        <attrdef>First additional operator of Amtrak service at that station.</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>"    "</edomv>
+            <edomvd>No additional provider</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>4-character code</edomv>
+            <edomvd>The Association of American Railroads' Rule 260 four character reporting/identification mark of the 1st additional railroad providing train operations for Amtrak at that station.</edomvd>
+            <edomvds>AAR</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RR3</attrlabl>
+        <attrdef>Second additional operator of Amtrak service at that station.</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>"    "</edomv>
+            <edomvd>No additional provider.</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>4-character code</edomv>
+            <edomvd>The Association of American Railroads' Rule 260 four character reporting/identification mark of the 2nd additional railroad providing train operations for Amtrak at that station.</edomvd>
+            <edomvds>AAR</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RR4</attrlabl>
+        <attrdef>Third additional operator of Amtrak service at that station.</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>"    "</edomv>
+            <edomvd>No additional provider</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>4-character code</edomv>
+            <edomvd>The Association of American Railroads' Rule 260 four character reporting/identification mark of the 3rd additional railroad providing train operations for Amtrak at that station.</edomvd>
+            <edomvds>AAR</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RR5</attrlabl>
+        <attrdef>Fourth additional operator of Amtrak service at that station.</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>"    "</edomv>
+            <edomvd>No additional provider</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>4-character code</edomv>
+            <edomvd>The Association of American Railroads' Rule 260 four character reporting/identification mark of the 4th additional railroad providing train operations for Amtrak at that station.</edomvd>
+            <edomvds>AAR</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RR6</attrlabl>
+        <attrdef>Fifth additional operator of Amtrak service at that station.</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>"    "</edomv>
+            <edomvd>No additional provider</edomvd>
+            <edomvds>FRA</edomvds>
+          </edom>
+          <edom>
+            <edomv>4-character code</edomv>
+            <edomvd>The Association of American Railroads' Rule 260 four character reporting/identification mark of the 5th additional railroad providing train operations for Amtrak at that station.</edomvd>
+            <edomvds>AAR</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TICKET_OFF</attrlabl>
+        <attrdef>Ticket office in station.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CHECKED_BA</attrlabl>
+        <attrdef>Station has checked baggage.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>The existence of checked baggage does not imply that all trains serving that station also have checked baggage service.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>BAG_HELP</attrlabl>
+        <attrdef>Station has assistance with luggage available.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HP_ACCESS</attrlabl>
+        <attrdef>Station is wheelchair accessible</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Full - all station facilities are wheelchair accessible.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Partial - wheelchair accessible path exists between street and train platform.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>Not wheelchair accessible.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ENCLOSED_W</attrlabl>
+        <attrdef>Station has enclosed waiting area.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RESTROOMS</attrlabl>
+        <attrdef>Public restrooms in station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>"  "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PAY_PHONES</attrlabl>
+        <attrdef>Public telephones in station.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>"  "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FOOD</attrlabl>
+        <attrdef>Food service facilities in station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>R</edomv>
+            <edomvd>Full service restaurant</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>Snack bar</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>V</edomv>
+            <edomvd>Food vending machines</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>RV</edomv>
+            <edomvd>Full service, vending machines.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>RS</edomv>
+            <edomvd>Full service, snack bar</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>RSV</edomv>
+            <edomvd>Full service, snack bar, vending machines.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>SV</edomv>
+            <edomvd>Snack bar, vending machines</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>Not applicable</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ATM</attrlabl>
+        <attrdef>Automated teller machine in station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHORT_PARK</attrlabl>
+        <attrdef>Short term parking available at station.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Free parking</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>$</edomv>
+            <edomvd>Paid parking</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No parking</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>110 records have unexplained blanks.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>LONG_PARK</attrlabl>
+        <attrdef>Long term parking available at station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>F</edomv>
+            <edomvd>Free parking</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>$</edomv>
+            <edomvd>Paid parking</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No parking</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>111 records have unexplained blanks.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>CAR_RENTAL</attrlabl>
+        <attrdef>Car rental available at station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Rental agency at station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>OC</edomv>
+            <edomvd>Call for service (on call)</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No car rental at station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>110 records have unexplained blanks.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>TAXI</attrlabl>
+        <attrdef>Taxi service available at station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Taxi stand at station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>OC</edomv>
+            <edomvd>Call for service (on call).</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No taxi service</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>110 records have unexplained blanks</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>INTER_BUS</attrlabl>
+        <attrdef>Intercity bus service within two blocks of station.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Intercity bus service within two blocks of station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No nearby service.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRANSIT</attrlabl>
+        <attrdef>Public transit connection at station</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>An unexplained value of 'T' appears in the data.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>CUSTOMS</attrlabl>
+        <attrdef>Customs checkpoint at station.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AMTKEXP</attrlabl>
+        <attrdef>Amtrak Package Express service available.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GREAT_VAC</attrlabl>
+        <attrdef>Amtrak Great Vacations package(s) availabe at the station.</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station.</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SELF_TIX</attrlabl>
+        <attrdef>Quik-Trak ticket machine available for credit/debit ticket sales</attrdef>
+        <attrdefs>Amtrak</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Q</edomv>
+            <edomvd>Quik-Trak machine present</edomvd>
+            <edomvds>Amtrak</edomvds>
+          </edom>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+          </edom>
+          <edom>
+            <edomv>" "</edomv>
+            <edomvd>Not applicable, closed or future station</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SPLC</attrlabl>
+        <attrdef>Standard Point Location Code of the station/city</attrdef>
+        <attrdefs>Official Railroad Station List, OPSL 6000-U</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>000000</edomv>
+            <edomvd>A place holder value for the attribute.</edomvd>
+            <edomvds>Official Railroad Station List</edomvds>
+          </edom>
+          <edom>
+            <edomv>6-character code</edomv>
+            <edomvd>The six digit (in character form) SPLC.</edomvd>
+            <edomvds>Official Railroad Station List</edomvds>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>Only those locations that have a corresponding rail freight station have an SPLC entered</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>NODE</attrlabl>
+        <attrdef>The value of the node in FRA's 1:2 Million scale rail network for the station/city</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>No exact node match exists.</edomvd>
+          </edom>
+          <edom>
+            <edomv>Numeric Value</edomv>
+            <edomvd>The value of the node in the FRA 1:2 Million and 1:100K scale networks corresponding to the station.</edomvd>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>Only those stations which had an exact match with a node were given values.</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>PA</attrlabl>
+        <attrdef>Estimate of positional accuracy</attrdef>
+        <attrdefs>FRA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>100K</edomv>
+            <edomvd>The longitude/latitude were either taken from the previous version of this database or were located manually at the correct street address using the TIGER/line (TM) 95 street and the FRA 1:100K rail networks.</edomvd>
+          </edom>
+          <edom>
+            <edomv>E100</edomv>
+            <edomvd>The location was placed manually using the TIGER/line(TM) 95 street and the FRA 1:100K rail networks, but because the location did not have a specific street address, the location is an estimated or educated guess.</edomvd>
+          </edom>
+          <edom>
+            <edomv>2MIL</edomv>
+            <edomvd>The location of the station station was outside the area covered by the TIGER/line(TM) 95 street and the FRA 1:100K rail networks.  Hence, the station location was placed using the FRA 1:2Million scale networks.</edomvd>
+          </edom>
+          <edom>
+            <edomv>UNKN</edomv>
+            <edomvd>The data for the longitude and latitude were taken from previous versions of this database.  However, there was insufficient information, namely an unidentifiable street address, to allow a definitive review of the placement.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Point</edomv>
+            <edomvd>A "Point" is a combination of two numbers (often a latitude and a longitude) used to represent a location on a surface.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdomv>
+          <udom>The domain includes all possible integers.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <accinstr>Web based distribution only. http:\\hgl.harvard.edu</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020705</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

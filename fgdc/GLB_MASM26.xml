@@ -59,7 +59,7 @@ This layer is intended for researchers, students, and policy makers for referenc
     <spdom>
       <bounding>
         <westbc>-178.733300</westbc>
-        <eastbc>190.033300</eastbc>
+        <eastbc>180.00</eastbc>
         <northbc>80.000000</northbc>
         <southbc>-58.694200</southbc>
       </bounding>

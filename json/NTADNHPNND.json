@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-ntadnhpnnd",
+  "dc_title_s": "National Highway Network Nodes",
+  "dc_description_s": "The National Highway Planning Network is a comprehensive network database of the nation's major highway system. It consists of over 400,000 miles of the nation's highways comprised of Rural Arterials, Urban Principal Arterials and all National Highway System routes. The data set covers the 48 contiguous States plus the District of Columbia, Alaska, Hawaii, and Puerto Rico. The nominal scale of the data set is 1:100,000 with a maximal positional error of ?80 meters.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NTADNHPNND.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:NTADNHPNND",
+  "layer_slug_s": "harvard-ntadnhpnnd",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-07-05T00:00:00Z",
+  "dc_creator_sm": [
+    "Federal Highway Administration, Office of Intermodal and Statewide Programs (HEPS-20)"
+  ],
+  "dc_publisher_s": [
+    "Bureau of Transportation Statistics"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Highways",
+    "Roads",
+    "Highway planning",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_issued_s": "2001",
+  "dct_temporal_sm": [
+    "1992-2001"
+  ],
+  "dct_isPartOf_sm": [
+    "National Transportation Atlas Databases"
+  ],
+  "solr_geom": "ENVELOPE(-176.768534, 179.389562, 71.316258, 17.933096)",
+  "solr_year_i": 1992,
+  "harvard_collectionID_sm": [
+    "990087238870203941"
+  ]
+}

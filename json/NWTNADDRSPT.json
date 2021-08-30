@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nwtnaddrspt",
+  "dc_title_s": "Addresses - City of Newton",
+  "dc_description_s": "This data layer contains point locations representing all known addresses in Newton. Originally the parcel file was used for this purpose. However, the parcel file is limited to providing one address or address range per parcel. A point file can better represent parcels that have multiple addresses on different streets (corner lots) and can also be used to catch common misspellings or streets with missing spaces such as Marymount Rd (instead of Mary Mount Rd). There are 22 duplicate addresses (two properties in different locations, same address) in Newton.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NWTNADDRSPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NWTNADDRSPT",
+  "layer_slug_s": "harvard-nwtnaddrspt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-10-09T00:00:00Z",
+  "dc_creator_sm": [
+    "City of Newton GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "Municipal",
+    "Street addresses",
+    "City planning",
+    "Urban land use",
+    "Real property"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Massachusetts"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(-71.2671, -71.156796, 42.366831, 42.287722)",
+  "solr_year_i": 1998,
+  "harvard_collectionID_sm": [
+    "990089083800203941"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-nk-adm2cappt",
+  "dc_title_s": "Capital Cities, Level Two - North Korea",
+  "dc_description_s": "Point location coverage for administrative capitals of ADM2 shi and kun (Municipalities and Districts) in North Korea.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/NK_ADM2CAPPT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:NK_ADM2CAPPT",
+  "layer_slug_s": "harvard-nk-adm2cappt",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Asia Pacific Spatial Data Project (APSDP), formerly ACASIAN or Australian Centre of the Asian Spatial Information and Analysis Network"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "Cities",
+    "Place names",
+    "Capitals (Cities)",
+    "Land use"
+  ],
+  "dct_spatial_sm": [
+    "North Korea",
+    "Democratic People's Republic of Korea"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "solr_geom": "ENVELOPE(124.389331, 130.398662, 42.944672, 37.910359)",
+  "solr_year_i": 1998,
+  "harvard_collectionID_sm": [
+    "990083995500203941"
+  ]
+}

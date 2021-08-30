@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-brlbuilding",
+  "dc_title_s": "Building Footprints (Town of Brookline)",
+  "dc_description_s": "This map data layer represents the building footprints for the Town of Brookline, Massachusetts. This layer is from Boston Edison Company (BECo.). The original aerial photography was flown between 1990 and 1991 at 1' = 600' negative scale. The building footprints data layer was updated in 1996 with the addition of street addresses by Camp Dresser & McKee, Inc. (CDM), based upon the addresses on the Assessor's map sheets. Digital planimetric data meets National Map Accuracy Standards for 1'=100' (1:1200) mapping.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/BRLBUILDING.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:BRLBUILDING",
+  "layer_slug_s": "harvard-brlbuilding",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Brookline GIS Information Technologies Department",
+    "Camp Dresser McKee (CDM)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "structure",
+    "Municipal",
+    "Real property",
+    "Buildings",
+    "Urban land use",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Brookline",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1990-1991"
+  ],
+  "solr_geom": "ENVELOPE(-71.176242, -71.106102, 42.351743, 42.294781)",
+  "solr_year_i": 1990,
+  "harvard_collectionID_sm": [
+    "990083550800203941"
+  ]
+}

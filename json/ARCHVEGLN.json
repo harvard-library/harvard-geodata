@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-archvegln",
+  "dc_title_s": "Windbreak Forests (Digital Map Database of China)",
+  "dc_description_s": "This polyline coverage contains vegetation data, such as windbreak forests and small forested areas throughout China.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ARCHVEGLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ARCHVEGLN",
+  "layer_slug_s": "harvard-archvegln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-09-04T00:00:00Z",
+  "dc_creator_sm": [
+    "National Bureau of Surveying and Mapping (NBSM)",
+    "National Geomatics Centre of China",
+    "Environmental Systems Research Institute (ESRI)"
+  ],
+  "dc_publisher_s": [
+    "National Bureau of Surveying and Mapping (NBSM)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "biota",
+    "environment",
+    "Forests",
+    "Vegetation",
+    "Landscape",
+    "Land use"
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "People's Republic of China"
+  ],
+  "dct_issued_s": "1998",
+  "dct_temporal_sm": [
+    "1980-1995"
+  ],
+  "solr_geom": "ENVELOPE(80.951332, 126.99707, 47.990967, 22.680815)",
+  "solr_year_i": 1980,
+  "harvard_collectionID_sm": [
+    "990082295310203941"
+  ]
+}

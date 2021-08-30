@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-smvlparcln",
+  "dc_title_s": "Parcel Boundaries (City of Somerville)",
+  "dc_description_s": "This datalayer was developed by the City's GIS consulting firm, Camp Dresser and McKee, Inc. (CDM) and is a polyline coverage of property lines and associated property information for the City of Somerville, Massachusetts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMVLPARCLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:SMVLPARCLN",
+  "layer_slug_s": "harvard-smvlparcln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Camp, Dresser & McKee",
+    "City of Somerville Assessing Department"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "planningCadastre",
+    "Municipal",
+    "Real property",
+    "City planning",
+    "Housing",
+    "Urban land use",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Somerville",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.134742, -71.072298, 42.418129, 42.372537)",
+  "harvard_collectionID_sm": [
+    "990084920020203941"
+  ]
+}

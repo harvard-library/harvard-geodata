@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esrieurrails",
+  "dc_title_s": "ESRI Data & Maps 2000 : Europe Railroads",
+  "dc_description_s": "Europe Railroads represents the railroads of Europe.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRIEURRAILS.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ESRIEURRAILS",
+  "layer_slug_s": "harvard-esrieurrails",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2006-11-15T00:00:00Z",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Railroads",
+    "Transportation",
+    "transportation",
+    "line",
+    "railroads",
+    "rail",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_geom": "ENVELOPE(-9.868500000000001, 66.4683, 69.725, 36.1245)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

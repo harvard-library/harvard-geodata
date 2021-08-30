@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esripatrct",
+  "dc_title_s": "Pennsylvania Tracts",
+  "dc_description_s": "Pennsylvania Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Pennsylvania.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRIPATRCT.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ESRIPATRCT",
+  "layer_slug_s": "harvard-esripatrct",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2000-10-19T00:00:00Z",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Harvard Geospatial Library",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "society",
+    "boundaries",
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Pennsylvania"
+  ],
+  "dct_issued_s": "2000-11-01",
+  "solr_geom": "ENVELOPE(-80.519891, -74.689517, 42.269861, 39.719801)",
+  "solr_year_i": 1999,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

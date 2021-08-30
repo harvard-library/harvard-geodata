@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>World Wildlife Fund</origin>
+        <pubdate>1999</pubdate>
+        <title>wwf_eco</title>
+        <edition>1</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esriwwfeco</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>ESRI, Inc</origin>
+            <pubdate>1999</pubdate>
+            <title>ESRI Data and Maps</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>World Wildlife Fund Ecoregions represent 24,944 defined global ecoregions. Ecoregions are defined as relatively large areas of land or water that share a large majority of their species, dynamics, and environmental conditions.</abstract>
+      <purpose>Dataset was developed for use by GIS software in global or continental scale applications.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1999</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>83.623596</northbc>
+        <southbc>-67.600006</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>ecoregions</themekey>
+        <themekey>biology</themekey>
+        <themekey>biodiversity</themekey>
+        <themekey>environment</themekey>
+      </theme>
+    </keywords>
+    <accconst>Data is licensed to Harvard University affiliates only.  Copyright World Wildlife Fund, Inc.</accconst>
+    <useconst>All uses of the dataset must be attributed to the World Wildlife Fund</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>World Wildlife Fund</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>1250 Twenty-Fourth Street, N.W.</address>
+          <address>P.O. Box 97180</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20090-7180</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntinst>www.esri.com</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Environmental Research Systems Institute, Redlands, CA</datacred>
+    <secinfo>
+      <secsys>none</secsys>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 5; ESRI ArcCatalog 8.1.0.642</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attribute accuracy report not available</attraccr>
+    </attracc>
+    <logic>Logical consistency test descriptions not available</logic>
+    <complete>Completeness report not available</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Positional accurancy report not available</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Positional accurancy report not available</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>NIMA</origin>
+            <pubdate>1992</pubdate>
+            <title>Digital Chart of the World</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+            <onlink>geodesy.harvard.edu</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>1,000,000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DCW</srccitea>
+        <srccontr>Digital Chart of the World was used as the base to derive this dataset.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>This geodataset is from the World Wildlife Fund using ESRI's Digital Chart of the World for the basemap.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <city>Redlands</city>
+              <state>CA</state>
+            </cntaddr>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>24944</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>wwf_eco</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ECOREGION</attrlabl>
+        <attrdef>Ecoregion Name</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MHT_NAME</attrlabl>
+        <attrdef>Major habitat for the ecoregion</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv/>
+      </attr>
+      <attr>
+        <attrlabl>BDI</attrlabl>
+        <attrdef>Biological Distinctiveness Index</attrdef>
+        <attrdefs>WWF</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Globally Outstanding</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Regionally Outstanding</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Bioregionally Outstanding</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Locally Important</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Not Assessed or Unknown</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>THREAT</attrlabl>
+        <attrdef>The degree of threat to the ecoregion</attrdef>
+        <attrdefs>WWF</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Critical</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Endangered</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Vulnerable</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Relatively Stable</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Relatively Intact</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Not Assessed or Unknown</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FINAL</attrlabl>
+        <attrdef>The final assessment of the ecoregion as the estimated threat to the ecoregion over the next 20 years</attrdef>
+        <attrdefs>WWF</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Critical</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Endangered</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Vulnerable</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Relatively Stable</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Relatively Intact</edomvd>
+            <edomvds>WWF</edomvds>
+          </edom>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Not Assessed or Unknown</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Libraries</cntorg>
+          <cntper>Geodesy Project</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Pusey Library</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+        </cntaddr>
+        <cntemail>geodesy.harvard.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>none</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <formspec>ESRI Shape file, compressed</formspec>
+          <filedec>Unzip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>geodesy.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>NONE</fees>
+      <ordering>download from geodesy.harvard.edu</ordering>
+    </stdorder>
+    <custom>none</custom>
+    <techpreq>Internet Explorer 4 or better</techpreq>
+    <availabl>
+      <timeinfo>
+        <sngdate>
+          <caldate>1999</caldate>
+        </sngdate>
+      </timeinfo>
+    </availabl>
+  </distinfo>
+  <metainfo>
+    <metd>20010618</metd>
+    <metrd>none</metrd>
+    <metfrd>none</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Geodesy Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Libraries</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>495-3724</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>none</metac>
+    <metuc>none</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

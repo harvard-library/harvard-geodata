@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95arlkxln",
+  "dc_title_s": "Census Unclassified Line Features, 1995 - Arkansas",
+  "dc_description_s": "This datalayer displays the line features for Arkansas that have not yet been identified or have been classified as unknown. All complete chains, landmarks, and key geographic locations have a code representing their census feature class. Only those GT-polygons associated with an area landmark have a CFCC. Most CFCCs in the feature classification scheme apply only to complete chains. In a few instances, the same feature code may apply to complete chains as well as to point and area landmarks. Only those features required for census operational purposes are classified and inserted into the Census TIGER data base. Therefore, not all features in a county will appear in the TIGER/Line files. Since features are classified with only a single code, a road that also is a boundary will have only the CFCC of a road even though a CFCC for a boundary exists in the classification scheme.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95ARLKXLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95ARLKXLN",
+  "layer_slug_s": "harvard-tg95arlkxln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-10-30T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-94.15527, -92.047308, 35.424088, 33.592201)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

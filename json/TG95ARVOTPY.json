@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95arvotpy",
+  "dc_title_s": "Census Voting Districts, 1995 - Arkansas",
+  "dc_description_s": "This datalayer displays the Voting Districts for Arkansas. A Voting District (VTD) is the generic name for a variety of geographic entities, such as precincts, legislative districts, wards, and election districts, established by state, local, and tribal governments for the purpose of conducting elections. The U.S. Census Bureau first reported data for VTDs following the 1980 census. The 1990 census term voting district replaces the 1980 term election precinct. Because the U.S. Census Bureau requires that VTDs follow boundaries of census blocks, participating states often adjusted the boundaries of the VTDs they submit to conform to pre-established census block boundaries.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95ARVOTPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95ARVOTPY",
+  "layer_slug_s": "harvard-tg95arvotpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-10-31T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Election districts",
+    "Polling places",
+    "Political divisions"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-94.617919, -89.646371, 36.499619, 33.004106)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

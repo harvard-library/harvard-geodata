@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+        <pubdate>20001101</pubdate>
+        <title>Canada and Latin America</title>
+        <edition>2000</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2000</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+        </pubinfo>
+        <othercit>Location: ESRI Data &amp; Maps 2000 (CD 7) \data\backgrnd</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-smusadtl-cnt</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Canada and Latin America represents the boundaries of the mentioned countries.</abstract>
+      <purpose>Canada and Latin America provides political boundaries for those countries. The political boundaries are used as a map background to improve draw performance.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1994</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Matches software update releases</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-141.335903</westbc>
+        <eastbc>-52.614449</eastbc>
+        <northbc>83.113876</northbc>
+        <southbc>14.550547</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Countries</themekey>
+        <themekey>International boundaries</themekey>
+        <themekey>Coastlines</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Canada</placekey>
+        <placekey>Mexico</placekey>
+        <placekey>Latin America</placekey>
+        <placekey>Central America</placekey>
+      </place>
+      <temporal>
+        <tempkt>LCAF</tempkt>
+        <tempkey>1996</tempkey>
+        <tempkey>1998</tempkey>
+        <tempkey>1999</tempkey>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For Non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States:
+Please contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com
+
+Outside the United States: 
+Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>This dataset does not contain attribute vales. It is primarily used for drawing as a background for StreetMap.</attraccr>
+    </attracc>
+    <logic>No duplicate features are present.  The shapefile is created directly from a topologically correct ArcInfo coverage.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was originally extracted from the ArcWorld Supplement database. The positional accuracy is unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+            <pubdate>1996</pubdate>
+            <title>ArcWorld Supplement</title>
+            <edition>1</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo/>
+            <pubinfo>
+              <pubplace>Redlands, California, USA</pubplace>
+              <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>3000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ArcWorld Supplement</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States Department of State, Bureau of Intelligence and Research</origin>
+            <pubdate>Winter 1993/1994</pubdate>
+            <title>Geographic and Global Issues Quarterly</title>
+            <edition>Volume 3, Number 4</edition>
+            <serinfo>
+              <sername>Geographic and Global Issues Quarterly</sername>
+              <issue>Volume 3, Number 4</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>United States Department of State, Bureau of Intelligence and Research</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>Winter 1993/1994</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Geographic and Global Issues</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States Central Intelligence Agency</origin>
+            <pubdate>20000101</pubdate>
+            <title>The World Factbook 2000</title>
+            <edition>2000</edition>
+            <serinfo>
+              <sername>The World Factbook</sername>
+              <issue>2000</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, DC, USA</pubplace>
+              <publish>United States Central Intelligence Agency</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20000101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>CIA Factbook</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Center for Geographic Information and Analysis</origin>
+            <pubdate>199504</pubdate>
+            <title>World Demography Project</title>
+            <pubinfo>
+              <pubplace>Santa Barbara, California, USA</pubplace>
+              <publish>National Center for Geographic Information and Analysis at University of California, Santa Barbara</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1994</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>NCGIA</srccitea>
+        <srccontr>Attribute data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Extracted the features from ESRI Data &amp; Maps 1999 data set. Removed unneeded attributes and features. Created projection file (.prj).  Created spatial indices.</procdesc>
+        <srcused>ArcWorld Supplement</srcused>
+        <srcused>Geographic and Global Issues</srcused>
+        <procdate>19990416</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>ESRI</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York Street</address>
+              <city>Redlands</city>
+              <state>CA</state>
+              <postal>92373-8100</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer</procdesc>
+        <procdate>200108</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Dataset copied.</procdesc>
+        <srcused>Server=mercator.harvard.edu; Service=esri_sdeprod; User=sde; Version=SDE.DEFAULT</srcused>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>1</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>TIM.SMUSADTL_CNT</enttypl>
+        <enttypd>The polygons represent the boundaries for Canada and Latin America.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>CNTRY_NAME</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TIM.SMUSADTL_CNT.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Not applicable.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>No value.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library Team</cntorg>
+        </cntorgp>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>9:00 a.m.-5:00 p.m. Eastern Standard Time, Monday-Friday</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.  http:\\hgl.harvard.edu</ordering>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20020801</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>9:00 a.m.-5:00 p.m. Eastern Standard Time, Monday-Friday</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

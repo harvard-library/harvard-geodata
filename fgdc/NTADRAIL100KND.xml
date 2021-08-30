@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Bureau of Transportation Statistics, comp.</origin>
+        <pubdate>2001</pubdate>
+        <title>National Rail Network 1:100,000 Nodes</title>
+        <edition>Version 2, Release 0</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Washington, DC</pubplace>
+          <publish>Bureau of Transportation Statistics</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ntadrail100knd</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Bureau of Transportation Statistics</origin>
+            <pubdate>2001</pubdate>
+            <title>National Transportation Atlas Databases</title>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>Bureau of Transportation Statistics</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Rail Network is a comprehensive database of the nation's railway system including all railway mainlines, railroad yards, and major sidings in the continental U.S. at the 1:100,000 scale.  The data set covers the 48 contiguous States plus the District of Columbia.</abstract>
+      <purpose>The data set provides location and partial attribute information for use in national and regional network analysis applications.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2000</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete geography, partial attribute information</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.478995</westbc>
+        <eastbc>-66.983820</eastbc>
+        <northbc>49.001646</northbc>
+        <southbc>25.439874</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Rail</themekey>
+        <themekey>Railroads</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For Non-commercial use only. Acknowledgment of the Bureau of Transportation Statistics National Transportation Atlas would be appreciated in products derived from these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Federal Railroad Administration</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>FRA - Mailstop 15</address>
+          <address>1120 Vermont Avenue</address>
+          <city>Washington</city>
+          <state>DC</state>
+          <postal>20590</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1 202 493 6396</cntvoice>
+        <cntfax>1 202 493 6401</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.1.649</native>
+    <crossref>
+      <citeinfo>
+        <origin>Bureau of Transportations Statistics</origin>
+        <pubdate>2001</pubdate>
+        <title>National Rail Network 1:100,000</title>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Bureau of Transportation Statistics</origin>
+        <pubdate>2001</pubdate>
+        <title>National Rail Network 1:2,000,000</title>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The railroad ownership field is complete to approximately mid-2000.
+The FRA reports the following fields as complete:
+Railroad Ownership
+State/County (FIPS5)
+State Code
+FRA Regions
+Link Type (subject to change)
+Passenger Flag
+Abandoned Flag
+Billing Railroads
+Railroad Class
+The FRA reports the following fields as incomplete:
+Signals
+Density Code
+Military Flag - applied only in some states
+Abandonment Year
+Also, the FRA reports that as many nodes as possible have been identified with a name.  There are likely more that are not easily identified. Many nodes in the 1:100,000 scale rail network are 'mapped' to a node in the 1:2,000,000 scale rail network.
+Special note concerning trackage rights: In some cases, a 'short line' railroad may operate on its larger railroad connection(s) as its billing railroad.  For example, the larger railroad(s) treat traffic originating or terminating on the short line as if it were originating or terminating its own line; perform the billing, car reporting, and car tracking; then share the revenue with the short line.  These trackage rights may exist as four, five, or six in the sequence, while one and two remain empty.</attraccr>
+    </attracc>
+    <logic>The network is not topologically connected. There should be no redundancy of lines or nodes in the data set.  The data set is geographically accurate at the 1:100,000 scale.</logic>
+    <complete>See Attribute Accuracy Report</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal accuracy for these data can be stated as being that associated with data compiled at the 1:100,000 scale.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Bureau of the Census</origin>
+            <pubdate>1995</pubdate>
+            <title>TIGER/Line files, US Bureau of the Census</title>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>U.S. Bureau of the Census</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1995</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>TIGER</srccitea>
+        <srccontr>Spatial information for rail network.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200108</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>After completing topological and attribute verification in ArcInfo the data was converted to shapefile.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>129578</ptvctcnt>
+      </sdtsterm>
+      <sdtsterm>
+        <sdtstype>Node</sdtstype>
+        <ptvctcnt>129578</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>SDE.NTADRAIL100KND</enttypl>
+        <enttypd>ESRI Shapefile</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>VERSION</attrlabl>
+        <attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed. In this release the value is "02".</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>01</rdommin>
+            <rdommax>99</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REVISION</attrlabl>
+        <attrdef>The REVISION is a 2-digit number that will be incremented individually for each record whenever a change is made to one of the fields, in this release the value will be no greater than "00".  (Revision numbers will not be reset with each new release.)</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00</rdommin>
+            <rdommax>99</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MODDATE</attrlabl>
+        <attrdef>The MODDATE (or modification date) indicates when each record in the database was last changed.  As changes are made to record, the modification date is entered in the format 'yyyymmdd'.</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <udom>The MODDATE values will be date values indicating the last time a record was edited or modified.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NODEID</attrlabl>
+        <attrdef>Unique Identification for each line</attrdef>
+        <attrdefs>Assigned</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attrdef>The longitude of the node expressed as a signed integer with six implied decimal places</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE</attrlabl>
+        <attrdef>The latitude of the node expressed as a signed integer with six implied decimal places</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>STFIPS</attrlabl>
+        <attrdef>Two digit State FIPS Code</attrdef>
+        <attrdefs>FIPS Pub 6-4</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard</codesetn>
+          </codesetd>
+        </attrdomv>
+        <attrvai>
+          <attrvae>93678 records had undefined blanks</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>JUNCTION</attrlabl>
+        <attrdef>Interchange code - rule 260 Code</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>SPLC</attrlabl>
+        <attrdef>Standard Point Location Code</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name for node - from atlas or timetable</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State Postal Code</attrdef>
+        <attrvai>
+          <attrvae>This field contains numerous incorrect values - CO [zero], CR, GS, M, MK, ON, PL, WM, and blanks</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>F12M_NODE</attrlabl>
+        <attrdef>The number refers to the corresponding node in the 1:2,000,000 scale rail network.  Not every node in the 1:100,000 scale network has a corresponding node in the 1:2,000,000 scale network.</attrdef>
+        <attrdefs>FRA</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute is a data attribute inherent to the ESRI shapefile format.  It defines the vector data as either a point, polyline, or polygon.</attrdef>
+        <attrdefs>ESRI and BTS</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Point</edomv>
+            <edomvd>A "Point" is a combination of two numbers (often a latitude and a longitude) used to represent a location on a surface.</edomvd>
+          </edom>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+      <ordering>Web based distribution only.  http:\\hgl.harvard.edu</ordering>
+    </stdorder>
+    <availabl>
+      <timeinfo>
+        <sngdate/>
+      </timeinfo>
+    </availabl>
+  </distinfo>
+  <metainfo>
+    <metd>20020705</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

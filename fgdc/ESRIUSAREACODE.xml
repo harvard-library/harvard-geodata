@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geographic Data Technology, Inc. (GDT)</origin>
+        <origin>Harvard Geospatial Library</origin>
+        <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+        <pubdate>20001101</pubdate>
+        <title>U.S. Telephone Area Code Boundaries</title>
+        <edition>2000</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2000</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+        </pubinfo>
+        <othercit>Location: ESRI Data &amp; Maps 2000 (CD 2) \usa</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-esriusareacode</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. Telephone Area Code Boundaries represents the telephone area codes for United States. They are also known as Numbering Plan Areas (NPA).</abstract>
+      <purpose>U.S. Telephone Area Code Boundaries provides the telephone area codes of United States for use in telecommunications analysis.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:250,000.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20000701</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-178.227822</westbc>
+        <eastbc>-66.949843</eastbc>
+        <northbc>71.383741</northbc>
+        <southbc>18.910842</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>area codes</themekey>
+        <themekey>telephones</themekey>
+        <themekey>numbering plan areas</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided under the Harvard University Site License.  These data must be used in compliance with the Site License.  This means that the data are only available for Harvard Afiliates for use on Harvard owned computers.  The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD-ROMs for use with ESRI(r) software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD-ROMs. As used herein, "Geodata" shall mean any digital data set consisting of geographic data coordinates and associated attributes.  The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).  Special notice from Geographic Data Technology, Inc. for this data set: This product contains information and/or data of Telcordia Technologies, Inc. (Telcordia) licensed to be included herein.  Recipient acknowledges and agrees that (1) TELCORDIA AND ITS AFFILIATES MAKE NO REPRESENTATIONS, EXTEND NO WARRANTIES OF ANY KIND, EXPRESSED OR IMPLIED, AND ASSUME NO RESPONSIBILITY OR LIABILITY WHATSOEVER WITH RESPECT TO THE USE, SUFFICIENCY OR ACCURACY OF THE PRODUCT, (2) RECIPIENT SHALL MAKE NO CLAIM AGAINST TELCORDIA OR ANY OF ITS AFFILIATES WITH RESPECT TO THE PRODUCT, AND WAIVES ALL CLAIMS AGAINST TELCORDIA OR ANY OF ITS AFFILIATES WITH RESPECT TO THE PRODUCT, (3) IN NO EVENT SHALL TELCORDIA OR ANY OF ITS AFFILIATES BE LIABLE FOR ANY DAMAGES, INCLUDING ANY LOST PROFITS OR OTHER INCIDENTAL OR CONSEQUENTIAL DAMAGES RELATING TO THE PRODUCT, AND, (4) THIS AGREEMENT SHALL BE ENFORCEABLE BY TELCORDIA.  The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD-ROMs.  Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.  Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.  THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.  EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.  IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.  Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.  In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+          <cntper>Data Team</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+        <hours>8:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+        <cntinst>In the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded.   Outside the United States- Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.    For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Telcordia Technologies, Inc.; North American Numbering Plan (Association); Local Exchange Routing Guide</datacred>
+    <native>Windows NT Version 5.0 (Build 2195) ; ESRI ArcInfo 8.1.0.515</native>
+  </idinfo>
+  <dataqual>
+    <logic>No duplicate features are present.  The shapefile is exported using Avenue request ExportClean.  This request verifies and enforces the correctness of shapes.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The horizontal positional accuracy is difficult to determine since the boundaries may follow state, county, city, or other political boundaries. Still other times they may follow streets or other linear features in the database. Since these features are derived from different sources, it is not possible to give a single overall figure for horizontal accuracy.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geographic Data Technology, Inc.</origin>
+            <pubdate>20000701</pubdate>
+            <title>GDT Dynamap/Telecommunication Products 4.2</title>
+            <edition>4.2</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Dynamap(r)/Telecommunication Products</sername>
+              <issue>4.2</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Lebanon, New Hampshire, USA</pubplace>
+              <publish>Geographic Data Technology, Inc</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20000701</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GDT Dynamap/Telecommunication Products 4.2</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The source of the Numbering Plan Areas (NPA) data is both North American Numbering Plan Association (NANPA) and the Local Exchange Routing Guide. We work closely with NANPA to keep these boundaries as accurate as possible.  There is really no source scale since the data is related to us as "a certain Rate Center is within a certain NPA area". The accuracy of the Rate Center and therefore the NPA boundaries is better defined by their position relative to other features. In other words, whether or not the boundary follows a street or a county boundary is the important factor.</procdesc>
+        <procdate>200007</procdate>
+        <srcprod>GDT Dynamap/Telecommunication Products 4.2</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Extracted state data sets from GDT Dynamap/Telecommunication Products 4.2.  Converted Hawaii to North American Datum of 1983 (NAD83).  Merged all states into a national data set. Created ArcGIS(tm) layer file (.lyr).  Created ArcView legend file (.avl).  Created projection file (.prj).  Ran ArcView Avenue request ExportClean, and created spatial indices.</procdesc>
+        <srcused>GDT Dynamap/Telecommunication Products 4.2</srcused>
+        <procdate>20000915</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Source shape files were loaded into SDE using the shp2sde command by the HGL team.  Spatial reference options -180,-90,1000000.</procdesc>
+        <srcused>GDT Dynamap/2000 v7.3</srcused>
+        <procdate>20010715</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>233</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>areacode</enttypl>
+        <enttypd>The polygons represent the telephone area codes within United States.</enttypd>
+        <enttypds>Geographic Data Technology, Inc.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NPA</attrlabl>
+        <attrdef>The telephone area code (Numbering Plan Area (NPA) code).</attrdef>
+        <attrdefs>Geographic Data Technology, Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>201, 202, 203, 205, 206, 207, 208, 209, 210, 212, 213, 214, 215, 216, 217, 218, 219, 225, 228, 229, 231, 240, 248, 252, 253, 254, 256, 262, 267, 270, 281, 301, 302, 303, 304, 305, 307, 308, 309, 310, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 323, 330, 334, 336, 337, 347, 352, 360, 361, 401, 402, 404, 405, 406, 407, 408, 409, 410, 412, 413, 414, 415, 417, 419, 423, 425, 435, 440, 443, 469, 478, 480, 484, 501, 502, 503, 504, 505, 507, 508, 509, 510, 512, 513, 515, 516, 517, 518, 520, 530, 540, 541, 559, 561, 562, 570, 571, 573, 580, 601, 602, 603, 605, 606, 607, 608, 609, 610, 612, 614, 615, 616, 617, 618, 619, 623, 626, 630, 631, 636, 641, 646, 650, 651, 660, 661, 662, 678, 701, 702, 703, 704, 706, 707, 708, 712, 713, 714, 715, 716, 717, 718, 719, 720, 724, 727, 732, 734, 740, 757, 760, 763, 765, 770, 773, 775, 781, 785, 786, 801, 802, 803, 804, 805, 806, 808, 810, 812, 813, 814, 815, 816, 817, 818, 828, 830, 831, 832, 843, 845, 847, 850, 856, 858, 859, 860, 863, 864, 865, 870, 901, 903, 904, 906, 907, 908, 909, 910, 912, 913, 914, 915, 916, 917, 918, 919, 920, 925, 931, 936, 937, 940, 941, 949, 952, 954, 956, 970, 971, 972, 973, 978, 979</edomv>
+            <edomvd>The list of telephone area codes.</edomvd>
+            <edomvds>Geographic Data Technology, Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>The FIPS code (two-digit number) for the state in which the telephone area code is located.</attrdef>
+        <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standards</codesetn>
+            <codesets>National Institute of Standards and Technology</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>The way a new telephone area code is created.</attrdef>
+        <attrdefs>Geographic Data Technology, Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>O</edomv>
+            <edomvd>The new telephone area code is overlaid on the existing telephone area code.</edomvd>
+            <edomvds>Geographic Data Technology, Inc.</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>The new telephone area code is split from the existing telephone area code.</edomvd>
+            <edomvds>Geographic Data Technology, Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BEGINDIAL</attrlabl>
+        <attrdef>The date the telephone area code becomes effective.</attrdef>
+        <attrdefs>Geographic Data Technology, Inc.</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PREVNPA</attrlabl>
+        <attrdef>The telephone area code (Numbering Plan Area (NPA) code) that was used previously for this area.</attrdef>
+        <attrdefs>Geographic Data Technology, Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>201, 203, 205, 206, 209, 210, 212, 213, 214, 215, 216, 281, 301, 303, 305, 310, 312, 313, 314, 315, 317, 318, 404, 405, 407, 408, 409, 410, 412, 414, 415, 423, 501, 502, 503, 504, 508, 510, 512, 513, 515, 516, 601, 602, 606, 609, 610, 612, 614, 615, 616, 617, 619, 703, 704, 708, 713, 714, 717, 718, 770, 801, 803, 804, 805, 810, 813, 817, 818, 904, 908, 910, 912, 913, 914, 916, 919, 941</edomv>
+            <edomvd>The list of previous telephone area codes.</edomvd>
+            <edomvds>Geographic Data Technology, Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ENDDIAL</attrlabl>
+        <attrdef>The date the previous telephone area code expires.</attrdef>
+        <attrdefs>Geographic Data Technology, Inc.</attrdefs>
+        <attrdomv>
+          <udom>Dates for the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>OIS</address>
+          <address>1280 Mass Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+      </cntinfo>
+    </distrib>
+    <distliab>See use constraints.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHP</formname>
+          <filedec>Downloaded file is Zipped</filedec>
+          <transize>23.535</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>To use this data requires software that supports ArcView(r) GIS shapefiles.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20010102</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>OIS</address>
+          <address>1280 Mass Ave</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

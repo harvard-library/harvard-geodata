@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Bureau of Surveying and Mapping (NBSM)</origin>
+        <origin>National Geomatics Centre of China</origin>
+        <origin>Environmental Systems Research Institute (ESRI)</origin>
+        <pubdate>1998</pubdate>
+        <title>Railroads (Digital Map Database of China)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Beijing, PRC</pubplace>
+          <publish>National Bureau of Surveying and Mapping (NBSM)</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-archrailn</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer describes railway routes and railway bridges throughout China represented by lines and annotation.</abstract>
+      <purpose>This transportation data layer documents the railways that link urban and rural areas. It is essential to illustrate and analyze the regional aspects of human-induced land transformations. Applications, such as the exploration of the development of transportation routes and networks and its correlation to key urban growth processes, will be of use to urban and regional planners, policy and decision-makers, earth scientists, and global change researchers.
+
+These data can be used with geographic information systems (GIS) software to display and analyze information on transportation and associated areas of interest, or to provide a basemap to support graphical overlays and analysis with other spatial data</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19800101</begdate>
+          <enddate>19950101</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>84.708038</westbc>
+        <eastbc>133.438461</eastbc>
+        <northbc>53.004581</northbc>
+        <southbc>18.243940</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Railroads</themekey>
+        <themekey>Bridges</themekey>
+        <themekey>Transportation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>China</placekey>
+        <placekey>People's Republic of China</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only.</accconst>
+    <useconst>For non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Bureau of Surveying and Mapping (NBSM)</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>9 Sanlihe Road, Baiwanzhuang</address>
+          <city>Beijing</city>
+          <postal>100830</postal>
+          <country>People's Republic of China</country>
+        </cntaddr>
+        <cntvoice>86-10-68346614</cntvoice>
+        <cntfax>86-10-68311564</cntfax>
+        <cntemail>fanbsm@public.bta.net.cn</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>The names of populated places, mountains and streams in the DMDC are represented by both Chinese characters and Pinyin.  Generally the NAME item is used to store Chinese characters and the PYNAME item stores the Pinyin in the attribute tables.
+The features of administrative areas, culture, hydrography, hypsography, land cover and ocean have annotations in the DMDC which can be represented by both Chinese characters and Pinyin.  These are annotated as 'CH' and 'PY' respectively.
+NOTE: Chinese characters may not display properly on machines without the proper character sets installed. Encoding of the Chinese characters is GBK Simplified.</attraccr>
+    </attracc>
+    <logic>Coincident Features:
+There are coincident features in the DMDC datalayers.  For example, streams and coastlines coincide with boundaries.
+Minimum Areal Features:
+When the area of a polygon is less than 1.5 square millimeters on the 1:1,000,000-scale map, it is represented as a point feature and its code remains the same.</logic>
+    <posacc>
+      <horizpa>
+        <horizpar>Line Connectivity and Polygon Closure:
+Some linear and polygonal features that do not contain the necessary connectivity in the original 1:1,000,000-scale map are connected in the DMDC.  For example, roads are connected in DMDC when they are split by symbols or place names on the map, and double-line streams are closed in DMDC where they meet the ocean.
+Edgematching:
+Generally features along tile edges have been matched.  However, in some cases no edgematching was attempted because the original 1:1,000,000-scale maps were compiled in different periods and severe feature offsets do occur.  For example, this offset can be found in some vegetation features and 100-meter supplementary contours.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Bureau of Surveying and Mapping (NBSM)</origin>
+            <title>1:1,000,000 Scale Topographic Map of China</title>
+            <serinfo>
+              <sername>National Essential Topographic Map Series</sername>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Beijing, PRC</pubplace>
+              <publish>National Bureau of Surveying and Mapping (NBSM)</publish>
+            </pubinfo>
+            <othercit>Each map sheet covers six degrees longitude by four degrees latitude.
+The 1:1,000,000-scale map series is the smallest National Essential Topographic Map Series in China, which comprehensively depicts the natural, social and economic situation in China and forms a relevant geographic base for many uses.</othercit>
+            <lworkcit>
+              <citeinfo/>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>paper</typesrc>
+        <srccitea>none</srccitea>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Ministry of Railroads</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Railroad Names and Codes of People's Republic of China</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srccitea>none</srccitea>
+        <srccontr>Railroad codes and names for DMDC derived from this source.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Bureau of Surveying and Mapping (NBSM)</origin>
+            <pubdate>1997</pubdate>
+            <title>Gazetteer of China</title>
+            <pubinfo>
+              <pubplace>Beijing</pubplace>
+              <publish>China Cartographic Publishing House</publish>
+            </pubinfo>
+            <lworkcit>
+              <citeinfo>
+                <origin>National Bureau of Surveying and Mapping (NBSM)</origin>
+                <pubdate>1997</pubdate>
+                <title>Atlas of the People's Republic of China</title>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </srccite>
+        <typesrc>paper</typesrc>
+        <srccitea>none</srccitea>
+        <srccontr>Romanized Chinese feature toponyms and English equivalents</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The production process included preparation, digitization, editing, establishment of typology, input of attributes, projection transformation, edge matching, code conversion and creation of the database. Each step was verified.  
+The data production was finished in the environment of a VAX mini-computer using ARC/INFO 4.0.  Features such as hydrography and hypsography were scanned using a Tektronix 4991 scanner. Other features were manually digitized using Calcomp 9100 digitizing boards.
+After the edge-matching process, all data were moved to a SUN SPARC processing environment using ARC/INFO 7.0. Then the attributes were translated from temporary code to the national standard code according to "Classifications and Codes of National Land Information." Readjustments and further editing of some codes and layers were performed when necessary.
+After the transformation of coordinates to the geographic coordinate system, the data was entered into the final database.</procdesc>
+        <procdate>Unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>National Bureau of Surveying and Mapping (NBSM)</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>9 Sanlihe Road, Baiwanzhuang</address>
+              <city>Beijing</city>
+              <postal>100830</postal>
+              <country>PRC</country>
+            </cntaddr>
+            <cntvoice>86-10-68346614</cntvoice>
+            <cntfax>86-10-68311564</cntfax>
+            <cntemail>fanbsm@public.bta.net.cn</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited</procdesc>
+        <procdate>20020820</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <cntinst/>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1293</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_Krasovsky_1940</horizdn>
+        <ellips>Krasovsky_1940</ellips>
+        <semiaxis>6378245.000000</semiaxis>
+        <denflat>298.300000</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Huanghai Sea-level Datum (1956)</altdatum>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+      <depthsys>
+        <depthdn>Theoretic Depth Datum</depthdn>
+        <depthem>Explicit depth coordinate included with horizontal coordinates</depthem>
+      </depthsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Railroads</enttypl>
+        <enttypd>ESRI Shapefile. Polylines represent railroads and bridges</enttypd>
+        <enttypds>NBSM, ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>Internal node number for the left polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>Internal node number for the right polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Internally calculated length of feature in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>Bridge line segment lengths are not scaled</attrva>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>RAILN_</attrlabl>
+        <attrdef>Internal Feature Identifier.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RAILN_ID</attrlabl>
+        <attrdef>Internal Feature Identifier.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GEO_CODE</attrlabl>
+        <attrdef>Railroad and related features code</attrdef>
+        <attrdefs>NBSM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>41020</edomv>
+            <edomvd>Railroad</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>41023</edomv>
+            <edomvd>Railroad under construction</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>43010</edomv>
+            <edomvd>Railroad bridge</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RAI_CODE</attrlabl>
+        <attrdef>Railroad route code</attrdef>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Beijing-Guangzhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Tianjin-Nanjing</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Lianyungang-Lanzhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Jiaozuo-Liuzhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>11</edomv>
+            <edomvd>Tumen-Jiamusi</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>Lafa-Harbin</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>14</edomv>
+            <edomvd>Tongliao-Ranghulu</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>15</edomv>
+            <edomvd>Siping-Qiqihar</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>22</edomv>
+            <edomvd>Jinzhou-Chengde</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>23</edomv>
+            <edomvd>Beijing-Shanhaiguan</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>28</edomv>
+            <edomvd>Beijing-Baotou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>33</edomv>
+            <edomvd>Yuci-Mengyuan</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>39</edomv>
+            <edomvd>Baotou-Lanzhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>56</edomv>
+            <edomvd>Xiangfan-Chongqing</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>57</edomv>
+            <edomvd>Baoji-Chengdu</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>71</edomv>
+            <edomvd>Hunan-Guangxi</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>76</edomv>
+            <edomvd>Hunan-Guizhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>81</edomv>
+            <edomvd>Guizhou-Guangxi</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>86</edomv>
+            <edomvd>Lanzou-Xinjiang</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>101</edomv>
+            <edomvd>Qiqihar-Bei'an</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>102</edomv>
+            <edomvd>Harbin-Manzhouli</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>103</edomv>
+            <edomvd>Fuyu-Nenjiang</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>104</edomv>
+            <edomvd>Nenjiang-Linhai</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>107</edomv>
+            <edomvd>Yakeshi-Mangui</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>121</edomv>
+            <edomvd>Harbin-Bei'an</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>122</edomv>
+            <edomvd>Bei'an-Heihe</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>123</edomv>
+            <edomvd>Suihua-Jiamusi</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>131</edomv>
+            <edomvd>Linkou-Mishan</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>132</edomv>
+            <edomvd>Mishan-Dongfanghong</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>151</edomv>
+            <edomvd>Harbin-Suifenhe</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>175</edomv>
+            <edomvd>Linhai-Gulian</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>201</edomv>
+            <edomvd>Shenyang-Jilin</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>202</edomv>
+            <edomvd>Changchun-Tumen</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>205</edomv>
+            <edomvd>Siping-Meihekou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>206</edomv>
+            <edomvd>Shenyang-Shanhaiguan</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>214</edomv>
+            <edomvd>Meihekou-Ji'an</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>231</edomv>
+            <edomvd>Changchun-Dalian</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>238</edomv>
+            <edomvd>Shenyang-Dandong</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>261</edomv>
+            <edomvd>Dahushan-Zhengjiatun</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>263</edomv>
+            <edomvd>Xinlitun-Yixian</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>301</edomv>
+            <edomvd>Datong-Taiyuan</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>302</edomv>
+            <edomvd>Beijing-Yuanping</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>303</edomv>
+            <edomvd>Shijiazhuang-Taiyuan</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>327</edomv>
+            <edomvd>Beijing-Chengde</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>332</edomv>
+            <edomvd>Fengtai-Shacheng</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>373</edomv>
+            <edomvd>Shijiazhuang-Dezhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>386</edomv>
+            <edomvd>Dalian-Qinhuangdao</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>430</edomv>
+            <edomvd>Hanxi-Danjiang</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>501</edomv>
+            <edomvd>Jinan-Qingdao</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>604</edomv>
+            <edomvd>Bengbu-Wuhu</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>616</edomv>
+            <edomvd>Shanghai-Nanjing</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>617</edomv>
+            <edomvd>Shanghai-Hangzhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>618</edomv>
+            <edomvd>Nanjing-Wuhu</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>621</edomv>
+            <edomvd>Anhui-Jiangxi</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>651</edomv>
+            <edomvd>Yingtan-Xiamen</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>674</edomv>
+            <edomvd>Zhejiang-Jiangxi</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>752</edomv>
+            <edomvd>Litang-Zhanjiang</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>805</edomv>
+            <edomvd>Chengdu-Chongqing</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>812</edomv>
+            <edomvd>Sichuan-Guizhou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>821</edomv>
+            <edomvd>Guizhou-Kunming</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>830</edomv>
+            <edomvd>Chengdu-Kunming</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>881</edomv>
+            <edomvd>Kunming-Hekou</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+          <edom>
+            <edomv>905</edomv>
+            <edomvd>Lanzhou-Qinghai</edomvd>
+            <edomvds>NBSM</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute defines the vector data as either a point, polyline, or polygon</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Polyline</edomv>
+            <edomvd>A polyline is a single geometric segment defined by two points.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Feature length in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrvai>
+          <attrva>Bridge line segment lengths are not scaled</attrva>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library Team</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <cntinst/>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only.  http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020904</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

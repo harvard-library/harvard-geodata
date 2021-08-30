@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-smvlbldgpy",
+  "dc_title_s": "Building Footprints (City of Somerville)",
+  "dc_description_s": "This map data layer represents the building footprints for the City of Somerville, Massachusetts. This layer was developed by Camp, Dresser & McKee (CDM), derived from Boston Edison Company (BECo.)",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMVLBLDGPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:SMVLBLDGPY",
+  "layer_slug_s": "harvard-smvlbldgpy",
+  "layer_geom_type_s": "Undetermined",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Camp, Dresser & McKee",
+    "City of Somerville Assessing Department"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "planningCadastre",
+    "structure",
+    "Municipal",
+    "Buildings",
+    "Real property",
+    "Urban land use",
+    "City planning"
+  ],
+  "dct_spatial_sm": [
+    "Somerville",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.134362, -71.073039, 42.417517, 42.37324)",
+  "harvard_collectionID_sm": [
+    "990084920020203941"
+  ]
+}

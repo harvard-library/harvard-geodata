@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95inelmpy",
+  "dc_title_s": "Census Elementary School Districts, 1995 - Indiana",
+  "dc_description_s": "This datalayer displays the school districts throughout the state. School districts are geographic entities within which state, county, or local officials or the Department of Defense provide public educational services for the areas residents. The U.S. Census Bureau obtains the boundaries and names for school districts from state officials. The U.S. Census Bureau first provided data for school districts in conjunction with the 1970 census. Each school district is assigned a five-digit code that is unique within state. School district codes are assigned by the Department of Education and are not necessarily in alphabetical order by school district name. The program identified three possible levels of school districts representing different segments of the school-age population (elementary, intermediate, and secondary) and a unified category to identify those school districts that represented all grade levels. The elementary, intermediate, and secondary levels of a school district may overlap each other because they represent different segments of the school-age population; for example, an intermediate school district could cover parts of several elementary school districts. The 1995 TIGER files use separate fields to accommodate for the overlap and may not contain a code for all grade levels. The 1995 TIGER files contain a unified school district code for those school districts where all levels are represented in a single district. The elementary, intermediate, and secondary school district code fields are blank if there is a unified school district code. School districts may cut through existing census blocks. In such instances, the Census Bureau created new complete chains and GT polygons. However, the school district boundaries did not create new blocks. The tabulation blocks may contain more than one polygon, and each polygon may have a different school district code. The block parts/polygons allocated to the different school districts do not have separate tabulation block numbers. Thus, a school district in the TIGER files is a representation of the area, not the actual area. The 1995 TIGER files store the school district codes in a set of four, 5-character fields. All codes consist of numeric characters. The value, 9999, is a pseudo-school district code assigned to non-water blocks for which the National School District Program does not report a school district. Some large water areas have a pseudo-school district code of 99998.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95INELMPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95INELMPY",
+  "layer_slug_s": "harvard-tg95inelmpy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-12-04T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "School districts",
+    "Schools"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-86.930844, -85.335274, 41.43428, 41.003118)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

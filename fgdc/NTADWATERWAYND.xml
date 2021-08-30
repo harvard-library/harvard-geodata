@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Vanderbilt Engineering Center for Transportation Operations and Research, Vanderbilt University</origin>
+        <pubdate>2001</pubdate>
+        <title>National Waterway Network Nodes</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>New Orleans, LA</pubplace>
+          <publish>U.S. Army Corps of Engineers Navigation Data Center</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-ntadwaterwaynd</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Bureau of Transportation Statistics</origin>
+            <pubdate>2001</pubdate>
+            <title>Transportation Atlas Databases</title>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>Bureau of Transportation Statistics</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The National Waterway Network is a comprehensive network database of the nation's navigable waterways. The data set covers the 48 contiguous States plus the  District of Columbia, Hawaii, Alaska, Puerto Rico and water links between.  Waterway Network Nodes may represent physical entities such as river confluences, ports/facilities, and  intermodal terminals, US Army Corps of Engineers (USACE nodes), or may be inserted for analytical purposes.  Approximately 224 USACE ports are geo-coded in the node database.</abstract>
+      <purpose>The National Waterway Network is a geographic database of navigable waterways in and around the United States, for analytical studies of waterway performance, for compiling commodity flow statistics, and for mapping purposes.</purpose>
+      <supplinf>Links in the waterway network represent actual shipping lanes or serve as representative paths in open water where no defined shipping lanes exist.  
+The nominal scale of the data set varies with the source material.  The majority of the information is at 1:100,000 with larger scales used in harbor/bay/port areas and smaller scales used in open waters.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1994</begdate>
+          <enddate>Present</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Continually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.314189</westbc>
+        <eastbc>179.133149</eastbc>
+        <northbc>72.199435</northbc>
+        <southbc>-52.997934</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>inlandWater</themekey>
+        <themekey>transportation</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Waterways</themekey>
+        <themekey>Intracoastal</themekey>
+        <themekey>Transportation</themekey>
+        <themekey>Rivers</themekey>
+        <themekey>Ports</themekey>
+        <themekey>Shipping</themekey>
+        <themekey>Inland water transportation</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>United States</placekey>
+        <placekey>Great Lakes</placekey>
+        <placekey>Gulf of Mexico</placekey>
+        <placekey>Intracoastal waterway</placekey>
+        <placekey>Puerto Rico</placekey>
+      </place>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Arctic Ocean</placekey>
+        <placekey>Atlantic Ocean</placekey>
+        <placekey>Bering Sea</placekey>
+        <placekey>Caribbean Sea</placekey>
+        <placekey>Canada</placekey>
+        <placekey>Gulf of Mexico</placekey>
+        <placekey>Pacific Ocean</placekey>
+        <placekey>Panama</placekey>
+      </place>
+    </keywords>
+    <accconst>None.</accconst>
+    <useconst>For Non-commercial use only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Waterborne Commerce Statistics Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>P.O. Box 61280</address>
+          <city>New Orleans</city>
+          <state>LA</state>
+          <postal>70161-1280</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>504.862.1402</cntvoice>
+        <cntfax>504.862.1423</cntfax>
+      </cntinfo>
+    </ptcontac>
+    <datacred>The National Waterway Network was created on behalf of the Bureau of Transportation Statistics, the U.S. Army Corps of Engineers, the U.S. Bureau of Census, and the U.S. Coast Guard by Vanderbilt University and Oak Ridge National Laboratory.
+Additional agencies with input into network development include Volpe National Transportation Systems Center, Maritime Administration, Military Traffic Management Command, Tennessee Valley Authority, U.S. Environmental Protection Agency, and the Federal Railroad Administration.</datacred>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.1.649</native>
+    <crossref>
+      <citeinfo>
+        <origin>Vanderbilt Engineering Center for Transportation Operations and Research, Vanderbilt University</origin>
+        <pubdate>2001</pubdate>
+        <title>National Waterway Network</title>
+        <pubinfo>
+          <pubplace>New Orleans, LA</pubplace>
+          <publish>U.S. Army Corps of Engineers Navigation Data Center</publish>
+        </pubinfo>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attribute accuracy is tested by manual comparison of the source with hard copy printouts and/or symbolized display of digital line graphs on an interactive computer graphic system; selected attributes that cannot be visually verified on plots or on screen, are interactively queried and verified on screen.</attraccr>
+    </attracc>
+    <posacc>
+      <horizpa>
+        <horizpar>The "shape source" field in the link database, and the "node source" field in the node database indicate the data sources used to derive link and node placements.  The accuracy of each network element is correlated to the data source used to derive that element.  For example,  links and nodes derived from 1:100,000 scale DLGs are more accurate than links and nodes derived from 1:500,000 scale NOAA Navigational Charts. Links with unknown/missing sources are usually schematic representations of USACE links.
+
+Off-Shore:
+NOAA Charts vary in scale.  Larger scale charts were used in harbor/port areas, while smaller scale charts were used in open water. For channels, sea lanes, and Intracoastal Waterways, shape points were placed as needed to ensure that link segments fall within waterway boundaries.
+
+Inland:  Links digitized from 1:100,000 DLG files, or large scale NOAA charts are the most accurate representations.  Shape points were placed as needed to ensure that link segments fall between waterway shorelines.  Links derived from Corps milepoints have shape points approximately one mile apart.  The Corps milepoints were mainly derived from 1:24,000 and 1:100,000 scale maps.  Therefore, the shape points derived from Corps milepoints are often as accurate as shape points derived from 1:100,000 DLG files.  However, line segments connecting the shape points may not accurately represent the curvature of the waterway.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>varies</pubdate>
+            <title>USGS Digital Line Graph (DLG-3) Series</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1978</begdate>
+              <enddate>1994</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DLG</srccitea>
+        <srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>Unknown</pubdate>
+            <title>National Atlas</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>1200000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1980</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NA</srccitea>
+        <srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Bureau of Census</origin>
+            <pubdate>1990</pubdate>
+            <title>TIGER/Line files</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>U.S. Bureau of Census</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1990</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>TIGER</srccitea>
+        <srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Oceanographic and Atmospheric Administration</origin>
+            <pubdate>Varies</pubdate>
+            <title>NOAA Navigation Charts</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>National Oceanographic and Atmospheric Administration</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>Varies</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>unknown</begdate>
+              <enddate>1994</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NOAA</srccitea>
+        <srccontr>Inland and offshore navigable waterways spatial and type attributes.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>Varies</pubdate>
+            <title>1:100,000 Quad maps</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>Varies</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>QUADS</srccitea>
+        <srccontr>Inland navigable waterways spatial and type attributes.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Army Corps of Engineers</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Waterway Link Network</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>New Orleans, LA</pubplace>
+              <publish>U.S. Army Corps of Engineers</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>No scale</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>Unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USACE WLN</srccitea>
+        <srccontr>Corps of Engineers links and nodes on inland and offshore navigable waterways.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Army Corps of Engineers</origin>
+            <pubdate>Unknown</pubdate>
+            <title>USACE Mile Markers</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>New Orleans, LA</pubplace>
+              <publish>U.S. Army Corps of Engineers</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>None</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>unknown</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>USACE MM</srccitea>
+        <srccontr>Inland navigable waterways locational mile markers.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Oak Ridge National Laboratories</origin>
+            <pubdate>1993</pubdate>
+            <title>Inland Waterways</title>
+            <geoform>map</geoform>
+            <pubinfo/>
+          </citeinfo>
+        </srccite>
+        <srcscale>None</srcscale>
+        <typesrc>unknown</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>unknown</begdate>
+              <enddate>1994</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ending date</srccurr>
+        </srctime>
+        <srccitea>ORWW</srccitea>
+        <srccontr>Addition and correction of Inland navigable waterways attributes. Conflation of inland and offshore waterways.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Vanderbilt Engineering Center for Transportation Operations and Research</origin>
+            <pubdate>1994</pubdate>
+            <title>Vanderbilt Waterway Network</title>
+            <geoform>map</geoform>
+            <pubinfo/>
+          </citeinfo>
+        </srccite>
+        <srcscale>Varies</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1994</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>source date</srccurr>
+        </srctime>
+        <srccitea>VUWW</srccitea>
+        <srccontr>Offshore and coastal waterways spatial and operational attributes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Vanderbilt Engineering Center for Transportation Operations and Research</origin>
+            <pubdate>1994</pubdate>
+            <title>National Waterway Network ver 2.0</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>Varies</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>199410</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>WWAY10</srccitea>
+        <srccontr>Offshore, inland, and coastal  waterways spatial and operational attributes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>1997</pubdate>
+            <title>National Waterway Network ver 2.0</title>
+            <geoform>Digital map</geoform>
+            <pubinfo>
+              <pubplace>Washington, DC</pubplace>
+              <publish>Bureau of Transportation Statistics</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>Varies</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1997</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>WWAY20</srccitea>
+        <srccontr>Offshore, inland, and coastal  waterways spatial and operational attributes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Vanderbilt Engineering Center for Transportation Operations and Research</origin>
+            <pubdate>1998</pubdate>
+            <title>National Waterway Network ver 2.3</title>
+            <geoform>Digital map</geoform>
+            <pubinfo>
+              <pubplace>New Orleans, LA</pubplace>
+              <publish>US Army Corps of Engineers Waterborne Commerce Statistics Center</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>Varies</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>WWAY21</srccitea>
+        <srccontr>Offshore, inland, and coastal waterways spatial and operational attributes</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Extraction of spatial and type attributes for waterway features from NA, DLG and TIGER.</procdesc>
+        <srcused>DLG</srcused>
+        <srcused>NA</srcused>
+        <srcused>TIGER</srcused>
+        <srcused>USACE</srcused>
+        <srcused>WLN</srcused>
+        <procdate>1994</procdate>
+        <srcprod>ORWW</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Oak Ridge National Laboratory</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Oak Ridge National Laboratory</address>
+              <city>Oak Ridge</city>
+              <state>TN</state>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>615.574.4419</cntvoice>
+            <cntfax>615.574.3895</cntfax>
+            <cntemail>gto@stc10.ctd.ornl.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Specification of offshore, coastal and Great Lake network nodes and links on NOAA, followed by direct digitization of specified nodes and links.</procdesc>
+        <srcused>NOAA</srcused>
+        <procdate>1995</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Vanderbilt Engineering Center for Transportation Operations and Research</cntorg>
+            </cntorgp>
+            <cntvoice>615.322.3683</cntvoice>
+            <cntfax>615.322.3365</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Merging of inland and offshore waterway networks.  A specialized program was written to merge the two networks.  In general, Vanderbilt node locations were accepted as authoritative when both data sets had the same elements.  This meant moving an Oak Ridge link incident to that node.  If the link was classified geographically ocean or Great Lakes, and a Vanderbilt link or chain existed with the same ID and endpoints, the Oak Ridge link was discarded, after transfer of Oak Ridge attributes.  If the Oak Ridge link was within 2 km of the new end nodes' location: and
+1) if a duplicate Vanderbilt link existed with a higher source code, it replace the Oak Ridge link, or
+2) the Oak Ridge link was moved by a logistic adjustment to the new location.  (This causes modest disruption to the preponderance of the shape, yet assured that the angle of approach to the displaced end node location was preserved.)
+If the link was functionally classed "deep draft" and a duplicate Vanderbilt link had an authoritative source code, the Oak Ridge link was replaced.  Otherwise an additional shape point was added at the end to snap to the new node location without disrupting the original link shape.  If the link had a Vanderbilt duplicate with the same ID, the Oak Ridge link was so flagged to be manually resolved.  The composite network was then cleaned manually, resolving all cases of still remaining duplicate links and deciding case-by-case how to smooth or otherwise accommodate a highly displaced Oak Ridge shape into the Vanderbilt digitized node location, using TIGER shorelines as a background.</procdesc>
+        <srcused>TIGER</srcused>
+        <srcused>ORWW</srcused>
+        <srcused>VUWW</srcused>
+        <procdate>1994</procdate>
+        <srcprod>WWAY10</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Oak Ridge National Laboratory</cntorg>
+            </cntorgp>
+            <cntvoice>615-574-4419</cntvoice>
+            <cntfax>615-574-3895</cntfax>
+            <cntemail>gto@stc10.ctd.ornl.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Heads-up digitizing of WWAY10 to add shape points to inland waterways where straight links still existed.  Incorporation of comments from users (Vanderbilt, ORNL, and USACE Waterborne Commerce Statistics Center) of WWAY10 and error correction.</procdesc>
+        <srcused>WWAY10</srcused>
+        <srcused>DLG</srcused>
+        <procdate>1995</procdate>
+        <srcprod>WWAY11</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Vanderbilt Engineering Center for Transportation Operations and Research</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>Box , Station B</address>
+              <city>Nashville</city>
+              <state>TN</state>
+              <postal>37235</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>615-322-3683</cntvoice>
+            <cntfax>615-322-3365</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Upgrades to link shape and attribute data based on information from US Army Corps of Engineers CWIS projects as published in their digital projects notebook.  Includes the addition of new links, removal of unnecessary links/nodes, and splitting of links to more effectively relate the digital waterway network to the physical network as maintained by the Corps of Engineers.</procdesc>
+        <srcused>DPN</srcused>
+        <srcused>WTWY20</srcused>
+        <procdate>1998</procdate>
+        <srcprod>WWAY21</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Waterborne Commerce Statistics Center</cntorg>
+            </cntorgp>
+            <cntvoice>504.862.1402</cntvoice>
+            <cntfax>504.862.1423</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Upgrades to link shape and attribute data based on information from US Army Corps of Engineers CWIS projects as published in their digital projects notebook.  Includes the addition of new links,  removal of unnecessary links/nodes, and splitting of links to more effectively relate the digital waterway network to the physical network as maintained by the Corps of Engineers.</procdesc>
+        <srcused>DPN</srcused>
+        <srcused>WTW21</srcused>
+        <procdate>1998</procdate>
+        <srcprod>WWAY22</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Waterborne Commerce Statistics Center</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Waterborne Commerce Statistics Center, Box 61280</address>
+              <city>New Orleans</city>
+              <state>LA</state>
+              <postal>70161</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>504.862.1402</cntvoice>
+            <cntfax>504.862.1423</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The original shape file was imported to an ArcSDE Layer.</procdesc>
+        <procdate>200108</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>6259</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>SDE.NTADWATERWAYND</enttypl>
+        <enttypd>ESRI Shapefile</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>VERSION</attrlabl>
+        <attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed, in this release the value is "02".</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>01</rdommin>
+            <rdommax>99</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REVISION</attrlabl>
+        <attrdef>A 2-digit number that will be incremented individually for each record whenever a change is made to one of its fields, in this release the value is "03".  (Revision numbers will not be reset with each new release.)</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00</rdommin>
+            <rdommax>99</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MODDATE</attrlabl>
+        <attrdef>Modification date - indicates when each record in the database was last changed. As changes are made to a record, the modification date is entered in the format 'mmddyyy'.</attrdef>
+        <attrdefs>BTS</attrdefs>
+        <attrdomv>
+          <udom>The MODDATE values will be date values indicating the last time a record was edited or modified.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NODEID</attrlabl>
+        <attrdef>Sequential unique point identifier</attrdef>
+        <attrdefs>BTS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attrdef>The longitude of the point in decimal degrees with six implied decimal places</attrdef>
+        <attrdefs>BTS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE</attrlabl>
+        <attrdef>The latitude of the point in decimal degrees with six implied decimal places</attrdef>
+        <attrdefs>BTS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DESCRIPT</attrlabl>
+        <attrdef>Name or identification for the node</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>STFIPS</attrlabl>
+        <attrdef>Two digit State FIPS Code</attrdef>
+        <attrdefs>FIPS Pub 6-4</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard</codesetn>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PORT</attrlabl>
+        <attrdef>Port identification code</attrdef>
+        <attrdefs>USACE</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State Postal Abbreviation</attrdef>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard</codesetn>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NON_US</attrlabl>
+        <attrdef>Abbreviation for non US areas</attrdef>
+        <attrdomv>
+          <edom>
+            <edomv>AC</edomv>
+            <edomvd>Arctic Ocean</edomvd>
+          </edom>
+          <edom>
+            <edomv>AT</edomv>
+            <edomvd>Atlantic Ocean</edomvd>
+          </edom>
+          <edom>
+            <edomv>BS</edomv>
+            <edomvd>Bering Sea</edomvd>
+          </edom>
+          <edom>
+            <edomv>CB</edomv>
+            <edomvd>Caribbean Sea</edomvd>
+          </edom>
+          <edom>
+            <edomv>CD</edomv>
+            <edomvd>Canada</edomvd>
+          </edom>
+          <edom>
+            <edomv>GM</edomv>
+            <edomvd>Gulf of Mexico</edomvd>
+          </edom>
+          <edom>
+            <edomv>PC</edomv>
+            <edomvd>Pacific Ocean</edomvd>
+          </edom>
+          <edom>
+            <edomv>PM</edomv>
+            <edomvd>Panama</edomvd>
+          </edom>
+          <edom>
+            <edomv>XX</edomv>
+            <edomvd>Undefined Area</edomvd>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>5363 records are blank</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>WHO_MOD</attrlabl>
+        <attrdef>Composite code designating what organization organization modified the link to which this node is attached and how they modified it</attrdef>
+        <attrdefs>Assigned</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>First character: V</edomv>
+            <edomvd>Vanderbilt addition</edomvd>
+          </edom>
+          <edom>
+            <edomv>First character: R</edomv>
+            <edomvd>Oak Ridge addition</edomvd>
+          </edom>
+          <edom>
+            <edomv>First character: J</edomv>
+            <edomvd>Guessed</edomvd>
+          </edom>
+          <edom>
+            <edomv>First character: H</edomv>
+            <edomvd>Screen digitization from DLGs or TIGER</edomvd>
+          </edom>
+          <edom>
+            <edomv>First character: Q</edomv>
+            <edomvd>Digitized from USGS quad maps</edomvd>
+          </edom>
+          <edom>
+            <edomv>First character: A</edomv>
+            <edomvd>Digitized from NOAA charts</edomvd>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Second character: 0</edomv>
+            <edomvd>Original</edomvd>
+          </edom>
+          <edom>
+            <edomv>Second character: 1</edomv>
+            <edomvd>94 May</edomvd>
+          </edom>
+          <edom>
+            <edomv>Second character: 2</edomv>
+            <edomvd>94 June</edomvd>
+          </edom>
+          <edom>
+            <edomv>Second character: 3</edomv>
+            <edomvd>94 July</edomvd>
+          </edom>
+          <edom>
+            <edomv>Blank</edomv>
+            <edomvd>After July 1994</edomvd>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Third character:  R</edomv>
+            <edomvd>Attributes modified by ORNL</edomvd>
+          </edom>
+          <edom>
+            <edomv>Third character:  A</edomv>
+            <edomvd>Attributes modified by Vanderbilt</edomvd>
+          </edom>
+        </attrdomv>
+        <attrvai/>
+      </attr>
+      <attr>
+        <attrlabl>SRC</attrlabl>
+        <attrdef>Source of the node</attrdef>
+        <attrdefs>Assigned</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>V1</edomv>
+            <edomvd>Digitized from NOAA Charts</edomvd>
+          </edom>
+          <edom>
+            <edomv>V2</edomv>
+            <edomvd>Digitized from 1:100K USGS Quads</edomvd>
+          </edom>
+          <edom>
+            <edomv>V3</edomv>
+            <edomvd>Imputed from ORNL port</edomvd>
+          </edom>
+          <edom>
+            <edomv>V4</edomv>
+            <edomvd>Imputed from Corps port</edomvd>
+          </edom>
+          <edom>
+            <edomv>V5</edomv>
+            <edomvd>Digitized from 1:100K DLGs</edomvd>
+          </edom>
+          <edom>
+            <edomv>V6</edomv>
+            <edomvd>Digitized from State or World Boundary</edomvd>
+          </edom>
+          <edom>
+            <edomv>V7</edomv>
+            <edomvd>Imputed from Corps Lock location</edomvd>
+          </edom>
+          <edom>
+            <edomv>O1</edomv>
+            <edomvd>Oak Ridge estimate</edomvd>
+          </edom>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>Corps</edomvd>
+          </edom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Missing / Unknown</edomvd>
+          </edom>
+        </attrdomv>
+        <attrvai>
+          <attrvae>3330 records are blank</attrvae>
+        </attrvai>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>hgl.harvard.edu</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+      <ordering>Web based distribution only.  http:\\hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020705</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-esrigaz",
+  "dc_title_s": "wORLD Place Name Gazetteer",
+  "dc_description_s": "World Gazetteer contains proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/ESRIGAZ.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:ESRIGAZ",
+  "layer_slug_s": "harvard-esrigaz",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2001-06-18T00:00:00Z",
+  "dc_creator_sm": [
+    "ESRI, Inc."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "location",
+    "populated places",
+    "airports",
+    "place names"
+  ],
+  "dct_issued_s": "1999",
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "dct_isPartOf_sm": [
+    "ESRI Data and Maps"
+  ],
+  "solr_geom": "ENVELOPE(-179.988998, 179.996994, 85.213997, -86.905998)",
+  "solr_year_i": 1992,
+  "harvard_collectionID_sm": [
+    "990087332770203941"
+  ]
+}

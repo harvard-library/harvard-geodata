@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-tg95inccdcupy",
+  "dc_title_s": "Census County Divisions and Minor Civil Divisions, 1995 - Indiana",
+  "dc_description_s": "This datalayer displays Census County Divisions and Minor Civil Divisions for the entire state. Census County Divisions (CCDs) are county subdivisions that were delineated by the U.S. Census Bureau, in cooperation with state and local government officials for data presentation purposes. CCDs have been established in 21 states where there are no legally established minor civil divisions (MCDs), where the MCDs do not have governmental or administrative purposes, where the boundaries of the MCDs are ambiguous or change frequently, and/or where the MCDs generally are not known to the public. CCDs have no legal functions and are not governmental units. The boundaries of CCDs usually are delineated to follow visible features and coincide with census tracts where applicable. (In a few instances, two CCDs may constitute a single census tract.) The name of each CCD is based on a place, county, or well-known local name that identifies its location. Minor Civil Divisions (MCDs) are the primary governmental or administrative divisions of a county in many states (parish in Louisiana). MCDs represent many different kinds of legal entities with a wide variety of governmental and/or administrative functions. NOTE: The U.S. Census Bureau has established MCDs for Indiana.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/TG95INCCDCUPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_public:TG95INCCDCUPY",
+  "layer_slug_s": "harvard-tg95inccdcupy",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2002-12-04T00:00:00Z",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Bureau of the Census, Geography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "boundaries",
+    "Census",
+    "Administrative divisions"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files, 1995"
+  ],
+  "solr_geom": "ENVELOPE(-88.096766, -84.785725, 41.760688, 37.772978)",
+  "solr_year_i": 1995,
+  "harvard_collectionID_sm": [
+    "990074179590203941"
+  ]
+}

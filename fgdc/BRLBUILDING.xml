@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Brookline GIS Information Technologies Department</origin>
+        <origin>Camp Dresser McKee (CDM)</origin>
+        <pubdate>Obtained in 1995</pubdate>
+        <title>Building Footprints (Town of Brookline)</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Modified in 1996</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-brlbuilding</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This map data layer represents the building footprints for the Town of Brookline, Massachusetts. This layer is from Boston Edison Company (BECo.). The original aerial photography was flown between 1990 and 1991 at 1" = 600' negative scale. 
+The building footprints data layer was updated in 1996 with the addition of street addresses by Camp Dresser &amp; McKee, Inc. (CDM), based upon the addresses on the Assessor's map sheets. Digital planimetric data meets National Map Accuracy Standards for 1"=100' (1:1200) mapping.</abstract>
+      <purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+More advanced user applications may focus on urban and regional planning, and associated themes such as economic and demographic analysis as well as disaster and emergency planning (generally building footprints layers are useful in identifying building structures and to facilitate applications that search by street name and address).</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1990</begdate>
+          <enddate>1991</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-71.176242</westbc>
+        <eastbc>-71.106102</eastbc>
+        <northbc>42.351743</northbc>
+        <southbc>42.294781</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>structure</themekey>
+      </theme>
+      <theme>
+        <themekt>HGL Category Keyword Thesaurus</themekt>
+        <themekey>Municipal</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Real property</themekey>
+        <themekey>Buildings</themekey>
+        <themekey>Urban land use</themekey>
+        <themekey>City planning</themekey>
+      </theme>
+      <place>
+        <placekt>GNIS</placekt>
+        <placekey>Brookline</placekey>
+        <placekey>Massachusetts</placekey>
+      </place>
+    </keywords>
+    <accconst>Access is granted to licensee (Harvard University) only. Available only to Harvard University affiliates.</accconst>
+    <useconst>For educational non-commercial use only. The Town of Brookline makes no claims, no representations, and no warranties, express or implied, concerning the validity (express or implied), the reliability or the accuracy of the GIS data and GIS data products furnished by the Town, including the implied validity of any uses of such data</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Information Technologies Department</cntorg>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Town Hall, 3rd Floor</address>
+          <address>333 Washington Street</address>
+          <city>Brookline</city>
+          <state>MA</state>
+          <postal>02445</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-730-2005</cntvoice>
+        <cntfax>617-739-7571</cntfax>
+        <cntemail>feng_yang@town.brookline.ma.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>GIS data supplied by the Town of Brookline.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <posacc>
+      <horizpa>
+        <horizpar>Digital planimetric data meets National Map Accuracy Standards for 1"=100' (1:1200) mapping.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Dataset copied and  imported to an ArcSDE Layer.</procdesc>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Office of Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Metadata created, imported and edited.</procdesc>
+        <procdate>20020829</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Geospatial Resources Cataloger</cntper>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntperp>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>12470</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000000</latres>
+        <longres>0.000000</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres>1.000000</altres>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Building Footprints</enttypl>
+        <enttypd>ESRI Shapefile. Polygons depict building outlines</enttypd>
+        <enttypds>Brookline GIS, ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Internally calculated feature area in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Internally calculated feature perimeter in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BUILDING_</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BUILDING_I</attrlabl>
+        <attrdef>Internal Feature Identifier</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ROTATION</attrlabl>
+        <attrdef>Rotation for labeling house numbers on maps</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STR_NUM</attrlabl>
+        <attrdef>Street Number</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STREET</attrlabl>
+        <attrdef>Street Name</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADDRESS</attrlabl>
+        <attrdef>Combination of street number and name</attrdef>
+        <attrdefs>Brookline GIS, CDM</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CASE0904</attrlabl>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BEING_UPDA</attrlabl>
+        <attrdef>Item Update Status</attrdef>
+        <attrdefs>Brookline GIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>The SHAPE attribute defines the vector data as either a point, polyline, or polygon.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Polygon</edomv>
+            <edomvd>A polygon is an area feature comprised of points and line segments.</edomvd>
+            <edomvds>ESRI</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrdef>Internally calculated area of feature in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrdef>Internally calculated length of feature in map units.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <cntinst/>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>none</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20020925</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

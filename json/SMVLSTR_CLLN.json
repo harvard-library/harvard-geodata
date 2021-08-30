@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hgl.harvard.edu/catalog/harvard-smvlstr-clln",
+  "dc_title_s": "Street Centerlines (City of Somerville)",
+  "dc_description_s": "The street centerlines transportation coverage is a polyline layer representing the center of road and streets righst of way within the City of Somerville, Massachusetts.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMVLSTR_CLLN.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
+  "layer_id_s": "vector_restricted:SMVLSTR_CLLN",
+  "layer_slug_s": "harvard-smvlstr-clln",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2002-09-25T00:00:00Z",
+  "dc_creator_sm": [
+    "Camp, Dresser & McKee",
+    "City of Somerville Assessing Department"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "transportation",
+    "Municipal",
+    "Transportation",
+    "Streets",
+    "Roads"
+  ],
+  "dct_spatial_sm": [
+    "Somerville",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "solr_geom": "ENVELOPE(-71.134712, -71.072728, 42.417894, 42.373238)",
+  "harvard_collectionID_sm": [
+    "990084920020203941"
+  ]
+}

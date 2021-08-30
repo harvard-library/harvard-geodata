@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Imagery and Mapping Agency (now National Geospatial-Intelligence Agency)</origin>
+        <pubdate>19920701</pubdate>
+        <title>DCW Populated Places, Points</title>
+        <edition>First</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Fairfax, VA</pubplace>
+          <publish>National Imagery and Mapping Agency</publish>
+        </pubinfo>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-dcw-pp-point</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing populated places found throughout DCW (Digital Chart of the World) geographic coverage as of 1992.
+
+This layer was derived from the VMAP0 series produced by the National Geospatial-Intelligence Agency (NGA), formerly known as NIMA (National Imagery and Mapping Agency), an agency of the United States government. VMAP data set products use the "vector product format" (vpf). The term "VMap" is derived from "Vector Smart Map."
+
+Digital Chart of the World is a comprehensive 1:1,000,000 scale vector basemap of the world. It consists of cartographic, attribute, and textual data. The primary source for the database is the National Imagery and Mapping Agency's (NIMA) Operational Navigation Chart (ONC) series. This is the largest scale unclassified map series in existence that provides consistent, continuous global coverage of essential basemap features.
+
+The coverage is  is organized into 10 thematic layers which feature a vast number of files organized into libraries. These libraries, or coverages, are geographicially bounded areas, rather than feature-linked coverages.  
+
+DCW Layers in the Harvard Geospatial Library are feature-based as we have processed the multiple tiles from the VMAP0 libraries into a series of seamless coverages (e.g. aeronautical features appear in a single layer, "Aeronautical Facilities, Points") which depict a particular feature as it occurs throughout the available geographic coverage areas.  Since different geographic areas were mapped by NIMA at different times using various types of feature capture and scanning and digitizing methods and software, multiple map sources of varying dates and multiple processing approaches are represented in each of these HGL layers. We have necessarily generalized the discussion of data source material and process steps in the Data Quality section of this metadata document.</abstract>
+      <purpose>The Digital Chart of the World is a general purpose global database designed to support Geographic Information Systems applications.
+This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Entities (features) and Attributes for DCW are fully described in: Department of Defense, 1992, Military Specification Digital Chart of the World (MIL-D-89009): Philadelphia, Department of Defense, Defense Printing Service  Detachment Office.
+The DCW used a product-specific attribute coding system that is composed of TYPE and STATUS designators for area, line, and point features; and LEVEL and SYMBOL designators for text features. The TYPE attribute specifies what  the feature is, while the STATUS attribute specifies the current condition of the feature. Some features require both a  TYPE and STATUS code to uniquely identify their characteristics. In order to uniquely identify each geographic  attribute in the DCW, the TYPE and STATUS attribute code names are preceded by the two letter coverage abbreviation and a two letter abbreviation for the type of graphic primitive present. 
+
+The DCW Type/Status codes were mapped into the Feature Attribute Coding Catalogue (FACC) coding scheme. A full description of FACC may be found in The DIgital Geographic Information Exchange STandard (DIGEST) Edition 1.2, January 1994. Please consult the DIGEST FACC website for complete coding data. (http://www.digest.org/html/DIGEST_2-1_Part4_AnnexB.pdf)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>19920701</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Biennial</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.304504</westbc>
+        <eastbc>179.279205</eastbc>
+        <northbc>81.158279</northbc>
+        <southbc>-54.917198</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>location</themekey>
+      </theme>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Place names</themekey>
+        <themekey>Human settlements</themekey>
+      </theme>
+      <theme>
+        <themekt>Alexandria Digital Library Feature Type Thesaurus</themekt>
+        <themekey>Populated places</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+        <placekey>Polar regions</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>For educational, non-commercial use only. Although this data set has been developed by the NGA no warranty expressed or implied is made by them as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the NGA in the use of this data, or related materials.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Geospatial-Intelligence Agency</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Office of Corporate Relations</address>
+          <address>Public Affairs Division, MS D-54</address>
+          <address>4600 Sangamore Road</address>
+          <city>Bethesda</city>
+          <state>MD</state>
+          <postal>20816-5003</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>800-455-0899</cntvoice>
+        <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National Imagery and Mapping Agency (now known as National Geospatial-Intelligence Agency).</datacred>
+    <secinfo>
+      <secsys>United States Department of Defense</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>Not Applicable</sechandl>
+    </secinfo>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>100 percent of attribute codes were reviewed against the source manuscripts. No formal effort was undertaken to develop a quantitative attribute accuracy statement.</attraccr>
+    </attracc>
+    <logic>All data were found to be topologically correct. No duplicate features are present. All areas are completely described as depicted on the source manuscripts. No undershoots or overshoots are present. All data were consistently captured using the rules described in the narrative associated with the Data Quality Table and in the various feature table narrative files present at the coverage level within the library.
+
+Annotation that requires diacritical marks or special characters is assigned to separate annotation levels (the actual diacritical marks are not shown). The size and placement of annotation was chosen to closely replicate that used on the ONCs and JNCs. While text height does provide a general indication of population size or importance, the exact definition of the categories associated with those text heights vary from ONC sheet to ONC sheet. Only proper names were captured, generic labels (e.g., "circular village") were not included.
+Annotation is also stored in the same units as the coverages (decimal degrees). Slight differences in the numbers representing the same text height at different latitudes may be noticed due to the characteristics of using spherical units. The length of one degree along a meridian varies from 68.703 statute miles (110,567.3 meters) at the equator to 69.407 statute miles (111,699.3 meters) at the poles.
+
+Special automation techniques
+All populated place points were manually digitized. Annotation text strings were manually positioned and later verified using image background coverages of the scanned sheets for reference.
+
+Feature coincidence
+PPPOINT data do not have explicit relationships with other feature classes in the database.
+
+Database design issues
+Font sizes are in accordance with ONC chart specifications. In instances where the source materials deviated from established specifications, font size assignments were chosen that reflected known relative population characteristics on a regional level. All population characteristics as expressed through font sizes and symbology on the source materials are maintained within the database as annotation text attributes. No diacritical marks were captured, with the exception of apostrophes which are included only in conjunction with possessive nouns. Text features do contain attributes indicating whether they included diacritical marks on the source. All PPPOINT annotation text is stored with a single location point at the lower left corner of the string. All PPPOINT annotation text for a given object is stored as single strings even when represented as multiple, stacked strings on the source manuscripts. All located objects with a proper name were placed in the PPPOINT coverage.</logic>
+    <complete>100 percent of features depicted on the ONC source materials have been captured. 100 percent of the features have valid attribute codes assigned to them.  
+Airport features were derived from the DMA Digital Aeronautical Flight Information File (DAFIF).  Where DAFIF was incomplete, locations were added from the ONC.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The Horizontal Positional Accuracy Value represents overall accuracy. Source chart-specific accuracies are available as area feature attributes in the VMap-0 data quality coverage. The primary accuracy analysis was performed on one chart only in the prototyping phase of the DCW project. Horizontal Positional Accuracy is expressed in meters. Detailed horizontal accuracy figures were developed by comparing the positions of well-defined points in the roads, railroads, utility lines, and drainage coverages against sources of higher accuracy, measuring the offsets, and expressing differences as a Circular Map Accuracy figure at a 90% confidence interval. This figure was independently verified by adding known production errors to source chart accuracies in a root sum square calculation.</horizpar>
+        <qhorizpa>
+          <horizpav>1,600 to 7,300</horizpav>
+          <horizpae>Horizontal Positional Accuracy is expressed in feet. Detailed horizontal accuracy figures were developed by comparing the positions of well-defined points in the roads, railroads, utility lines, and drainage  coverages against sources of higher accuracy, measuring the offsets, and expressing differences as a  Circular Map Accuracy figure at a 90% confidence interval. This figure was independently verified by adding known production errors to source chart accuracies in a root sum square calculation.</horizpae>
+        </qhorizpa>
+      </horizpa>
+      <vertacc>
+        <vertaccr>This figure represents overall accuracy. Source chart-specific accuracies are available as area feature attributes  in the DCW data quality coverage.</vertaccr>
+        <qvertpa>
+          <vertaccv>160 to 2,100</vertaccv>
+          <vertacce>Vertical Positional Accuracy is expressed in feet. Vertical accuracy figures were developed by comparing elevation contour locations on 1:24,000 scale maps to elevation values at the same location within the digital database. Some manual interpolation was necessary to complete this test. The analysis results are expressed as linear error at a 90% confidence interval.</vertacce>
+        </qvertpa>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Imagery and Mapping Agency</origin>
+            <pubdate>1974-1992</pubdate>
+            <title>Operational Navigational Chart (ONC)</title>
+            <geoform>map</geoform>
+            <pubinfo/>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1974</begdate>
+              <enddate>1992</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ONC</srccitea>
+        <srccontr>All information found on the source with the exception of aeronautical data.
+The U.S. Defense Mapping Agency Operational Navigation Chart (ONC) series and the Jet Navigation Charts (JNCs) for the region of Antarctica were the primary sources for the Digital Chart of the World database. 
+The ONCs have a scale of 1:1,000,000, and they are the largest scale, unclassified map series produced by the DMA that provides consistent, continuous global coverage of essential basemap features. Some collateral sources have been used to enhance road and railroad connectivity through selected urbanized areas. 
+The DMA's Digital Aeronautical Flight Information File (DAFIF) was the primary source for the airport data in the aeronautical layer.
+An Advanced Very High Resolution Radiometer (AVHRR) image for the coterminous United States is the source for the data in the Vegetation layer. 
+The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopolitical codes and the ocean boundaries information contained in the Political and Oceans layer. The product specifications for the ONCs and JNCs have been used extensively in the design of the database.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Imagery and Mapping Agency</origin>
+            <pubdate>199006</pubdate>
+            <title>Digital Aeronautical Flight Information File</title>
+            <pubinfo/>
+          </citeinfo>
+        </srccite>
+        <typesrc>magnetic tape</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1990</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DAFIF</srccitea>
+        <srccontr>Airport records (name, International Civil Aviation Organization, position, elevation, and type)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Defense Mapping Agency</origin>
+            <pubdate>1990</pubdate>
+            <title>Jet Navigational Chart</title>
+            <geoform>map</geoform>
+            <pubinfo/>
+          </citeinfo>
+        </srccite>
+        <srcscale>2000000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1974</begdate>
+              <enddate>1991</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>JNC</srccitea>
+        <srccontr>All information found on the source with the exception of aeronautical data. JNCs were used as source for the  Antartica region only.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>USGS EROS Data Center</origin>
+            <title>Advance Very High Resolution Radiometer</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo/>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>magnetic tape</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>199003</begdate>
+              <enddate>199011</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>AVHRR</srccitea>
+        <srccontr>6 vegetation types covering the continental US and Canada</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>All Digital Chart of the World coverages are derived from copies of color or feature film separates on 7-mil stable Mylar or acetate prepared from original Defense Mapping Agency (DMA) negatives that are used in the Operational Navigation Chart lithographic production process. The number of separates available for each source chart varied from seven to thirty pieces. Following reproduction, separates underwent an extensive map preparation process to verify registration, tic coincidence between separates, and to inventory the data present on each sheet. Where necessary, data represented with broken line symbols on the source were manually connected into continuous lines to facilitate the automation process. For example, the dash and dot symbols used to represent intermittent drainage were connected with drafting ink to become continuous, smooth lines. Map preparation tasks were verified through independent quality control inspection.
+
+Following map preparation, the data were automated. Point features were manually digitized using large-format CalComp 9100 digitizing boards. All line features were captured through optical scanning on a Scan-Graphics CF1000 scanner at a resolution of 500 dots per inch (DPI). Nearly all data were vectorized using Scan-Graphics RAVE software resident on a DEC VAX 6320 minicomputer. Some utility line data were captured using Hitachi CADCore/Tracer software in conjunction with 300-DPI scanned images. Vector output files were converted to a DXF format and transferred to the main processing environment.
+
+Following scanning/vectorization, the data were converted into an ARC/INFO coverage format (Rev. 5.0.1) in a Sun SPARC processing environment. After being converted to ARC/INFO, all coverages were transformed into a common inch coordinate space using an affine coordinate transformation. Manually digitized coverages were registered to this same tic set prior to digitizing, also using an affine transformation.
+
+Next, preliminary edits were performed to eliminate obvious errors, after which the data were plotted at scale using a CalComp 1044 pen plotter and then compared to the source for positional accuracy, topological correctness, completeness, and cartographic presentation quality. Positionally, all data were required to fall within a line width of their position on the source manuscript. Topologically, all line data were required to be connected as depicted on the ONCs, all polygons had to close, and no duplicate features were permitted. This comparison to source review was performed by staff independent of the editing process and was implemented in an iterative cycle until all known errors were resolved. All of the data layers were checked in this fashion. All edits were verified.
+
+Attribute codes were assigned by registering source manuscripts on digitizing boards, selecting features individually or in groups, and assigning numeric codes for the various attributes represented. Point and text features were coded interactively at the time of initial data capture. 
+
+Following completion of initial attribute code assignment, all data were plotted and independently reviewed against source manuscripts for correctness. This process was implemented iteratively until all known errors were resolved. All of the data layers were checked in this fashion. All edits were verified. Annotation text string assignment was checked in a similar manner.
+
+Following finalization of cartographic features and associated attributes, all data (except for hypsography features) were plotted in a single composite plot on a CalComp 58000 color electrostatic plotter. This composite plot was compared to source lithographs by staff independent of the editing process to review the between-layer relationships of features and to eliminate final attribution errors. After this initial review/edit step, a second plot was sometimes generated to verify changes, depending on data density and the number of errors identified on the first plot. Not all features were explicitly tested at this stage. A set of automated checks was also applied to the data at this time, including tests for attribute code value validity, attribute code consistency, topology errors, attribute field definition correctness, and internal data structure correctness.
+
+To transform the data from digitizer inches into real-world coordinates, an appropriate number of registration points with known geographic latitude and longitude coordinates was selected from each ONC. These coordinates were entered into a master tic coverage and projected into the projection coordinate space of the source data (Lambert Conformal, Polar Stereographic, or Transverse Mercator, depending on source characteristics). 
+
+Next, the projected master tic coordinates were associated with their corresponding points in the digitizer inch coverages. Using the ARC/INFO command TRANSFORM, affine transformation coefficients were computed, and the digitizer inch coverages transformed into real-world coordinates. The transformed coverages were then inverse projected into decimal degrees. Lambert Conformal and Polar Stereographic projection processing was performed using the ARC/INFO (Rev. 5.0.1) PROJECT library, which draws on standard United States Geological Survey (USGS) General Cartographic Transformation Package (GCTP) algorithms. Transverse Mercator (TM) projections were performed using algorithms developed by ESRI. TM-based charts occur only below ?60 degrees latitude. The data were then clipped to remove overlap areas between sheets in preparation for edgematching. 
+
+Edgematching of features was done manually by quality control staff who marked the required connections on special color-coded electrostatic plots of border areas. The edgematch plot was then given to processing staff who matched the features indicated on the edgematch plots in the actual database. All edgematch processing was reviewed by quality control staff. If features along edges were irreconcilable in terms of position or attribution because of differences between ONC sheets, overlap areas on source manuscripts were utilized to resolve the discrepancies where possible. For features that were irreconcilable positionally, overlap areas on adjacent source charts were used to determine the definite positional relationship between features to be matched. Features were then physically moved in the database in order to establish a cartographically pleasing match, except in those cases where such a match would disturb the between-layer relationship of data in one of the modules. When it was necessary to alter feature position during edgematching, data from the less accurate sheet were always moved to match those on the more accurate one (as defined by DMA chart histories). In extreme situations where physical movement of arcs was not possible, but a clear definition as to which features should be matched existed, a section of the processing module border was inserted to maintain connectivity. These segments were explicitly coded as connector arcs within that layer. If two modules showed a difference in compilation date and the overlap area in the more recent sheet indicated greater connectivity for roads and railroads than the less recent module from which the data were automated, data from the more recent module were added to reflect this increased connectivity. These additions were explicitly coded as connectors. All other discrepancies between adjacent source sheets, including discrepancies in attribution that were not resolvable using the methods described above, were captured as is.
+
+Following edgematching, all of the mapping modules were physically merged and then subsequently split into five-degree by five-degree tiles using ARC/INFO LIBRARIAN Rev. 5.0.1 software. Any nonrequired former processing module (ONC) boundaries were then removed from polygon coverages using an ARC/INFO DISSOLVE operation. All polygon coverages were subjected to an additional automated process to ensure that features terminating at tile boundaries ended precisely at those boundaries. This was accomplished by identifying companion edge features on either side of each tile boundary, and snapping them to a common position along the mathematically generated boundary. Following these processes,a quality review was implemented to ensure that they had been performed correctly. This included interactive reviews of tiles, individually and in groups, and reviews of small-scale plots of all coverages.
+
+The following points are general technical characteristics that describe the data and/or the data production process:
+All data were registered using an affine transformation.
+Maximum allowable Root Mean Square Error (RMSE) was 0.004 inch, although
+values of 0.007 inch were accepted in some incidences (comprising no more than
+5 percent of the cases).
+All line data were generalized using the ARC/INFO GENERALIZE command with a
+tolerance of 0.0039 inch.
+Minimum polygon feature size is 0.12 inch (perimeter measure). This tolerance was
+applied using perimeter rather than area criteria to minimize the obstacles to polygon
+topology construction during data process operations. The layers most affected are the
+Political and Oceans, Drainage, and Hypsography layers.
+All line data have undergone coordinate densification at 0.55 inch following
+generalization to maintain data integrity throughout projection processing.
+All line data have been processed using a maximum fuzzy tolerance of 0.002 inch.</procdesc>
+        <procdate>199112</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Environmental Systems Research Institute</cntorg>
+            </cntorgp>
+            <cntpos>Applications Division</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>380 New York St.</address>
+              <city>Redlands</city>
+              <state>CA</state>
+              <postal>92373</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-307-3025</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Data transferred digitally directly into the VPF files.</procdesc>
+        <procdate>199408</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Geonex Corporation</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>8950 North 9th Ave.</address>
+              <city>St. Petersburg</city>
+              <state>FL</state>
+              <postal>33702</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>813-578-0100</cntvoice>
+            <cntfax>813-577-6946</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Daily AVHRR images were averaged for two week time periods over the entire US growing season. These averaged images, their rates of change, elevation information, and other data were used to produce a single land classification image of the contental US. The VMap-0 data set extended this coverage over the Canadian land mass, however vegetation classification was further subdivided into nine vegetation types.</procdesc>
+        <procdate>199002</procdate>
+        <srcprod>EROS data</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>U.S. Geological Survey, EROS Data Center</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>47914 252nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198-0001</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>800-252-4547</cntvoice>
+            <cntvoice>605-594-6151</cntvoice>
+            <cntfax>605-594-6589</cntfax>
+            <cntemail>custserv@usgs.gov</cntemail>
+            <hours>Monday thru Friday, 8:00 a.m. to 4:00 p.m., CST</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The Eros data (raster files) were converted to vector polygon, splined (remove stairstepping), thinned (all ploygons under 2km2 were deleted), and tied to existing DCW polygons (water bodies, built-up areas). The resulting file was tiled and converted to a VPF Vegetation coverage for use in the DCW. All processing was performed using ARC-INFO software.</procdesc>
+        <procdate>1990412</procdate>
+        <srcprod>VMap-0 Vegetation Coverage</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Geonex Corporation</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>8950 North 9th Ave.</address>
+              <city>St. Petersburg</city>
+              <state>FL</state>
+              <postal>33702</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>813-578-0100</cntvoice>
+            <cntfax>813-577-6946</cntfax>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Data was translated from VPF format to ArcInfo Coverage format.  The coverages were then loaded into a seamless ArcSDE layer.</procdesc>
+        <procdate>02152001</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library Team</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>1180 Massachusetts Avenue</address>
+              <city>Cambidge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="TIM.DCW_PP_POINT">
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>206773</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Mean Sea Level</altdatum>
+        <altres>1.000000</altres>
+        <altunits>1.0</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mt. Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>None</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shape</formname>
+          <filedec>Zip</filedec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web based distribution only. http://hgl.harvard.edu</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20041117</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+          <cntper>Geospatial Resources Cataloger</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>90 Mt. Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <eainfo>
+    <detailed Name="TIM.DCW_PP_POINT">
+      <enttyp>
+        <enttypl>DCW Populated Places</enttypl>
+        <enttypd>Points represent populated place features</enttypd>
+        <enttypds>HGL</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>PP_</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PP_ID</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PFT_ID</attrlabl>
+        <attrdef>Feature Identifier</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PPPTTYPE</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Populated place (no subcategories)</edomvd>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Populated place (associated with place names within urbanized areas)</edomvd>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Village, strategic, or landmark place associated with a special symbol identified with an ONC marginal note</edomvd>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Kampong (small villages or groups of houses, especially in Southeast Asia</edomvd>
+          </edom>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Circular village</edomvd>
+          </edom>
+        </attrdomv>
+        <attrdef>Populated place point type.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PPPTNAME</attrlabl>
+        <attrdef>Place name. The item PPPTNAME contains a thirty-character field to carry the specific name of the populated place feature as it appears on the ONC.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PPPTFLAG</attrlabl>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Standard regular characters</edomvd>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Diacritical marks or special characters required</edomvd>
+          </edom>
+          <edom>
+            <edomv>9</edomv>
+            <edomvd>No name associated with feature</edomvd>
+          </edom>
+        </attrdomv>
+        <attrdef>This item is a flag to indicate whether the text in PPPTNAME requires the use of special fonts.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TILE_ID</attrlabl>
+        <attrdef>VPF Format Tile Identifier Code</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>END_ID</attrlabl>
+        <attrdef>Primitive Record Identifier for the Feature</attrdef>
+        <attrdefs>ESRI</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+</metadata>
