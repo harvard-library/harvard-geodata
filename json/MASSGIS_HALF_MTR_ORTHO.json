@@ -16,7 +16,7 @@
   "dc_publisher_s": [
     "Office of Geographic and Environmental Information (MassGIS)"
   ],
-  "dc_format_s": "",
+  "dc_format_s": "GeoTIFF",
   "dc_type_s": "Dataset",
   "dc_subject_sm": [
     "Maps",
