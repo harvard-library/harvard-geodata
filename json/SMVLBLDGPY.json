@@ -8,7 +8,7 @@
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/SMVLBLDGPY.xml\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/requestfile/wfs\",\"http://schema.org/DownloadAction\":\"https://geodata-proxy.lib.harvard.edu/geoserver/proxy/downloadfile\"}",
   "layer_id_s": "vector_restricted:SMVLBLDGPY",
   "layer_slug_s": "harvard-smvlbldgpy",
-  "layer_geom_type_s": "Undetermined",
+  "layer_geom_type_s": "Polygon",
   "layer_modified_dt": "2002-09-25T00:00:00Z",
   "dc_creator_sm": [
     "Camp, Dresser & McKee",
