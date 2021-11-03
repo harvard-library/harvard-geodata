@@ -6,7 +6,7 @@
         <origin>Harvard Map Collection, Harvard College Library</origin>
         <origin>Goad, Charles E.</origin>
         <pubdate>201410</pubdate>
-        <title>Fire Insurance Map, ?zmir, Turkey, Plate 11, 1905 (Raster Image)</title>
+        <title>Fire Insurance Map, İzmir, Turkey, Plate 11, 1905 (Raster Image)</title>
         <geoform>map</geoform>
         <pubinfo>
           <pubplace>Cambridge, Massachusetts</pubplace>
@@ -16,7 +16,7 @@
       </citeinfo>
     </citation>
     <descript>
-      <abstract>This layer is a georeferenced raster image of a map plate of a section of ?zmir, Turkey from the Charles E. Goad map set entitled: Plan d'assurance de Smyrne (Smyrna) : Turquie : plan, index, published June 1905. This image is of Plate 11. Scale 1:600. Map in French. This image includes an inset that is not georeferenced.The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, UTM Zone 35 North projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. These large scale fire insurance maps typically include: building footprints, building construction material (frame, brick, plaster, stone), building heights, roof types, doors, windows, selected owner names, selected building functions, property boundaries, building street addresses, street names, railroads, water works, fire appliances, and more. Building construction material is shown by colored shading. This layer is part of a selection of digitally scanned and georeferenced historic fire insurance and land ownership atlases and map sets of various regions from the Harvard Map Collection. The selection of scanned atlases and maps sets represent a range of originators and ground condition dates.</abstract>
+      <abstract>This layer is a georeferenced raster image of a map plate of a section of İzmir, Turkey from the Charles E. Goad map set entitled: Plan d'assurance de Smyrne (Smyrna) : Turquie : plan, index, published June 1905. This image is of Plate 11. Scale 1:600. Map in French. This image includes an inset that is not georeferenced.The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, UTM Zone 35 North projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. These large scale fire insurance maps typically include: building footprints, building construction material (frame, brick, plaster, stone), building heights, roof types, doors, windows, selected owner names, selected building functions, property boundaries, building street addresses, street names, railroads, water works, fire appliances, and more. Building construction material is shown by colored shading. This layer is part of a selection of digitally scanned and georeferenced historic fire insurance and land ownership atlases and map sets of various regions from the Harvard Map Collection. The selection of scanned atlases and maps sets represent a range of originators and ground condition dates.</abstract>
       <purpose>Fire insurance and land ownership atlases and maps sets published in the 19th and early 20th centuries are one of the most valuable sources for monitoring and viewing urban change. As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
     </descript>
     <timeperd>
@@ -57,7 +57,7 @@
       <place>
         <placekt>GNS</placekt>
         <placekey>Turkey</placekey>
-        <placekey>?zmir</placekey>
+        <placekey>İzmir</placekey>
       </place>
     </keywords>
     <accconst>None</accconst>
