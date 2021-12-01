@@ -16,8 +16,10 @@
       </citeinfo>
     </citation>
     <descript>
-      <abstract>This layer is a georeferenced raster image of the historic paper map entitled:                Praefectura de Cirîii^, vel Seregippe del Rey cum Itâpuáma. It was published after                J. Cóvens et C. Mortier ca. 1721. Scale [ca. 1:1,200,000]. The image inside the map                neatline is georeferenced to the surface of the earth and fit to the SAD 69 / Brazil                Polyconic projected coordinate system. All map collar and inset information is also                available as part of the raster image, including any inset maps, profiles,                statistical tables, directories, text, illustrations, index maps, legends, or other                information associated with the principal map. This map shows features such as                drainage, cities and other human settlements, territorial boundaries, shoreline                features, and more. Relief shown pictorially. Includes also illustrations of local                fauna and a fruit garland. This layer is part of a selection of digitally scanned                and georeferenced historic maps from the Harvard Map Collection. These maps                typically portray both natural and manmade features. The selection represents a                range of originators, ground condition dates, scales, and map purposes.</abstract>
-      <purpose>Historic paper maps can provide an excellent view of the changes that have                occurred in the cultural and physical landscape. The wide range of information                provided on these maps make them useful in the study of historic geography, and                urban and rural land use change. As this map has been georeferenced, it can be used                in a GIS as a source or background layer in conjunction with other GIS                data.</purpose>
+      <abstract>This layer is a georeferenced raster image of the historic paper map entitled: Praefectura de Çîrîiǐ̂, vel Seregippe del Rey cum Itâpuáma ; Atlas nouveau, contenant toutes les parties du monde. It was published after J. Cóvens et C. Mortier ca. 1721. Scale [ca. 1:1,200,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the SAD 69 / Brazil Polyconic projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also illustrations of local fauna and a fruit garland. 
+	  
+	  This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.</abstract>
+      <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape. The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change. As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
     </descript>
     <timeperd>
       <timeinfo>
@@ -94,12 +96,12 @@
   </idinfo>
   <dataqual>
     <attracc>
-      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the                original source map. Some differences may be detected between the source graphic                used and the raster image due to the RGB values assigned that particular color. The                intent is to recreate those colors as near as possible.</attraccr>
+      <attraccr>The georeferenced raster is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the raster image due to the RGB values assigned that particular color. The intent is to recreate those colors as near as possible.</attraccr>
     </attracc>
-    <complete>Data completeness for raster digital image files reflect content of the source            graphic. Features may have been eliminated or generalized on the source graphic due to            scale and legibility constraints</complete>
+    <complete>Data completeness for raster digital image files reflect content of the source graphic. Features may have been eliminated or generalized on the source graphic due to scale and legibility constraints</complete>
     <posacc>
       <horizpa>
-        <horizpar>The horizontal positional accuracy of a raster image is approximately the                    same as the accuracy of the published source map. The lack of a greater accuracy                    is largely the result of the inaccuracies with the original measurements and                    possible distortions in the original paper map document. There may also be                    errors introduced during the digitizing and georeferencing process. In most                    cases, however, errors in the raster image are small compared with sources of                    error in the original map graphic. The RMS error for this map is 4517.91295                    meters. This value describes how consistent the transformation is between the                    different control points (links). The RMS error is only an assessment of the                    accuracy of the transformation.</horizpar>
+        <horizpar>The horizontal positional accuracy of a raster image is approximately the same as the accuracy of the published source map. The lack of a greater accuracy is largely the result of the inaccuracies with the original measurements and possible distortions in the original paper map document. There may also be errors introduced during the digitizing and georeferencing process. In most cases, however, errors in the raster image are small compared with sources of error in the original map graphic. The RMS error for this map is 4517.91295 meters. This value describes how consistent the transformation is between the different control points (links). The RMS error is only an assessment of the accuracy of the transformation.</horizpar>
       </horizpa>
     </posacc>
     <lineage>
@@ -108,7 +110,7 @@
           <citeinfo>
             <origin>Cóvens et Mortier.</origin>
             <pubdate>1721</pubdate>
-            <title>Praefectura de Cirîii^, vel Seregippe del Rey cum Itâpuáma.</title>
+            <title>Praefectura de Çîrîiǐ̂, vel Seregippe del Rey cum Itâpuáma.</title>
             <geoform>map</geoform>
             <pubinfo>
               <pubplace>Amstelodami</pubplace>
@@ -131,7 +133,7 @@
         <srccontr>Source map for raster image</srccontr>
       </srcinfo>
       <procstep>
-        <procdesc>Paper maps were inserted into mylar envelopes and scanned at 400 dpi using                    a Colortrac Smart LF Gx+T42 scanner and SmartWorksPro version 1.1.1.5 scanning                    software. Resulting images were rotated and cropped as needed using Adobe                    Photoshop CS5 Extended version 12.0.</procdesc>
+        <procdesc>Paper maps were inserted into mylar envelopes and scanned at 400 dpi using a Colortrac Smart LF Gx+T42 scanner and SmartWorksPro version 1.1.1.5 scanning software. Resulting images were rotated and cropped as needed using Adobe Photoshop CS5 Extended version 12.0.</procdesc>
         <srcused>Paper Map</srcused>
         <procdate>2012</procdate>
         <srcprod>JP2 Map Image</srcprod>
@@ -159,7 +161,7 @@
         </proccont>
       </procstep>
       <procstep>
-        <procdesc>Using ArcMap 9.3.1 software, the digital JPEG2000 image was georeferenced                    to common points located on digital vector shapefiles. For this image, the                    following vector shapefiles were used as a base map for reference: ESRI Data and                    Maps 2010: World Water Bodies (1:250,000). The base map data is projected in the                    SAD 69 / Brazil Polyconic projected coordinate system, and the image was                    subsequently georeferenced to the same projection. A world file (.j2w) was                    automatically generated and saved in association with the digital image. See                    'Horizontal Accuracy' for the RMS error of this image. Please note that the                    projection will need to be defined by the user in order to display the image                    with other projected data and the world file will need to be stored in the same                    root directory as the image.</procdesc>
+        <procdesc>Using ArcMap 9.3.1 software, the digital JPEG2000 image was georeferenced to common points located on digital vector shapefiles. For this image, the following vector shapefiles were used as a base map for reference: ESRI Data and Maps 2010: World Water Bodies (1:250,000). The base map data is projected in the SAD 69 / Brazil Polyconic projected coordinate system, and the image was subsequently georeferenced to the same projection. A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
         <srcused>JP2 Map Image</srcused>
         <procdate>2013</procdate>
         <srcprod>Georeferenced Raster Data</srcprod>
@@ -228,7 +230,7 @@
   </spref>
   <eainfo>
     <overview>
-      <eaover>The indexes reference a color palette of RGB values from 0 through 255,                representing the color value from the original paper sheet map. The colors on that                sheet can represent relief, drainage, vegetation, populated places, cultural                features, coastal hydrography, transportation features (roads, railroads, tracks and                trails), spot elevations and boundaries. The colors are sometimes explained in a                legend that is incorporated into the map inset or collar.</eaover>
+      <eaover>The indexes reference a color palette of RGB values from 0 through 255, representing the color value from the original paper sheet map. The colors on that sheet can represent relief, drainage, vegetation, populated places, cultural                features, coastal hydrography, transportation features (roads, railroads, tracks and trails), spot elevations and boundaries. The colors are sometimes explained in a legend that is incorporated into the map inset or collar.</eaover>
       <eadetcit>Not applicable.</eadetcit>
     </overview>
   </eainfo>
@@ -255,7 +257,7 @@
       </cntinfo>
     </distrib>
     <resdesc>Downloadable Data</resdesc>
-    <distliab>Although this data set has been developed by Harvard University, no warranty            expressed or implied is made by the University as to the accuracy of the data and            related materials. The act of distribution shall not constitute any such warranty, and            no responsibility is assumed by the University in the use of this data, or related            materials.</distliab>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
     <stdorder>
       <digform>
         <digtinfo>
