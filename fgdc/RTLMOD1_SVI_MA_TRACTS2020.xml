@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Agency for Toxic Substances and Disease Registry</origin>
+				<origin>Centers for Disease Control and Prevention (U.S.)</origin>
+				<pubdate>202511</pubdate>
+				<title>Social Vulnerability Index (SVI) Overall Score by Census Tract, Massachusetts, 2020</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+				  <pubplace>Cambridge, Massachusetts</pubplace>
+				  <publish>Harvard Map Collection, Harvard Library</publish>
+				</pubinfo>
+				<onlink>https://hgl.harvard.edu/catalog/harvard-rtlmod1-svi-ma-tracts2020</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This layer consists of polygons representing Social Vulnerability Index (SVI) overall scores by 2020 Census Tracts for the state of Massachusetts. This dataset was derived and processed from the CDC ATSDR source dataset: SVI Interactive Map (https://www.atsdr.cdc.gov/place-health/php/svi/svi-interactive-map.html). This dataset contains only a small selection of the original attributes available in the source dataset and is joined with US Census Track feature data downloaded from MassGIS. Please refer to the source data set to access the full set of data features.
+			
+			ATSDR's Geospatial Research, Analysis, &amp; Services Program (GRASP) created the Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry Social Vulnerability Index (CDC/ATSDR SVI or simply SVI, hereafter) to help public health officials and emergency response planners identify and map the	communities that will most likely need support before, during, and after a hazardous event. 
+			
+			SVI indicates the relative vulnerability of every U.S. Census tract. Census tracts are subdivisions of counties for which the Census collects statistical data. SVI ranks the tracts on 16 social factors, including unemployment, racial and ethnic minority status, and disability, and further groups them into four related themes. Thus, each tract receives a ranking for each Census variable and for each of the four themes as well as an overall ranking. 
+			
+			For more information on SVI definitions and methodology please see: https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html
+			</abstract>
+			<purpose>This dataset was derived and processed for use as part of a Harvard Library GIS training tutorial.</purpose>
+		</descript>
+		<timeperd>
+		  <timeinfo>
+			<sngdate>
+			  <caldate>2020</caldate>
+			</sngdate>
+		  </timeinfo>
+		  <current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-73.533757</westbc>
+				<eastbc>-69.899119</eastbc>
+				<northbc>42.888219</northbc>
+				<southbc>41.231284</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+		  <theme>
+            <themekt>LCSH</themekt>
+            <themekey>Social conditions</themekey>
+		    <themekey>Population statistics</themekey>
+          </theme>
+          <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>society</themekey>
+          </theme>
+	      <place>
+            <placekt>LCSH</placekt>
+            <placekey>Massachusetts</placekey>
+          </place>
+	    </keywords>
+		<accconst>None</accconst>
+		<useconst>The following requirements must be followed to utilize CDC’s public domain content:
+
+		1) Attribution to the agency that developed the material must be provided in your use of the materials.  Such attribution should clearly state the materials were developed by CDC ATSDR and/or HHS (e.g., "Source: CDC"; "Materials developed by CDC");
+
+		2) You must utilize a disclaimer which clearly indicates that your use of the material, including any links to the materials on the CDC, ATSDR or HHS websites, does not imply endorsement by CDC, ATSDR, HHS or the United States Government of you, your company, product, facility, service or enterprise. All such disclaimers must be prominently and unambiguously displayed (e.g., "Reference to specific commercial products, manufacturers, companies, or trademarks does not constitute its endorsement or recommendation by the U.S. Government, Department of Health and Human Services, or Centers for Disease Control and Prevention;
+
+		3) You may not change the substantive content of the materials; and
+
+		4) You must state that the material is otherwise available on the agency website for no charge.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard University Information Technology</address>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Centers for Disease Control and Prevention. Agency for Toxic Substances and Disease Registry</datacred>
+		<native>Microsoft Windows 10 Version 10.0 (Build 26100) ; Esri ArcGIS 13.5.2.57366</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+		</attracc>
+		<logic>Unknown</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States. Agency for Toxic Substances and Disease Registry</origin>
+						<origin>Centers for Disease Control and Prevention (U.S.)</origin>
+						<pubdate>20200805</pubdate>
+						<title>SVI interactive map</title>
+						<geoform>digital data</geoform>
+						<pubinfo>
+							<pubplace>Atlanta, Georgia</pubplace>
+							<publish>CDC/ATSDR</publish>
+						</pubinfo>
+						<onlink>https://www.atsdr.cdc.gov/place-health/php/svi/svi-interactive-map.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2020</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Source csv</srccitea>
+				<srccontr>SVI data source</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau. Geography Division</origin>
+						<origin>MassGIS (Office : Mass.)</origin>
+						<pubdate>202212</pubdate>
+						<title>2020 U.S. Census : Tracts, Massachusetts</title>
+						<geoform>digital data</geoform>
+						<pubinfo>
+							<pubplace>Boston, Massachusetts</pubplace>
+							<publish>MassGIS</publish>
+						</pubinfo>
+						<onlink>https://www.mass.gov/info-details/massgis-data-2020-us-census</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2020</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Source shapefile</srccitea>
+				<srccontr>Census tracts data source</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Downloaded Social Vulnerability Index (SVI) data for Massachusetts Census tracts for 2020 from CDC ATSDR as csv data. Retained needed SVI fields, including the tract identifier and overall percentile (RPL_THEMES). Downloaded 2020 Census Tracts for Massachusetts from MassGIS. Created a table join from tracts to the SVI CSV on the 11-digit tract code (tract GEOID in the MassGIS layer to the SVI tract code). Exported the joined features to a new shapefile. Kept a minimal attribute set required for the tutorial and map symbology. Performed basic QA: spot-checked join counts, verified a few tract IDs and percentile values, and validated geometry.
+				
+				File renamed for HGL delivery as: RTLMOD1_SVI_MA_TRACTS2020</procdesc>
+				<srcused>Source csv</srcused>
+				<srcused>Source shapefile</srcused>
+				<procdate>2025</procdate>
+				<srcprod>HGL shapefile</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Harvard Geospatial Library</cntorg>
+						</cntorgp>
+						<cntpos>Geospatial Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Harvard Library</address>
+							<address>Library Technology Services</address>
+							<address>90 Mount Auburn Street</address>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<postal>02138</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-495-2417</cntvoice>
+						<cntfax>617-496-0440</cntfax>
+						<cntemail>hgladmin@fas.harvard.edu</cntemail>
+						<hours>Monday - Friday, 10:00 am - 4:00 pm EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>1614</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>State Plane Coordinate System 1927</gridsysn>
+					<spcs>
+						<spcszone>2001</spcszone>
+						<lambertc>
+							<stdparll>41.7166666667</stdparll>
+							<stdparll>42.6833333333</stdparll>
+							<longcm>-71.5</longcm>
+							<latprjo>41.0</latprjo>
+							<feast>600000.0</feast>
+							<fnorth>0</fnorth>
+						</lambertc>
+					</spcs>
+				</gridsys>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+					<plandu>feet</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1927</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.4</semiaxis>
+				<denflat>294.9786982139</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>RTLMOD1_SVI_MA_TRACTS2020</enttypl>
+				<enttypd>Social Vulnerability Index (SVI) Overall Score by Census Tract, Massachusetts, 2020</enttypd>
+				<enttypds>HGL</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>fid_1</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>GISJOIN</attrlabl>
+			  <attrdef>Join key used to link the attribute table to other tabular data sources in the GIS environment.</attrdef>
+			  <attrdefs>HGL</attrdefs>
+			  <attrdomv>
+				<udom>String keys matching the feature layer and the CSV table.</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>STATEFP</attrlabl>
+			  <attrdef>State FIPS code – two-digit Federal Information Processing Standard code identifying the U.S. state or jurisdiction.</attrdef>
+			  <attrdefs>U.S. Census Bureau code.</attrdefs>
+			  <attrdomv>
+				<udom>Two-digit numeric string (e.g. "06" for California).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>COUNTYFP</attrlabl>
+			  <attrdef>County FIPS code – three-digit code identifying the county (or county equivalent) within the state.</attrdef>
+			  <attrdefs>U.S. Census Bureau code.</attrdefs>
+			  <attrdomv>
+				<udom>Three-digit numeric string (e.g. "031" for Los Angeles County).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>TRACTCE</attrlabl>
+			  <attrdef>Census Tract Code – numeric code assigned to the tract within the county for the 2020 Census geography.</attrdef>
+			  <attrdefs>U.S. Census Bureau code.</attrdefs>
+			  <attrdomv>
+				<udom>Six-digit numeric string (e.g. "020301").</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>GEOID</attrlabl>
+			  <attrdef>Geographic Identifier – concatenated code combining state FIPS, county FIPS and tract code to uniquely identify the census tract.</attrdef>
+			  <attrdefs>U.S. Census Bureau identifier.</attrdefs>
+			  <attrdomv>
+				<udom>String combining STATEFP + COUNTYFP + TRACTCE (e.g. "06037202000").</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>NAME</attrlabl>
+			  <attrdef>Name of the census tract (usually the tract number or label used by the Census Bureau).</attrdef>
+			  <attrdefs>Census Bureau tract name.</attrdefs>
+			  <attrdomv>
+				<udom>Alphanumeric label (e.g. "Tract 2020").</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>NAMELSAD</attrlabl>
+			  <attrdef>Name-Legal/Statistical Area Description – a descriptive label combining the name and the legal/statistical designation of the geographic area (for example "Census Tract 2020").</attrdef>
+			  <attrdefs>Census Bureau descriptor.</attrdefs>
+			  <attrdomv>
+				<udom>Text describing the tract (e.g. "Census Tract 2020").</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>MTFCC</attrlabl>
+			  <attrdef>MAF/TIGER Feature Class Code – a five-character code assigned by the U.S. Census Bureau to classify the type of geographic feature.</attrdef>
+			  <attrdefs>Census Bureau code list.</attrdefs>
+			  <attrdomv>
+				<udom>Five-character code (e.g. "G5020" for Census Tracts (areal)).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>FUNCSTAT</attrlabl>
+			  <attrdef>Functional Status – a one-character code indicating whether the geographic feature is currently active or inactive (e.g. "S" for active). Derived from Census TIGER/Line attribute schema.</attrdef>
+			  <attrdefs>U.S. Census Bureau code.</attrdefs>
+			  <attrdomv>
+				<udom>Single character ("S", "N", etc.).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>ALAND</attrlabl>
+			  <attrdef>Land area of the tract in square meters, as provided by the U.S. Census Bureau TIGER/Line file.</attrdef>
+			  <attrdefs>Census Bureau attribute.</attrdefs>
+			  <attrdomv>
+				<udom>Positive real number (square meters).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>AWATER</attrlabl>
+			  <attrdef>Water area of the tract in square meters, as provided by the U.S. Census Bureau TIGER/Line file.</attrdef>
+			  <attrdefs>Census Bureau attribute.</attrdefs>
+			  <attrdomv>
+				<udom>Positive real number (square meters).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>INTPTLAT</attrlabl>
+			  <attrdef>Latitude of the interior point of the tract, in decimal degrees (North positive). Provided by TIGER/Line referencing.</attrdef>
+			  <attrdefs>Census Bureau attribute.</attrdefs>
+			  <attrdomv>
+				<udom>Decimal value (e.g. "+41.123456").</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>INTPTLON</attrlabl>
+			  <attrdef>Longitude of the interior point of the tract, in decimal degrees (West negative). Provided by TIGER/Line referencing.</attrdef>
+			  <attrdefs>Census Bureau attribute.</attrdefs>
+			  <attrdomv>
+				<udom>Decimal value (e.g. "-71.987654").</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>Shape_Leng</attrlabl>
+			  <attrdef>Perimeter of feature in internal units squared.</attrdef>
+			  <attrdefs>Esri autogenerated measurement.</attrdefs>
+			  <attrdomv>
+				<udom>Positive real number (units correspond to coordinate system units).</udom>
+			  </attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+			  <attrlabl>RPL_THEMES</attrlabl>
+			  <attrdef>Overall percentile ranking for the Social Vulnerability Index (SVI) at the census tract level. Higher values (closer to 1.0) indicate greater relative social vulnerability. :contentReference[oaicite:4]{index=4}</attrdef>
+			  <attrdefs>Percentile rank (0-1) derived from SVI methodology of Centers for Disease Control and Prevention/Agency for Toxic Substances and Disease Registry.</attrdefs>
+			  <attrdomv>
+				<udom>Decimal number between 0.00 and 1.00, where 1.0 indicates the highest vulnerability.</udom>
+			  </attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard University Information Technology</cntorg>
+				</cntorgp>
+				<cntpos>Harvard Geospatial Library</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and	no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<filedec>ZIP</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://hgl.harvard.edu/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20251114</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntpos>Geospatial Metadata Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard University Information Technology</address>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>
