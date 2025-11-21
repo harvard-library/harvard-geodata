@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Boston Maps</origin>
+				<pubdate>202511</pubdate>
+				<title>Tree Canopy Percentage by Census Tract (CT), Boston, Massachusetts, 2019</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+				  <pubplace>Cambridge, Massachusetts</pubplace>
+				  <publish>Harvard Map Collection, Harvard Library</publish>
+				</pubinfo>
+				<onlink>https://hgl.harvard.edu/catalog/harvard-rtlmod1-treecanopy-boston-2019</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+		  <abstract>This layer consists of polygons representing tree canopy as a percent of all land cover (including water) by 2010 census tract, Boston, Massachusetts, 2019. This dataset was derived and processed from the Boston Maps CT Tree canopy metrics for the 2014-2019 canopy change assessment source dataset: https://data.boston.gov/dataset/ct-tree-canopy-metrics. The derived version of the source dataset was optimitized for teaching purposes and contains only a limited representation of the full set of data attributes found in the source dataset. Please refer to the source data set to access the full set of data attributes.
+
+		  Tree Canopy (TC) Assessment metrics for Boston, MA. These datasets consist of TC metrics summarized using various geographies. The metrics presented in these tables are based on 2019 high resolution land cover and 2019 leaf-on LiDAR. The TC Assessment is a top-down approach to analyzing the forest. Its purpose is to integrate high resolution land cover data with other GIS datasets to produce a set of detailed metrics on the forest that allow decision makers to know how much tree canopy currently exists (termed Existing TC). Existing TC is determined by extracting all features classified as tree canopy from a high resolution land cover dataset.  Possible TC is queried out from this overlay and consists of all land that was not existing canopy, not water, not a building, and not a road. Possible TC is further divided into two subcategories: Possible-impervious and Possible-vegetation. Possible-impervious consists of all impervious land that, through modification, could support tree canopy. Examples of such features are parking lots, driveways (through overhanging coverage) and playgrounds. Possible-vegetation consists of all land that is low-lying vegetation, primarily grass or shrubs, which could conceivably be converted to support tree canopy. Examples of such features include residential lawns and playing fields. TC metrics do not serve to address the issues of where it is socially desirable or financially feasible to plant trees. Rather, the TC metrics serve as the basis for beginning to form answers to these questions. TC metrics are presented in the attribute table as both absolute area (in map units) and relative area (percentage of land area) per parcel. For example, an Existing TC Area (TC_E_A) value of 13,677 and an Existing TC Percentage (TC_E_P) of 21.8 indicate that for the area in question the area of Existing TC is 13,677 (in map units) and 21.8% of that feature is tree canopy.</abstract>
+		  <purpose>This dataset was derived and processed for use as part of a Harvard Library GIS training module.</purpose>
+		  <supplinf>Original analysis commissioned by the Boston Parks and Recreation Department and conducted by the University of Vermont Spatial Analysis Laboratory.</supplinf>
+		</descript>
+		    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2019</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+	    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+		<spdom>
+			<bounding>
+				<westbc>-71.191104</westbc>
+				<eastbc>-70.922828</eastbc>
+				<northbc>42.397615</northbc>
+				<southbc>42.227037</southbc>
+			</bounding>
+		</spdom>
+      <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Forest canopies</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+		<themekey>biota</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Boston (Mass.)</placekey>
+      </place>
+      </keywords>
+	  <accconst>None</accconst>
+	  <useconst>There are no restrictions on the use of this dataset. However, the City of Boston and the University of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.</useconst>
+	  		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard University Information Technology</address>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</ptcontac>
+	  <native>Microsoft Windows 10 Version 10.0 (Build 22631) ; Esri ArcGIS 13.5.3.57366</native>
+	</idinfo>
+		<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+		</attracc>
+		<logic>Unknown</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Boston Maps</origin>
+						<pubdate>2021</pubdate>
+						<title>CT Tree Canopy Metrics</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Boston, MA</pubplace>
+							<publish>Boston Maps</publish>
+						</pubinfo>
+						<onlink>https://data.boston.gov/dataset/ct-tree-canopy-metrics</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2019</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Source shapefile</srccitea>
+				<srccontr>Dataset source</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The source data, Canopy_Change_Assessment_Tree_Canopy_Metrics.zip, was downloaded in shapefile format from the Analyze Boston open data portal for CT Tree Canopy Metrics (Analyze Boston, 2021a).
+				
+				Per the original source documentation data-dictionary-canopy-change-assessment-.pdf, the census tracts are based on 2010 census tract geographies. The attribute table for the shapefile contains 211 polygons and 40 columns containing tree canopy metrics based on 2019 high-resolution land cover and 2019-leaf-on LIDAR. "[The purpose of the Tree Canopy Assessment] is to integrate high resolution land cover data with other GIS datasets to produce a set of detailed metrics on the forest that allow decision makers to know how much tree canopy currently exists (termed Existing TC) (Analyze Boston, 2021b). The column TC_E_P, or tree canopy existing percent, is the most relevant column for reporting current canopy coverage.
+
+				Processing steps:
+
+				1) Download source file as a shapefile: Canopy_Change_Assessment%3A_Tree_Canopy_Metrics.zip from source (Analyze Boston, 2021a)
+
+				2) Input: Canopy_Change_Assessment%3A_Tree_Canopy_Metrics.shp --> open a GIS. Project the layer to EPSG 26986. Edit fields to delete all irrelevant columns besides the columns: ID, NAME, ST_ABBREV, Shape_Length, Shape_Area, and TC_E_P. Manually rename TC_E_P column as PctTreeCanopy. (note: new shape length and area columns will be automatically added when you project into EPSG 26986 with a unit of meters, so you will need to delete the original shape length and area columns whose units were in feet) --> output: Tree_Canopy_Boston_2019.shp (The zipped file is titled TreeCanopy_Boston_2019_shp.zip).
+
+				File renamed for HGL delivery as: RTLMOD1_TREECANOPY_BOSTON_2019</procdesc>
+				<srcused>Source shapefile</srcused>
+				<procdate>2025</procdate>
+				<srcprod>HGL shapefile</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Harvard Geospatial Library</cntorg>
+						</cntorgp>
+						<cntpos>Geospatial Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Harvard Library</address>
+							<address>Library Technology Services</address>
+							<address>90 Mount Auburn Street</address>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<postal>02138</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-495-2417</cntvoice>
+						<cntfax>617-496-0440</cntfax>
+						<cntemail>hgladmin@fas.harvard.edu</cntemail>
+						<hours>Monday - Friday, 10:00 am - 4:00 pm EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>211</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>State Plane Coordinate System 1983</gridsysn>
+					<spcs>
+						<spcszone>2001</spcszone>
+						<lambertc>
+							<stdparll>41.7166666667</stdparll>
+							<stdparll>42.6833333333</stdparll>
+							<longcm>-71.5</longcm>
+							<latprjo>41.0</latprjo>
+							<feast>200000.0</feast>
+							<fnorth>750000.0</fnorth>
+						</lambertc>
+					</spcs>
+				</gridsys>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257222101</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>RTLMOD1_TREECANOPY_BOSTON_2019</enttypl>
+				<enttypd>Tree Canopy Percentage by Census Tract (CT), Boston, Massachusetts, 2019</enttypd>
+				<enttypds>HGL</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Census tract GEOID based on the 2010 Census data.</attrdef>
+				<attrdefs>Analyze Boston</attrdefs>
+				<attrdomv>
+					<udom>Numeric code</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Census tract name ID based on 2010 census data</attrdef>
+				<attrdefs>Analyze Boston</attrdefs>
+				<attrdomv>
+					<udom>Numeric code</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ST_ABBREV</attrlabl>
+				<attrdef>State location, abbreviated</attrdef>
+				<attrdefs>Analyze Boston</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Percent_Tr</attrlabl>
+				<attrdef>Existing percent of tree canopy. The amount of tree canopy present when viewed from above using aerial or satellite imagery, excluding water as a percentage. This is the value most used for reporting out current canopy coverage.</attrdef>
+				<attrdefs>Analyze Boston</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+				<attrdef>Polygon peremeter (meters)Census tract name ID based on 2010 census data</attrdef>
+				<attrdefs>None</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Polygon area (meters)</attrdef>
+				<attrdefs>None</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard University Information Technology</cntorg>
+				</cntorgp>
+				<cntpos>Harvard Geospatial Library</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and	no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<filedec>ZIP</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://hgl.harvard.edu/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20251114</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntpos>Geospatial Metadata Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard University Information Technology</address>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>
