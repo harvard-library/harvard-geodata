@@ -16,7 +16,7 @@
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>This layer consists of polygons representing Social Vulnerability Index (SVI) overall scores by 2020 Census Tracts for the state of Massachusetts. This dataset was derived and processed from the CDC ATSDR source dataset: SVI Interactive Map (https://www.atsdr.cdc.gov/place-health/php/svi/svi-interactive-map.html). This dataset contains only a small selection of the original attributes available in the source dataset and is joined with US Census Track feature data downloaded from MassGIS. Please refer to the source data set to access the full set of data features.
+			<abstract>This layer consists of polygons representing Social Vulnerability Index (SVI) overall scores by 2020 Census Tracts for the state of Massachusetts. This dataset was derived and processed from the CDC ATSDR source dataset: SVI Interactive Map (https://www.atsdr.cdc.gov/place-health/php/svi/svi-interactive-map.html). This dataset contains only a small selection of the original attributes available in the source dataset and is joined with US Census Tract feature data downloaded from MassGIS. Please refer to the source data set to access the full set of data features.
 			
 			ATSDR's Geospatial Research, Analysis, &amp; Services Program (GRASP) created the Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry Social Vulnerability Index (CDC/ATSDR SVI or simply SVI, hereafter) to help public health officials and emergency response planners identify and map the	communities that will most likely need support before, during, and after a hazardous event. 
 			
@@ -471,4 +471,5 @@
 		<metstdv>FGDC-STD-001-1998</metstdv>
 		<mettc>local time</mettc>
 	</metainfo>
+
 </metadata>
