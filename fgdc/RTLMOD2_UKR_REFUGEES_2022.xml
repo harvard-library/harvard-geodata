@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE metadata SYSTEM "fgdc-std-001-1998.dtd">
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Office of the United Nations High Commissioner for Refugees</origin>
+        <pubdate>20260326</pubdate>
+        <title>Mapping the Flow of Ukrainian Refugees to Countries of Asylum by End of 2022</title>
+        <geoform>vector digital data</geoform>
+		<pubinfo>
+          <pubplace>Cambridge, Massachusetts</pubplace>
+		  <publish>Harvard Map Collection, Harvard Library</publish>
+        </pubinfo>
+        <othercit>Recommended source citation: UNHCR Refugee Population Statistics Database.</othercit>
+        <onlink>https://hgl.harvard.edu/catalog/harvard-rtlmod2-ukr-refugees-2022</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset depicts global flow lines from Ukraine to countries of asylum, representing Ukrainian refugee populations by end of 2022. Flow lines were generated from UNHCR Refugee Population Statistics Database summary data (Year=2022; Country of Origin=Ukraine; Country of Asylum=All countries) joined to world country centroids and converted into geodesic line features in EPSG:4326 (WGS 84).</abstract>
+      <purpose>To support cartographic visualization and analysis of the distribution of Ukrainian refugees across countries of asylum by end of 2022. This dataset was derived and processed for use as part of a Harvard Library GIS training module.</purpose>
+      <supplinf>UNHCR methodology and definitions: https://www.unhcr.org/refugee-statistics/methodology and https://www.unhcr.org/refugee-statistics/methodology/definition.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20220101</begdate>
+          <enddate>20221231</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-112.498772</westbc>
+        <eastbc>171.458637</eastbc>
+        <northbc>74.189702</northbc>
+        <southbc>-41.829465</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+	  <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Refugees</themekey>
+		<themekey>Forced migration</themekey>
+		<themekey>Russian Invasion of Ukraine, 2022</themekey>
+      </theme>
+	  <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>refugees</themekey>
+        <themekey>forced displacement</themekey>
+        <themekey>asylum seekers</themekey>
+        <themekey>Ukraine</themekey>
+        <themekey>migration</themekey>
+        <themekey>humanitarian</themekey>
+        <themekey>flow map</themekey>
+      </theme>
+	  <place>
+        <placekt>LCSH</placekt>
+        <placekey>Ukraine</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Creative Commons Attribution 4.0 International (CC BY 4.0). UNHCR dataset terms of use: https://www.unhcr.org/what-we-do/data-and-publications/data-and-statistics/terms-use-datasets</useconst>
+    <ptcontac>
+      <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Information Technology</address>
+              <address>Library Technology Services</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgladmin@fas.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+       </cntinfo>
+    </ptcontac>
+	<datacred>UNHCR Refugee Population Statistics Database</datacred>
+    <native>QGIS</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attributes were derived from the UNHCR Refugee Population Statistics Database summary download for Year 2022 (Ukraine as country of origin) and processed for mapping.</attraccr>
+    </attracc>
+    <logic>Each feature represents a flow line from Ukraine (origin) to one country of asylum (destination). Origin and destination coordinates were derived from country centroid coordinates in EPSG:4326 and converted into geodesic lines.</logic>
+    <complete>Dataset includes 78 flow line features representing countries of asylum present in the UNHCR summary extract for year 2022 with Ukraine as country of origin.</complete>
+    <lineage>
+	  <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Natural Earth (Firm)</origin>
+            <pubdate>2022</pubdate>
+            <title>Natural Earth 1:10m cultural vectors</title>
+			<geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Unknown</pubplace>
+              <publish>Natural Earth</publish>
+            </pubinfo>
+			<othercit>The specific layers used for input are: [0]: Admin 1 – States, Provinces v4.1.0, [1]: Admin 0 – Countries v4.1.0, [2]: Admin 0 – Breakaway, Disputed Areas v4.1.0 (boundary lines)</othercit>
+            <onlink>https://www.naturalearthdata.com/downloads/10m-cultural-vectors/</onlink> 
+          </citeinfo>
+        </srccite>
+		<srcscale>10000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2012</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>World country data</srccitea>
+        <srccontr>Primary source for the centroids of the world country data.</srccontr>
+      </srcinfo>	
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Office of the United Nations High Commissioner for Refugees</origin>
+            <pubdate>2022</pubdate>
+            <title>UNHCR Refugee Population Statistics Database</title>
+			<geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Geneva, Switzerland</pubplace>
+              <publish>United Nations High Commissioner for Refugees</publish>
+            </pubinfo>
+            <onlink>https://www.unhcr.org/refugee-statistics/download</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20220101</begdate>
+              <enddate>20221231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>UNHCR Refugee Population Statistics Database</srccitea>
+        <srccontr>Primary source for persons-of-concern summary statistics by country of asylum and country of origin.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>From QGIS World Map data, used QGIS Centroids tool to create world country centroid point dataset in EPSG: 4326. Then calculated x and y-coordinates for each country (x_dest and y_dest). For refugee data, downloaded UNHCR summary data for Year=2022; Country of Origin=Ukraine; Country of Asylum=All countries. Manually added columns for the x and y-coordinates of Ukraine (x_origin and y_origin) using coordinates from the centroids data. Added columns for x and y-coordinates of the destination country (country of asylum) using QGIS Join Attributes by Field Value tool: joined x_dest and y_dest columns from centroid data to UNHCR data by ISO3 code for the asylum country. Generated geodesic flow lines from origin to destination using QGIS "XY to Line" tool. Converted Refugees field of type string to type integer in a new column, Refugees_n, for symbology purposes.</procdesc>
+		<srcused>UNHCR Refugee Population Statistics Database</srcused>
+		<srcused>World country data</srcused>
+        <procdate>20260309</procdate>
+		<srcprod>HGL shapefile</srcprod>
+		<proccont>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntpos>GIS Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard Library</address>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>78</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.0000000000000001</latres>
+        <longres>0.0000000000000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>WGS 1984</horizdn>
+        <ellips>WGS 84</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>RTLMOD2_UKR_REFUGEES_2022</enttypl>
+        <enttypd>Geodesic flow lines representing Ukrainian refugee populations in countries of asylum by end of 2022.</enttypd>
+        <enttypds>Derived from UNHCR Refugee Population Statistics Database; processed in QGIS using country centroids.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the polyline features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>fid_1</attrlabl>
+        <attrdef>Secondary/internal identifier created during processing</attrdef>
+        <attrdefs>HGL</attrdefs>
+        <attrdomv>
+          <udom>Integer identifier.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>End year until which refugee data is included.</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>YYYY (2022).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AsylumCtry</attrlabl>
+        <attrdef>Country of asylum</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Text (country name).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OriginCtry</attrlabl>
+        <attrdef>Country of origin</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Text (country name).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AsylumISO</attrlabl>
+        <attrdef>ISO3 country code for the country of asylum.</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>3-character ISO 3166-1 alpha-3 code.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OriginISO</attrlabl>
+        <attrdef>ISO3 country code for the country of origin.</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>3-character ISO 3166-1 alpha-3 code.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Refugees</attrlabl>
+        <attrdef>Number of refugees as reported by UNHCR for the country of asylum. "Individuals recognized under the 1951 Convention relating to the Status of Refugees, its 1967 Protocol, the 1969 Organization of African Unity (OAU) Convention Governing the Specific Aspects of Refugee Problems in Africa, the refugee definition contained in the 1984 Cartagena Declaration on Refugees as incorporated into national laws, those recognized in accordance with the UNHCR Statute, individuals granted complementary forms of protection, and those enjoying temporary protection. The refugee population also includes people in refugee-like situations."</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AsylumSeek</attrlabl>
+        <attrdef>Number of asylum-seekers. "Individuals who have sought international protection and whose claims for refugee status have not yet been determined."</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count (may be stored as text depending on export).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IDPs</attrlabl>
+        <attrdef>Number of internally displaced persons (IDPs). "Persons or groups of persons who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of, or in order to avoid the effects of armed conflict, situations of generalized violence, violations of human rights or natural or human-made disasters, and who have not crossed an internationally recognized State border".</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count (may be stored as text depending on export).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IntlProtec</attrlabl>
+        <attrdef>Number of other people in need of international protection. "People who are outside their country or territory of origin, typically because they have been forcibly displaced across international borders, who have not been reported under other categories (asylum-seekers, refugees, people in refugee-like situations) but who likely need international protection, including protection against forced return, as well as access to basic services on a temporary or longer-term basis."</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count (may be stored as text depending on export).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Stateless</attrlabl>
+        <attrdef>Number of stateless persons, as defined by UNHCR. "Defined under the 1954 Convention Relating to the Status of Stateless People as those not considered as nationals by any State under the operation of its law."</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count (may be stored as text depending on export).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HostCommu</attrlabl>
+        <attrdef>Number of host community counts. "A community that hosts large populations of refugees or internally displaced persons, whether in camps, integrated into households, or independently"</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count (may be stored as text depending on export).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OfConcern</attrlabl>
+        <attrdef>Number of others of concern. "Individuals who do not necessarily fall directly into any of these groups above but to whom UNHCR has extended its protection and/or assistance services, based on humanitarian or other special grounds."</attrdef>
+        <attrdefs>UNHCR Refugee Population Statistics Database</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count (may be stored as text depending on export).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>x_origin</attrlabl>
+        <attrdef>X coordinate (longitude) for the origin country (Ukraine) centroid, in decimal degrees (EPSG:4326).</attrdef>
+        <attrdefs>Derived from country centroid processing in QGIS</attrdefs>
+        <attrdomv>
+          <udom>Decimal degrees.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>y_origin</attrlabl>
+        <attrdef>Y coordinate (latitude) for the origin country (Ukraine) centroid, in decimal degrees (EPSG:4326).</attrdef>
+        <attrdefs>Derived from country centroid processing in QGIS</attrdefs>
+        <attrdomv>
+          <udom>Decimal degrees.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>x_dest</attrlabl>
+        <attrdef>X coordinate (longitude) for the destination country (country of asylum) centroid, in decimal degrees (EPSG:4326).</attrdef>
+        <attrdefs>Derived from country centroid processing in QGIS</attrdefs>
+        <attrdomv>
+          <udom>Decimal degrees.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>y_dest</attrlabl>
+        <attrdef>Y coordinate (latitude) for the destination country (country of asylum) centroid, in decimal degrees (EPSG:4326).</attrdef>
+        <attrdefs>Derived from country centroid processing in QGIS</attrdefs>
+        <attrdomv>
+          <udom>Decimal degrees.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Refugees_n</attrlabl>
+        <attrdef>Number of refugees as an integer numeric field, derived from the Refugees attribute.</attrdef>
+        <attrdefs>HGL</attrdefs>
+        <attrdomv>
+          <udom>Non-negative integer count.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+   <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard University Information Technology</cntorg>
+        </cntorgp>
+        <cntpos>Harvard Geospatial Library</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgladmin@fas.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been developed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20260326</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Metadata Librarian</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Information Technology</address>
+          <address>Library Technology Services</address>
+          <address>90 Mount Auburn Street</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgladmin@fas.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
