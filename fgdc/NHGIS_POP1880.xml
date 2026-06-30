@@ -5,7 +5,7 @@
       <citeinfo>
         <origin>University of Minnesota. Minnesota Population Center</origin>
         <pubdate>2006</pubdate>
-        <title>Historic County Boundaries and Total Population, United States, 1830</title>
+        <title>Historic County Boundaries and Total Population, United States, 1880</title>
         <geoform>vector digital data</geoform>
         <pubinfo>
           <pubplace>Minneapolis, Minnesota</pubplace>
@@ -22,10 +22,10 @@
     <timeperd>
       <timeinfo>
         <sngdate>
-          <caldate>1830</caldate>
+          <caldate>1880</caldate>
         </sngdate>
       </timeinfo>
-      <current>publication date</current>
+      <current>ground condition</current>
     </timeperd>
     <status>
       <progress>In work</progress>
@@ -1434,7 +1434,7 @@
     <ptvctinf>
       <sdtsterm>
         <sdtstype>G-polygon</sdtstype>
-        <ptvctcnt>1002</ptvctcnt>
+        <ptvctcnt>2615</ptvctcnt>
       </sdtsterm>
     </ptvctinf>
   </spdoinfo>
@@ -1472,17 +1472,22 @@
   <eainfo>
     <detailed>
       <enttyp>
-        <enttypl>NHGIS_POP1830</enttypl>
-        <enttypd>Historic County Boundaries and Total Population, United States, 1830</enttypd>
+        <enttypl>NHGIS_POP1880</enttypl>
+        <enttypd>Historic County Boundaries and Total Population, United States, 1880</enttypd>
         <enttypds>CGA</enttypds>
       </enttyp>
-      <attr>
-        <attrlabl>OBJECTID_1</attrlabl>
+	  <attr>
+        <attrlabl>FID</attrlabl>
         <attrdef>Internal feature number.</attrdef>
         <attrdefs>ESRI</attrdefs>
         <attrdomv>
           <udom>Sequential unique whole numbers that are automatically generated.</udom>
         </attrdomv>
+      </attr>
+	  <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
       </attr>
       <attr>
         <attrlabl>OBJECTID</attrlabl>
@@ -1568,19 +1573,20 @@
       </attr>
       <attr>
         <attrlabl>PID</attrlabl>
-        <attrdef>Internal feature number.</attrdef>
-        <attrdefs>ESRI</attrdefs>
-        <attrdomv>
-          <udom>Sequential unique whole numbers that are automatically generated.</udom>
-        </attrdomv>
+        <attrdef>Polygon identifier.</attrdef>
+        <attrdefs>Inferred from attribute label</attrdefs>
       </attr>
       <attr>
         <attrlabl>X_CENTROID</attrlabl>
+		<attrdef>X coordinate of the feature centroid.</attrdef>
+        <attrdefs>Inferred from attribute label</attrdefs>
       </attr>
       <attr>
         <attrlabl>Y_CENTROID</attrlabl>
+		<attrdef>Y coordinate of the feature centroid.</attrdef>
+        <attrdefs>Inferred from attribute label</attrdefs>
       </attr>
-      <attr>
+	  	  <attr>
         <attrlabl>GISJOIN</attrlabl>
         <attrdef>Attribute used to join GIS data to aggregate data tables</attrdef>
         <attrdefs>NHGIS</attrdefs>
@@ -1611,20 +1617,12 @@
         <attrdefs>NHGIS</attrdefs>
       </attr>
       <attr>
-        <attrlabl>SHAPE</attrlabl>
-        <attrdef>Feature geometry.</attrdef>
-        <attrdefs>ESRI</attrdefs>
-        <attrdomv>
-          <udom>Coordinates defining the features.</udom>
-        </attrdomv>
-      </attr>
-      <attr>
-        <attrlabl>SHAPE.AREA</attrlabl>
+        <attrlabl>SHAPE_AREA</attrlabl>
         <attrdef>Area of feature in square coverage units</attrdef>
         <attrdefs>ESRI</attrdefs>
       </attr>
       <attr>
-        <attrlabl>SHAPE.LEN</attrlabl>
+        <attrlabl>SHAPE_LEN</attrlabl>
         <attrdef>Length of arc in coverage units</attrdef>
         <attrdefs>ESRI</attrdefs>
       </attr>
