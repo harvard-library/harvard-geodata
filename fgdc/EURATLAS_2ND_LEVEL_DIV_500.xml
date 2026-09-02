@@ -235,6 +235,34 @@ This Agreement shall be interpreted in accordance with the laws in force in Swit
           </cntinfo>
         </proccont>
       </procstep>
+      <procstep>
+        <procdesc>The dataset was reprojected from ESRI:54004, World Mercator, to EPSG:4326, WGS 84 geographic coordinates. The output coordinate system has an XY resolution of 0.0000000000000888178419700125 decimal degrees and an XY tolerance of 0.00000000898315284119521 degrees. Feature geometries and attribute data were otherwise retained.</procdesc>
+        <srcused>SDE vector</srcused>
+        <procdate>20260902</procdate>
+        <srcprod>EPSG:4326 vector dataset</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>Geospatial Data Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office for Information Systems</address>
+              <address>90 Mount Auburn Street</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
     </lineage>
   </dataqual>
   <spdoinfo>
@@ -248,30 +276,16 @@ This Agreement shall be interpreted in accordance with the laws in force in Swit
   </spdoinfo>
   <spref>
     <horizsys>
-      <planar>
-        <mapproj>
-          <mapprojn>Mercator</mapprojn>
-          <mercator>
-            <stdparll>0.000000</stdparll>
-            <longcm>0.000000</longcm>
-            <feast>0.000000</feast>
-            <fnorth>0.000000</fnorth>
-          </mercator>
-        </mapproj>
-        <planci>
-          <plance>coordinate pair</plance>
-          <coordrep>
-            <absres>0.000100</absres>
-            <ordres>0.000100</ordres>
-          </coordrep>
-          <plandu>meters</plandu>
-        </planci>
-      </planar>
+      <geograph>
+        <latres>0.0000000000000888178419700125</latres>
+        <longres>0.0000000000000888178419700125</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
       <geodetic>
         <horizdn>D_WGS_1984</horizdn>
         <ellips>WGS_1984</ellips>
         <semiaxis>6378137.000000</semiaxis>
-        <denflat>298.257224</denflat>
+        <denflat>298.257223563</denflat>
       </geodetic>
     </horizsys>
   </spref>
@@ -464,7 +478,7 @@ States, supranational entities, autonomous peoples and cities are all identified
     </stdorder>
   </distinfo>
   <metainfo>
-    <metd>20101130</metd>
+    <metd>20260902</metd>
     <metc>
       <cntinfo>
         <cntorgp>
