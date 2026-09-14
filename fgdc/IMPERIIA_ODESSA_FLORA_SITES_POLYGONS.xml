@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>O'Neill, Kelly</origin>
+				<origin>Gasparyan, Davit</origin>
+				<origin>Kiyan, Olga</origin>
+				<origin>Erlon-Baurjan, Jackie</origin>
+				<pubdate>20240918</pubdate>
+				<title>Flora Observations Sites (polygons), Odessa, Ukraine, 1890-1891</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Cambridge, Massachusetts</pubplace>
+					<publish>Harvard University. The Imperiia Project.</publish>
+				</pubinfo>
+				<onlink>https://hgl.harvard.edu/catalog/harvard-imperiia-odessa-flora-sites-polygons</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>O'Neill, Kelly</origin>
+						<origin>Gasparyan, Davit</origin>
+						<origin>Kiyan, Olga</origin>
+						<origin>Erlon-Baurjan, Jackie</origin>
+						<pubdate>20240918</pubdate>
+						<title>Undoing Empire: Biodiversity in Late-Imperial Odessa</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Cambridge, Massachusetts</pubplace>
+							<publish>Harvard University. The Imperiia Project.</publish>
+						</pubinfo>
+						<onlink>https://hgl.harvard.edu/catalog/harvard-imperiia-undoing-empire-odessa-biodiversity</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data layer represents flora observations sites polygons in the Odessa (Ukraine) region in the 1890s. This data set was produced as part of the Undoing Empire: Biodiversity in Late-Imperial Odessa project, a historical dataset collection describing the scientific observation of plant species in the region around Odessa in the late 19th century. The geospatial data files were produced as part of The Imperiia Project: A Spatial History of the Russian Empire: https://scalar.fas.harvard.edu/imperiia/. Data model by Kelly O'Neill, Harvard University with Davit Gasparyan, Olga Kiyan, Jackie Erlon-Baurjan (data contributors). For more information about the data please visit: Imperiia Project, Undoing Empire metadata interview transcript https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/8aeff74cfbfaf05ee2c7eb23570baec8106dcf95/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md. To download the full project data collection please visit: Harvard Dataverse : Undoing Empire https://doi.org/10.7910/DVN/GNPAYF.</abstract>
+			<purpose>Dataset for use with GIS software. The purpose of the Undoing Empire: Biodiversity in Late-Imperial Odessa project was to enhance and make an original contribution to knowledge of the history of biodiversity in the former Russian Empire and modern Ukraine. The project also aimed to provide a model for describing plant habitats and other non settlements, other geographical features that are not simply settlements or rivers. The project is also intended to provide a model for creating GIS data out of historical sources. The aim was to make the original primary source material more usable by ascribing a set of thematic keywords and developing the data as a relational data model, in order to make querying and filtering easier. </purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1890</begdate>
+					<enddate>1891</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+          <bounding>
+            <westbc>23.602921</westbc>
+            <eastbc>50.625743</eastbc>
+            <northbc>52.091013</northbc>
+            <southbc>38.392645</southbc>
+         </bounding>
+        </spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>biota</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Plants</themekey>
+				<themekey>Biodiversity</themekey>
+				<themekey>Plants Habitat</themekey>
+				<themekey>Habitat (Ecology)</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Botany</themekey>
+				<themekey>History of Science</themekey>
+				<themekey>Empire</themekey>
+				<themekey>Imperial History</themekey>
+				<themekey>Russian Empire</themekey>
+				<themekey>Biodiversity</themekey>
+				<themekey>Plants</themekey>
+			</theme>
+			<place>
+				<placekt>LCSH</placekt>
+				<placekey>Odesʹka oblastʹ (Ukraine)</placekey>
+			</place>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Odessa province</placekey>
+				<placekey>Odessa Oblast</placekey>
+				<placekey>Black Sea</placekey>
+				<placekey>Ukraine</placekey>
+				<placekey>Russian Empire</placekey>
+			</place>
+		</keywords>
+		<accconst>No restrictions on access.</accconst>
+		<useconst>For educational non-commercial use only. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, CC BY-NC-SA 4.0 DEED (https://creativecommons.org/licenses/by-nc-sa/4.0/)</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>The Imperiia Project</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Davis Center for Russian and Eurasian Studies</address>
+					<address>Harvard University</address>
+					<address>1730 Cambridge Street, 3rd Floor</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-4037</cntvoice>
+				<cntemail>imperiia@fas.harvard.edu</cntemail>
+				<hours>Regular business hours are 9 a.m.–5 p.m. Monday through Friday</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Not stated</native>
+		<crossref>
+			<citeinfo>
+				<origin>O'Neill, Kelly</origin>
+				<pubdate>2023</pubdate>
+				<title>The Imperiia Project</title>
+				<geoform>digital data</geoform>
+				<pubinfo>
+					<pubplace>Cambridge, Massachusetts</pubplace>
+					<publish>Harvard University. Davis Center for Russian and Eurasian Studies</publish>
+				</pubinfo>
+				<onlink>https://scalar.fas.harvard.edu/imperiia/index</onlink>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>See: Imperiia Project, Undoing Empire : metadata interview transcript https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/8aeff74cfbfaf05ee2c7eb23570baec8106dcf95/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</attraccr>
+		</attracc>
+		<logic>Unknown</logic>
+		<complete>See: Imperiia Project, Undoing Empire : metadata interview transcript https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/8aeff74cfbfaf05ee2c7eb23570baec8106dcf95/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Shesterikov, P. S. (Petr Stepanovich)</origin>
+						<pubdate>1894</pubdate>
+						<title>Materialy dl︠i︡a flory ︠i︡ugo-zapadnoĭ chasti Odesskago uieda, Khersonsʹkoï guberniï = Material for a flora of the southwestern part of Odessa district</title>
+						<geoform>book</geoform>
+						<pubinfo>
+							<pubplace>Odessa</pubplace>
+							<publish>Typ. A. Shud'khe</publish>
+						</pubinfo>
+						<onlink>https://id.lib.harvard.edu/alma/990063817950203941/catalog</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1890</begdate>
+							<enddate>1891</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>specimens</srccitea>
+				<srccontr>Specimen data source</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Diterikhs, M. M.</origin>
+						<pubdate>1894</pubdate>
+						<title>Plan goroda Odessy = План города Одессы</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>[Odessa?]</pubplace>
+							<publish>Gorodskoĭ zemlemi︠e︡r</publish>
+						</pubinfo>
+						<onlink>https://lccn.loc.gov/2014592004</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>16800</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1894</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>odessa map</srccitea>
+				<srccontr>Spatial referencing data source. Used for locating neighborhoods and plantations around Odessa.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Russia. Armii︠a︡. Glavnyĭ shtab. Kartograficheskoe zavedenīe</origin>
+						<origin>Prussia (Germany). Landesaufnahme</origin>
+						<pubdate>1860-1880</pubdate>
+						<title> [Topograficheskie karty evropeĭskoĭ chasti Rossiĭskoĭ Imperii masstaba 1:126 000] = [Topographic maps of the European part of the Russian Empire at scale 1:126,000]</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>[Saint Petersburg?]</pubplace>
+							<publish>[General Staff of the Russian Army]</publish>
+						</pubinfo>
+						<onlink>https://lccn.loc.gov/2017588176</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>126000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1860</begdate>
+							<enddate>1880</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>military topo maps</srccitea>
+				<srccontr>Spatial referencing data source. Used for locating natural features (e.g. sandy areas and ravines) around Odessa.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>GeoNames</origin>
+						<pubdate>2023</pubdate>
+						<title>GeoNames</title>
+						<geoform>digital data</geoform>
+						<pubinfo>
+							<pubplace>St. Gallen, Switzerland</pubplace>
+							<publish>Unxos GmbH</publish>
+						</pubinfo>
+						<onlink>https://www.geonames.org/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2023</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>access date</srccurr>
+				</srctime>
+				<srccitea>geonames</srccitea>
+				<srccontr>Spatial referencing data source.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>OpenStreetMap Foundation</origin>
+						<pubdate>2023</pubdate>
+						<title>OpenStreetMap</title>
+						<geoform>digital data</geoform>
+						<pubinfo>
+							<pubplace>Cambridge, United Kingdom</pubplace>
+							<publish>OpenStreetMap Foundation</publish>
+						</pubinfo>
+						<onlink>https://www.openstreetmap.org/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2023</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>access date</srccurr>
+				</srctime>
+				<srccitea>openstreetmap</srccitea>
+				<srccontr>Spatial referencing data source.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data Familiarization and Attribute Identification: The initial step involved acquainting ourselves with the structure of plant observations in the primary source and identifying various attributes of each plant suitable for isolation and inclusion in the dataset.
+
+				Data Recording Platform Selection: We opted to utilize the web-based platform NodeGoat for the recording and management of all data.
+
+				Iterative Data Model Development: Data creation was characterized by its non-linear nature, and we continuously iterated on the data model throughout the project's duration.
+
+				Cross-Referencing with GBIF: Every plant within the dataset was cross-referenced with the Global Biodiversity Information Facility (GBIF) to ensure the accuracy of plant name recordings.
+
+				Maintenance of Original Spelling: The original spelling from the source was retained without editing, although any discrepancies were recorded. The primary source of discrepancies was mainly in the assignment of plant families due to evolving botanical classifications over time.
+
+				Source Structure: The source was more akin to a diary than tabular data. It primarily included Latin plant names, descriptions of plant habitats, observations from various botanists, and critical commentary.
+
+				Inconsistent Date Recording: Date information, while provided for most observations, was not consistently recorded as it was not the primary focus. The primary focus was on mapping the plant's geographical locations.
+
+				Translation of 19th Century Russian Source: Given that the source was in 19th-century-style Russian, translation was necessary. The process involved collaborative efforts with graduate students and occasional corrections of archaic terms.
+
+				Educational Motivation: In addition to creating the resource, the project served as an educational opportunity for data creators to learn historical Russian and engage with 18th and 19th-century source materials.
+
+				Spatial Data Handling: Spatial data encompassed historical places correlated with contemporary locations, historical places not found in modern gazetteers, and non-place location descriptions. Strategies for creating geographic data included referencing modern sources, relying on historical sources like maps, and defining polygons for non-named habitat areas.
+				</procdesc>
+				<srcused>specimens</srcused>
+				<srcused>odessa map</srcused>
+				<srcused>military topo maps</srcused>
+				<srcused>geonames</srcused>
+				<srcused>openstreetmap</srcused>
+				<procdate>2023</procdate>
+				<srcprod>IMPERIIA_ODESSA_FLORA_SITES_POLYGONS</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>The Imperiia Project</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Davis Center for Russian and Eurasian Studies</address>
+							<address>Harvard University</address>
+							<address>1730 Cambridge Street, 3rd Floor</address>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<postal>02138</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-495-4037</cntvoice>
+						<cntemail>daviscenter@fas.harvard.edu</cntemail>
+						<hours>Regular business hours are 9 a.m.–5 p.m. Monday through Friday</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>3325</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>WGS 1984 Web Mercator Auxiliary Sphere</mapprojn>
+          <mapprojp>
+            <otherprj>PROJCS["WGS_1984_Web_Mercator_Auxiliary_Sphere",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Mercator_Auxiliary_Sphere"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",0.0],PARAMETER["Standard_Parallel_1",0.0],PARAMETER["Auxiliary_Sphere_Type",0.0],UNIT["Meter",1.0],AUTHORITY["EPSG",3857]]</otherprj>
+          </mapprojp>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000006714873101998366</absres>
+            <ordres>0.000000006714873101998366</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>IMPERIIA_ODESSA_FLORA_SITES_POLYGONS</enttypl>
+        <enttypd>Flora Observations Sites (polygons), Odessa, Ukraine, 1890-1891</enttypd>
+        <enttypds>Imperiia Project</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>igazID</attrlabl>
+        <attrdef>Imperiia gazetteer identifier. unique identifier used to enable relational database work. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>number</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>toponym</attrlabl>
+        <attrdef>toponym. placename rendered in English transliteration. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>src_tpnm</attrlabl>
+        <attrdef>source toponym. placename as given in the primary source (usually in Russian). extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>mdrn_tpnm</attrlabl>
+        <attrdef>modern toponym. placename as given in modern gazetteers, in local language (usually Ukrainian). ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>tpnm_chrn</attrlabl>
+        <attrdef>toponym chronology. classification of toponymical continuity. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>tpnm_cnfd</attrlabl>
+        <attrdef>toponym confidence. classification: confidence with which we matched the source toponym to modern equivalent. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>class</attrlabl>
+        <attrdef>class. name of geographical feature. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>roll</attrlabl>
+        <attrdef>roll. classification: relevance/proximity of location to the research area as defined by Shesterikov. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>vctr_type</attrlabl>
+        <attrdef>vector type. classification: type of vector geometry (line, polygon, bounding box). ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>vctr_src</attrlabl>
+        <attrdef>vector source. main source of vector geometry. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>vctr_note</attrlabl>
+        <attrdef>vector note. explanation of work done to produce vector geometry. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>vctr_hist</attrlabl>
+        <attrdef>vector historical. name of historical map used as reference for vector geometry. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>geon_id</attrlabl>
+        <attrdef>Geonames identifier. URL of gazetteer entry. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>URL</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>osm_id</attrlabl>
+        <attrdef>OpenStreetMap identifier. URL of gazetteer entry. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>URL</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>area_sqkm</attrlabl>
+        <attrdef>area, square kilometers. Area calculated in square kilometers. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>number</udom>
+        </attrdomv>
+    </attr>
+	<attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>identifier. unique identifier automatically assigned by nodegoat. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>number</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>list_n</attrlabl>
+        <attrdef>list number. identification of individual entry in the flora in format [number designating family group].[number entry sequence number]. extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>number</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>phyt_lt</attrlabl>
+        <attrdef>phytonym, latin. name of plant species. extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>phyt_comm</attrlabl>
+        <attrdef>phytonym, common. name of plant species, common English. ascribed to source material by research team</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>prevln</attrlabl>
+        <attrdef>prevalence. indication of the relative prevalence of the species. extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>grwth_typ</attrlabl>
+        <attrdef>growth type. classification: wild, weed, aquatic, cultivated, invasive, parasitic, not specified. extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>habitat</attrlabl>
+        <attrdef>habitat. geographical term; corresponds with standard feature classes maintained by USGS et al. extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    <attr>
+        <attrlabl>method</attrlabl>
+        <attrdef>method. classification of plant observation as direct (by Shesterikov) or indirect (Shesterikov reporting on work of other botanists). extracted from primary source</attrdef>
+        <attrdefs>Harvard University.The Imperiia Project</attrdefs>
+        <attrdomv>
+            <udom>string</udom>
+        </attrdomv>
+    </attr>
+    </detailed>
+  </eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard University Information Technology</cntorg>
+				</cntorgp>
+				<cntpos>Harvard Geospatial Library</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been developed by Harvard University, no warranty
+			expressed or implied is made by the University as to the accuracy of the data and
+			related materials. The act of distribution shall not constitute any such warranty, and
+			no responsibility is assumed by the University in the use of this data, or related
+			materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://hgl.harvard.edu/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20240918</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntpos>Geospatial Metadata Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard University Information Technology</address>
+					<address>Library Technology Services</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgladmin@fas.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>
