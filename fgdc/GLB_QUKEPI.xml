@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -116,11 +116,11 @@
     <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
   </idinfo>
   <dataqual>
-    <attracc/>
+    <attracc />
     <logic>Unknown</logic>
     <complete>Unknown</complete>
     <posacc>
-      <horizpa/>
+      <horizpa />
     </posacc>
     <lineage>
       <srcinfo>
@@ -393,7 +393,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
         <digtopt>

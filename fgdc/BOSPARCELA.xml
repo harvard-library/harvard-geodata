@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata xml:lang="en">
   <idinfo>
     <native>Microsoft Windows 2000 Version 5.0 (Build 2195) ; ESRI ArcCatalog 8.1.0.642</native>
@@ -465,7 +464,7 @@
         <digtinfo>
           <transize>3.145</transize>
           <dssize>3.145</dssize>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <formspec>Compressed ZIP format</formspec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -27,7 +27,7 @@
       <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>publication date: 199901, 2000; ground condition: 1990, 1987</current>
     </timeperd>
     <status>
@@ -782,7 +782,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>18.752</transize>
         </digtinfo>

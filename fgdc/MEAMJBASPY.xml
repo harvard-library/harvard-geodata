@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -143,7 +143,7 @@ MassGIS is maintaining the original datalayer. In February 2002 the DEP GIS Grou
         <srcscale>24,000</srcscale>
         <srctime>
           <timeinfo>
-            <sngdate/>
+            <sngdate />
           </timeinfo>
           <srccurr>unknown</srccurr>
         </srctime>
@@ -349,7 +349,7 @@ All sub-basins on the manuscripts were digitized (refer to SUB-BASINS Datalayer 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -115,7 +115,7 @@
             <pubdate>1899</pubdate>
             <title>Paumotu archipelago, South Pacific Ocean : sketch of the west shore of Fakarava Atoll from Nqaruae pass to the south point</title>
             <geoform>map</geoform>
-            <pubinfo/>
+            <pubinfo />
             <othercit>1 ms. map ; 31 x 28 cm.Pen-and-ink</othercit>
           </citeinfo>
         </srccite>
@@ -257,7 +257,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

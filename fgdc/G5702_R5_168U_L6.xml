@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -121,7 +121,7 @@
             <othercit>1 map : hand col. ; 23 x 101 cm., sheet 55 x 115 cm.</othercit>
           </citeinfo>
         </srccite>
-        <srcscale/>
+        <srcscale />
         <typesrc>paper</typesrc>
         <srctime>
           <timeinfo>
@@ -261,7 +261,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

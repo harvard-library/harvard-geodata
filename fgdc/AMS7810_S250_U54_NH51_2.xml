@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -199,7 +199,7 @@ While the data of the published map is retained in the georeferenced image, the 
             <othercit>USHO Charts 5495, 1950 (corrected to 1951) and 3218, 1947 (corrected to 1951)</othercit>
           </citeinfo>
         </srccite>
-        <srcscale/>
+        <srcscale />
         <typesrc>paper</typesrc>
         <srctime>
           <timeinfo>
@@ -353,7 +353,7 @@ RMS: The degree to which the transformation can accurately map all control point
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize>0.000</transize>
         </digtinfo>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -15,7 +15,7 @@
         <pubdate>2003</pubdate>
         <title>Global GIS : Geology of the conterminous United States at 1:2,500,000 scale : Geology</title>
         <geoform>vector digital data</geoform>
-        <serinfo/>
+        <serinfo />
         <pubinfo>
           <pubplace>[Alexandria, VA]</pubplace>
           <publish>American Geological Institute</publish>
@@ -213,7 +213,7 @@ The extent of glaciation appears in the legend but is not present in the datalay
             <pubdate>1974</pubdate>
             <title>Geologic map of the United States (exclusive of Alaska and Hawaii)</title>
             <geoform>map</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>[Reston, Va.]</pubplace>
               <publish>U.S. Geological Survey</publish>
@@ -569,7 +569,7 @@ Although this data is being re-distributed by Harvard University, no warranty, e
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

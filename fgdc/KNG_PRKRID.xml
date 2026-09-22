@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -261,7 +261,7 @@
         <attrlabl>DISTRICT</attrlabl>
         <attrdef>Service planning district for the park &amp; ride</attrdef>
         <attrdefs>King County GIS Center</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>OWNERSHIP_</attrlabl>
@@ -415,7 +415,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

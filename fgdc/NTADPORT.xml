@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -88,7 +88,7 @@ would be appreciated in products derived from these data.</useconst>
         <cntaddr>
           <addrtype>mailing and physical address</addrtype>
           <address>400 Seventh Street, SW</address>
-          <address/>
+          <address />
           <city>Washington</city>
           <state>District of Columbia</state>
           <postal>20590</postal>
@@ -475,7 +475,7 @@ would be appreciated in products derived from these data.</useconst>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -493,7 +493,7 @@ would be appreciated in products derived from these data.</useconst>
     </stdorder>
     <availabl>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
     </availabl>
   </distinfo>

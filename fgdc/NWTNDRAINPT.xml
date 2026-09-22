@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -90,7 +90,7 @@ This layer may provide a basemap for layers related to urban planning, public wo
     <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
   </idinfo>
   <dataqual>
-    <attracc/>
+    <attracc />
     <logic>This data layer is known to contain errors in content and in the connections between features.  This data layer should be regarded as a draft and other sources, specifically the as-built construction drawings, should be consulted as appropriate.</logic>
     <posacc>
       <horizpa>
@@ -435,7 +435,7 @@ This data layer was created "on screen" with a back-drop of the point features f
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

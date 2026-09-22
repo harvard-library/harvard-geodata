@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -343,7 +343,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
         <attrlabl>LOCAL_NAME</attrlabl>
         <attrdef>Local name applied to NIMA Feature Type Category (AEROFACP = Aeronautical Facilities, Points)</attrdef>
         <attrdefs>HGL</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>NAME0</attrlabl>
@@ -486,7 +486,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

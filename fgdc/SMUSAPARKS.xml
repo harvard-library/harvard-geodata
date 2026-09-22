@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -112,7 +112,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
             <origin>National Park Service</origin>
             <pubdate>Unknown</pubdate>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Washington, DC, USA</pubplace>
               <publish>National Park Service</publish>
@@ -204,7 +204,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
             <cntvoice>909-793-2853</cntvoice>
             <cntfax>909-793-5953</cntfax>
             <cntemail>info@esri.com</cntemail>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -220,7 +220,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
             <cntfax>617-496-0440</cntfax>
             <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
             <hours>9:00 a.m.-5:00 p.m. Eastern Standard Time, Monday-Friday</hours>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -339,7 +339,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>

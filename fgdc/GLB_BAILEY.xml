@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -358,7 +358,7 @@ The area of the grid cells was calculated by using the mean area of the 'core' g
         </attrdomv>
       </attr>
     </detailed>
-    <overview/>
+    <overview />
   </eainfo>
   <distinfo>
     <distrib>
@@ -387,7 +387,7 @@ The area of the grid cells was calculated by using the mean area of the 'core' g
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>ZIP</formname>
+          <formname>Shapefile</formname>
           <filedec>SHAPE</filedec>
         </digtinfo>
         <digtopt>

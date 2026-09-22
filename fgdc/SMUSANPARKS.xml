@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -111,7 +111,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
             <origin>National Park Service</origin>
             <pubdate>Unknown</pubdate>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Washington, DC, USA</pubplace>
               <publish>National Park Service</publish>
@@ -321,7 +321,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>

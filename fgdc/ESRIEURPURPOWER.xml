@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -117,7 +117,7 @@
           <citeinfo>
             <origin>GfK Marktforschung GmbH</origin>
             <pubdate>1998</pubdate>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>N?rnberg, Germany</pubplace>
               <publish>GfK Marktforschung GmbH</publish>
@@ -843,7 +843,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>21.867</transize>
         </digtinfo>

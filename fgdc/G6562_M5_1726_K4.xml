@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -149,7 +149,7 @@
       <procstep>
         <procdesc>Using ArcMap , the digital JPEG2000 image was georeferenced to common points located on digital vector shapefiles. For this image, the following vector shapefiles were used as a base map for reference: ESRI World Imagery. The base map data is projected in the WGS 1984 UTM Zone 31N (EPSG: 32631) coordinate system, and the image was subsequently georeferenced to the same projection.                                        A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
         <srcused>JP2 Map Image</srcused>
-        <procdate/>
+        <procdate />
         <srcprod>Georeferenced Raster Data</srcprod>
         <proccont>
           <cntinfo>
@@ -247,7 +247,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

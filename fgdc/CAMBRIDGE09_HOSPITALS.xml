@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -390,7 +390,7 @@ The City of Cambridge provides Geographic Information Systems ("GIS") data in go
       </attr>
       <attr>
         <attrlabl>DESCRP</attrlabl>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>Shape</attrlabl>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -29,7 +29,7 @@
     </descript>
     <timeperd>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
       <current>ground condition: 199911, 1990; publication date: 2000</current>
     </timeperd>
@@ -337,7 +337,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>1.116</transize>
         </digtinfo>

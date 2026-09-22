@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -189,7 +189,7 @@ These digital data represent the efforts of the Massachusetts Executive Office o
             <pubdate>1999-2000</pubdate>
             <title>1:12,000 scale, color infrared (CIR), leaf-off aerial photographs</title>
             <geoform>remote-sensing image</geoform>
-            <pubinfo/>
+            <pubinfo />
             <othercit>Flown spring of 1999 and 2000.</othercit>
           </citeinfo>
         </srccite>
@@ -489,7 +489,7 @@ These layers contain polygon features representing different priority natural ve
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

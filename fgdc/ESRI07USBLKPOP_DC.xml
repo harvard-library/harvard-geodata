@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -121,7 +121,7 @@
             <pubdate>20070701</pubdate>
             <title>ArcGIS 9.2 Business Analyst 2007 Update - U.S. Block Centroids</title>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>ESRI</publish>

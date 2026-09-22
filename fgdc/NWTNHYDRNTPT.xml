@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -87,7 +87,7 @@ More advanced user applications may focus on urban planning and policy, public w
     <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
   </idinfo>
   <dataqual>
-    <attracc/>
+    <attracc />
     <posacc>
       <horizpa>
         <horizpar>Valve locations mapped based on photogrammetric locations have an absolute accuracy of +/- 2.5 feet.  Each valve has an attribute indicating whether its location was moved to that of a photo location.  The accuracy of the other valve locations is unknown.  The intent, with respect to the accuracy of the water main locations, was only to ensure that if a main existed in a street right-of-way or between two valves, it appeared in the GIS data layer.  In cases where a main connects two valves whose position was mapped from the aerial photography in a straight line, the main may be within 2 ? feet of its actual location.</horizpar>
@@ -318,7 +318,7 @@ In 1998, because of requirements of hydrologic modeling software and the Hansen 
         <attrlabl>DIST_TO_PI</attrlabl>
         <attrdef>Distance, in map units, to the nearest water main segment</attrdef>
         <attrdefs>Newton GIS</attrdefs>
-        <attrdomv/>
+        <attrdomv />
         <attrvai>
           <attrvae>If "0" closest water main is more than 75 feet away</attrvae>
         </attrvai>
@@ -389,7 +389,7 @@ In 1998, because of requirements of hydrologic modeling software and the Hansen 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

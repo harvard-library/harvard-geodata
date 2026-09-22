@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -8,7 +8,7 @@
         <title>UA Census Block Groups, 2000 - California</title>
         <edition>UA Census 2000</edition>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg00cagrp00</onlink>
         <lworkcit>
           <citeinfo>
@@ -366,7 +366,7 @@ The U.S. Census Bureau cannot specify the accuracy of feature updates added by i
         <attrlabl>SHAPE.LEN</attrlabl>
         <attrdef>Length of arc in coverage units</attrdef>
         <attrdefs>Computed</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>SHAPE.FID</attrlabl>
@@ -404,7 +404,7 @@ The U.S. Census Bureau cannot specify the accuracy of feature updates added by i
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -269,7 +269,7 @@
         <attrlabl>BUSSTOP_ID</attrlabl>
         <attrdef>Internal Number</attrdef>
         <attrdefs>King County Metro Transit</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>DB_MOD_DAT</attrlabl>
@@ -1767,7 +1767,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

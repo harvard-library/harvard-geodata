@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -108,7 +108,7 @@ MassGIS is maintaining the original datalayer.</complete>
         <typesrc>CD-ROM</typesrc>
         <srctime>
           <timeinfo>
-            <sngdate/>
+            <sngdate />
           </timeinfo>
           <srccurr>unknown</srccurr>
         </srctime>
@@ -297,7 +297,7 @@ MassGIS is maintaining the original datalayer.</complete>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -10,7 +10,7 @@
         <pubdate>2003</pubdate>
         <title>Global GIS : Gazetteer of non-populated places, Western Hemisphere (excluding U.S.)</title>
         <geoform>vector digital data</geoform>
-        <serinfo/>
+        <serinfo />
         <pubinfo>
           <pubplace>[Alexandria, VA]</pubplace>
           <publish>American Geological Institute</publish>
@@ -112,11 +112,11 @@ The USGS Global GIS database contains a wealth of USGS and other public domain d
     <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
   </idinfo>
   <dataqual>
-    <attracc/>
+    <attracc />
     <logic>None</logic>
     <complete>Unknown</complete>
     <posacc>
-      <horizpa/>
+      <horizpa />
     </posacc>
     <lineage>
       <srcinfo>
@@ -359,7 +359,7 @@ The USGS Global GIS database contains a wealth of USGS and other public domain d
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

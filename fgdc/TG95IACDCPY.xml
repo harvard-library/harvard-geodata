@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -7,8 +7,8 @@
         <pubdate>1996</pubdate>
         <title>Census Congressional Districts, 1995 - Iowa</title>
         <geoform>vector digital data</geoform>
-        <serinfo/>
-        <pubinfo/>
+        <serinfo />
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg95iacdcpy</onlink>
         <lworkcit>
           <citeinfo>
@@ -17,7 +17,7 @@
             <title>TIGER/Line Files, 1995</title>
             <edition>Version (0024)</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Washington,  DC</pubplace>
               <publish>U.S. Department of Commerce, Bureau of the Census, Geography Division</publish>
@@ -67,7 +67,7 @@ NOTE: Portions of this metadata file have been copied directly from Census docum
       <theme>
         <themekt>LCSH</themekt>
         <themekey>Census</themekey>
-        <themekey/>
+        <themekey />
         <themekey>Political divisions</themekey>
         <themekey>Legislators</themekey>
         <themekey>United States Congress</themekey>
@@ -410,7 +410,7 @@ The TIGER/Line files contain point landmark data that are not included in the Ce
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -151,7 +151,7 @@ Line simplification/smoothing was performed with a tolerance of 0.005 decimal de
             <pubdate>2002</pubdate>
             <title>108th Congressional Districts</title>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>ESRI</publish>
@@ -177,7 +177,7 @@ Line simplification/smoothing was performed with a tolerance of 0.005 decimal de
             <origin>Associated Press</origin>
             <pubdate>200211</pubdate>
             <geoform>document</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>online</pubplace>
               <publish>The Associated Press</publish>
@@ -544,7 +544,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

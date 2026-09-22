@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -416,7 +416,7 @@ There are three types of DEM vertical errors: blunder, systematic, and random. T
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SDE Raster</formname>
+          <formname>Raster Dataset</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

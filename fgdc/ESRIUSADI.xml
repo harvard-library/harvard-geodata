@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -114,7 +114,7 @@
             <pubdate>Unknown</pubdate>
             <title>Areas of Dominant Influence map</title>
             <geoform>map</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Columbia, Maryland, USA</pubplace>
               <publish>The Arbitron Ratings Company</publish>
@@ -278,7 +278,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>0.581</transize>
         </digtinfo>

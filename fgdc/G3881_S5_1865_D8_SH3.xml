@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -123,8 +123,8 @@
             <title>Map Showing the Operation of the Army of the Potomac under Command of Maj. Gen. George G. Meade, from March 29 to April 9th, 1865</title>
             <geoform>map</geoform>
             <pubinfo>
-              <pubplace/>
-              <publish/>
+              <pubplace />
+              <publish />
             </pubinfo>
             <othercit>1 manuscript map on 4 sheets ; 31 x 89 cm. Sheet 3 of 4</othercit>
           </citeinfo>
@@ -272,7 +272,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

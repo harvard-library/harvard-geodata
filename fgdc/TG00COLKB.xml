@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -8,7 +8,7 @@
         <title>UA Census Railroads, 2000 - Colorado</title>
         <edition>UA Census 2000</edition>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg00colkb</onlink>
         <lworkcit>
           <citeinfo>
@@ -317,7 +317,7 @@ Census TIGER data for a given county or statistical equivalent area is then dist
         <attrlabl>LENGTH</attrlabl>
         <attrdef>Feature length in map units</attrdef>
         <attrdefs>Computed</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>FEDIRP</attrlabl>
@@ -548,7 +548,7 @@ Census TIGER data for a given county or statistical equivalent area is then dist
         <attrlabl>SHAPE.LEN</attrlabl>
         <attrdef>Length of arc in map units</attrdef>
         <attrdefs>Computed</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>SHAPE.FID</attrlabl>
@@ -586,7 +586,7 @@ Census TIGER data for a given county or statistical equivalent area is then dist
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

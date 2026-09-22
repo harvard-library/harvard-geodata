@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -9,7 +9,7 @@
         <pubdate>2003</pubdate>
         <title>Global GIS : world administrative units, 2002</title>
         <geoform>vector digital data</geoform>
-        <serinfo/>
+        <serinfo />
         <pubinfo>
           <pubplace>[Alexandria, VA]</pubplace>
           <publish>American Geological Institute</publish>
@@ -1170,7 +1170,7 @@ The following steps were performed by ESRI: Extracted the features from ESRI Dat
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -7,8 +7,8 @@
         <pubdate>1996</pubdate>
         <title>Census County Divisions and Minor Civil Divisions, 1995 - Minnesota</title>
         <geoform>vector digital data</geoform>
-        <serinfo/>
-        <pubinfo/>
+        <serinfo />
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg95mnccdcupy</onlink>
         <lworkcit>
           <citeinfo>
@@ -17,7 +17,7 @@
             <title>TIGER/Line Files, 1995</title>
             <edition>Version (0024)</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Washington,  D.C.</pubplace>
               <publish>U.S. Department of Commerce, Bureau of the Census</publish>
@@ -436,7 +436,7 @@ the location of points of interest and are not connected to complete chains or G
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

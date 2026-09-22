@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -287,7 +287,7 @@ The Root Mean Square (RMS) error for this map is 71.3118 meters.  This value des
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
         </digtinfo>
         <digtopt>

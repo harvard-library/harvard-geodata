@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -214,7 +214,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP files</formname>
+          <formname>Shapefile</formname>
           <formspec>ESRI Shapefile format, compressed with WinZip</formspec>
           <filedec>unzip</filedec>
           <transize>0.037</transize>

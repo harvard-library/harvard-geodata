@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -27,7 +27,7 @@
       <supplinf>Largest scale when displaying the data: 1:3,000,000.</supplinf>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>publication date: 19920601, 2000; ground condition: 1990, 1987</current>
     </timeperd>
     <status>
@@ -114,7 +114,7 @@
             <title>ArcUSA 1:25M</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
@@ -748,7 +748,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>2.927</transize>
         </digtinfo>

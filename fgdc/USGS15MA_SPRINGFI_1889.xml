@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -110,7 +110,7 @@ The Map Collection also owns numerous other USGS topographic maps in other serie
     <attracc>
       <attraccr>The DRG is an 24-bit per pixel color image that employs a color palette to ensure uniform colors throughout a particular series.</attraccr>
     </attracc>
-    <logic/>
+    <logic />
     <complete>The DRG is a faithfully reproduced digital image of the original source map. Some differences may be detected between the source graphic used and the DRG due to the RGB values assigned that particular color.  The intent is to recreate those colors as near as possible. Data completeness for DRG files reflect content of the source graphic.
 
 Nearly all of the maps have an "edition" date and one or more survey and revision dates. Use the survey and revision dates to determine the vintage of the cartography. These dates are usually found in a map's lower left corner. Edition dates (in the lower right corner) can be confusing, because over time, the USGS has changed the method by which edition dates are assigned. For the earliest maps in the 1880s, new edition dates were assigned nearly every time the map was reprinted.  In later years, the original edition date was retained for each subsequent reprinting. Such dates may be assumed to roughly represent the year that the map was first published.</complete>
@@ -310,11 +310,11 @@ A measure of the difference between locations that are known and locations that 
       </cntinfo>
     </distrib>
     <resdesc>Downloadable Data</resdesc>
-    <distliab/>
+    <distliab />
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize>90.637</transize>
         </digtinfo>
@@ -328,7 +328,7 @@ A measure of the difference between locations that are known and locations that 
           </onlinopt>
         </digtopt>
       </digform>
-      <fees/>
+      <fees />
     </stdorder>
   </distinfo>
   <metainfo>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -131,11 +131,11 @@
 			Methods for processing the data:
 			1) Download source file and open MA_1a_2024.txt
 			
-			2) Input: MA_1a_2024.txt --> convert to a CSV --> output: TRI_MA_2024_full.csv
+			2) Input: MA_1a_2024.txt --&gt; convert to a CSV --&gt; output: TRI_MA_2024_full.csv
 			
-			3)Input: TRI_MA_2024_full.csv --> examine columns using the TRI_basic_plus_data_files_documentation_full_2024.pdf and delete unwanted columns in the CSV. Make sure "Latitude" and "Longitude" columns are formatted correctly. --> output: 3) TRI_Facilities_MA_2024_for_mapping.csv
+			3)Input: TRI_MA_2024_full.csv --&gt; examine columns using the TRI_basic_plus_data_files_documentation_full_2024.pdf and delete unwanted columns in the CSV. Make sure "Latitude" and "Longitude" columns are formatted correctly. --&gt; output: 3) TRI_Facilities_MA_2024_for_mapping.csv
 			
-			4)Input: TRI_Facilities_MA_2024_for_mapping.csv --> open a GIS and convert XY table to point using the lat/long columns. Then project to the coordinate reference system EPSG 26986 and save as a shapefile --> output: TRI_Facilities_MA_2024.shp (in a zipped folder titled TRI_Facilities_MA_2024_shp.zip)
+			4)Input: TRI_Facilities_MA_2024_for_mapping.csv --&gt; open a GIS and convert XY table to point using the lat/long columns. Then project to the coordinate reference system EPSG 26986 and save as a shapefile --&gt; output: TRI_Facilities_MA_2024.shp (in a zipped folder titled TRI_Facilities_MA_2024_shp.zip)
 			
 			File renamed for HGL delivery as: RTLMOD1_TRI_FACILITIES_MA_2024</procdesc>
 				<srcused>Source data</srcused>

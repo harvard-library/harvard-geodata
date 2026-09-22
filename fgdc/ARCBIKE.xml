@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -84,14 +84,14 @@ This data may not be redistributed by HGL users. Any authorized use of informati
   </idinfo>
   <dataqual>
     <attracc>
-      <attraccr/>
+      <attraccr />
       <qattracc>
-        <attraccv/>
-        <attracce/>
+        <attraccv />
+        <attracce />
       </qattracc>
     </attracc>
-    <logic/>
-    <complete/>
+    <logic />
+    <complete />
     <lineage>
       <srcinfo>
         <srccite>
@@ -103,7 +103,7 @@ This data may not be redistributed by HGL users. Any authorized use of informati
             <geoform>vector digital data</geoform>
             <serinfo>
               <sername>Atlanta Regional Information System (ARIS)</sername>
-              <issue/>
+              <issue />
             </serinfo>
             <pubinfo>
               <pubplace>Atlanta, Georgia</pubplace>
@@ -129,8 +129,8 @@ This data may not be redistributed by HGL users. Any authorized use of informati
       <srcinfo>
         <srccite>
           <citeinfo>
-            <origin/>
-            <pubdate/>
+            <origin />
+            <pubdate />
             <title>Various Sources</title>
           </citeinfo>
         </srccite>
@@ -158,16 +158,16 @@ This data may not be redistributed by HGL users. Any authorized use of informati
             <cntorgp>
               <cntorg>Atlanta Regional Commission (ARC)</cntorg>
             </cntorgp>
-            <cntpos/>
+            <cntpos />
             <cntaddr>
-              <addrtype/>
-              <address/>
-              <city/>
-              <state/>
-              <postal/>
-              <country/>
+              <addrtype />
+              <address />
+              <city />
+              <state />
+              <postal />
+              <country />
             </cntaddr>
-            <cntvoice/>
+            <cntvoice />
           </cntinfo>
         </proccont>
       </procstep>
@@ -226,9 +226,9 @@ This data may not be redistributed by HGL users. Any authorized use of informati
     </horizsys>
     <vertdef>
       <altsys>
-        <altdatum/>
+        <altdatum />
         <altres>1.000000</altres>
-        <altunits/>
+        <altunits />
         <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
       </altsys>
     </vertdef>
@@ -243,9 +243,9 @@ This data may not be redistributed by HGL users. Any authorized use of informati
       <attr>
         <attrlabl>LENGTH</attrlabl>
         <attrdef>Polyline length measured in map units</attrdef>
-        <attrdefs/>
+        <attrdefs />
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
     </detailed>
@@ -273,7 +273,7 @@ This data may not be redistributed by HGL users. Any authorized use of informati
       </cntinfo>
     </distrib>
     <resdesc>Downloadable Data</resdesc>
-    <distliab/>
+    <distliab />
     <stdorder>
       <digform>
         <digtinfo>
@@ -282,8 +282,8 @@ This data may not be redistributed by HGL users. Any authorized use of informati
         </digtinfo>
         <digtopt>
           <offoptn>
-            <offmedia/>
-            <recfmt/>
+            <offmedia />
+            <recfmt />
           </offoptn>
         </digtopt>
       </digform>

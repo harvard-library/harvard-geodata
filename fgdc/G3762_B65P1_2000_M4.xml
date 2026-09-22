@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -115,7 +115,7 @@
             </pubinfo>
           </citeinfo>
         </srccite>
-        <srcscale/>
+        <srcscale />
         <typesrc>paper</typesrc>
         <srctime>
           <timeinfo>
@@ -259,7 +259,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

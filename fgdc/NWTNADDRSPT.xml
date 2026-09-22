@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -261,7 +261,7 @@ Note: No systematic and quantitative review of property boundary accuracy has ev
         <attrlabl>SBL_ID</attrlabl>
         <attrdef>Unique property id in form Section/block/lot</attrdef>
         <attrdefs>Newton GIS</attrdefs>
-        <attrvai/>
+        <attrvai />
       </attr>
       <attr>
         <attrlabl>PRE_DIR</attrlabl>
@@ -440,7 +440,7 @@ Note: No systematic and quantitative review of property boundary accuracy has ev
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

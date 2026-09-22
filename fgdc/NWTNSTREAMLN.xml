@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -86,7 +86,7 @@ More advanced user applications may focus on hydrology, urban planning, public w
     <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native>
   </idinfo>
   <dataqual>
-    <attracc/>
+    <attracc />
     <logic>For layers containing line or polygon features, Newton's data layers are "topologically clean". This was verified with Arc/Info software version 7.x in 1998 and is an ongoing part of data maintenance for the relevant data layers.</logic>
     <posacc>
       <horizpa>
@@ -141,7 +141,7 @@ Boston Edison provided the original version of this data layer.  The streams hav
             </cntaddr>
             <cntvoice>617-796-1180</cntvoice>
             <cntfax>617-796-1000</cntfax>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -340,7 +340,7 @@ Boston Edison provided the original version of this data layer.  The streams hav
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

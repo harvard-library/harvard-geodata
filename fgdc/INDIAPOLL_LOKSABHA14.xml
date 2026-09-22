@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -358,7 +358,7 @@ These data are intended for researchers, students, and policy makers for referen
             <edomvd>DRAVIDA MUNNETRA KAZHAGAM</edomvd>
             <edomvds>ML InfoMap</edomvds>
           </edom>
-          <edom><edomv>IFDP</edomv><edomvd/>
+          <edom><edomv>IFDP</edomv><edomvd />
             INDIAN FEDERAL DEMOCRATIC PARTY
             <edomvds>Election Commission of India</edomvds></edom>
           <edom>
@@ -1365,7 +1365,7 @@ These data are intended for researchers, students, and policy makers for referen
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

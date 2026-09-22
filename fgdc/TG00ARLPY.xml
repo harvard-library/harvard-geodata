@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -8,7 +8,7 @@
         <title>UA Census Landmark Polygon Features, 2000 - Arkansas</title>
         <edition>UA Census 2000</edition>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg00arlpy</onlink>
         <lworkcit>
           <citeinfo>
@@ -332,7 +332,7 @@ Census TIGER data for a given county or statistical equivalent area is then dist
         <attrdef>A 5-character alphanumeric code identifier used to uniquely number the GT-polygons within their TIGER partitions.</attrdef>
         <attrdefs>Department of Commerce, Census Bureau</attrdefs>
         <attrvai>
-          <attrvae/>
+          <attrvae />
         </attrvai>
       </attr>
       <attr>
@@ -429,7 +429,7 @@ Census TIGER data for a given county or statistical equivalent area is then dist
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

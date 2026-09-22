@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -164,7 +164,7 @@ Airport features were derived from the DMA Digital Aeronautical Flight Informati
             <pubdate>1974-1992</pubdate>
             <title>Operational Navigational Chart (ONC)</title>
             <geoform>map</geoform>
-            <pubinfo/>
+            <pubinfo />
           </citeinfo>
         </srccite>
         <srcscale>1000000</srcscale>
@@ -193,7 +193,7 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
             <pubdate>1990</pubdate>
             <title>Jet Navigational Chart</title>
             <geoform>map</geoform>
-            <pubinfo/>
+            <pubinfo />
           </citeinfo>
         </srccite>
         <srcscale>2000000</srcscale>
@@ -456,7 +456,7 @@ Polygon features from the Political and Oceans, Drainage, Populated Places, and 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
         <digtopt>

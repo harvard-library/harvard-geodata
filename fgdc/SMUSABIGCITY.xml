@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -99,8 +99,8 @@ Outside the United States consult http://gis.esri.com/intldist/contactint.cfm.</
           <citeinfo>
             <pubdate>Unknown</pubdate>
             <geoform>tabular digital data</geoform>
-            <serinfo/>
-            <pubinfo/>
+            <serinfo />
+            <pubinfo />
           </citeinfo>
         </srccite>
         <srcscale>100000</srcscale>
@@ -210,7 +210,7 @@ Outside the United States consult http://gis.esri.com/intldist/contactint.cfm.</
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -222,7 +222,7 @@ Outside the United States consult http://gis.esri.com/intldist/contactint.cfm.</
             </computer>
           </onlinopt>
           <offoptn>
-            <reccap/>
+            <reccap />
           </offoptn>
         </digtopt>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -144,7 +144,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
             <title>Canadian Data Bundle-Data set from National Atlas Information Service (NAIS) 1:2 million by Natural Resources Canada.</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Markham, Ontario, Canada</pubplace>
               <publish>DMTI Spatial Inc.</publish>
@@ -356,7 +356,7 @@ Outside the United States, please direct all inquiries to your local ESRI Intern
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>no compression applied</filedec>
           <transize>1.386</transize>
         </digtinfo>
