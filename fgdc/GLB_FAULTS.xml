@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -8,7 +8,7 @@
         <pubdate>2003</pubdate>
         <title>Global GIS : World faults</title>
         <geoform>vector digital data</geoform>
-        <serinfo/>
+        <serinfo />
         <pubinfo>
           <pubplace>[Alexandria, VA]</pubplace>
           <publish>American Geological Institute</publish>
@@ -134,7 +134,7 @@ The morphostructure maps show the largest faults differently revealed by present
     <logic>No duplicate features are present. The shapefile is created directly from a topologically correct ArcInfo coverage.</logic>
     <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
     <posacc>
-      <horizpa/>
+      <horizpa />
     </posacc>
     <lineage>
       <srcinfo>
@@ -342,7 +342,7 @@ The morphostructure maps show the largest faults differently revealed by present
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

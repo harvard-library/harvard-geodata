@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -27,7 +27,7 @@
       <supplinf>Largest scale when displaying the data: 1:15,000,000.</supplinf>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>publication date: 1996, 1998, Winter 1993/1994, 20000101; ground condition: 1994</current>
     </timeperd>
     <status>
@@ -116,7 +116,7 @@
             <title>ArcWorld Supplement</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
@@ -443,7 +443,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>3.822</transize>
         </digtinfo>

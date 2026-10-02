@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -270,7 +270,7 @@ From MassGIS website documentation on tis Trains layer:
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

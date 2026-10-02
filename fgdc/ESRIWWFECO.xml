@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -194,7 +194,7 @@
         <attrlabl>MHT_NAME</attrlabl>
         <attrdef>Major habitat for the ecoregion</attrdef>
         <attrdefs>ESRI</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>BDI</attrlabl>
@@ -324,7 +324,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <formspec>ESRI Shape file, compressed</formspec>
           <filedec>Unzip</filedec>
         </digtinfo>

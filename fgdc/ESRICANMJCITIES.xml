@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -110,7 +110,7 @@
             <title>Canadian Data Bundle-Data set from National Atlas Information Service (NAIS) 1:2 million by Natural Resources Canada.</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Markham, Ontario, Canada</pubplace>
               <publish>DMTI Spatial Inc.</publish>
@@ -331,7 +331,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>0.232</transize>
         </digtinfo>

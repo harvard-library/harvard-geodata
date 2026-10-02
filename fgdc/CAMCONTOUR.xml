@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -227,7 +227,7 @@ The contours were generated from the Digital Terrain Model (DTM) using ASI's APS
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

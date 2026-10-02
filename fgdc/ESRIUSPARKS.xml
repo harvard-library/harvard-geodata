@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -116,7 +116,7 @@
             <origin>National Park Service</origin>
             <pubdate>Unknown</pubdate>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Washington, DC, USA</pubplace>
               <publish>National Park Service</publish>
@@ -296,7 +296,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>17.712</transize>
         </digtinfo>

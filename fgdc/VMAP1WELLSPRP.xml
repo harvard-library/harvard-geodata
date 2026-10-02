@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -108,21 +108,21 @@ VMAP Layers in the Harvard Geospatial Library are feature-based as we have proce
 Type/Status codes were mapped into the FACC coding scheme.  A full description of FACC may be found in Digital Geographic Information Exchange Standard (DIGEST) Edition 1.2, January 1994.  Not all attributes here have been completely defined by including their enumerated domain values. For example, the USE attribute (Usage) contains over 165 possible values with associated definitions.
 Please consult the DIGEST FACC website for complete coding data. (http://www.digest.org/html/DIGEST_2-1_Part4_AnnexB.pdf)</attraccr>
     </attracc>
-    <logic/>
+    <logic />
     <complete>All features in this library have valid attribute codes assigned to them in accordance with this specification (VMapLV1 MILSPEC MIL-V-89033).</complete>
     <posacc>
       <horizpa>
         <horizpar>Absolute horizontal accuracy: Derived from cartographic source or generalized from centerline data. Actual map scale and class source of error are contained in the Data Quality coverage. Accuracy is expressed as a circular error at 90% probability.</horizpar>
         <qhorizpa>
           <horizpav>-/+(1200)</horizpav>
-          <horizpae/>
+          <horizpae />
         </qhorizpa>
       </horizpa>
       <vertacc>
-        <vertaccr/>
+        <vertaccr />
         <qvertpa>
           <vertaccv>-/+(134)</vertaccv>
-          <vertacce/>
+          <vertacce />
         </qvertpa>
       </vertacc>
     </posacc>
@@ -136,7 +136,7 @@ Please consult the DIGEST FACC website for complete coding data. (http://www.dig
             <geoform>vector digital data</geoform>
             <serinfo>
               <sername>JOG Series 1501</sername>
-              <issue/>
+              <issue />
             </serinfo>
           </citeinfo>
         </srccite>
@@ -283,7 +283,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
       </altsys>
       <depthsys>
         <depthdn>Mean sea level</depthdn>
-        <depthres/>
+        <depthres />
         <depthdu>meters</depthdu>
         <depthem>Explicit depth coordinate included with horizontal coordinates</depthem>
       </depthsys>
@@ -294,7 +294,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
       <enttyp>
         <enttypl>TIM.VMAP1WELLSPRP</enttypl>
         <enttypd>Points represent wells and spring features</enttypd>
-        <enttypds/>
+        <enttypds />
       </enttyp>
       <attr>
         <attrlabl>TILE_ID</attrlabl>
@@ -444,7 +444,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

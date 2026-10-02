@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -297,7 +297,7 @@ Nodes that mark rail intersections are not coded.  Those that represent stations
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

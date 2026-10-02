@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -80,7 +80,7 @@ For Non-commercial use only.</useconst>
         <cntaddr>
           <addrtype>mailing address</addrtype>
           <address>400 Seventh Street, SW</address>
-          <address/>
+          <address />
           <city>Washington</city>
           <state>District of Columbia</state>
           <postal>20590</postal>
@@ -491,7 +491,7 @@ For Non-commercial use only.</useconst>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -509,7 +509,7 @@ For Non-commercial use only.</useconst>
     </stdorder>
     <availabl>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
     </availabl>
   </distinfo>

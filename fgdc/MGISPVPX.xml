@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -115,7 +115,7 @@ When using MassGIS data on maps or in digital applications, source credit should
             <pubdate>1993-2000</pubdate>
             <title>1:12,000 scale, color infrared (CIR), leaf-off aerial photographs</title>
             <geoform>remote-sensing image</geoform>
-            <pubinfo/>
+            <pubinfo />
             <othercit>Flown between late March and Early May. Photos taken in 1993 (Bristol, Barnstable, Nantucket and Dukes Counties), 1999 (Plymouth, northern and southern Worcester, and eastern Franklin, Hampshire and Hampden Counties), and 2000 (Essex, Middlesex, Suffolk, Norfolk, central Worcester, western Franklin, Hampshire and Hampden, and Berkshire Counties)</othercit>
           </citeinfo>
         </srccite>
@@ -334,7 +334,7 @@ When using MassGIS data on maps or in digital applications, source credit should
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

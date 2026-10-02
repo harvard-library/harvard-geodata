@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -95,7 +95,7 @@ While most of Sotzmann's work was in the European theater, he had done the maps 
 
 While the data of the published map is retained in the georeferenced image, the image is referenced to the Universal Transverse Mercator coordinate system, which is inconsistent with the original projection of the paper map, and may lead to discrepancies in the horizontal accuracy of the raster image.</horizpar>
       </horizpa>
-      <vertacc/>
+      <vertacc />
     </posacc>
     <lineage>
       <srcinfo>
@@ -276,7 +276,7 @@ A measure of the difference between locations that are known and locations that 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize>171.182</transize>
         </digtinfo>

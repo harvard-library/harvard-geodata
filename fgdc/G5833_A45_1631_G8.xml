@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -24,7 +24,7 @@
       <timeinfo>
         <rngdates>
           <begdate>1631</begdate>
-          <enddate/>
+          <enddate />
         </rngdates>
       </timeinfo>
       <current>source map approximate publication date</current>
@@ -115,7 +115,7 @@
           <timeinfo>
             <rngdates>
               <begdate>1631</begdate>
-              <enddate/>
+              <enddate />
             </rngdates>
           </timeinfo>
           <srccurr>approximate publication date</srccurr>
@@ -251,7 +251,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -7,7 +7,7 @@
         <pubdate>1996</pubdate>
         <title>Census Non-Visible Features, 1995 - Iowa</title>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg95ialkf</onlink>
         <lworkcit>
           <citeinfo>
@@ -527,7 +527,7 @@ The TIGER/Line files contain point landmark data that are not included in the Ce
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

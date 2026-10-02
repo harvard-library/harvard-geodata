@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -293,7 +293,7 @@ Campbell, T. The Jansson-Visscher maps of New England (Map collectors' series, n
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

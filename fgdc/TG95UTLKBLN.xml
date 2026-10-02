@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -7,7 +7,7 @@
         <pubdate>1996</pubdate>
         <title>Census Railroads, 1995 - Utah</title>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg95utlkbln</onlink>
         <lworkcit>
           <citeinfo>
@@ -564,7 +564,7 @@ the location of points of interest and are not connected to complete chains or G
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

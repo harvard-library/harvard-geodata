@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -264,7 +264,7 @@ From the papers of George D. Wells, Brev. Brig. Gen. U.S. Vols.</othercit>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

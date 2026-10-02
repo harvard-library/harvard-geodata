@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -184,7 +184,7 @@ Sources for some features derived from aerial photography conducted by the James
             </cntaddr>
             <cntvoice>617-796-1180</cntvoice>
             <cntfax>617-796-1000</cntfax>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -454,7 +454,7 @@ Sources for some features derived from aerial photography conducted by the James
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -289,7 +289,7 @@ A measure of the difference between locations that are known and locations that 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize>91.263</transize>
         </digtinfo>

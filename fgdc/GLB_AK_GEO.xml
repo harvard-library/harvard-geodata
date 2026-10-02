@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -307,7 +307,7 @@ geologic Formations and Groups, and include both bedrock and surficial deposit u
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

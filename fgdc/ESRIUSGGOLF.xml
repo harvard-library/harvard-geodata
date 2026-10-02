@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -112,7 +112,7 @@
             <origin>United States Geological Survey</origin>
             <pubdate>2000</pubdate>
             <title>Index of /pub/gnis</title>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Reston, Virginia, USA</pubplace>
               <publish>United States Geological Survey</publish>
@@ -240,7 +240,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>0.465</transize>
         </digtinfo>

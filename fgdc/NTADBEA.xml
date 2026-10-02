@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -73,7 +73,7 @@
         <cntaddr>
           <addrtype>mailing and physical address</addrtype>
           <address>Bureau of Transportation Statistics, USDOT</address>
-          <address/>
+          <address />
           <address>400 Seventh Street, SW</address>
           <city>Washington</city>
           <state>DC</state>
@@ -305,7 +305,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -323,7 +323,7 @@
     </stdorder>
     <availabl>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
     </availabl>
   </distinfo>

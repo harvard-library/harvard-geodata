@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -265,14 +265,14 @@ More advanced user applications may focus on transportation management functions
         <cntvoice>617-495-2417</cntvoice>
         <cntfax>617-496-0440</cntfax>
         <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
-        <cntinst/>
+        <cntinst />
       </cntinfo>
     </distrib>
     <resdesc>Downloadable Data</resdesc>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -120,7 +120,7 @@
             <pubdate>1998</pubdate>
             <title>nationalatlas.gov(tm) -Urban Areas</title>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Reston, Virginia, USA</pubplace>
               <publish>United States Geological Survey</publish>
@@ -271,7 +271,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>2.588</transize>
         </digtinfo>

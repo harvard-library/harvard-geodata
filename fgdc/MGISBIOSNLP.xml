@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -568,7 +568,7 @@ The selection of Supporting Natural Landscape was determined by selecting a tota
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

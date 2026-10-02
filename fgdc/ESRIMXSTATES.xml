@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -27,7 +27,7 @@
       <supplinf>Largest scale when displaying the data: 1:3,000,000.</supplinf>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>publication date: 19920801, 198403; ground condition: 1988-1992</current>
     </timeperd>
     <status>
@@ -107,7 +107,7 @@
             <title>ArcWorld 1:3M, ArcWorld 1:25M</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
@@ -362,7 +362,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>0.191</transize>
         </digtinfo>

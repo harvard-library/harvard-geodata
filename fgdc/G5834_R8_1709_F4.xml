@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -107,7 +107,7 @@
             <geoform>map</geoform>
             <pubinfo>
               <pubplace>Paris, chez le Sr. N. de Fer, dans l'Isle du Palais, sur le Quay de l'Orloge a la Sphere Royal</pubplace>
-              <publish/>
+              <publish />
             </pubinfo>
             <othercit>1 map ; 38 x 53 cm.</othercit>
           </citeinfo>
@@ -282,7 +282,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -354,7 +354,7 @@ See 'Horizontal Accuracy' for the RMS error of this TIFF image.  Please note tha
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

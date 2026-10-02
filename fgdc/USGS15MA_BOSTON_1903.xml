@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -258,7 +258,7 @@ The lack of greater accuracy is largely a result of distortions in the original 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize>90.661</transize>
           <dssize>90.661</dssize>

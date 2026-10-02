@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -459,7 +459,7 @@ With regions based topology, an individual Zone II can be selected by using the 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

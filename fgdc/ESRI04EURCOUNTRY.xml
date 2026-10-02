@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -214,7 +214,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
             <title>World Vector Shoreline Plus Prototype - coast_ln.shp</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Washington, DC, USA</pubplace>
               <publish>U.S. National Imagery and Mapping Agency</publish>
@@ -958,7 +958,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

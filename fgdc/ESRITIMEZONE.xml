@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -26,7 +26,7 @@
       <purpose>World Time Zones provides time zones for countries and cities within them.  Note that daylight-savings time is not shown.</purpose>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>publication date: 200010, 19920801, 19920601, 1996, 1991; ground condition: 20001029</current>
     </timeperd>
     <status>
@@ -388,7 +388,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>1.372</transize>
         </digtinfo>

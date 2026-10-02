@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -341,7 +341,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize Sync="TRUE">0.000</transize>
           <dssize Sync="TRUE">0.000</dssize>
@@ -433,16 +433,16 @@
   <dataIdInfo>
     <envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</envirDesc>
     <dataLang>
-      <languageCode Sync="TRUE" value="en"/>
+      <languageCode Sync="TRUE" value="en" />
     </dataLang>
     <idCitation>
       <resTitle Sync="TRUE">AMS7810_S250_U54_NI51_14.tif</resTitle>
       <presForm>
-        <PresFormCd Sync="TRUE" value="005"/>
+        <PresFormCd Sync="TRUE" value="005" />
       </presForm>
     </idCitation>
     <spatRpType>
-      <SpatRepTypCd Sync="TRUE" value="002"/>
+      <SpatRepTypCd Sync="TRUE" value="002" />
     </spatRpType>
     <dataExt>
       <geoEle>
@@ -464,15 +464,15 @@
     </geoBox>
   </dataIdInfo>
   <mdLang>
-    <languageCode Sync="TRUE" value="en"/>
+    <languageCode Sync="TRUE" value="en" />
   </mdLang>
   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
   <mdChar>
-    <CharSetCd Sync="TRUE" value="004"/>
+    <CharSetCd Sync="TRUE" value="004" />
   </mdChar>
   <mdHrLv>
-    <ScopeCd Sync="TRUE" value="005"/>
+    <ScopeCd Sync="TRUE" value="005" />
   </mdHrLv>
   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
   <distInfo>
@@ -503,7 +503,7 @@
       <axDimProps>
         <Dimen>
           <dimName>
-            <DimNameTypCd Sync="TRUE" value="002"/>
+            <DimNameTypCd Sync="TRUE" value="002" />
           </dimName>
           <dimSize Sync="TRUE">8866</dimSize>
           <dimResol>
@@ -518,7 +518,7 @@
         </Dimen>
         <Dimen>
           <dimName>
-            <DimNameTypCd Sync="TRUE" value="001"/>
+            <DimNameTypCd Sync="TRUE" value="001" />
           </dimName>
           <dimSize Sync="TRUE">6813</dimSize>
           <dimResol>
@@ -533,7 +533,7 @@
         </Dimen>
       </axDimProps>
       <cellGeo>
-        <CellGeoCd Sync="TRUE" value="002"/>
+        <CellGeoCd Sync="TRUE" value="002" />
       </cellGeo>
       <tranParaAv Sync="TRUE">1</tranParaAv>
     </GridSpatRep>

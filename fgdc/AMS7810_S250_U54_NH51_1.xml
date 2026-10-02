@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -256,7 +256,7 @@ While the data of the published map is retained in the georeferenced image, the 
               <caldate>1916</caldate>
             </sngdate>
           </timeinfo>
-          <srccurr/>
+          <srccurr />
         </srctime>
         <srccitea>China Central Land Survey Base Maps</srccitea>
         <srccontr>Base maps used to compile the source map.</srccontr>
@@ -402,7 +402,7 @@ RMS: The degree to which the transformation can accurately map all control point
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
           <transize>0.000</transize>
         </digtinfo>

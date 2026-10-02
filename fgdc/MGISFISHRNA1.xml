@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -185,13 +185,13 @@
         <attrlabl>FNODE_</attrlabl>
         <attrdef>From Node</attrdef>
         <attrdefs>ESRI</attrdefs>
-        <attrvai/>
+        <attrvai />
       </attr>
       <attr>
         <attrlabl>TNODE_</attrlabl>
         <attrdef>To Node</attrdef>
         <attrdefs>ESRI</attrdefs>
-        <attrvai/>
+        <attrvai />
       </attr>
       <attr>
         <attrlabl>LPOLY_</attrlabl>

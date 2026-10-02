@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -8,7 +8,7 @@
         <title>Census Block Groups, 1995 - Idaho</title>
         <edition>Version (0024)</edition>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg95idgrppy</onlink>
         <lworkcit>
           <citeinfo>
@@ -426,7 +426,7 @@ the location of points of interest and are not connected to complete chains or G
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

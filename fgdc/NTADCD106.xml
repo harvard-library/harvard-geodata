@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -350,7 +350,7 @@ After completing topological and attribute verification using ARC/INFO, the data
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -368,7 +368,7 @@ After completing topological and attribute verification using ARC/INFO, the data
     </stdorder>
     <availabl>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
     </availabl>
   </distinfo>

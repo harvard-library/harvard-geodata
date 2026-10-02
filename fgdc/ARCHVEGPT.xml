@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -118,7 +118,7 @@ Generally features along tile edges have been matched.  However, in some cases n
             <othercit>Each map sheet covers six degrees longitude by four degrees latitude.
 The 1:1,000,000-scale map series is the smallest National Essential Topographic Map Series in China, which comprehensively depicts the natural, social and economic situation in China and forms a relevant geographic base for many uses.</othercit>
             <lworkcit>
-              <citeinfo/>
+              <citeinfo />
             </lworkcit>
           </citeinfo>
         </srccite>
@@ -196,7 +196,7 @@ After the transformation of coordinates to the geographic coordinate system, the
             <cntvoice>617-495-2417</cntvoice>
             <cntfax>617-496-0440</cntfax>
             <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -339,14 +339,14 @@ After the transformation of coordinates to the geographic coordinate system, the
         <cntvoice>617-495-2417</cntvoice>
         <cntfax>617-496-0440</cntfax>
         <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
-        <cntinst/>
+        <cntinst />
       </cntinfo>
     </distrib>
     <resdesc>Downloadable Data</resdesc>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>

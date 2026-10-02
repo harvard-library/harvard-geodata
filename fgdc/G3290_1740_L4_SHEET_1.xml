@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -301,7 +301,7 @@ A world file (.j2w) was automatically generated and saved in association with th
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>JPEG2000</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

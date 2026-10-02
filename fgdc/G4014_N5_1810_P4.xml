@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -109,7 +109,7 @@ This layer is part of a selection of digitally scanned and georeferenced histori
             <pubdate>1810</pubdate>
             <title>[Plan of New Orleans].</title>
             <geoform>map</geoform>
-            <pubinfo/>
+            <pubinfo />
             <othercit>1 ms. map : hand col. ; 22 x 47 cm., on sheet 37 x 47 cm.
 
 Pen and ink ms. with pigment.</othercit>
@@ -260,7 +260,7 @@ Please note that while the image is stored in State Plane coordinates, the proje
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

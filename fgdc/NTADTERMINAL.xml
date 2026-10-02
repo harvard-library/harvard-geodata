@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -738,7 +738,7 @@ cursor was placed over the approximate location of the terminal and the displaye
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -756,7 +756,7 @@ cursor was placed over the approximate location of the terminal and the displaye
     </stdorder>
     <availabl>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
     </availabl>
   </distinfo>

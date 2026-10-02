@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -229,7 +229,7 @@
         <attrlabl>PERIMETER</attrlabl>
         <attrdef>Perimeter of feature in coverage units. NOTE: All values for this attribute set to zero.</attrdef>
         <attrdefs>ESRI</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>FACILITY_</attrlabl>
@@ -420,7 +420,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

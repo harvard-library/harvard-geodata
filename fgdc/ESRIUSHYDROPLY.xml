@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -28,7 +28,7 @@
       <supplinf>Largest scale when displaying the data: 1:1,000,000.</supplinf>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>ground condition: 1995-1999; 1972-1994; publication date: 1998, 1999</current>
     </timeperd>
     <status>
@@ -115,7 +115,7 @@
             <pubdate>19991109</pubdate>
             <title>nationalatlas.gov(tm) -Water Features</title>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Reston, Virginia, USA</pubplace>
               <publish>United States Geological Survey</publish>
@@ -127,7 +127,7 @@
         <typesrc>online</typesrc>
         <srctime>
           <timeinfo>
-            <rngdates/>
+            <rngdates />
           </timeinfo>
           <srccurr>ground condition: 1972-1994; publication date: 1998, 1999</srccurr>
         </srctime>
@@ -297,7 +297,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>23.761</transize>
         </digtinfo>

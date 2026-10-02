@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -137,7 +137,7 @@ Verdin, K., and S. Jenson, 1996, "Development of continental scale DEMs and extr
     <logic>Unknown</logic>
     <complete>Unknown</complete>
     <posacc>
-      <horizpa/>
+      <horizpa />
     </posacc>
     <lineage>
       <srcinfo>
@@ -494,7 +494,7 @@ The basis of all of the data layers available in the HYDRO1k database is the hyd
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
         <digtopt>

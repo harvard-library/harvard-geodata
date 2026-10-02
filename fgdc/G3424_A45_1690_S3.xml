@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -112,7 +112,7 @@ This layer is part of a selection of digitally scanned and georeferenced histori
             <pubdate>1690</pubdate>
             <title>[Plan of Port Royal, Nova Scotia]</title>
             <geoform>map</geoform>
-            <pubinfo/>
+            <pubinfo />
             <othercit>1 ms. map : hand col. ; 45 x 34 cm. + accompanying ms sheet (47 cm.)</othercit>
           </citeinfo>
         </srccite>
@@ -257,7 +257,7 @@ Please note that while the image is stored in UTM coordinates, the projection wi
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>

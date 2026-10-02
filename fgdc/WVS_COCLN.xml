@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -108,7 +108,7 @@ Not all attributes here have been completely defined by including their enumerat
 Please consult the DIGEST FACC website for complete coding data. 
 (http://www.digest.org/html/DIGEST_2-1_Part4_AnnexB.pdf)</attraccr>
     </attracc>
-    <logic/>
+    <logic />
     <complete>All features in this library have valid attribute codes assigned to them in accordance with this specification (VMapLV1 MILSPEC MIL-V-89033).</complete>
     <posacc>
       <horizpa>
@@ -227,12 +227,12 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
       <altsys>
         <altdatum>unknown</altdatum>
         <altres>1.000000</altres>
-        <altunits/>
+        <altunits />
         <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
       </altsys>
       <depthsys>
         <depthdn>Mean high water</depthdn>
-        <depthres/>
+        <depthres />
         <depthdu>meters</depthdu>
         <depthem>Explicit depth coordinate included with horizontal coordinates</depthem>
       </depthsys>
@@ -250,7 +250,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Name of the political entity on one side (relative to NM4) of a boundary line</attrdef>
         <attrdefs>DIGEST FACC</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -258,7 +258,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>VPF Format Tile Identifier Code</attrdef>
         <attrdefs>NIMA</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -266,7 +266,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Name of the political entity on the other side (relative to NM3) of the boundary</attrdef>
         <attrdefs>DIGEST FACC</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -274,7 +274,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Use Code (identifies the primary user, function, or controlling authority).</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -282,7 +282,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Primitive Record Identifier for the Feature</attrdef>
         <attrdefs>Assigned</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -293,17 +293,17 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
           <edom>
             <edomv>BA010</edomv>
             <edomvd>Coastline/Shoreline. The line where a land mass is in contact with a body of water.</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>ZD003</edomv>
             <edomvd>Artifact Location. An indicator which identifies incomplete or illogical data at a specific location</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>ZD003</edomv>
             <edomvd>Artifact Location. An indicator which identifies incomplete or illogical data at a specific location (node), used for data processing only.</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
         </attrdomv>
       </attr>
@@ -312,7 +312,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Boundary Status Type Description</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -320,7 +320,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Unique Feature Identifier</attrdef>
         <attrdefs>Assigned</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -328,7 +328,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Name description of the political entity on one side of a boundary line</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -336,7 +336,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Use Code Description</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -344,7 +344,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Name description of the political entity on one side of a boundary line</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -352,7 +352,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Feature Code text description</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -363,42 +363,42 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
           <edom>
             <edomv>0</edomv>
             <edomvd>Unknown</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>1</edomv>
             <edomvd>Accurate</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>2</edomv>
             <edomvd>Approximate</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>3</edomv>
             <edomvd>Doubtful</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>5</edomv>
             <edomvd>Disputed</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>6</edomv>
             <edomvd>Undisputed</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>7</edomv>
             <edomvd>Precise</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>8</edomv>
             <edomvd>Abrogated</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
         </attrdomv>
       </attr>
@@ -407,7 +407,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Accuracy Category Description</attrdef>
         <attrdefs>DIGEST</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -418,27 +418,27 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
           <edom>
             <edomv>0</edomv>
             <edomvd>Unknown</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>1</edomv>
             <edomvd>Definite</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>2</edomv>
             <edomvd>Indefinite</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>3</edomv>
             <edomvd>In Dispute</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
           <edom>
             <edomv>4</edomv>
             <edomvd>No Defined Boundary</edomvd>
-            <edomvds/>
+            <edomvds />
           </edom>
         </attrdomv>
       </attr>
@@ -455,7 +455,7 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
         <attrdef>Polyline length measured in map units</attrdef>
         <attrdefs>Computed</attrdefs>
         <attrdomv>
-          <udom/>
+          <udom />
         </attrdomv>
       </attr>
       <attr>
@@ -491,11 +491,11 @@ The horizontal datum for this VMap product is WGS84. The vertical datum for this
       </cntinfo>
     </distrib>
     <resdesc>Downloadable Data</resdesc>
-    <distliab/>
+    <distliab />
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
         <digtopt>

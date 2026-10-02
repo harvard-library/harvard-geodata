@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -119,7 +119,7 @@
             <title>Digital Chart of the World</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
@@ -361,7 +361,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>0.172</transize>
         </digtinfo>

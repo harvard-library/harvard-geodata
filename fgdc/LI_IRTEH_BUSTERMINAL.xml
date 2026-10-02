@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -81,7 +81,7 @@
         <horizpar>Unknown</horizpar>
       </horizpa>
     </posacc>
-    <lineage/>
+    <lineage />
   </dataqual>
   <spdoinfo>
     <direct>Vector</direct>
@@ -172,7 +172,8 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <transize>0.000</transize>
+          <formname>Shapefile</formname>
+          <filedec>ZIP</filedec>
         </digtinfo>
         <digtopt>
           <onlinopt>

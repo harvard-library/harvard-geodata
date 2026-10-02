@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -8,7 +8,7 @@
         <title>UA Census American Indian Reservations, 1990 - Utah</title>
         <edition>UA Census 2000</edition>
         <geoform>vector digital data</geoform>
-        <pubinfo/>
+        <pubinfo />
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg00utair</onlink>
         <lworkcit>
           <citeinfo>
@@ -323,7 +323,7 @@ The U.S. Census Bureau cannot specify the accuracy of feature updates added by i
         <attrlabl>GIST_ID</attrlabl>
         <attrdef>Internal Feature Identifier</attrdef>
         <attrdefs>Department of Commerce, Census Bureau</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>COUNTY</attrlabl>
@@ -417,7 +417,7 @@ The U.S. Census Bureau cannot specify the accuracy of feature updates added by i
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -619,7 +619,7 @@ Special note concerning trackage rights: In some cases, a 'short line' railroad 
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHAPE</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -637,7 +637,7 @@ Special note concerning trackage rights: In some cases, a 'short line' railroad 
     </stdorder>
     <availabl>
       <timeinfo>
-        <sngdate/>
+        <sngdate />
       </timeinfo>
     </availabl>
   </distinfo>

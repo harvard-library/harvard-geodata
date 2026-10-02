@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -114,7 +114,7 @@ Outside the United States,Please consult http://gis.esri.com/intldist/contactint
             <pubdate>1999</pubdate>
             <title>nationalatlas.gov? ?Airports</title>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Reston, Virginia, USA</pubplace>
               <publish>United States Geological Survey</publish>
@@ -126,7 +126,7 @@ Outside the United States,Please consult http://gis.esri.com/intldist/contactint
         <srcscale>2000000</srcscale>
         <typesrc>online</typesrc>
         <srctime>
-          <timeinfo/>
+          <timeinfo />
           <srccurr>publication date: 19990216, 1998, 1997; ground condition: 1994?1996</srccurr>
         </srctime>
         <srccitea>National Atlas</srccitea>
@@ -282,7 +282,7 @@ Outside the United States,Please consult http://gis.esri.com/intldist/contactint
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -155,7 +155,7 @@ Final Horizontal Accuracy: Approximately +/- 5 feet.</procdesc>
             </cntaddr>
             <cntvoice>617-796-1180</cntvoice>
             <cntfax>617-796-1000</cntfax>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -329,7 +329,7 @@ Final Horizontal Accuracy: Approximately +/- 5 feet.</procdesc>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>

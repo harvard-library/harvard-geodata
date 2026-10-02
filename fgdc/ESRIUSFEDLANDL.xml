@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -28,7 +28,7 @@
       <supplinf>Largest scale when displaying the data: 1:1,000,000.  No data for Hawaii.</supplinf>
     </descript>
     <timeperd>
-      <timeinfo/>
+      <timeinfo />
       <current>ground condition: 1972-1999; publication date: 1970-1995, 1998, 199903</current>
     </timeperd>
     <status>
@@ -111,7 +111,7 @@
             <pubdate>19990324</pubdate>
             <title>nationalatlas.gov(tm) -Parkways and Scenic Rivers</title>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Reston, Virginia, USA</pubplace>
               <publish>United States Geological Survey</publish>
@@ -312,7 +312,7 @@
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>Downloaded file is Zipped</filedec>
           <transize>0.683</transize>
         </digtinfo>

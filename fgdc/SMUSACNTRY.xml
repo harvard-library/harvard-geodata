@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -97,7 +97,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
     <native>Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.1.1.649</native>
   </idinfo>
   <dataqual>
-    <attracc/>
+    <attracc />
     <logic>No duplicate features are present.  The shapefile is created directly from a topologically correct ArcInfo? coverage.</logic>
     <complete>This dataset doesn't represent the complete list of countries in the world. It is primarily used for drawing as a background for StreetMap. After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
     <posacc>
@@ -114,7 +114,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
             <title>ArcWorld Supplement</title>
             <edition>1</edition>
             <geoform>vector digital data</geoform>
-            <serinfo/>
+            <serinfo />
             <pubinfo>
               <pubplace>Redlands, California, USA</pubplace>
               <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
@@ -254,7 +254,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
             <cntfax>617-496-0440</cntfax>
             <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
             <hours>Mon-Fri. 9am - 5 pm EST</hours>
-            <cntinst/>
+            <cntinst />
           </cntinfo>
         </proccont>
       </procstep>
@@ -321,7 +321,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
         <attrlabl>SHAPE.AREA</attrlabl>
         <attrdef>Internally calculated feature area in map units</attrdef>
         <attrdefs>ESRI</attrdefs>
-        <attrdomv/>
+        <attrdomv />
       </attr>
       <attr>
         <attrlabl>SHAPE.LEN</attrlabl>
@@ -359,7 +359,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>SHP</formname>
+          <formname>Shapefile</formname>
           <filedec>zip</filedec>
         </digtinfo>
         <digtopt>
@@ -398,7 +398,7 @@ Consult http://gis.esri.com/intldist/contactint.cfm.</cntinst>
         <cntfax>617-496-0440</cntfax>
         <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
         <hours>9:00 a.m.-5:00 p.m. Eastern Standard Time, Monday-Friday</hours>
-        <cntinst/>
+        <cntinst />
       </cntinfo>
     </metc>
     <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

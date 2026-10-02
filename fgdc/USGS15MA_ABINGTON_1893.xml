@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata xml:lang="en">
   <idinfo>
     <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
@@ -151,7 +150,7 @@ The Map Collection also owns numerous other USGS topographic maps in other serie
         <digtinfo>
           <transize>90.147</transize>
           <dssize>90.147</dssize>
-          <formname>TIFF</formname>
+          <formname>GeoTIFF</formname>
           <filedec>no compression applied</filedec>
         </digtinfo>
       </digform>

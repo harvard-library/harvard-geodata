@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -129,7 +129,7 @@
 
 				1) Download source file as a shapefile: Canopy_Change_Assessment%3A_Tree_Canopy_Metrics.zip from source (Analyze Boston, 2021a)
 
-				2) Input: Canopy_Change_Assessment%3A_Tree_Canopy_Metrics.shp --> open a GIS. Project the layer to EPSG 26986. Edit fields to delete all irrelevant columns besides the columns: ID, NAME, ST_ABBREV, Shape_Length, Shape_Area, and TC_E_P. Manually rename TC_E_P column as PctTreeCanopy. (note: new shape length and area columns will be automatically added when you project into EPSG 26986 with a unit of meters, so you will need to delete the original shape length and area columns whose units were in feet) --> output: Tree_Canopy_Boston_2019.shp (The zipped file is titled TreeCanopy_Boston_2019_shp.zip).
+				2) Input: Canopy_Change_Assessment%3A_Tree_Canopy_Metrics.shp --&gt; open a GIS. Project the layer to EPSG 26986. Edit fields to delete all irrelevant columns besides the columns: ID, NAME, ST_ABBREV, Shape_Length, Shape_Area, and TC_E_P. Manually rename TC_E_P column as PctTreeCanopy. (note: new shape length and area columns will be automatically added when you project into EPSG 26986 with a unit of meters, so you will need to delete the original shape length and area columns whose units were in feet) --&gt; output: Tree_Canopy_Boston_2019.shp (The zipped file is titled TreeCanopy_Boston_2019_shp.zip).
 
 				File renamed for HGL delivery as: RTLMOD1_TREECANOPY_BOSTON_2019</procdesc>
 				<srcused>Source shapefile</srcused>

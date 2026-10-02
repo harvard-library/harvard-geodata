@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <metadata>
   <idinfo>
     <citation>
@@ -329,7 +329,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
         <attrlabl>ZV2DESC</attrlabl>
         <attrdef>Highest Z-value Code Description</attrdef>
         <attrdefs>DIGEST</attrdefs>
-        <attrvai/>
+        <attrvai />
       </attr>
       <attr>
         <attrlabl>NAMDESC</attrlabl>
@@ -462,7 +462,7 @@ The representation of boundaries is not necessarily authoritative.  Geographic n
     <stdorder>
       <digform>
         <digtinfo>
-          <formname>Shape</formname>
+          <formname>Shapefile</formname>
           <filedec>Zip</filedec>
         </digtinfo>
       </digform>
