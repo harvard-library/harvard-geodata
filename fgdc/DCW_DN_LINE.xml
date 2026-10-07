@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <idinfo>
     <citation>
@@ -49,10 +49,10 @@ Please consult the DIGEST FACC website for complete coding data. (http://www.dig
     </status>
     <spdom>
       <bounding>
-        <westbc>-179.304504</westbc>
-        <eastbc>179.279205</eastbc>
-        <northbc>81.158279</northbc>
-        <southbc>-54.917198</southbc>
+        <westbc>-180.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>83.623047</northbc>
+        <southbc>-90.000000</southbc>
       </bounding>
     </spdom>
     <keywords>
@@ -158,7 +158,7 @@ Airport features were derived from the DMA Digital Aeronautical Flight Informati
             <pubdate>1974-1992</pubdate>
             <title>Operational Navigational Chart (ONC)</title>
             <geoform>map</geoform>
-            <pubinfo />
+            <pubinfo/>
           </citeinfo>
         </srccite>
         <srcscale>1000000</srcscale>
@@ -186,7 +186,7 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
             <origin>National Imagery and Mapping Agency</origin>
             <pubdate>199006</pubdate>
             <title>Digital Aeronautical Flight Information File</title>
-            <pubinfo />
+            <pubinfo/>
           </citeinfo>
         </srccite>
         <typesrc>magnetic tape</typesrc>
@@ -208,7 +208,7 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
             <pubdate>1990</pubdate>
             <title>Jet Navigational Chart</title>
             <geoform>map</geoform>
-            <pubinfo />
+            <pubinfo/>
           </citeinfo>
         </srccite>
         <srcscale>2000000</srcscale>
@@ -231,7 +231,7 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
             <origin>USGS EROS Data Center</origin>
             <title>Advance Very High Resolution Radiometer</title>
             <geoform>remote-sensing image</geoform>
-            <pubinfo />
+            <pubinfo/>
           </citeinfo>
         </srccite>
         <srcscale>1000000</srcscale>
@@ -368,34 +368,26 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
   <spdoinfo>
     <direct>Vector</direct>
     <ptvctinf>
-      <sdtsterm Name="TIM.DCW_DN_LINE">
-        <sdtstype>Entity point</sdtstype>
-        <ptvctcnt>13078</ptvctcnt>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1612592</ptvctcnt>
       </sdtsterm>
     </ptvctinf>
   </spdoinfo>
   <spref>
     <horizsys>
       <geograph>
-        <latres>0.000001</latres>
-        <longres>0.000001</longres>
-        <geogunit>Decimal degrees</geogunit>
+        <latres>8.983152841195215e-09</latres>
+        <longres>8.983152841195215e-09</longres>
+        <geogunit>Decimal Degrees</geogunit>
       </geograph>
       <geodetic>
-        <horizdn>D_WGS_1984</horizdn>
-        <ellips>WGS_1984</ellips>
-        <semiaxis>6378137.000000</semiaxis>
-        <denflat>298.257224</denflat>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
       </geodetic>
     </horizsys>
-    <vertdef>
-      <altsys>
-        <altdatum>Mean Sea Level</altdatum>
-        <altres>1.000000</altres>
-        <altunits>1.0</altunits>
-        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
-      </altsys>
-    </vertdef>
   </spref>
   <distinfo>
     <distrib>
@@ -465,7 +457,7 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
     </metextns>
   </metainfo>
   <eainfo>
-    <detailed Name="TIM.DCW_DN_LINE">
+    <detailed>
       <enttyp>
         <enttypl>DCW Drainage Feature Lines</enttypl>
         <enttypd>Polylines represent various drainage features</enttypd>

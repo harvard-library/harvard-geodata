@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <idinfo>
     <citation>
@@ -46,10 +46,10 @@ The DCW Type/Status codes were mapped into the Feature Attribute Coding Catalogu
     </status>
     <spdom>
       <bounding>
-        <westbc>-179.304504</westbc>
-        <eastbc>179.279205</eastbc>
-        <northbc>81.158279</northbc>
-        <southbc>-54.917198</southbc>
+        <westbc>-179.999989</westbc>
+        <eastbc>179.999989</eastbc>
+        <northbc>89.000000</northbc>
+        <southbc>-89.000000</southbc>
       </bounding>
     </spdom>
     <keywords>
@@ -152,7 +152,7 @@ Airport features were derived from the DMA Digital Aeronautical Flight Informati
             <pubdate>1974-1992</pubdate>
             <title>Operational Navigational Chart (ONC)</title>
             <geoform>map</geoform>
-            <pubinfo />
+            <pubinfo/>
           </citeinfo>
         </srccite>
         <srcscale>1000000</srcscale>
@@ -181,7 +181,7 @@ The Defense Intelligence Agency Manual (DIAM) 65-18 is the source for the Geopol
             <pubdate>1990</pubdate>
             <title>Jet Navigational Chart</title>
             <geoform>map</geoform>
-            <pubinfo />
+            <pubinfo/>
           </citeinfo>
         </srccite>
         <srcscale>2000000</srcscale>
@@ -304,33 +304,36 @@ All line data have been processed using a maximum fuzzy tolerance of 0.002 inch.
     <direct>Vector</direct>
     <ptvctinf>
       <sdtsterm>
-        <sdtstype>G-polygon</sdtstype>
-        <ptvctcnt>34144</ptvctcnt>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>107328</ptvctcnt>
       </sdtsterm>
     </ptvctinf>
   </spdoinfo>
   <spref>
     <horizsys>
-      <geograph>
-        <latres>0.000001</latres>
-        <longres>0.000001</longres>
-        <geogunit>Decimal degrees</geogunit>
-      </geograph>
+      <planar>
+        <mapproj>
+          <mapprojn>WGS 1984 Web Mercator Auxiliary Sphere</mapprojn>
+          <mapprojp>
+            <otherprj>PROJCS["WGS_1984_Web_Mercator_Auxiliary_Sphere",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Mercator_Auxiliary_Sphere"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",0.0],PARAMETER["Standard_Parallel_1",0.0],PARAMETER["Auxiliary_Sphere_Type",0.0],UNIT["Meter",1.0],AUTHORITY["EPSG",3857]]</otherprj>
+          </mapprojp>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000006714873101998366</absres>
+            <ordres>0.000000006714873101998366</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
       <geodetic>
-        <horizdn>D_WGS_1984</horizdn>
-        <ellips>WGS_1984</ellips>
-        <semiaxis>6378137.000000</semiaxis>
-        <denflat>298.257224</denflat>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
       </geodetic>
     </horizsys>
-    <vertdef>
-      <altsys>
-        <altdatum>Mean Sea Level</altdatum>
-        <altres>1.000000</altres>
-        <altunits>1.0</altunits>
-        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
-      </altsys>
-    </vertdef>
   </spref>
   <eainfo>
     <detailed>
