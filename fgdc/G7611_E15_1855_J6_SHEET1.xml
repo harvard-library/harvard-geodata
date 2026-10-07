@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <idinfo>
     <citation>
@@ -18,7 +18,7 @@
       </citeinfo>
     </citation>
     <descript>
-      <abstract>This layer is a georeferenced raster image of the historic paper map set entitled: Vestiges of Assyria, by Felix Jones ; aided in the field operations by J.M. Hyslop ; engraved by J. &amp; C. Walker. Map 1 entitled: Ichnographic sketch of the remains of ancient Nineveh with the enceinte of modern Mosul of Arab M.S.S. and the [Mespila] of the Anabasis. It was published by John Walker in 1855. Scale [ca. 1:12,000]. This layer is image 1 of 3 total images of the six sheet source map, representing the Mosul region Iraq. Map chiefly in English. Some place names given also in Arabic. This datalayer is compiled from two images of the six sheet source map that have been stitched together using image editing software to create a single image.The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950 TM42 (Transverse Mercator, Central Meridian 42) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as ancient city ruins, drainage, canals, cities, villages, and other human settlements, roads, fortifications, selected buildings, and more. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.</abstract>
+      <abstract>This layer is a georeferenced raster image of the historic paper map set entitled: Vestiges of Assyria, by Felix Jones ; aided in the field operations by J.M. Hyslop ; engraved by J. &amp; C. Walker. Map 1 entitled: Ichnographic sketch of the remains of ancient Nineveh with the enceinte of modern Mosul of Arab M.S.S. and the [Mespila] of the Anabasis. It was published by John Walker in 1855. Scale [ca. 1:12,000]. This layer is image 1 of 3 total images of the six sheet source map, representing the Mosul region Iraq. Map chiefly in English. Some place names given also in Arabic. This datalayer is compiled from two images of the six sheet source map that have been stitched together using image editing software to create a single image.The image inside the map neatline is georeferenced to the surface of the earth and fit to the WGS 1984 UTM Zone 38N (EPSG:32638) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as ancient city ruins, drainage, canals, cities, villages, and other human settlements, roads, fortifications, selected buildings, and more. Relief shown by hachures.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.</abstract>
       <purpose>Historic paper maps can provide an excellent view of the changes that have occurred in the cultural and physical landscape.  The wide range of information provided on these maps make them useful in the study of historic geography, and urban and rural land use change.  As this map has been georeferenced, it can be used in a GIS as a source or background layer in conjunction with other GIS data.</purpose>
     </descript>
     <timeperd>
@@ -176,7 +176,7 @@
         </proccont>
       </procstep>
       <procstep>
-        <procdesc>Using ArcMap 9.3 software, the digital JPEG2000 image was georeferenced to common points located on another scanned, georeferenced historic paper sheet from this map set: Vestiges of Assyria, by Felix Jones ; aided in the field operations by J.M. Hyslop ; engraved by J. &amp; C. Walker. Map 3 entitled: Map of the country included in the angle formed by the river Tigris &amp; the Upper Zab shewing the disposition of the various ancient sites in the vicinity of Nineveh. It was published by John Walker in 1855. The base map data is projected in the European Datum 1950 TM42 (Transverse Mercator, Central Meridian 42) coordinate system, and the image was subsequently georeferenced to the same projection.A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
+        <procdesc>Using ArcMap 9.3 software, the digital JPEG2000 image was georeferenced to common points located on another scanned, georeferenced historic paper sheet from this map set: Vestiges of Assyria, by Felix Jones ; aided in the field operations by J.M. Hyslop ; engraved by J. &amp; C. Walker. Map 3 entitled: Map of the country included in the angle formed by the river Tigris &amp; the Upper Zab shewing the disposition of the various ancient sites in the vicinity of Nineveh. It was published by John Walker in 1855. The base map data is projected in the WGS 1984 UTM Zone 38N (EPSG:32638) coordinate system, and the image was subsequently georeferenced to the same projection.A world file (.j2w) was automatically generated and saved in association with the digital image. See 'Horizontal Accuracy' for the RMS error of this image. Please note that the projection will need to be defined by the user in order to display the image with other projected data and the world file will need to be stored in the same root directory as the image.</procdesc>
         <srcused>JP2 Map Image</srcused>
         <procdate>2010</procdate>
         <srcprod>Georeferenced Raster Data</srcprod>
@@ -218,29 +218,29 @@
     <horizsys>
       <planar>
         <mapproj>
-          <mapprojn>Transverse Mercator</mapprojn>
+          <mapprojn>WGS 1984 UTM Zone 38N</mapprojn>
           <transmer>
-            <sfctrmer>1.000000</sfctrmer>
-            <longcm>42.000000</longcm>
-            <latprjo>0.000000</latprjo>
-            <feast>500000.000000</feast>
-            <fnorth>0.000000</fnorth>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>45.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
           </transmer>
         </mapproj>
         <planci>
-          <plance>row and column</plance>
+          <plance>coordinate pair</plance>
           <coordrep>
-            <absres>1.042156</absres>
-            <ordres>0.998740</ordres>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
           </coordrep>
-          <plandu>meters</plandu>
+          <plandu>meter</plandu>
         </planci>
       </planar>
       <geodetic>
-        <horizdn>D_European_1950</horizdn>
-        <ellips>International_1924</ellips>
-        <semiaxis>6378388.000000</semiaxis>
-        <denflat>297.000000</denflat>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
       </geodetic>
     </horizsys>
   </spref>

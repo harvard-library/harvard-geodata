@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <idinfo>
     <citation>
@@ -7,7 +7,7 @@
         <pubdate>1996</pubdate>
         <title>Census Physical Features, 1995 - Tennessee</title>
         <geoform>vector digital data</geoform>
-        <pubinfo />
+        <pubinfo/>
         <onlink>https://hgl.harvard.edu/catalog/harvard-tg95tnlkeln</onlink>
         <lworkcit>
           <citeinfo>
@@ -53,10 +53,10 @@ NOTE: Portions of this metadata file have been copied directly from Census docum
     </status>
     <spdom>
       <bounding>
-        <westbc>-88.647382</westbc>
-        <eastbc>-82.109250</eastbc>
-        <northbc>39.076602</northbc>
-        <southbc>36.585205</southbc>
+        <westbc>-90.032307</westbc>
+        <eastbc>-81.707982</eastbc>
+        <northbc>36.594948</northbc>
+        <southbc>34.985083</southbc>
       </bounding>
     </spdom>
     <keywords>
@@ -251,35 +251,29 @@ The Census Bureau added updates to the TIGER/Line files that enumerators annotat
   <spdoinfo>
     <direct>Vector</direct>
     <ptvctinf>
-      <sdtsterm Name="TIM.TG95TNLKELN">
+      <sdtsterm>
         <sdtstype>String</sdtstype>
-        <ptvctcnt>1893</ptvctcnt>
+        <ptvctcnt>1087</ptvctcnt>
       </sdtsterm>
     </ptvctinf>
   </spdoinfo>
   <spref>
     <horizsys>
       <geograph>
-        <latres>0.000000</latres>
-        <longres>0.000000</longres>
-        <geogunit>Decimal degrees</geogunit>
+        <latres>8.983152841195215</latres>
+        <longres>8.983152841195215</longres>
+        <geogunit>Decimal Degrees</geogunit>
       </geograph>
       <geodetic>
-        <horizdn>North American Datum of 1927</horizdn>
-        <ellips>Clarke 1866</ellips>
-        <semiaxis>6378206.400000</semiaxis>
-        <denflat>294.978698</denflat>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
       </geodetic>
     </horizsys>
-    <vertdef>
-      <altsys>
-        <altres>1.000000</altres>
-        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
-      </altsys>
-    </vertdef>
   </spref>
   <eainfo>
-    <detailed Name="TIM.TG95TNLKELN">
+    <detailed>
       <enttyp>
         <enttypl>Census Physical Features</enttypl>
         <enttypd>ESRI Shapefile. Lines represent physical features</enttypd>
